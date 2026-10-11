@@ -1,0 +1,2349 @@
+---
+title: "Zakon o varstvu okolja (ZVO-1)"
+identifier: "ZAKO1545"
+abbreviation: "ZVO-1"
+type: act
+jurisdiction: si
+language: sl
+act_kind: "Zakon"
+date: 2004-03-31
+published: 2004-04-22
+in_force_from: 2004-05-07
+last_amended: 2022-03-29
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "NPB 20 (neuradno prečiščeno besedilo)"
+citation: "Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odl. US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 108/09 – ZPNačrt-A, 48/12, 57/12, 92/13, 56/15, 102/15, 30/16, 61/17 – GZ, 21/18 – ZNOrg, 84/18 – ZIURKOE, 158/20 in 44/22 – ZVO-2"
+adopted_by: "Državni zbor Republike Slovenije"
+eva: "1998-2511-0105"
+epa: "1073-III"
+sop: "2004-01-1694"
+source: "https://pisrs.si/pregledPredpisa?id=ZAKO1545"
+retrieved: 2026-10-12
+---
+
+# Zakon o varstvu okolja (ZVO-1)
+
+*Opozorilo: Neuradno prečiščeno besedilo predpisa predstavlja zgolj informativni delovni pripomoček, glede katerega organ ne jamči odškodninsko ali kako drugače.*
+
+Neuradno prečiščeno besedilo Zakona o varstvu okolja obsega:
+
+- Zakon o varstvu okolja – ZVO-1 (Uradni list RS, št. 41/04 z dne 22. 4. 2004),
+
+- Zakon o spremembah in dopolnitvah Zakona o varstvu okolja – ZVO-1A (Uradni list RS, št. 20/06 z dne 24. 2. 2006),
+
+- Zakon o varstvu okolja – uradno prečiščeno besedilo –ZVO-1- UBP1 (Uradni list RS, št. 39/06 z dne 13. 4. 2006),
+
+- Zakon o meteorološki dejavnosti – ZMetD (Uradni list RS, št. 49/06 z dne 12. 5. 2006),
+
+- Odločbo o delni razveljavitvi drugega odstavka 187. člena Zakona o varstvu okolja (Uradni list RS, št. 66/06 z dne 27. 6. 2006),
+
+- Zakon o prostorskem načrtovanju – ZPNačrt (Uradni list RS, št. 33/07 z dne 13. 4. 2007),
+
+- Zakon o spremembah in dopolnitvah Zakona o financiranju občin – ZFO-1A (Uradni list RS, št. 57/08 z dne 10. 6. 2008),
+
+- Zakon o spremembah in dopolnitvah Zakona o varstvu okolja – ZVO-1B (Uradni list RS, št. 70/08 z dne 11. 7. 2008),
+
+- Zakon o spremembah in dopolnitvah Zakona o varstvu okolja – ZVO-1C (Uradni list RS, št. 108/09 z dne 28. 12. 2009),
+
+- Zakon o spremembah in dopolnitvah Zakona o prostorskem načrtovanju – ZPNačrt-A (Uradni list RS, št. 108/09 z dne 28. 12. 2009),
+
+- Zakon o spremembah Zakona o varstvu okolja – ZVO-1D (Uradni list RS, št. 48/12 z dne 26. 6. 2012),
+
+- Zakon o spremembah in dopolnitvah Zakona o varstvu okolja – ZVO-1E (Uradni list RS, št. 57/12 z dne 27. 7. 2012),
+
+- Zakon o spremembah in dopolnitvah Zakona o varstvu okolja – ZVO-1F (Uradni list RS, št. 92/13 z dne 8. 11. 2013),
+
+- Zakon o spremembah Zakona o varstvu okolja – ZVO-1G (Uradni list RS, št. 56/15 z dne 29. 7. 2015),
+
+- Zakon o spremembah Zakona o spremembah in dopolnitvah Zakona o varstvu okolja – ZVO-1H (Uradni list RS, št. 102/15 z dne 24. 12. 2015),
+
+- Zakon o spremembah in dopolnitvah Zakona o varstvu okolja – ZVO-1I (Uradni list RS, št. 30/16 z dne 25. 4. 2016),
+
+- Gradbeni zakon – GZ (Uradni list RS, št. 61/17 z dne 2. 11. 2017),
+
+- Zakon o nevladnih organizacijah – ZNOrg (Uradni list RS, št. 21/18 z dne 30. 3. 2018),
+
+- Zakon o interventnih ukrepih pri ravnanju s komunalno odpadno embalažo in z odpadnimi nagrobnimi svečami – ZIURKOE (Uradni list RS, št. 84/18 z dne 28. 12. 2018),
+
+- Zakon o spremembah in dopolnitvah Zakona o varstvu okolja – ZVO-1J (Uradni list RS, št. 158/20 z dne 2. 11. 2020),
+
+- Zakon o varstvu okolja – ZVO-2 (Uradni list RS, št. 44/22 z dne 29. 3. 2022).
+
+**ZAKON**
+
+**o varstvu okolja (ZVO-1)**
+
+*(neuradno prečiščeno besedilo št. 20)*
+
+## I. TEMELJNE DOLOČBE
+
+## **([prenehalo veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+### 1. Splošne določbe
+
+##### 1. člen
+
+##### 2. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 3. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+### 2. Temeljna načela
+
+##### 4. člen
+
+##### 5. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 6. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 7. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 8. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 9. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 10. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 11. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 12. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 13. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 14. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 15. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 16. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+## II. UKREPI VARSTVA OKOLJA
+
+### 1. Mejne vrednosti in pravila ravnanja
+
+##### 17. člen
+
+##### 18. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 18.a člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 19. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 20. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+**(ravnanje z odpadki)**
+
+(1) **([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+(2) **([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+(3) **([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+(4) **([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+(5) **([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+(6) **([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+(7) **([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+(8) **([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+(9) Za izdelke, za katere velja proizvajalčeva razširjena odgovornost (v nadaljnjem besedilu: izdelki PRO), morajo pravne ali fizične osebe, ki v okviru dejavnosti razvijajo, izdelujejo, predelujejo, obdelujejo, prodajajo ali uvažajo izdelke PRO (v nadaljnjem besedilu: proizvajalci izdelkov) v skladu s tem zakonom zagotavljati obveznosti proizvajalčeve razširjene odgovornosti (v nadaljnjem besedilu: obveznosti PRO):
+
+1. takšno ravnanje z izdelki PRO, da se spodbujata njihova ponovna uporaba in preprečevanje odpadkov,
+
+2. takšno ravnanje z vsemi odpadki, ki na območju Republike Slovenije nastanejo iz izdelkov PRO, da se spodbujajo recikliranje in drugi postopki predelave odpadkov,
+
+3. delno ali celotno financiranje ravnanja z odpadki, ki na območju Republike Slovenije nastanejo iz izdelkov PRO.
+
+(10) Proizvajalec izdelkov lahko svoje obveznosti glede ravnanja z odpadki, ki nastanejo iz izdelkov PRO, in glede financiranja tega ravnanja izpolnjuje:
+
+1. sam (v nadaljnjem besedilu: samostojno izpolnjevanje obveznosti PRO) ali
+
+2. skupaj z drugimi proizvajalci izdelkov (v nadaljnjem besedilu: skupno izpolnjevanje obveznosti PRO), tako da za to pooblasti združenje proizvajalcev izdelkov ali drugo gospodarsko družbo.
+
+(11) Vlada ob upoštevanju tehnične izvedljivosti in ekonomske upravičenosti sistema PRO, vplivov na okolje, družbo in na zdravje ljudi ter delovanja notranjega trga EU, predpiše izdelke PRO in proizvajalce takšnih izdelkov. Vlada predpiše tudi obveznosti proizvajalca izdelkov in združenja proizvajalcev izdelkov ali druge gospodarske družbe iz prejšnjega odstavka za izpolnitev obveznosti PRO, ki se nanašajo na:
+
+1. prevzem rabljenih izdelkov PRO in zagotavljanje predpisanega ravnanja z njimi,
+
+2. cilje, ki jih morajo dosegati pri izpolnjevanju obveznosti ravnanja z odpadki, ki nastanejo iz izdelkov PRO,
+
+3. način in pogoje za samostojno ali skupno izpolnjevanje obveznosti PRO ter obseg obveznosti posameznega proizvajalca, ki samostojno ali skupno izpolnjuje obveznosti PRO,
+
+4. načine, zahteve ter tehnične in organizacijske ukrepe za ravnanje z odpadki, ki nastanejo po uporabi izdelkov PRO,
+
+5. obseg in vrste stroškov, povezanih z obveznostmi ravnanja z odpadki, ki nastanejo iz izdelkov PRO,
+
+6. vzpostavitev in zagotavljanje informacijskega sistema za spremljanje izvajanja obveznosti PRO,
+
+7. obveščanje in seznanjanje javnosti z možnostmi ponovne uporabe izdelkov PRO in možnostmi recikliranja ter drugih načinov postopkov predelave odpadkov, ki nastanejo iz izdelkov PRO,
+
+8. vodenje evidenc in poročanje ministrstvu o izdelkih PRO,
+
+9. poročanje ministrstvu o samostojnem ali skupnem izpolnjevanju obveznosti PRO.
+
+(12) Združenje proizvajalcev izdelkov ali druga gospodarska družba iz desetega odstavka tega člena zagotavlja v svojem imenu in za račun teh proizvajalcev prevzemanje in ravnanje z vsemi odpadki, ki na območju Republike Slovenije nastanejo iz izdelkov PRO.
+
+(13) Če proizvajalci izdelkov za izpolnjevanje svojih obveznosti PRO pooblastijo več združenj proizvajalcev ali drugih gospodarskih družb, posamezno združenje proizvajalcev ali gospodarska družba zagotavlja ravnanje z odpadki za delež odpadkov, ki je enak količniku med maso izdelkov PRO, ki so jih dali na trg v Republiki Sloveniji proizvajalci izdelkov, ki so za izpolnjevanje svojih obveznosti glede ravnanja z odpadki, nastalimi iz izdelkov PRO, pooblastili to združenje proizvajalcev ali gospodarsko družbo, in maso izdelkov PRO, ki so jih dali na trg v Republiki Sloveniji vsi proizvajalci, ki skupno izpolnjujejo obveznosti PRO.
+
+(14) Za določitev deležev odpadkov iz prejšnjega odstavka vlada predpiše podatke, njihov vir in metodologijo za izračun deležev, pristojni organ za določitev deležev, način in pogostost objave deležev ter obdobje, za katero se deleži določijo. Za pravilnost in točnost podatkov, posredovanih ministrstvu ali drugemu organu, pristojnemu za evidenco, ki je vir podatkov iz prejšnjega stavka, odgovarja oseba, ki je te podatke dolžna posredovati.
+
+(15) Če združenje proizvajalcev ali druga gospodarska družba v določenem obdobju ne izpolni obveznosti iz dvanajstega odstavka tega člena, so za izpolnitev teh obveznosti subsidiarno finančno odgovorni proizvajalci, ki so za skupno izpolnjevanje obveznosti pooblastili to združenje ali družbo, pri čemer posamezni proizvajalec krije stroške ravnanja za delež odpadkov, ki je enak količniku med maso izdelkov PRO, ki jih je ta v določenem obdobju dal na trg v Republiki Sloveniji, in maso takšnih proizvodov, ki so jih v istem obdobju dali na trg v Republiki Sloveniji vsi proizvajalci, s katerimi skupno izpolnjuje obveznosti PRO.
+
+##### 21. člen
+
+##### 22. člen
+
+**(črtan)**
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+### 2. Zagotavljanje standardov kakovosti okolja
+
+##### 23. člen
+
+##### 24. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 24.a člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 25. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 26. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+### 3. Ukrepi v primeru okoljske nesreče
+
+##### 27. člen
+
+##### 28. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+### 4. Drugi ukrepi
+
+##### 29. člen
+
+##### 30. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+### 5. Znak za okolje in sistem okoljskega vodenja organizacij
+
+##### 31. člen
+
+##### 32. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 33. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 34. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+### 6. Sodelovanje javnosti pri sprejemanju predpisov
+
+##### 34.a člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+## III. PROGRAMI IN NAČRTI NA PODROČJU VARSTVA OKOLJA
+
+## **([prenehalo veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+### 1. Programi varstva okolja
+
+##### 35. člen
+
+##### 36. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 37. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 38. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+### 2. Okoljska izhodišča
+
+##### 39. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+### 3. Celovita presoja vplivov na okolje
+
+##### 40. člen
+
+##### 41. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 42. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 43. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 44. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 45. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 46. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 47. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 48. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 49. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlid=200733&stevilka=1761))**
+
+## IV. POSEGI V OKOLJE
+
+## **([prenehalo veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+### 1. Presoja vplivov na okolje in okoljevarstveno soglasje
+
+##### 50. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+#### 1.1. Presoja vplivov na okolje
+
+##### 51. člen
+
+##### 51.a člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 51.b člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 52. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 53. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 54. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 55. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 56. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 56.a člen
+
+**(črtan)**
+
+##### 56.b člen
+
+**(črtan)**
+
+##### 56.c člen
+
+**(črtan)**
+
+**(črtan)**
+
+#### 1.2. Okoljevarstveno soglasje
+
+##### 57. člen
+
+##### 58. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 59. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 60. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 61. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 61.a člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 62. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 63. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 64. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 65. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 66. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 67. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlid=200733&stevilka=1761))**
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlid=200733&stevilka=1761))**
+
+### 2. Okoljevarstveno dovoljenje
+
+#### 2.1. Okoljevarstveno dovoljenje za obratovanje naprave, ki lahko povzroča onesnaževanje večjega obsega
+
+##### 68. člen
+
+##### 69. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 70. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 71. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 72. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 73. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 74. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 75. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 76. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 77. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 78. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 78.a člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 79. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 80. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 81. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+#### 2.2. Okoljevarstveno dovoljenje za druge naprave in dejavnosti
+
+##### 82. člen
+
+##### 83. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 84. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 84.a člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 85. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+#### 2.3. Okoljevarstveno dovoljenje za obrat
+
+##### 86. člen
+
+##### 87. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 88. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 89. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 90. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 91. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 91.a člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 91.b člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 91.c člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+### 3. Združevanje postopkov
+
+##### 92. člen
+
+##### 93. člen
+
+**(črtan)**
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+### 4. Druga dovoljenja
+
+##### 94. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+### 5. Predpisi vlade, potrebni za izvrševanje pravnih aktov EU
+
+##### 95. člen
+
+**(črtano)**
+
+**(črtan)**
+
+## V. SPREMLJANJE STANJA OKOLJA IN INFORMACIJE O OKOLJU
+
+## **([prenehalo veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+### 1. Spremljanje stanja okolja
+
+##### 96. člen
+
+##### 97. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 98. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 99. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 100. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 101. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 101.a člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 102. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 103. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+### 2. Register
+
+##### 104. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+### 3. Informacijski sistem okolja
+
+##### 105. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+### 4. Obveščanje javnosti o okoljskih podatkih
+
+##### 106. člen
+
+##### 107. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 108. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 109. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+### 5. Dostop do okoljskih podatkov
+
+##### 110. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+## V.a ODGOVORNOST ZA PREPREČEVANJE OZIROMA SANACIJO OKOLJSKE ŠKODE
+
+## **([prenehalo veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 110.a člen
+
+##### 110.b člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 110.c člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 110.d člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 110.e člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 110.f člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 110.g člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 110.h člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 110.i člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+## VI. EKONOMSKI IN FINANČNI INSTRUMENTI VARSTVA OKOLJA
+
+## **([prenehalo veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 111. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+### 1. Okoljske dajatve
+
+##### 112. člen
+
+##### 113. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 114. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+### 2. Finančna jamstva za namene varstva okolja
+
+##### 115. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+### 3. Kavcije in druge oblike varščin za namene varstva okolja
+
+##### 116. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+### 4. Trgovanje s pravicami do emisije toplogrednih plinov v EU
+
+##### 117. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+#### 4.1. Trgovanje s pravicami do emisije toplogrednih plinov iz naprav
+
+##### 118. člen
+
+##### 119. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 120. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 121. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 122. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 122.a člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 123. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 124. člen
+
+**(črtan)**
+
+##### 125. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 126. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 126.a člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 126.b člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 126.c člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 126.d člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 126.e člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 127. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 128. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 129. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 130. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 130.a člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 130.b člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 130.c člen
+
+**(črtan)**
+
+##### 131. člen
+
+**(črtan)**
+
+##### 132. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 132.a člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 133. člen
+
+**(črtan)**
+
+##### 133.a člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 134. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 134.a člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 134.b člen
+
+**(črtan)**
+
+##### 134.c člen
+
+**(črtan)**
+
+##### 134.d člen
+
+**(črtan)**
+
+##### 134.e člen
+
+**(črtan)**
+
+##### 135. člen
+
+**(črtan)**
+
+##### 136. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 137. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 138. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 139. člen
+
+**(črtan)**
+
+**(črtan)**
+
+#### 4.1.1. Trgovanje s pravicami do emisije toplogrednih plinov iz letalske dejavnosti
+
+##### 139.a člen
+
+##### 139.b člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 139.c člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 139.d člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 139.e člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 139.f člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+#### 4.2. Skupne naložbe
+
+##### 140. člen
+
+##### 141. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 141.a člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 142. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+#### 4.3. Upravljanje kjotskih enot in emisijskih kuponov
+
+##### 142.a člen
+
+##### 142.b člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 142.c člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 142.d člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 142.e člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 142.f člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 142.g člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+### 5. Eko sklad, Slovenski okoljski javni sklad
+
+##### 143. člen
+
+##### 144. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 145. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 146. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 146.a člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 146.b člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 146.c člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 146.d člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 146.e člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 146.f člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 146.g člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 146.h člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 146.i člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+### 6. Sredstva proračuna države za naloge varstva okolja
+
+##### 147. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+## VII. OBVEZNE GOSPODARSKE JAVNE SLUŽBE VARSTVA OKOLJA
+
+## **([prenehalo veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 148. člen
+
+##### 149. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+## VIII. ORGANIZACIJE NA PODROČJU VARSTVA OKOLJA
+
+## **([prenehalo veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+### 1. Svet za trajnostni razvoj in varstvo okolja
+
+##### 149.a člen
+
+##### 149.b člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 150. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 151. člen
+
+**(črtan)**
+
+##### 152. člen
+
+**(črtan)**
+
+##### 153. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 154. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 155. člen
+
+**(črtan)**
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+## IX. NADZOR
+
+### 1. Nadzor
+
+##### 156. člen
+
+##### 156.a člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 156.b člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 157. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 157.a člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 157.b člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 157.c člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+### 2. Okoljevarstvena nadzorna služba
+
+##### 158. člen
+
+**(okoljevarstvena nadzorna služba)**
+
+Posamezna dejanja v postopku pred izdajo odločbe v inšpekcijskih zadevah po tem zakonu, zlasti ugotavljanje dejstev in okoliščin in nadzor nad spoštovanjem izdanih ukrepov inšpektorjev, lahko izvajajo v okviru inšpekcije, pristojne za varstvo okolja, tudi okoljevarstvene nadzornice ali okoljevarstveni nadzorniki (v nadaljnjem besedilu: okoljevarstveni nadzorniki).
+
+##### 159. člen
+
+**(naloge in pooblastila)**
+
+(1) Posamezna dejanja iz prejšnjega člena se nanašajo zlasti na nadzor nad:
+
+1. onesnaževanjem zraka iz srednjih in malih kurilnih naprav ter obrti in obrti podobnih dejavnosti,
+
+2. onesnaževanjem voda iz malih komunalnih čistilnih naprav ter obrti in obrti podobnih dejavnosti,
+
+3. skladiščenjem nevarnih snovi v stanovanjskih objektih ter obrti in obrti podobnih dejavnostih,
+
+4. ravnanjem z odpadki v obrti in obrti podobnih dejavnostih,
+
+5. obremenjevanjem okolja s hrupom iz obrti in obrti podobnih dejavnostih ter
+
+6. obremenjevanjem okolja z elektromagnetnim sevanjem iz virov, za katere ni treba zagotavljati obratovalnega monitoringa.
+
+(2) Okoljevarstveni nadzornik ima pravico vstopiti in pregledati napravo ali obrat, v katerem se nahaja vir obremenjevanja okolja, zahtevati in dobiti na vpogled dokument, s katerim lahko ugotovi istovetnost oseb, in druge listine potrebne za ugotovitev stopnje obremenjevanja okolja.
+
+##### 160. člen
+
+**(pogoji za okoljevarstvene nadzornike)**
+
+(1) Okoljevarstveni nadzornik je posebej usposobljena oseba, ki ima najmanj peto stopnjo strokovne izobrazbe in ima pooblastilo po tem zakonu, ki ga izda minister po opravljenem preizkusu znanja.
+
+(2) Preizkus znanja iz prejšnjega odstavka se izvede na podlagi predpisanega programa preverjanja strokovnega znanja, ki obsega poznavanje predpisov s področja varstva okolja in splošnega upravnega postopka.
+
+(3) Vlada predpiše program strokovnega usposabljanja in preverjanje znanja ter podrobnejši način in postopek za izdajanja pooblastila po tem zakonu.
+
+(4) Okoljevarstveni nadzornik ima službeni znak in izkaznico.
+
+(5) Minister v soglasju z ministrom, pristojnim za upravo, predpiše podrobnejše določbe o službenem znaku in izkaznici varstvenega nadzornika.
+
+## X. KAZENSKE DOLOČBE
+
+## **([prenehalo veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 161. člen
+
+##### 162. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 162.a člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 162.b člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 162.c člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+## XI. POSEBNE DOLOČBE
+
+## **([prenehalo veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+### 1. Lastnina, upravljanje in varstvo naravnih dobrin
+
+##### 163. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+### 2. Koncesija na naravnih dobrinah
+
+##### 164. člen
+
+##### 165. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+##### 166. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+### 2.a. Shranjevanje ogljikovega dioksida
+
+##### 166.a člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873#320.%20člen))**
+
+### 3. Meteorološka služba
+
+##### 167. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlid=200649&stevilka=2089))**
+
+---
+
+Zakon o varstvu okolja – ZVO-1 (Uradni list RS, št. [41/04](http://www.uradni-list.si/1/objava.jsp?urlid=200441&stevilka=1694)) vsebuje naslednje prehodne in končne določbe:
+
+**»XII. PREHODNE IN KONČNE DOLOČBE**
+
+**168. člen**
+
+**(sanacijski programi)**
+
+(1) Postopki odreditve priprave in izvedbe sanacijskih programov ter izdaje soglasij k sanacijskim programom, ki so se na podlagi Zakona o varstvu okolja (Uradni list RS, št. 32/93 in 1/96; v nadaljnjem besedilu: ZVO) začeli pred uveljavitvijo tega zakona, se dokončajo po določbah ZVO.
+
+(2) Sanacijski programi iz prejšnjega odstavka morajo biti izvedeni najkasneje do 31. oktobra 2007, razen za naprave iz 172. člena tega zakona, za katere je rok določen z ratificirano in objavljeno mednarodno pogodbo.
+
+**169. člen**
+
+**(nacionalni program varstva okolja in operativni programi)**
+
+(1) Nacionalni program varstva okolja, sprejet na podlagi ZVO, se šteje za nacionalni program varstva okolja po tem zakonu do sprejetja novega.
+
+(2) Operativni programi varstva okolja, sprejeti na podlagi ZVO, se štejejo za operativne programe po tem zakonu.
+
+**170. člen**
+
+**(okoljska izhodišča)**
+
+(1) Vlada določi okoljska izhodišča najkasneje do 31. decembra 2004.
+
+(2) Do priprave okoljskih izhodišč so obvezna podlaga za pripravo planov iz 40. člena tega zakona veljavni predpisi in programi ter načrti s področij varstva okolja, ohranjanja narave in rabe naravnih dobrin, v delu, ki se nanaša na vsebine okoljskih izhodišč, določene v drugem odstavku 39. člena tega zakona.
+
+**171. člen**
+
+**(celovita presoja vplivov na okolje)**
+
+(1) Celovita presoja vplivov na okolje se začne izvajati za plane, za katere se postopek priprave začne po 21. juliju 2004.
+
+(2) Ne glede na določbo prejšnjega odstavka se celovita presoja vplivov na okolje izvede tudi za plane, za katere se je postopek priprave začel pred 21. julijem 2004 in bodo sprejeti ali vloženi v postopek sprejemanja po 21. juliju 2006, razen če vlada za posamezne primere presodi, da celovita presoja vplivov izvedbe teh planov na okolje ni izvedljiva, o čemer s sklepom obvesti pripravljavca plana ali organ, ki je plan sprejel, z javnim naznanilom v svetovnem spletu in v enem od dnevnih časopisov, ki pokriva celotno območje države, pa tudi javnost, in navede razloge za svojo odločitev.
+
+**172. člen**
+
+**(okoljevarstveno dovoljenje za naprave, ki lahko povzročajo onesnaževanje večjega obsega)**
+
+(1) Upravljavci obstoječih naprav iz 68. člena tega zakona morajo njihovo obratovanje uskladiti z določbami tega zakona in pridobiti okoljevarstveno dovoljenje najkasneje do 31. oktobra 2007, razen upravljavcev obstoječih naprav, za katere je rok uskladitve določen z ratificirano in objavljeno mednarodno pogodbo.
+
+(2) Za obstoječo napravo iz prejšnjega odstavka se šteje naprava, ki obratuje na dan uveljavitve predpisa iz četrtega odstavka 68. člena tega zakona ali je bilo pred njegovo uveljavitvijo zanjo pridobljeno pravnomočno gradbeno dovoljenje po predpisih o graditvi objektov.
+
+(3) Če upravljavec obstoječe naprave ne pridobi okoljevarstvenega dovoljenja do roka iz prvega odstavka tega člena, ministrstvo izda odločbo o prenehanju delovanja naprave, razen v primeru, če so razlogi za neizpolnitev obveznosti upravljavca na strani ministrstva.
+
+(4) Pritožba zoper odločbo iz prejšnjega odstavka ne zadrži njene izvršitve.
+
+(5) V postopkih za izdajo okoljevarstvenih dovoljenj iz prvega odstavka tega člena pritožba stranskega udeleženca ne zadrži izvršitve.
+
+**173. člen**
+
+**(okoljevarstveno dovoljenje za druge naprave)**
+
+(1) Dovoljenja za predelavo ali odstranjevanje odpadkov, izdana na podlagi Pravilnika o ravnanju z odpadki (Uradni list RS, št. 84/98, 45/2000, 20/01 in 13/03), se štejejo za okoljevarstvena dovoljenja iz 82. člena tega zakona in se izvedejo na način in v rokih, določenih v teh dovoljenjih.
+
+(2) Vodna dovoljenja, izdana za odvajanje odpadnih voda in oddajanje toplote v vode na podlagi Zakona o vodah (Uradni list RS, št. 67/02), se štejejo za okoljevarstvena dovoljenja iz 82. člena tega zakona in se izvedejo na način in v rokih, določenih v teh dovoljenjih.
+
+(3) Postopki za izdajo dovoljenj za predelavo ali odstranjevanje odpadkov iz prvega odstavka tega člena in vodnih dovoljenj iz drugega odstavka tega člena, začeti pred uveljavitvijo tega zakona, se dokončajo po določbah tega zakona.
+
+**174. člen**
+
+**(okoljevarstveno dovoljenje za obrate)**
+
+(1) V postopkih za izdajo okoljevarstvenih dovoljenj za obstoječe obrate iz 18. člena tega zakona se določbe členov tega zakona, ki urejajo sodelovanje javnosti, ne uporabljajo.
+
+(2) Za obstoječi obrat iz prejšnjega odstavka se šteje obrat, ki obratuje na dan uveljavitve predpisa iz 18. člena tega zakona ali je bilo pred njegovo uveljavitvijo zanj pridobljeno pravnomočno gradbeno dovoljenje po predpisih o graditvi objektov.
+
+**175. člen**
+
+**(registri)**
+
+Ministrstvo vzpostavi register varstva okolja iz 104. člena tega zakona in register nevladnih organizacij iz 154. člena tega zakona v enem letu po uveljavitvi tega zakona.
+
+**176. člen**
+
+**(pridobitev dovoljenja za izpuščanje toplogrednih plinov)**
+
+(1) Upravljavec obstoječe naprave iz 118. člena tega zakona po 1. januarju 2005 ne sme obratovati, če si ni pridobil dovoljenja za izpuščanje toplogrednih plinov, pri njegovi izdaji pa se ne upoštevajo določbe 123. člena tega zakona.
+
+(2) Za obstoječo napravo iz prejšnjega odstavka se šteje naprava iz 118. člena tega zakona, ki obratuje na dan uveljavitve predpisa iz četrtega odstavka 118. člena tega zakona ali je bilo pred njegovo uveljavitvijo zanjo pridobljeno pravnomočno gradbeno dovoljenje po predpisih o graditvi objektov.
+
+**177. člen**
+
+**(prvo obdobje)**
+
+(1) Ne glede na določbo prvega odstavka 126. člena tega zakona traja prvo obdobje tri leta in se začne 1. januarja 2005 ter konča 31. decembra 2007.
+
+(2) Ne glede na določbe drugega odstavka 126. člena tega zakona se v osnutek državnega načrta za prvo obdobje iz prejšnjega odstavka vključijo samo tiste naprave, ki morajo pridobiti dovoljenje za izpuščanje toplogrednih plinov po določbah tega zakona do roka iz prvega odstavka prejšnjega člena in delujejo na dan uveljavitve tega zakona.
+
+(3) Ne glede na določbo osmega odstavka 126. člena tega zakona ministrstva pri pripravi osnutka državnega načrta za prvo obdobje lahko uporabijo podatke Agencije Republike Slovenije za okolje o letni porabi goriva, ki ga je posamezna naprava porabila v obdobju od leta 1999 do vključno leta 2002, ter podatke o emisijah toplogrednih plinov iz tehnoloških procesov, njihovo pravilnost pa je pisno potrdil upravljavec posamezne naprave.
+
+(4) Ne glede na določbo tretjega odstavka 128. člena tega zakona ima javnost pravico vpogleda v osnutek državnega načrta iz prejšnjega odstavka in pravico izražati mnenje in dajati pripombe nanj v roku desetih dni, datum, ko začne teči ta rok, pa se določi v predpisu iz četrtega odstavka 118. člena tega zakona.
+
+(5) Vlada objavi in posreduje pristojnemu organu EU in državam članicam predlog državnega načrta iz 126. člena tega zakona za prvo obdobje najkasneje do 1. maja 2004.
+
+(6) Vlada sprejme in v Uradnem listu Republike Slovenije objavi državni načrt za prvo obdobje najkasneje do 30. septembra 2004.
+
+**178. člen**
+
+**(izključitev naprav)**
+
+(1) Ne glede na določbe prvega odstavka 126. člena tega zakona lahko vlada za prvo obdobje predlaga pristojnemu organu EU, da odobri začasno izključitev določenih naprav iz trgovanja z emisijskimi kuponi.
+
+(2) Vlada lahko začasno izključitev iz prejšnjega odstavka za napravo predlaga, če upravljalec naprave:
+
+1. zmanjša ali omeji svoje emisije v enakem obsegu, kot če bi bila vključena v trgovanje z emisijskimi kuponi,
+
+2. izvaja monitoring in poroča o svojih emisijah skladno z določbami 133. člena tega zakona, poročanje pa bo preverjeno, skladno z določbami 134. člena tega zakona, in
+
+3. plačuje penale v primeru neizpolnjevanja svojih obveznosti, skladno z določbami 136. člena tega zakona.
+
+(3) Vlada mora pri svojem predlogu upoštevati tudi, da začasna izključitev naprave iz prvega odstavka tega člena ne povzroča motenj na notranjem trgu EU.
+
+(4) Vlada seznam naprav iz prvega odstavka tega člena objavi v svetovnem spletu in v Uradnem listu Republike Slovenije.
+
+**179. člen**
+
+**(prodaja na javni dražbi za prvo obdobje)**
+
+Ne glede na določbo šestega odstavka 126. člena tega zakona se v državnem načrtu za prvo obdobje lahko za prodajo na javni dražbi predvidi največ pet odstotkov celotne količine emisijskih kuponov.
+
+**180. člen**
+
+**(vključitev drugih naprav, dejavnosti in toplogrednih plinov)**
+
+Določba drugega odstavka 127. člena tega zakona, ki se nanaša na vključitev drugih naprav, dejavnosti in toplogrednih plinov v državni načrt, se začne uporabljati, ko se začne priprava načrta za drugo obdobje.
+
+**181. člen**
+
+**(podelitev in razveljavitev emisijskih kuponov)**
+
+(1) Ministrstvo podeli emisijske kupone za prvo obdobje najkasneje do 31. decembra 2004.
+
+(2) Ne glede na določbo drugega odstavka 137. člena tega zakona se emisijski kuponi iz prvega obdobja, ki niso bili razveljavljeni skladno z določbami 135. člena tega zakona, razveljavijo z 31. decembrom 2007, njihovim imetnikom pa se za novo obdobje novi emisijski kuponi v količini, ki je enaka količini tako razveljavljenih, ne podelijo.
+
+**182. člen**
+
+**(višja sila)**
+
+Vlada lahko za prvo obdobje zaprosi pristojni organ EU, da v primeru višje sile odobri dodatno količino emisijskih kuponov, ki jih upravljavcu posamezne naprave iz 118. člena tega zakona podeli ministrstvo skladno s 130. členom tega zakona. Upravljavec naprave z dodatnimi emisijskimi kuponi ne sme trgovati, o dodatnih količinah emisije ogljikovega dioksida pa mora izvajati monitoring in o njih poročati, ter dodatne emisijske kupone predati skladno s tem zakonom. Pristojni organ EU presodi, kaj se šteje za višjo silo.
+
+**183. člen**
+
+**(penali)**
+
+Ne glede na določbo prvega odstavka 136. člena tega zakona znaša višina penalov v prvem obdobju iz 177. člena tega zakona 40 EUR v tolarski protivrednosti po srednjem tečaju Banke Slovenije na dan predaje emisijskih kuponov skladno z določbami 135. člena tega zakona.
+
+**184. člen**
+
+**(Ekološko razvojni sklad)**
+
+(1) Obstoječi Ekološko razvojni sklad Republike Slovenije se preoblikuje v Ekološki sklad Republike Slovenije in uskladi svoje delovanje z določbami tega zakona najkasneje do 1. januarja 2005.
+
+(2) Z dnem preoblikovanja sklada iz prejšnjega odstavka preneha mandat članom nadzornega sveta in uprave Ekološko razvojnega sklada Republike Slovenije.
+
+**185. člen**
+
+**(obvezna gospodarska javna služba)**
+
+(1) Določbe 148. člena tega zakona, ki se nanašajo na obvezno državno gospodarsko javno službo izvajanja meritev, pregledovanja in čiščenja kurilnih naprav, dimnih vodov in zračnikov, se začnejo uporabljati šest mesecev po uveljavitvi tega zakona.
+
+(2) Pristojni občinski organi najkasneje tri mesece po uveljavitvi tega zakona ministrstvu posredujejo predpise, ki se nanašajo na način izvajanja obvezne lokalne gospodarske javne službe iz 7. točke prvega odstavka 26. člena ZVO na območju občine in podatke o njihovih izvajalcih.
+
+(3) Ne glede na določbe 148. člena tega zakona ostanejo predpisi občin, ki določajo način izvajanja obvezne lokalne gospodarske javne službe iz prejšnjega odstavka na njihovem območju v veljavi do izdaje predpisa o načinu izvajanja obvezne državne gospodarske javne službe iz 5. točke prvega odstavka 148. člena tega zakona.
+
+**186. člen**
+
+**(režijski obrat, javni gospodarski zavod ali javno podjetje)**
+
+(1) Javna služba iz prejšnjega člena, ki se na dan uveljavitve tega zakona izvaja v režijskem obratu občine ali v javnem gospodarskem zavodu ali v javnem podjetju, ki ga je ustanovila občine, se izvaja v režijskem obratu ali v javnem gospodarskem zavodu ali v javnem podjetju do uveljavitve predpisa iz tretjega odstavka prejšnjega člena.
+
+(2) Izvajalec javne službe iz prejšnjega odstavka preneha z njenim izvajanjem po sklenitvi koncesijske pogodbe, ki jo z novim izvajalcem za območje te občine sklene vlada, skladno s predpisi, ki urejajo gospodarske javne službe.
+
+(3) Stroške prenehanja izvajanja javne službe iz prejšnjega odstavka nosi država.
+
+**187. člen**
+
+**(koncesionirana služba)**
+
+(1) Gospodarska javna služba iz drugega odstavka 185. člena tega zakona, ki se na dan uveljavitve tega zakona izvaja v občini na koncesioniran način, se izvaja na takšen način do sklenitve koncesijske pogodbe, ki jo za izvajanje gospodarske javne službe iz 5. točke prvega odstavka 148. člena tega zakona s koncesionarjem sklene vlada skladno s predpisom iz tretjega odstavka 185. člena tega zakona.
+
+(2) Prva koncesija za izvajanje gospodarske javne službe iz 5. točke prvega odstavka 148. člena tega zakona se podeli brez javnega razpisa osebi, ki ima na dan uveljavitve predpisa iz tretjega odstavka 185. člena tega zakona z občino sklenjeno veljavno koncesijsko pogodbo za izvajanje gospodarske javne službe iz 7. točke prvega odstavka 26. člena ZVO, če ta oseba izkaže interes.
+
+(3) Oseba, ki je upravičena do pridobitve koncesije iz prejšnjega odstavka, mora v 14 dneh od uveljavitve predpisa iz tretjega odstavka 185. člena tega zakona ministrstvu predložiti vlogo o zainteresiranosti za izvajanje te gospodarske javne službe.
+
+(4) Vlada izda odločbo o izboru za koncesionarja osebi iz prejšnjega odstavka, ki je izkazala zainteresiranost, koncesijska pogodba pa mora biti sklenjena v 14 dneh od dokončnosti odločbe o izbiri.
+
+(5) Če koncesijska pogodba v roku iz prejšnjega odstavka zaradi razlogov, ki so na strani koncesionarja, ni sklenjena, odločba o izbiri preneha veljati, kar ugotovi vlada z odločbo.
+
+(6) Če oseba iz drugega odstavka tega člena ne izkaže zainteresiranosti za izvajanje gospodarske javne službe iz 5. točke prvega odstavka 148. člena tega zakona v predpisanem roku in v primeru iz prejšnjega odstavka, izbere vlada koncesionarja na podlagi javnega razpisa, skladno z zakonom, ki ureja gospodarske javne službe.
+
+(7) Oseba, ki ima z občino sklenjeno veljavno koncesijsko pogodbo za izvajanje gospodarske javne službe iz 7. točke prvega odstavka 26. člena ZVO, mora izvajati to javno službo do sklenitve nove koncesijske pogodbe iz četrtega odstavka tega člena oziroma iz prejšnjega odstavka na način in v obsegu kot je določen v predpisu občine in v veljavni koncesijski pogodbi.
+
+(8) Vlada razveljavi odločbe o izbiri koncesionarja za izvajanje javne gospodarske službe iz 7. točke 26. člena ZVO, ki jo je izdal pristojni občinski organ, z dnem izdaje odločbe o izbiri iz četrtega odstavka tega člena.
+
+(9) Koncesijska pogodba, ki jo je sklenila občina s koncesionarjem za izvajanje gospodarske javne službe iz prejšnjega odstavka in je bila veljavna na dan uveljavitve predpisa iz tretjega odstavka 185. člena tega zakona, se razdre z dnem sklenitve nove koncesijske pogodbe iz četrtega odstavka tega člena na podlagi sporazuma med občino in koncesionarjem.
+
+(10) Če ne pride do sporazumnega razdrtja pogodbe, vloži tožbo za razdrtje obstoječe koncesijske pogodbe pred pristojnim sodiščem državni pravobranilec.
+
+**188. člen**
+
+**(drugi načini izvajanja)**
+
+(1) V primeru, da se gospodarska javna služba iz drugega odstavka 185. člena tega zakona na dan uveljavitve tega zakona v občini izvaja na način, ki ni predviden z zakonom, se izvaja na takšen način do sklenitve koncesijske pogodbe, ki jo s koncesionarjem sklene vlada skladno s predpisom iz tretjega odstavka 185. člena tega zakona.
+
+(2) Prva koncesija za izvajanje gospodarske javne službe iz 5. točke prvega odstavka 148. člena tega zakona se podeli v primeru iz prejšnjega odstavka brez javnega razpisa osebi, ki ima na dan uveljavitve predpisa iz tretjega odstavka 185. člena tega zakona z občino sklenjeno veljavno pogodbo za izvajanje gospodarske javne službe iz 7. točke prvega odstavka 26. člena ZVO, če ta oseba izkaže interes. ([delno razveljavljen](http://www.uradni-list.si/1/objava.jsp?urlid=200666&stevilka=2856))
+
+(3) Oseba, ki je upravičena do pridobitve prve koncesije, mora v 14 dneh od uveljavitve predpisa iz prvega odstavka tega člena ministrstvu predložiti vlogo o zainteresiranosti za izvajanje te gospodarske javne službe.
+
+(4) Vlada izda odločbo o izboru za koncesionarja osebi iz drugega odstavka tega člena, ki je izkazala zainteresiranost, koncesijska pogodba pa mora biti sklenjena v 14 dneh od dokončnosti odločbe o izbiri.
+
+(5) Če koncesijska pogodba v roku iz prejšnjega odstavka zaradi razlogov, ki so na strani koncesionarja ni sklenjena, odločba o izbiri preneha veljati, kar ugotovi vlada z odločbo.
+
+(6) Če oseba iz drugega odstavka tega člena ne izkaže zainteresiranosti za izvajanje gospodarske javne službe iz 5. točke prvega odstavka 148. člena tega zakona v predpisanem roku in v primeru iz prejšnjega odstavka, izbere vlada koncesionarja na podlagi javnega razpisa, skladno z zakonom, ki ureja gospodarske javne službe.
+
+(7) Oseba, ki ima z občino sklenjeno veljavno pogodbo za izvajanje gospodarske javne službe iz 7. točke prvega odstavka 26. člena ZVO mora izvajati to javno službo do sklenitve koncesijske pogodbe iz četrtega odstavka tega člena oziroma iz prejšnjega odstavka na način in v obsegu kot je določen v predpisu občine in v veljavni pogodbi.
+
+(8) Pogodba, ki jo je sklenila občina z osebo iz drugega odstavka tega člena za izvajanje gospodarske javne službe iz prejšnjega odstavka in je bila veljavna na dan uveljavitve predpisa iz tretjega odstavka 185. člena tega zakona, se razdre z dnem sklenitve koncesijske pogodbe iz četrtega odstavka tega člena na podlagi sporazuma med pogodbenima strankama.
+
+(9) Če ne pride do sporazumnega razdrtja pogodbe, vloži tožbo za razdrtje obstoječe pogodbe pred pristojnim sodiščem državni pravobranilec.
+
+**189. člen**
+
+**(Svet za varstvo okolja)**
+
+(1) Svet za varstvo okolja Republike Slovenije iz 150. člena tega zakona se ustanovi najkasneje do 31. decembra 2005.
+
+(2) Do ustanovitve sveta iz prejšnjega odstavka opravlja njegove naloge Svet za varstvo okolja, ustanovljen na podlagi ZVO, katerega predsednik skliče tudi prvo sejo novoustanovljenega Sveta.
+
+**190. člen**
+
+**(uskladitev predpisov)**
+
+Predpisi občin, sprejeti na podlagi ZVO, se v zadevah varstva okolja uskladijo z določbami tega zakona najkasneje do 31. decembra 2004.
+
+**191. člen**
+
+**(začetek uporabe)**
+
+Določbe tega zakona, ki se nanašajo na dejanja in postopke, povezane z Evropsko unijo in državami članicami, se začnejo uporabljati z dnem pristopa Republike Slovenije k Evropski uniji.
+
+**192. člen**
+
+**(uporaba kazenskih določb)**
+
+Globe, določene s tem zakonom, se do začetka uporabe zakona o prekrških (Uradni list RS, št. 7/02) izrekajo kot denarne kazni, in sicer za:
+
+1. prekrške iz 161. člena tega zakona:
+
+- za pravno osebo v razponu od 300.000 do 30,000.000 tolarjev;
+
+- za samostojnega podjetnika posameznika ali kmeta v razponu od 100.000 do 15,000.000 tolarjev;
+
+- za odgovorno osebo pravne osebe v razponu od 100.000 do 1,500.000 tolarjev;
+
+- za posameznika v razponu od 50.000 do 450.000 tolarjev;
+
+- prekrške iz 162. člena tega zakona:
+
+- za pravno osebo v razponu od 300.000 do 10,000.000 tolarjev;
+
+- za samostojnega podjetnika posameznika ali kmeta v razponu od 100.000 do 5,000.000 tolarjev;
+
+- za odgovorno osebo pravne osebe v razponu od 100.000 do 500.000 tolarjev;
+
+- za posameznika v razponu od 50.000 do 150.000 tolarjev.
+
+**193. člen**
+
+**(prenehanje veljavnosti)**
+
+(1) Z dnem uveljavitve tega zakona prenehata veljati:
+
+1. ZVO in
+
+2. Zakon o dimnikarski službi (Uradni list SRS, št. 16/74).
+
+(2) Ne glede na določbo prejšnjega odstavka se določbe ZVO uporabljajo v primerih iz 168., 195. in 196. člena tega zakona.
+
+(3) Predpisi, izdani na podlagi zakonov iz 1. in 2. točke prvega odstavka tega člena, veljajo do izdaje novih, razen Odredbe o pogojih za pridobitev in o načinu pridobitve pooblastila za izdelavo poročil o vplivih na okolje (Uradni list RS, št. 70/96).
+
+(4) V predpisih, izdanih na podlagi 27. in 30. člena ZVO, prenehajo veljati določbe, ki se nanašajo na obveznost investitorja, da v zahtevi za dovoljenje za gradnjo po predpisih o graditvi objektov pri napravah in objektih, za katere ni treba izvesti presojo vplivov na okolje po določbah ZVO, posreduje strokovno oceno o izpolnjevanju pogojev glede emisij ali ravnanja z odpadki.
+
+(5) Z dnem uveljavitve tega zakona prenehajo veljati:
+
+- v Zakonu o varstvu pred hrupom v naravnem in bivalnem okolju (Uradni list SRS, št. 15/76 in 29/86) 7., 8. in 9. člen;
+
+- v Zakonu o vodah (Uradni list RS, št. 67/02) 94. člen;
+
+- v Zakonu o varstvu pred naravnimi in drugimi nesrečami (Uradni list RS, št. 64/94) četrti odstavek 38. člena.
+
+(5) Z dnem uveljavitve tega zakona prenehajo veljati v Zakonu o graditvi objektov (Uradni list RS, št. 110/02, v nadaljnjem besedilu: ZGO-1):
+
+- v prvem odstavku 55. člena besede »in za objekt z vplivi na okolje«;
+
+- v drugem odstavku 55. člena besedilo »v primeru graditve objekta z vplivi na okolje pa lahko tudi obseg poročila o vplivih na okolje«;
+
+- v prvem odstavku 64. člena drugi stavek;
+
+- v tretjem odstavku 70. člena drugi stavek.
+
+**194. člen**
+
+**(projekt nameravanega posega in revizija poročila o vplivih na okolje)**
+
+(1) Do izdaje predpisa iz tretjega odstavka 53. člena tega zakona se za projekt nameravanega posega iz 51. člena tega zakona, ki je gradnja, šteje idejna zasnova po predpisih o graditvi objektov.
+
+(2) Do imenovanja okoljskih izvedencev lahko revizijo okoljskega poročila iz 41. člena tega zakona ali poročila o vplivih na okolje iz 54. člena tega zakona izdela oseba, ki je pridobila pooblastilo za izdelavo poročila o vplivih na okolje na podlagi ZVO, pri čemer morajo biti izpolnjeni pogoji iz tretjega in osmega odstavka 56. člena tega zakona.
+
+**195. člen**
+
+**(dokončanje postopkov za izdajo okoljevarstvenega soglasja)**
+
+(1) Postopki presoje vplivov na okolje in izdaje okoljevarstvenega soglasja, ki so se začeli pred uveljavitvijo tega zakona, se končajo po ZVO.
+
+(2) Če z dnem uveljavitve tega zakona za objekte, ki se po določbah ZGO-1 štejejo za objekte z vplivi na okolje oziroma objekte, za katere je treba v skladu z 51. členom tega zakona izvesti presojo vplivov na okolje (v nadaljnjem besedilu: objekti z vplivi na okolje), še ni bila vložena zahteva za izdajo okoljevarstvenega soglasja, se po določbah zakona iz prejšnjega odstavka končajo tudi naslednji začeti postopki:
+
+- za izdajo lokacijskega dovoljenja po določbah zakona o urejanju naselij in drugih posegov v prostor (Uradni list SRS, št. 18/84, 37/85 in 29/86, Uradni list RS, št. 26/90, 18/93, 47/93, 71/93, 44/97, 9/01 – ZPPreb in 23/02 – odl. US, v nadaljnjem besedilu: ZUN) v povezavi z določbami 190. člena ZGO-1,
+
+- za izdajo enotnega dovoljenja po določbah 45.h člena ZUN v povezavi s 191. členom ZGO-1, za izdajo gradbenega dovoljenja po določbah zakona o graditvi objektov (Uradni list SRS, št. 34/84 in 29/86, Uradni list RS, št. 71/93-ZUN, 40/94 – odl. US, 69/94 – odl. US, 59/96, 45/99, 42/2000 – odl. US, 52/2000 – ZGPro in 52/2000, v nadaljnjem besedilu: ZGO) v povezavi z določbami 191. člena ZGO-1,
+
+- za izdajo enotnega dovoljenja za gradnjo po določbah ZGO v povezavi z določbami 191. člena ZGO-1,
+
+- za izdajo gradbenega dovoljenja, ki temeljijo v lokacijskih dovoljenjih, izdanih po ZUN in se končajo po ZGO in
+
+- za izdajo gradbenega dovoljenja po ZGO-1.
+
+**196. člen**
+
+**(uskladitev postopkov za pridobitev okoljevarstvenega soglasja v primeru novih zahtev za izdajo gradbenih dovoljenj za objekte z vplivi na okolje)**
+
+Ne glede na določbe drugega odstavka prejšnjega člena se postopek za izdajo gradbenega dovoljenja za objekt, ki se po določbah ZGO-1 šteje za objekt z vplivi na okolje, lahko začne in konča po določbah ZVO tudi, če se vloži po uveljavitvi tega zakona, vendar samo, če se zahteva za izdajo gradbenega dovoljenja za takšen objekt vloži v skladu s prvim odstavkom 55. člena ZGO-1 in najpozneje v treh mesecih po uveljavitvi tega zakona in če naročnik takšni zahtevi priloži dokazilo, da je bila pogodba o izdelavi idejnega projekta sklenjena pred uveljavitvijo tega zakona.
+
+**197. člen**
+
+**(uskladitev postopkov za celovito presojo in presojo vplivov na okolje za državni ali občinski lokacijski načrt)**
+
+(1) Šteje se, da je bila za državne lokacijske načrte po predpisih o urejanju prostora, ki so bili z dnem uveljavitve tega zakona sprejeti v skladu z določbami 42. do 46. člena ZUreP-1, 41. in 45.a do 45.i člena ZUN, 2. poglavja zakona o ureditvi določenih vprašanj v zvezi z graditvijo objektov na mejnih prehodih (Uradni list RS, št. 111/01) in 22. člena zakona o ukrepih za odpravo posledic, preprečitev širjenja in ustalitev zemeljskih plazov večjega obsega (Uradni list RS, št. 21/02), izvedena presoja vplivov na okolje v skladu z določbami tega zakona.
+
+(2) Za lokacijske načrte iz prejšnjega odstavka, ki z dnem uveljavitve tega zakona še niso sprejeti, pred uveljavitvijo tega zakona pa so že bili javno razgrnjeni se šteje, da so bile zahteve po sodelovanju javnosti po določbah tega zakona izpolnjene z njihovo javno razgrnitvijo.
+
+(3) Določbe 67. člena tega zakona se ne uporabljajo za občinske lokacijske načrte, ki so bili pred uveljavitvijo tega zakona že javno razgrnjeni.
+
+**198. člen**
+
+**(dokončanje inšpekcijskih postopkov v teku)**
+
+Inšpekcijski postopki, ki so se začeli pred uveljavitvijo tega zakona, se končajo po določbah ZVO.
+
+**199. člen**
+
+**(začetek veljavnosti zakona)**
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.«.
+
+---
+
+Zakon o spremembah in dopolnitvah Zakona o varstvu okolja – ZVO-1A (Uradni list RS, št. [20/06](http://www.uradni-list.si/1/objava.jsp?urlid=200620&stevilka=745)) dodaja 171.a člen tako, da se glasi:
+
+**»171.a člen**
+
+**(celovita presoja vplivov na okolje za državni lokacijski načrt)**
+
+Šteje se, da je bil državni lokacijski načrt za prostorsko ureditev državnega pomena po predpisih o urejanju prostora sprejet ali vložen v postopek sprejemanja z dnem uveljavitve sklepa vlade o izboru variantne rešitve ali z dnem uveljavitve programa priprave državnega lokacijskega načrta, s katerim je določeno, da variantne rešitve niso mogoče.«;
+
+ter vsebuje naslednje prehodne in končne določbe:
+
+**»PREHODNE IN KONČNE DOLOČBE**
+
+51\. člen
+
+**(okoljevarstveno dovoljenje za naprave iz 82. člena)**
+
+(1) Upravljavci obstoječih naprav iz 82. člena Zakona o varstvu okolja (Uradni list RS, št. 41/04, v nadaljnjem besedilu: ZVO-1) morajo njihovo obratovanje uskladiti z določbami tega zakona in pridobiti okoljevarstveno dovoljenje najkasneje do roka, določenega v predpisih iz 17. člena ZVO-1.
+
+(2) Za obstoječo napravo iz prejšnjega odstavka se šteje naprava, ki obratuje na dan uveljavitve predpisa iz tretjega odstavka 17. člena ZVO-1.
+
+(3) Če namerava upravljavec na obstoječi napravi iz drugega odstavka 172. člena ZVO-1 pred rokom iz prvega odstavka 172. člena ZVO-1 izvesti poseg v okolje, za katerega mora pridobiti okoljevarstveno dovoljenje, skladno z določbami 82. člena ZVO-1, ministrstvo izda okoljevarstveno dovoljenje, skladno z določbami 84. člena ZVO-1, dovoljenje pa velja do roka iz prvega odstavka 172. člena ZVO-1.
+
+(4) Določba prejšnjega odstavka velja tudi v primeru, če mora upravljavec obstoječe naprave iz 172. člena ZVO-1 za njeno obratovanje pridobiti dovoljenje za odstranjevanje odpadkov po določbah Pravilnika o odlaganju odpadkov (Uradni list RS, št. 5/00, 41/04 in 43/04).
+
+52\. člen
+
+**(celovita presoja vplivov na okolje za gozdnogospodarske načrte gozdnogospodarskih enot)**
+
+(1) Ne glede na določbo tretjega in četrtega odstavka 7. člena tega zakona se za gozdnogospodarske načrte gozdnogospodarskih enot, ki se bodo izdelali v obdobju do vključno leta 2010 in bodo sprejeti po postopku, določenem v predpisih o gozdovih, celovita presoja vplivov na okolje ne izvede, pod pogojem, da se zanje izdela okoljsko poročilo, skladno s prvim, drugim in tretjim odstavkom 41. člena ZVO-1, in da ministrstvo, pristojno za gozdarstvo, zagotovi ustrezno kvaliteto tega poročila.
+
+(2) Določbe prejšnjega odstavka ne veljajo, če je za načrte iz prejšnjega odstavka zahtevana presoja sprejemljivosti skladno s predpisi o ohranjanju narave.
+
+53\. člen
+
+**(izdaja odločbe)**
+
+(1) Ministrstvo, pristojno za varstvo okolja, izda po uradni dolžnosti osebi, ki je imela na dan uveljavitve tega zakona pravnomočno odločbo o imenovanju za okoljskega izvedenca po določbah drugega odstavka 56. člena ZVO-1 odločbo, v kateri določi rok iz 14. člena tega zakona.
+
+(2) Rok iz prejšnjega odstavka začne teči z dnem izdaje odločbe iz prejšnjega odstavka.
+
+54\. člen
+
+**(uporaba enot potrjenega zmanjševanja emisij)**
+
+(1) Ne glede na določbe 5. točke četrtega odstavka 126. člena ZVO-1 se v državnem načrtu za prvo obdobje določi le delež enot potrjenega zmanjšanja emisij, ki jih upravljavci naprav lahko uporabijo za izpolnitev obveznosti iz 7. točke tretjega odstavka 119. člena ZVO-1.
+
+(2) Upravljavec naprave lahko za izpolnjevanje svoje obveznosti iz 7. točke tretjega odstavka 119. člena ZVO-1 uporabi enote potrjenega zmanjšanja emisij do deleža, določenega v državnem načrtu, in o tem obvesti ministrstvo.
+
+(3) Ministrstvo na podlagi obvestila iz prejšnjega odstavka izda upravljavcu registra nalog, da upravljavcu naprave podeli in nemudoma preda ustrezno količino emisijskih kuponov v zameno za vsako enoto potrjenega zmanjšanja emisij, ki ga ima upravljavec v registru emisijskih kuponov in ga namerava uporabiti za izpolnjevanje svoje obveznosti iz 7. točke tretjega odstavka 119. člena ZVO-1, tega pa razveljavi.
+
+(4) Ne glede na določbe osmega odstavka 126. člena ZVO-1 ministrstva pri izdelavi državnega načrta za drugo obdobje za upravljavce obstoječih naprav uporabijo podatke iz njihovih poročil o emisiji toplogrednih plinov iz 133. člena ZVO-1, ki se nanašajo na prvo leto preteklega obdobja, podatke Agencije Republike Slovenije o letni porabi goriva, ki ga je posamezna naprava porabila v letih 2003 in 2004 in katerih pravilnost je pisno potrdil upravljavec naprave, podatke, določene s pravnimi akti EU, ki določajo merila za pripravo državnega načrta, in podatke o emisijah toplogrednih plinov iz tehnoloških procesov za ti leti ter skladnosti posamezne naprave z referenčnimi dokumenti o najboljših razpoložljivih tehnikah, ki jih je sprejel pristojni organ EU.
+
+55\. člen
+
+**(uporaba določb)**
+
+Določbe 141.a člena se uporabljajo za obdobje od dneva uveljavitve tega zakona pa do 31. decembra 2012.
+
+56\. člen
+
+**(podaljšanje veljavnosti sedanjih izvršilnih predpisov)**
+
+Do izdaje predpisov iz 3. in 4. člena tega zakona ostanejo v veljavi naslednji izvršilni predpisi, izdani na podlagi 19. in 20. člena ZVO-1:
+
+1. Pravilnik o ravnanju z amalgamskimi odpadki, ki nastanejo pri opravljanju zdravstvene dejavnosti in z njo povezanih raziskavah (Uradni list RS, št. 86/05);
+
+2. Pravilnik o vsebnosti biogoriv v gorivih za pogon motornih vozil (Uradni list RS, št. 83/05);
+
+3. Pravilnik o prevzemu ladijskih odpadkov in ostankov tovora (Uradni list RS, št. 66/05);
+
+4. Pravilnik o fizikalno-kemijskih lastnostih tekočih goriv (Uradni list RS, št. 65/05);
+
+5. Pravilnik o ravnanju z odpadno električno in elektronsko opremo (Uradni list RS, št. 118/04) in
+
+6. Pravilnik o izvajanju dobre kmetijske prakse (Uradni list RS, št. 130/04).
+
+57\. člen
+
+**(obveznost izdaje podzakonskih predpisov)**
+
+Vlada izda izvršilne predpise na podlagi 7., 13. in 49. člena tega zakona najkasneje v treh mesecih po uveljavitvi tega zakona.
+
+58\. člen
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.«.
+
+---
+
+Zakon o meteorološki dejavnosti – ZMetD (Uradni list RS, št. [49/06](http://www.uradni-list.si/1/objava.jsp?urlid=200649&stevilka=2089)) vsebuje naslednjo končno določbo:
+
+»42. člen
+
+**(začetek veljavnosti)**
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.«.
+
+---
+
+Zakon o prostorskem načrtovanju – ZPNačrt (Uradni list RS, št. [33/07](http://www.uradni-list.si/1/objava.jsp?urlid=200733&stevilka=1761)) v tretjem odstavku 106. člena zakona v zvezi z uporabo 66. in 67. člena zakona določa:
+
+»(3) Ne glede na določbo prejšnjega odstavka se določbe 66. in 67. člena ZVO-1 še naprej uporabljajo za dokončanje postopkov priprave državnih in občinskih prostorskih aktov, ki se skladno z določbami tega zakona nadaljujejo in končajo po določbah ZUreP-1 ter za njihovo spreminjanje in dopolnjevanje.«;
+
+ter vsebuje naslednjo končno določbo:
+
+»113. člen
+
+**(začetek veljavnosti)**
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.«.
+
+---
+
+Zakon o spremembah in dopolnitvah Zakona o financiranju občin – ZFO-1A (Uradni list RS, št. [57/08](http://www.uradni-list.si/1/objava.jsp?urlid=200857&stevilka=2416)) v zvezi z delnim prenehanjem veljavnosti drugega stavka prvega odstavka 112. člena ter drugega in tretjega stavka četrtega odstavka in petega odstavka 113. člena zakona določa:
+
+»Določbe zakona iz prejšnjega odstavka delno prenehajo veljati 1. januarja 2009.«;
+
+ter vsebuje naslednjo končno določbo:
+
+»21. člen
+
+**(uveljavitev tega zakona)**
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.«.
+
+---
+
+Zakon o spremembah in dopolnitvah Zakona o varstvu okolja – ZVO-1B (Uradni list RS, št. [70/08](http://www.uradni-list.si/1/objava.jsp?urlid=200870&stevilka=3026)) spreminja 172. člen zakona tako, da se glasi:
+
+**»172. člen**
+
+**(okoljevarstveno dovoljenje za naprave, ki lahko povzročajo onesnaževanje večjega obsega)**
+
+(1) Upravljavci obstoječih naprav iz 68. člena tega zakona morajo njihovo obratovanje uskladiti z določbami tega zakona in pridobiti okoljevarstveno dovoljenje najkasneje do 31. oktobra 2007, razen upravljavcev obstoječih naprav, za katere je rok uskladitve določen z ratificirano in objavljeno mednarodno pogodbo.
+
+(2) Za obstoječo napravo iz prejšnjega odstavka se šteje naprava, ki obratuje na dan uveljavitve predpisa iz četrtega odstavka 68. člena tega zakona ali je bilo pred njegovo uveljavitvijo zanjo pridobljeno pravnomočno gradbeno dovoljenje po predpisih o graditvi objektov.
+
+(3) Če upravljavec obstoječe naprave ne pridobi okoljevarstvenega dovoljenja do roka iz prvega odstavka tega člena, izda inšpekcija, pristojna za varstvo okolja, potem ko je postala odločba o zavrnitvi izdaje okoljevarstvenega dovoljenja pravnomočna, odločbo o prenehanju delovanja naprave, razen v primeru, če so razlogi za neizpolnitev obveznosti upravljavca na strani ministrstva.
+
+(4) Pritožba zoper odločbo iz prejšnjega odstavka ne zadrži njene izvršitve.
+
+(5) V postopkih za izdajo okoljevarstvenih dovoljenj iz prvega odstavka tega člena pritožba stranskega udeleženca ne zadrži izvršitve.«;
+
+ter vsebuje naslednje prehodne in končne določbe:
+
+**»PREHODNE IN KONČE DOLOČBE**
+
+89\. člen
+
+**(pooblaščene osebe za izdelovanje okoljskih poročil in poročil o vplivih na okolje)**
+
+(1) Določbe prvega odstavka 55. člena zakona se začnejo uporabljati 1. januarja 2010.
+
+(2) Do roka iz prejšnjega odstavka lahko izdeluje okoljsko poročilo oziroma poročilo o vplivih na okolje oseba, ki jo za to pooblasti pripravljavec plana oziroma nosilec posega v okolje.
+
+(3) Ne glede na določbe prejšnjih odstavkov lahko izdela okoljsko poročilo ali poročilo o vplivih na okolje oseba, ki je s pripravljavcem plana ali nosilcem posega imela sklenjeno pogodbo o izdelavi okoljskega poročila oziroma poročila o vplivih na okolje na dan 1. januarja 2010, pripravljavec plana ali nosilec posega pa morata k vlogi za izdajo potrdila o ustreznosti plana oziroma okoljevarstvenega soglasja priložiti tudi revizijo okoljskega poročila ali poročila o vplivih na okolje.
+
+90\. člen
+
+**(izdaja okoljevarstvenega dovoljenja za obstoječo napravo, ki lahko povzroča onesnaževanje večjega obsega)**
+
+(1) V postopku za izdajo okoljevarstvenega dovoljenja za obstoječo napravo iz 68. člena zakona se ne uporabljajo določbe 71. in 73. člena zakona, vlogi za pridobitev dovoljenja pa ni treba priložiti elaborata o določitvi vplivnega območja naprave iz drugega odstavka 70. člena zakona. Za določitev strank v postopku se uporabljajo določbe 84.a člena zakona.
+
+(2) Za obstoječo napravo iz prejšnjega odstavka se šteje naprava, določena kot obstoječa naprava z Uredbo o vrsti dejavnosti in naprav, ki lahko povzročajo onesnaževanje večjega obsega (Uradni list RS, št. 97/04, 71/07 in 122/07).
+
+91\. člen
+
+**(začetek uporabe določb za ugotavljanje odgovornosti za okoljsko škodo)**
+
+Določbe V.a poglavja tega zakona se ne uporabljajo za okoljsko škodo, povzročeno z emisijo, dogodkom ali izrednim dogodkom, ki se je zgodil pred dnem uveljavitve tega zakona, ali je posledica dejavnosti, končane pred dnem uveljavitve tega zakona.
+
+92\. člen
+
+**(prilagoditev izdanih dovoljenj za izpuščanje toplogrednih plinov)**
+
+(1) Ministrstvo po uradni dolžnosti prilagodi dovoljenja za izpuščanje toplogrednih plinov, izdana do uveljavitve tega zakona, določbam tega zakona najkasneje v treh mesecih od uveljavitve tega zakona.
+
+(2) Ministrstvo v okviru prilagoditve iz prejšnjega odstavka odobri tudi načrt monitoringa emisij toplogrednih plinov iz prvega odstavka 133. člena zakona, ki ga mora imetnik dovoljenja za izpuščanje toplogrednih plinov ministrstvu poslati najkasneje v roku enega meseca od uveljavitve tega zakona.
+
+93\. člen
+
+**(uskladitev delovanja Ekološkega sklada Republike Slovenije)**
+
+(1) Ekološki sklad Republike Slovenije, javni sklad, ustanovljen z Zakonom o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odločba US in 33/07 – ZPNačrt), z dnem uveljavitve tega zakona nadaljuje svoje delo kot Eko sklad, Slovenski okoljski javni sklad. Organi Ekološkega sklada Republike Slovenije, javnega sklada nadaljujejo svoje delo kot organi Sklada po tem zakonu do izteka obdobja, za katerega so bili imenovani.
+
+(2) Javni razpisi Ekološkega sklada Republike Slovenije, javnega sklada, začeti pred uveljavitvijo tega zakona, se zaključijo po postopkih in pogojih, določenih v posameznem javnem razpisu.
+
+(3) Ustanovitveni akt Sklada mora biti usklajen s tem zakonom v treh mesecih po uveljavitvi tega zakona, splošni pogoji poslovanja pa v šestih mesecih po uveljavitvi tega zakona.
+
+(4) Do sprejema oziroma uskladitve aktov iz prejšnjega odstavka veljata Ustanovitveni akt Ekološkega sklada Republike Slovenije, javnega sklada (Uradni list RS, št. 85/04 in 55/06) in Splošni pogoji poslovanja za spodbujanje razvoja na področju varstva okolja (Uradni list RS, št. 117/05), kolikor nista v nasprotju s tem zakonom.
+
+94\. člen
+
+**(veljavnost predpisov)**
+
+(1) Z dnem uveljavitve tega zakona prenehajo veljati tretji odstavek 48. člena, tretji odstavek 59. člena in tretji odstavek 106. člena Zakona o prostorskem načrtovanju (Uradni list RS, št. 33/07).
+
+(2) Z dnem uveljavitve tega zakona prenehata veljati 66. in 67. člen Zakona o varstvu pred ionizirajočimi sevanji in jedrski varnosti (Uradni list RS, št. 67/02).
+
+(3) Predpisi, izdani na podlagi 101. in 134. člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odločba US in 33/07 – ZPNačrt), veljajo do izdaje novih, kolikor niso v nasprotju s tem zakonom.
+
+95\. člen
+
+**(izdaja izvršilnih predpisov)**
+
+(1) Vlada izda predpise iz 110.e, 110.f, 140. in 148. člena zakona v šestih mesecih po uveljavitvi tega zakona.
+
+(2) Minister izda predpise iz 55., 56.c, 110.b, 142. in 142.c člena zakona in objavi sklepe pristojnega organa Kjotskega protokola iz 140. člena zakona v šestih mesecih po uveljavitvi tega zakona.
+
+(3) Minister v soglasju z ministroma, pristojnima za kulturno dediščino in zdravje ljudi izda predpise iz 56. in 56.a člena v šestih mesecih po uveljavitvi tega zakona.
+
+96\. člen
+
+**(začetek veljavnosti)**
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.«.
+
+---
+
+Zakon o spremembah in dopolnitvah Zakona o varstvu okolja – ZVO-1C (Uradni list RS, št. [108/09](http://www.uradni-list.si/1/objava.jsp?urlid=2009108&stevilka=4888)) spreminja 174. člen zakona tako, da se glasi:
+
+**»174. člen**
+
+**(okoljevarstveno dovoljenje za obrate)**
+
+(1) V postopkih za izdajo okoljevarstvenih dovoljenj za obstoječe obrate iz 18. člena tega zakona se določbe členov tega zakona, ki urejajo sodelovanje javnosti, ne uporabljajo.
+
+(2) Za obstoječi obrat iz prejšnjega odstavka se šteje obrat, ki obratuje na dan uveljavitve predpisa iz 18. člena tega zakona ali je bilo pred njegovo uveljavitvijo zanj pridobljeno pravnomočno gradbeno dovoljenje po predpisih o graditvi objektov.
+
+(3) Če za obstoječi obrat iz prvega odstavka tega člena na dan uveljavitve tega zakona še ni izdano okoljevarstveno dovoljenje, za njegovo pridobitev pa je treba izvesti večjo spremembo, ki zahteva gradnjo po predpisih o graditvi objektov, za izdajo gradbenega dovoljenja za to gradnjo ni treba pridobiti okoljevarstvenega dovoljenja.«;
+
+spreminja 89. člen Zakona o spremembah in dopolnitvah Zakona o varstvu okolja – ZVO-1B tako, da se glasi:
+
+»89. člen
+
+**(pooblaščene osebe za izdelovanje okoljskih poročil in poročil o vplivih na okolje)**
+
+(1) Določbe prvega odstavka 55. člena zakona se začnejo uporabljati 30. junija 2010.
+
+(2) Do roka iz prejšnjega odstavka lahko izdeluje okoljsko poročilo oziroma poročilo o vplivih na okolje oseba, ki jo za to pooblasti pripravljavec plana oziroma nosilec posega v okolje.
+
+(3) Ne glede na določbe prejšnjih odstavkov lahko izdela okoljsko poročilo ali poročilo o vplivih na okolje oseba, ki je s pripravljavcem plana ali nosilcem posega imela sklenjeno pogodbo o izdelavi okoljskega poročila oziroma poročila o vplivih na okolje na dan 30. junija 2010 in je bila vloga za pridobitev okoljevarstvenega soglasja vložena do 30. septembra 2010.«;
+
+ter vsebuje naslednje prehodne in končne določbe:
+
+**»Prehodne in končne določbe**
+
+77\. člen
+
+**(nove dejavnosti)**
+
+(1) Upravljavci naprav morajo za naprave, ki izvajajo dejavnost, določeno s predpisom iz šestega odstavka tega člena, in bodo prvič vključene v trgovanje s pravicami do emisije toplogrednih plinov od 1. januarja 2013 dalje, ministrstvu najpozneje do 30. aprila 2010 poslati podatke o dejavnostih in emisijah toplogrednih plinov za te naprave v obdobju od leta 2005 do 2008.
+
+(2) Upravljavci naprav morajo za naprave, ki so vključene v trgovanje z emisijami toplogrednih plinov v obdobju od leta 2008 do 2012, ministrstvu najpozneje do 30. septembra 2010 poslati podatke o dejavnostih in emisijah toplogrednih plinov za te naprave v obdobju od leta 2005 do 2008.
+
+(3) Pravilnost in resničnost podatkov iz prvega odstavka tega člena preveri ministrstvo, preverjene in resnične podatke o emisijah iz naprav iz prvega odstavka tega člena pa najpozneje do 30. junija 2010 pošlje pristojnemu organu EU.
+
+(4) Ministrstvo lahko pristojnemu organu EU sporoči nižjo količino emisij glede na zmožnost naprave za zmanjšanje emisij, če naprava izpušča drug toplogredni plin kot ogljikov dioksid.
+
+(5) Za upravljavce naprav iz prvega odstavka tega člena se štejejo upravljavci naprav, določeni s predpisom iz šestega odstavka tega člena.
+
+(6) Minister najpozneje v 30 dneh od uveljavitve tega zakona predpiše vrsto in vsebino podatkov o dejavnostih in emisijah toplogrednih plinov iz prvega in drugega odstavka tega člena, način preverjanja iz tretjega odstavka tega člena in upravljavce naprav iz petega odstavka tega člena.
+
+78\. člen
+
+**(prvi načrt monitoringa za operatorja zrakoplova)**
+
+Ne glede na določbo drugega odstavka 139.a člena zakona, mora operator zrakoplova prvič ministrstvu poslati zahtevo v 14 dneh od uveljavitve tega zakona.
+
+79\. člen
+
+**(sprememba okoljevarstvega dovoljenja)**
+
+Ministrstvo spremeni okoljevarstveno dovoljenje za obratovanje naprave, ki lahko povzroči onesnaževanje večjega obsega v skladu z določbami 22. člena tega zakona ob prvi spremembi okoljevarstvenega dovoljenja.
+
+80\. člen
+
+**(začetek uporabe določb)**
+
+Določba 66. člena tega zakona se začne uporabljati pri pripravi državnega proračuna za leto 2011.
+
+81\. člen
+
+**(povrnitev stroškov revizije)**
+
+(1) Nevladni organizaciji, ki je do dne uveljavitve tega zakona zaprosila za pridobitev statusa nevladne organizacije, ki deluje v javnem interesu, ministrstvo na njeno zahtevo povrne stroške revizije.
+
+(2) Zahteva iz prejšnjega odstavka mora vsebovati dokazilo o plačani reviziji.
+
+82\. člen
+
+**(uskladitev predpisov)**
+
+(1) Vlada izda predpis iz 5. in 35. člena tega zakona najkasneje v enem letu od uveljavitve tega zakona.
+
+(2) Predpisi, izdani na podlagi 17. in 118. člena zakona, se uskladijo z določbami tega zakona najkasneje v enem letu od uveljavitve tega zakona.
+
+(3) Podzakonski akti, izdani na podlagi 148. in 149. člena zakona, se uporabljajo do uveljavitve predpisov, izdanih na podlagi tega zakona, kolikor niso v nasprotju s tem zakonom.
+
+83\. člen
+
+**(začetek veljavnosti)**
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.«.
+
+---
+
+Zakon o spremembah in dopolnitvah Zakona o prostorskem načrtovanju – ZPNačrt-A (Uradni list RS, št. [108/09](http://www.uradni-list.si/1/objava.jsp?urlid=2009108&stevilka=4890)) v 22. členu določa:
+
+»Z dnem uveljavitve tega zakona se šteje, da v šestem in sedmem odstavku 46. člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odločba US, 33/07 – ZPNačrt, 57/08 – ZFO-1A in 70/08) uporabljeni izraz »sklep o potrditvi predloga plana po predpisih o prostorskem načrtovanju« pomeni »sklep o ugotovitvi usklajenosti« po določbah tega zakona.«;
+
+ter vsebuje naslednjo končno določbo:
+
+»23. člen
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.«.
+
+---
+
+Zakon o spremembah Zakona o varstvu okolja – ZVO-1D (Uradni list RS, št. [48/12](http://www.uradni-list.si/1/objava.jsp?urlid=201248&stevilka=2011)) vsebuje naslednje prehodne in končne določbe:
+
+**»PREHODNE IN KONČNE DOLOČBE**
+
+3\. člen
+
+Z dnem uveljavitve tega zakona preneha veljati Odlok o ustanovitvi Sveta za varstvo okolja Republike Slovenije (Uradni list RS, št. 34/10).
+
+4\. člen
+
+Svet za varstvo okolja Republike Slovenije preneha delovati z dnem uveljavitve tega zakona.
+
+5\. člen
+
+Z dnem uveljavitve tega zakona ministrstvo, pristojno za okolje, prevzame arhiv in spletni portal Sveta za varstvo okolja Republike Slovenije.
+
+6\. člen
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.«.
+
+---
+
+Zakon o spremembah in dopolnitvah Zakona o varstvu okolja – ZVO-1E (Uradni list RS, št. [57/12](http://www.uradni-list.si/1/objava.jsp?urlid=201257&stevilka=2415)) spreminja 194. člen zakona tako, da se glasi:
+
+**»194. člen**
+
+**(projekt nameravanega posega in revizija poročila o vplivih na okolje)**
+
+(1) Do izdaje predpisa iz tretjega odstavka 53. člena tega zakona se za projekt nameravanega posega iz 51. člena tega zakona, ki je gradnja, šteje idejna zasnova ali projekt, ki je obdelan na višji ravni, skladno s predpisi o graditvi objektov.
+
+(2) Do imenovanja okoljskih izvedencev lahko revizijo okoljskega poročila iz 41. člena tega zakona ali poročila o vplivih na okolje iz 54. člena tega zakona izdela oseba, ki je pridobila pooblastilo za izdelavo poročila o vplivih na okolje na podlagi ZVO, pri čemer morajo biti izpolnjeni pogoji iz tretjega in osmega odstavka 56. člena tega zakona.«;
+
+ter vsebuje naslednje prehodne in končno določbo:
+
+**»PREHODNE IN KONČA DOLOČBA**
+
+7\. člen
+
+(1) Imetnik veljavnega okoljevarstvenega dovoljenja, izdanega na podlagi 82. in 86. člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odločba US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08 in 108/09), lahko najpozneje tri mesece pred iztekom njegove veljavnosti vloži na ministrstvo, pristojno za varstvo okolja, zahtevo za spremembo veljavnosti svojega dovoljenja v skladu z 82. oziroma 86. členom zakona.
+
+(2) Ministrstvo, pristojno za varstvo okolja, spremeni veljavnost dovoljenja iz prejšnjega odstavka na obdobje desetih let od dneva njegove veljavnosti, pri čemer se ne uporabljajo določbe šestega odstavka 82. člena oziroma šestega odstavka 86. člena zakona.
+
+(3) Ne glede na določbe prejšnjega odstavka spremeni ministrstvo, pristojno za varstvo okolja, imetniku okoljevarstvenega dovoljenja za komunalno ali skupno čistilno napravo veljavnost tega dovoljenja le do roka, ko je za takšno čistilno napravo predpisana prilagoditev zahtevam predpisa, ki ureja emisijo snovi pri odvajanju odpadne vode iz komunalnih čistilnih naprav, pri čemer se ne uporabljajo določbe šestega odstavka 82. člena zakona.
+
+(4) Vloge, ki so bile vložene za izdajo okoljevarstvenih dovoljenj za naprave in dejavnosti iz 82. člena oziroma za obrate iz 86. člena zakona pred uveljavitvijo tega zakona, se glede roka veljavnosti obravnavajo v skladu z določbami 82. oziroma 86. člena zakona.
+
+(5) Vloge, ki so bile vložene za podaljšanje okoljevarstvenih dovoljenj za naprave in dejavnosti iz 82. člena oziroma za obrate iz 86. člena zakona pred uveljavitvijo tega zakona, se štejejo za vloge iz prvega odstavka tega člena.
+
+8\. člen
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.«.
+
+---
+
+Zakon o spremembah in dopolnitvah Zakona o varstvu okolja – ZVO-1F (Uradni list RS, št. [92/13](http://www.uradni-list.si/1/objava.jsp?urlid=201392&stevilka=3337)) vsebuje naslednje prehodne in končne določbe:
+
+**PREHODNE IN KONČNE DOLOČBE**
+
+84\. člen
+
+**(spremembe veljavnega okoljevarstvenega dovoljenja)**
+
+(1) Postopki za pridobitev okoljevarstvenega dovoljenja za naprave iz 68. člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odločba US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 48/12 in 57/12) in postopki za spremembo okoljevarstvenega dovoljenja iz 77. člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odločba US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 48/12 in 57/12), začeti pa ne končani do uveljavitve tega zakona, se končajo v skladu s tem zakonom, pri čemer se ne uporabljajo določbe četrtega odstavka spremenjenega 70. člena zakona.
+
+(2) Upravljavec naprave, ki mu je bilo izdano okoljevarstveno dovoljenje na podlagi 72. člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odločba US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 48/12 in 57/12) pred 7. januarjem 2013 ali pred uveljavitvijo predpisa iz šestega odstavka spremenjenega 70. člena zakona, obratovanje njegove naprave pa vključuje uporabo, proizvodnjo ali emisijo določene nevarne snovi v skladu s četrtim odstavkom spremenjenega 70. člena zakona, mora ministrstvu v primeru iz spremenjenega 77. ali spremenjenega 78. člena zakona predložiti izhodiščno poročilo iz četrtega odstavka spremenjenega 70. člena zakona.
+
+(3) Določba prejšnjega odstavka se začne uporabljati šest mesecev po uveljavitvi predpisa iz šestega odstavka spremenjenega 70. člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odločba US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 48/12 in 57/12).
+
+85\. člen
+
+**(okoljevarstveno dovoljenje za nove dejavnosti)**
+
+(1) Upravljavec obstoječe naprave, ki izvaja dejavnost, prvič določeno po uveljavitvi tega zakona v predpisu iz četrtega odstavka spremenjenega 68. člena zakona, mora obratovanje naprave uskladiti z določbami tega zakona in pridobiti okoljevarstveno dovoljenje v skladu s spremenjenim 74. členom zakona najpozneje do 7. julija 2015.
+
+(2) Za obstoječo napravo iz prejšnjega odstavka se šteje naprava, ki je obratovala ali je bilo zanjo pridobljeno pravnomočno gradbeno dovoljenje po predpisih o graditvi objektov pred 7. januarjem 2013.
+
+(3) V postopku za izdajo okoljevarstvenega dovoljenja za napravo iz prvega odstavka tega člena se ne uporabljajo določbe spremenjenega 71. člena in spremenjenega 73. člena zakona, vlogi za pridobitev okoljevarstvenega dovoljenja pa ni treba priložiti elaborata iz drugega odstavka spremenjenega 70. člena zakona. Za določitev strank v postopku se uporabljajo določbe spremenjenega 84.a člena zakona. Če mora upravljavec naprave iz prejšnjega odstavka za njeno uskladitev z določbami tega zakona pridobiti gradbeno dovoljenje po predpisih o graditvi objektov, se to lahko izda brez okoljevarstvenega dovoljenja.
+
+(4) Določbe prejšnjega odstavka se uporabljajo tudi v primeru, če namerava upravljavec iz prvega odstavka tega člena na svoji napravi izvesti spremembo, ki ni večja sprememba, vloga za pridobitev okoljevarstvenega dovoljenja pa mora vsebovati vsebine iz drugega odstavka spremenjenega 70. člena zakona, ki se nanašajo tudi na nameravano spremembo naprave, opis obstoječe naprave in nameravane spremembe.
+
+(5) Če namerava upravljavec iz prvega odstavka tega člena na napravi izvesti tudi večjo spremembo, mora vložiti vlogo za pridobitev okoljevarstvenega dovoljenja v skladu z drugim odstavkom spremenjenega 70. člena tega zakona za obstoječo napravo iz drugega odstavka tega člena in za njeno spremembo, za določitev strank v postopku pa se uporabljajo določbe spremenjenega 71. člena in spremenjenega 73. člena zakona.
+
+(6) Ministrstvo mora odločiti o izdaji okoljevarstvenega dovoljenja iz tretjega in petega odstavka tega člena najpozneje v šestih mesecih od prejema popolne vloge za izdajo okoljevarstvenega dovoljenja. Če drugostopenjski upravni organ ugotovi, da je pritožba zoper odločbo prve stopnje utemeljena, to odločbo odpravi in s svojo odločbo najpozneje v enem mesecu od vložitve pritožbe sam reši zadevo. Če pristojno sodišče v upravnem sporu zoper dokončno odločbo o okoljevarstvenem dovoljenju ugotovi, da je tožba utemeljena, odločbo odpravi in v treh mesecih od vložitve tožbe s sodbo odloči o okoljevarstvenem dovoljenju.
+
+(7) Če ima upravljavec obstoječe naprave iz prvega odstavka tega člena okoljevarstveno dovoljenje, izdano na podlagi 84. člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odločba US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 48/12 in 57/12), ga ministrstvo z okoljevarstvenim dovoljenjem iz prejšnjega odstavka razveljavi.
+
+86\. člen
+
+**(prilagoditev obstoječih naprav objavljenim zaključkom o BAT)**
+
+Upravljavec naprave, ki je pridobil okoljevarstveno dovoljenje na podlagi 68. člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odločba US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 48/12 in 57/12) pred uveljavitvijo tega zakona in so bili za njegovo glavno dejavnost objavljeni zaključki o BAT do uveljavitve tega zakona, morajo svojo napravo prilagoditi zaključkom o BAT in pridobiti okoljevarstveno dovoljenje v skladu s spremenjenim 78. členom zakona.
+
+87\. člen
+
+**(dokončanje postopkov)**
+
+(1) Postopki za izdajo okoljevarstvenega dovoljenja za obstoječe naprave iz 172. člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odločba US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 48/12 in 57/12), začeti, pa ne končani do uveljavitve tega zakona, se končajo v skladu s tem zakonom, pri čemer mora:
+
+1. ministrstvo odločiti o izdaji okoljevarstvenega dovoljenja najpozneje v dveh mesecih od uveljavitve tega zakona;
+
+2. drugostopenjski upravni organ, če ugotovi, da je pritožba zoper odločbo iz prejšnje točke utemeljena, to odločbo odpraviti in s svojo odločbo najpozneje v enem mesecu od vložitve pritožbe sam rešiti zadevo;
+
+3. pristojno sodišče v upravnem sporu zoper dokončno odločbo o okoljevarstvenem dovoljenju, če ugotovi, da je tožba utemeljena, odločbo odpraviti in v treh mesecih s sodbo odločiti o okoljevarstvenem dovoljenju.
+
+(2) Ne glede na določbo drugega odstavka 172. člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odločba US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 48/12 in 57/12) se za obstoječo napravo šteje naprava, ki je obratovala na dan 1. maja 2004, in v obsegu, za katerega je njen upravljavec do 31. oktobra 2006 na podlagi tretjega odstavka 14. člena Uredbe o vrsti dejavnosti in naprav, ki lahko povzročijo onesnaževanje večjega obsega (Uradni list RS, št. 97/04) vložil vlogo za pridobitev okoljevarstvenega dovoljenja, skupaj z vsemi spremembami, ki so bile zaradi uskladitve na podlagi prvega odstavka 172. člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odločba US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 48/12 in 57/12) na napravi izvedene do uveljavitve tega zakona.
+
+(3) Če je upravljavec naprave iz prvega odstavka tega člena do uveljavitve tega zakona izvedel tudi spremembe na napravi, ki niso bile potrebne zaradi uskladitve iz prejšnjega odstavka, lahko vloži vlogo za spremembo okoljevarstvenega dovoljenja na podlagi spremenjenega 77. člena zakona po pravnomočnosti okoljevarstvenega dovoljenja iz prvega odstavka tega člena.
+
+88\. člen
+
+**(končnanje postopkov za pridobitev okoljevarstvenega dovoljenja za obrat)**
+
+Postopki za pridobitev okoljevarstvenega dovoljenja za obrat iz 86. člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odločba US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 48/12 in 57/12), začeti, pa ne končani do uveljavitve tega zakona, se končajo v skladu s tem zakonom.
+
+89\. člen
+
+**(veljavnost dovoljenj za začasno ali občasno čezmerno obremenitev okolja)**
+
+(1) Postopki za pridobitev dovoljenja za začasno ali občasno čezmerno obremenitev okolja iz prvega odstavka 94. člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odločba US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 48/12 in 57/12), začeti, pa ne končani do uveljavitve tega zakona, se ustavijo.
+
+(2) Dovoljenja za začasno ali občasno čezmerno obremenitev okolja, izdana na podlagi prvega odstavka 94. člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odločba US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 48/12 in 57/12) do uveljavitve tega zakona, se izvedejo na način in v roku, določenima v teh dovoljenjih.
+
+90\. člen
+
+**(uskladitev dovoljenj za izpuščanje toplogrednih plinov)**
+
+(1) Ministrstvo dovoljenja za izpuščanje toplogrednih plinov, izdana do uveljavitve tega zakona na podlagi 119. člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odločba US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 48/12 in 57/12), po uradni dolžnosti uskladi z določbami tega zakona najpozneje v devetih mesecih od uveljavitve tega zakona.
+
+(2) Dovoljenja za izpuščanje toplogrednih plinov, izdana do uveljavitve tega zakona na podlagi 119. člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odločba US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 48/12 in 57/12), in odločbe, izdane zaradi odobritve načrta monitoringa emisij toplogrednih plinov na podlagi 133. člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odločba US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 48/12 in 57/12) ali na podlagi devetega odstavka 5. člena Uredbe o toplogrednih plinih, dejavnostih in napravah, za katere je treba pridobiti dovoljenje za izpuščanje toplogrednih plinih oziroma izvajati monitoring emisij toplogrednih plinov (Uradni list RS, št. 55/11 in 1/13), prenehajo veljati z dnem dokončnosti odločb iz prejšnjega odstavka, s katerimi so bila usklajena dovoljenja iz prejšnjega odstavka.
+
+(3) Postopki za pridobitev dovoljenja za izpuščanje toplogrednih plinov iz 119. člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odločba US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 48/12 in 57/12), začeti, pa ne končani do uveljavitve tega zakona, se končajo v skladu s tem zakonom.
+
+(4) Postopki za odobritev načrta monitoringa emisij toplogrednih plinov iz 133. člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odločba US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 48/12 in 57/12) se za leto 2014 izvedejo v skladu z Zakonom o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odločba US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 48/12 in 57/12).
+
+91\. člen
+
+**(veljavnost pooblastil za preverjanje poročil o emisijah toplogrednih plinov)**
+
+(1) Pravna ali fizična oseba, ki je do uveljavitve tega zakona pridobila pooblastilo za preverjanje poročil o emisijah toplogrednih plinov na podlagi 134.a člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odločba US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 48/12 in 57/12) in želi preverjati poročila o emisijah toplogrednih plinov iz spremenjenega 133. člena zakona, mora pridobiti akreditacijsko listino v skladu s spremenjenim 133. členom zakona do 31. decembra 2013.
+
+(2) Pooblastila iz prejšnjega odstavka, izdana do uveljavitve tega zakona na podlagi 134.a člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odločba US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 48/12 in 57/12), veljajo do 31. decembra 2013.
+
+92\. člen
+
+**(izvajanje obvezne državne gospodarske javne službe do 31. decembra 2015)**
+
+(1) Obvezna državna gospodarska javna služba izvajanja meritev, pregledovanja in čiščenja kurilnih naprav, dimnih vodov in zračnikov zaradi varstva okolja in učinkovite rabe energije, varstva človekovega zdravja in varstva pred požarom iz 5. točke prvega odstavka 148. člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odločba US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 48/12 in 57/12) se izvaja do 31. decembra 2015 po dosedanjih predpisih.
+
+(2) Izvajalec gospodarske javne službe iz prvega odstavka tega člena zaradi zagotavljanja storitev vsem uporabnikom vodi evidenco uporabnikov storitev obvezne državne gospodarske javne službe iz prvega odstavka tega člena, ki vsebuje naslednje podatke:
+
+1. ime in priimek oziroma firmo uporabnika,
+
+2. naslov oziroma sedež uporabnika.
+
+(3) Z dnem prenehanja opravljanja obvezne državne gospodarske javne službe iz prvega odstavka tega člena mora izvajalec iz prejšnjega odstavka evidenco uporabnikov storitev obvezne državne gospodarske javne službe iz prvega odstavka tega člena prenesti na ministrstvo, ki jo prenese na novega izvajalca obvezne državne gospodarske javne službe iz prvega odstavka tega člena.
+
+(4) Ministrstvo zaradi izvajanja nadzora nad izvajalcem obvezne državne gospodarske javne službe iz prvega odstavka tega člena vodi evidenco o osebah, s katerimi se je izvajalec zavezal opravljati gospodarsko javno službo.
+
+(5) Evidenca iz prejšnjega odstavka vsebuje naslednje osebne podatke:
+
+1. ime in priimek osebe iz prejšnjega odstavka in
+
+2. EMŠO osebe iz prejšnje točke.
+
+(6) Izvajalec obvezne državne gospodarske javne službe iz prvega odstavka tega člena mora ministrstvu v skladu z dosedanjimi predpisi in s sklenjeno koncesijsko pogodbo predložiti podatke iz prejšnjega odstavka. Osebni podatki se izbrišejo iz evidence po treh letih od dneva prenehanja veljavnosti koncesijske pogodbe.
+
+(7) V primeru, ko koncesijsko razmerje za izvajanje obvezne državne gospodarske javne službe iz prejšnjega odstavka preneha pred rokom iz prvega odstavka tega člena, lahko vlada:
+
+1. na zahtevo koncesionarja, ki jo mora vložiti najkasneje v roku treh mesecev pred iztekom veljavnosti koncesijske pogodbe, le to podaljša do roka iz prvega odstavka tega člena, če koncesionar izpolnjuje predpisane pogoje in zoper njega ni začet postopek za odvzem koncesije, ali
+
+2. podeli koncesijo do roka iz prvega odstavka tega člena na podlagi javnega razpisa drugi osebi, ki izpolnjuje predpisane pogoje in proti njej ni začet postopek odvzema koncesije, če oseba iz prejšnje točke ne vloži zahteve za podaljšanje v predpisanem roku ali ne izpolnjuje predpisanih pogojev.
+
+(8) O podaljšanju koncesije iz prejšnjega odstavka vlada odloči z odločbo.
+
+(9) V primeru, ko vlada koncesijo odvzame pred iztekom roka iz prvega odstavka tega člena, vlada na podlagi javnega poziva podeli koncesijo drugi osebi, ki izpolnjuje predpisane pogoje in zoper njo ni začet postopek za odvzem koncesije, če se ta s podelitvijo strinja, vendar ne dlje od roka iz prvega odstavka tega člena. Prednost pri podelitvi koncesije ima oseba, katere sedež je najbližje središču koncesijskega območja. Za središče koncesijskega območja se šteje sedež občine iz koncesijskega območja v skladu s predpisom, ki ureja način izvajanja obvezne državne gospodarske javne službe iz prvega odstavka tega člena.
+
+(10) Vlada lahko podeli koncesijo iz prejšnjega odstavka z odločbo o začasnem izvajanju koncesije najdlje za eno leto, vendar ne dlje od datuma iz prvega odstavka tega člena.
+
+(11) Koncesijske pogodbe, ki so bile sklenjene za izvajanje obvezne državne gospodarske javne službe iz prvega odstavka tega člena pred uveljavitvijo tega zakona, njihova veljavnost pa se izteče po datumu iz prvega odstavka tega člena, prenehajo z dnem 31. decembra 2015.
+
+93\. člen
+
+**(začetek uporabe)**
+
+(1) Določbe novega 51.a člena se začnejo uporabljati z dnem uveljavitve predpisov iz četrtega odstavka spremenjenega 51. člena in devetega odstavka novega 51.a člena zakona.
+
+(2) Določbe četrtega odstavka spremenjenega 70. člena zakona se začnejo uporabljati šest mesecev po uveljavitvi predpisa iz šestega odstavka spremenjenega 70. člena zakona.
+
+94\. člen
+
+**(izdaja in uskladitev predpisov)**
+
+(1) Vlada izda predpise iz četrtega odstavka spremenjenega 51. člena, devetega odstavka novega 51.a člena, četrtega odstavka spremenjenega 68. člena in šestega odstavka spremenjenega 70. člena zakona najpozneje v treh mesecih od uveljavitve tega zakona.
+
+(2) Predpisi, izdani na podlagi 51. in 68. člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odločba US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 48/12 in 57/12), veljajo do uveljavitve predpisov iz prejšnjega odstavka.
+
+(3) Uredba o načinu uporabe zvočnih naprav, ki na shodih in prireditvah povzročajo hrup (Uradni list RS, št. 118/05) se uskladi z določbami spremenjenega 94. zakona najpozneje v šestih mesecih od uveljavitve tega zakona.
+
+95\. člen
+
+**(prenehanje veljavnosti)**
+
+Z dnem uveljavitve tega zakona prenehajo veljati:
+
+1. Pravilnik o merilih za preverjanje poročila o emisijah toplogrednih plinov in pogojih, ki jih mora izpolnjevati preveritelj (Uradni list RS, št. 79/10),
+
+2. Pravilnik o pogojih za vpis v evidenco izdelovalcev okoljskih poročil in poročil o vplivih na okolje ter delovanju strokovne komisije (Uradni list RS, št. 70/11) in
+
+3. Pravilnik o pogojih za pridobitev potrdila o strokovni usposobljenosti za izdelovanje okoljskih poročil oziroma poročil o vplivih na okolje ter preizkusu strokovnega znanja (Uradni list RS, št. 22/13).
+
+96\. člen
+
+**(začetek veljavnosti)**
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.«.
+
+---
+
+Zakon o spremembah Zakona o varstvu okolja – ZVO-1G (Uradni list RS, št. [56/15](http://www.uradni-list.si/1/objava.jsp?sop=2015-01-2359)) spreminja 172. člen zakona tako, da se glasi:
+
+**»172. člen**
+
+**(okoljevarstveno dovoljenje za naprave, ki lahko povzročajo onesnaževanje večjega obsega)**
+
+(1) Upravljavci obstoječih naprav iz 68. člena tega zakona morajo njihovo obratovanje uskladiti z določbami tega zakona in pridobiti okoljevarstveno dovoljenje najkasneje do 31. oktobra 2007, razen upravljavcev obstoječih naprav, za katere je rok uskladitve določen z ratificirano in objavljeno mednarodno pogodbo.
+
+(2) Za obstoječo napravo iz prejšnjega odstavka se šteje naprava, ki obratuje na dan uveljavitve predpisa iz četrtega odstavka 68. člena tega zakona ali je bilo pred njegovo uveljavitvijo zanjo pridobljeno pravnomočno gradbeno dovoljenje po predpisih o graditvi objektov.
+
+(3) V postopkih za izdajo okoljevarstvenih dovoljenj iz prvega odstavka tega člena pritožba stranskega udeleženca ne zadrži izvršitve.«;
+
+spreminja 84. člen Zakona o spremembah in dopolnitvah Zakona o varstvu okolja (Uradni list RS, št. [92/13](http://www.uradni-list.si/1/objava.jsp?sop=2013-01-3337)) tako, da se glasi:
+
+»84. člen
+
+**(spremembe veljavnega okoljevarstvenega dovoljenja)**
+
+(1) Postopki za pridobitev okoljevarstvenega dovoljenja za naprave iz 68. člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odločba US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 48/12 in 57/12) in postopki za spremembo okoljevarstvenega dovoljenja iz 77. člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odločba US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 48/12 in 57/12), začeti pa ne končani do uveljavitve tega zakona, se končajo v skladu s tem zakonom, pri čemer se ne uporabljajo določbe četrtega odstavka spremenjenega 70. člena zakona.
+
+(2) Upravljavec naprave, ki mu je bilo izdano okoljevarstveno dovoljenje na podlagi 72. člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odločba US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 48/12 in 57/12) pred 7. januarjem 2013 ali pred uveljavitvijo predpisa iz šestega odstavka spremenjenega 70. člena zakona, obratovanje njegove naprave pa vključuje uporabo, proizvodnjo ali emisijo določene nevarne snovi v skladu s četrtim odstavkom spremenjenega 70. člena zakona, mora ministrstvu v primeru iz 1. ali 2. točke tretjega odstavka spremenjenega 77. člena ali iz 2. do 6. točke prvega odstavka spremenjenega 78. člena zakona predložiti izhodiščno poročilo iz četrtega odstavka spremenjenega 70. člena zakona.
+
+(3) Določba prejšnjega odstavka se začne uporabljati šest mesecev po uveljavitvi predpisa iz šestega odstavka spremenjenega 70. člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odločba US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 48/12 in 57/12).«;
+
+ter vsebuje naslednjo končno določbo:
+
+**»KONČNA DOLOČBA**
+
+3\. člen
+
+**(začetek veljavnosti)**
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.«.
+
+---
+
+Zakon o spremembah Zakona o spremembah in dopolnitvah Zakona o varstvu okolja – ZVO-1H (Uradni list RS, št. [102/15](http://www.uradni-list.si/1/objava.jsp?urlurid=20154085)) spreminja 92. člen Zakona o spremembah in dopolnitvah Zakona o varstvu okolja – ZVO-1F (Uradni list RS, št. [92/13](http://www.uradni-list.si/1/objava.jsp?urlid=201392&stevilka=3337)) tako, da se glasi:
+
+»92. člen
+
+**(izvajanje obvezne državne gospodarske javne službe do 31. decembra 2016)**
+
+(1) Obvezna državna gospodarska javna služba izvajanja meritev, pregledovanja in čiščenja kurilnih naprav, dimnih vodov in zračnikov zaradi varstva okolja in učinkovite rabe energije, varstva človekovega zdravja in varstva pred požarom iz 5. točke prvega odstavka 148. člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odločba US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 48/12 in 57/12) se izvaja do 31. decembra 2016 po dosedanjih predpisih.
+
+(2) Izvajalec gospodarske javne službe iz prvega odstavka tega člena zaradi zagotavljanja storitev vsem uporabnikom vodi evidenco uporabnikov storitev obvezne državne gospodarske javne službe iz prvega odstavka tega člena, ki vsebuje naslednje podatke:
+
+1. ime in priimek oziroma firmo uporabnika,
+
+2. naslov oziroma sedež uporabnika.
+
+(3) Z dnem prenehanja opravljanja obvezne državne gospodarske javne službe iz prvega odstavka tega člena mora izvajalec iz prejšnjega odstavka evidenco uporabnikov storitev obvezne državne gospodarske javne službe iz prvega odstavka tega člena prenesti na ministrstvo, ki jo prenese na novega izvajalca obvezne državne gospodarske javne službe iz prvega odstavka tega člena.
+
+(4) Ministrstvo zaradi izvajanja nadzora nad izvajalcem obvezne državne gospodarske javne službe iz prvega odstavka tega člena vodi evidenco o osebah, s katerimi se je izvajalec zavezal opravljati gospodarsko javno službo.
+
+(5) Evidenca iz prejšnjega odstavka vsebuje naslednje osebne podatke:
+
+1. ime in priimek osebe iz prejšnjega odstavka in
+
+2. EMŠO osebe iz prejšnje točke.
+
+(6) Izvajalec obvezne državne gospodarske javne službe iz prvega odstavka tega člena mora ministrstvu v skladu z dosedanjimi predpisi in s sklenjeno koncesijsko pogodbo predložiti podatke iz prejšnjega odstavka. Osebni podatki se izbrišejo iz evidence po treh letih od dneva prenehanja veljavnosti koncesijske pogodbe.
+
+(7) V primeru, ko koncesijsko razmerje za izvajanje obvezne državne gospodarske javne službe iz prejšnjega odstavka preneha pred rokom iz prvega odstavka tega člena, lahko vlada:
+
+1. na zahtevo koncesionarja, ki jo lahko vloži najkasneje v roku treh mesecev pred iztekom veljavnosti koncesijske pogodbe za koncesionarje, ki jim koncesijska pogodba poteče med 15. aprilom 2016 in 31. decembrom 2016, oziroma najkasneje do 15. januarja 2016 za tiste koncesionarje, ki jim koncesijska pogodba poteče med 31. decembrom 2015 in 14. aprilom 2016, le to podaljša do roka iz prvega odstavka tega člena, če koncesionar izpolnjuje predpisane pogoje in zoper njega ni začet postopek za odvzem koncesije, ali
+
+2. podeli koncesijo do roka iz prvega odstavka tega člena na podlagi javnega razpisa drugi osebi, ki izpolnjuje predpisane pogoje in proti njej ni začet postopek odvzema koncesije, če oseba iz prejšnje točke ne vloži zahteve za podaljšanje v predpisanem roku ali ne izpolnjuje predpisanih pogojev.
+
+(8) O podaljšanju koncesije iz prejšnjega odstavka vlada odloči z odločbo.
+
+(9) V primeru, ko vlada koncesijo odvzame pred iztekom roka iz prvega odstavka tega člena, vlada na podlagi javnega poziva podeli koncesijo drugi osebi, ki izpolnjuje predpisane pogoje in zoper njo ni začet postopek za odvzem koncesije, če se ta s podelitvijo strinja, vendar ne dlje od roka iz prvega odstavka tega člena. Prednost pri podelitvi koncesije ima oseba, katere sedež je najbližje središču koncesijskega območja. Za središče koncesijskega območja se šteje sedež občine iz koncesijskega območja v skladu s predpisom, ki ureja način izvajanja obvezne državne gospodarske javne službe iz prvega odstavka tega člena.
+
+(10) Vlada lahko podeli koncesijo iz prejšnjega odstavka z odločbo o začasnem izvajanju koncesije najdlje za eno leto, vendar ne dlje od datuma iz prvega odstavka tega člena.
+
+(11) Koncesijske pogodbe, ki so bile sklenjene za izvajanje obvezne državne gospodarske javne službe iz prvega odstavka tega člena pred uveljavitvijo tega zakona, njihova veljavnost pa se izteče po datumu iz prvega odstavka tega člena, prenehajo z dnem 31. decembra 2016.«;
+
+ter vsebuje naslednjo prehodno in končno določbo:
+
+**»PREHODNA IN KONČNA DOLOČBA**
+
+2\. člen
+
+(1) Koncesionar iz spremenjene 1. točke sedmega odstavka 92. člena Zakona o spremembah in dopolnitvah Zakona o varstvu okolja (Uradni list RS, št. 92/13) opravlja obvezno državno gospodarsko javno službo iz spremenjenega prvega odstavka 92. člena Zakona o spremembah in dopolnitvah Zakona o varstvu okolja (Uradni list RS, št. 92/13) do sklenitve nove koncesijske pogodbe oziroma do sklenitve aneksa k pogodbi o podaljšanju koncesijske pogodbe, če je vložila zahtevo za podaljšanje veljavnosti oziroma sklenitev koncesijske pogodbe v roku iz spremenjene 1. točke sedmega odstavka 92. člena Zakona o spremembah in dopolnitvah Zakona o varstvu okolja (Uradni list RS, št. 92/13).
+
+(2) Na koncesijskih območjih, kjer ni koncesionarja z veljavno koncesijsko pogodbo po 31. decembru 2015, se za podelitev nove koncesije smiselno uporablja deveti odstavek 92. člena Zakona o spremembah in dopolnitvah Zakona o varstvu okolja (Uradni list RS, št. 92/13).
+
+3\. člen
+
+Ta zakon začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.«.
+
+---
+
+Zakon o spremembah in dopolnitvah Zakona o varstvu okolja – ZVO-1I (Uradni list RS, št. [30/16](http://www.uradni-list.si/1/objava.jsp?urlurid=20161264)) vsebuje naslednje prehodne in končne določbe:
+
+**»PREHODNE IN KONČNE DOLOČBE**
+
+42\. člen
+
+(1) Predpisi, izdani na podlagi 18. člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odl. US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 48/12, 57/12, 92/13 in 56/15), veljajo do uveljavitve novih.
+
+(2) Postopki za podaljšanje okoljevarstvenega dovoljenja za napravo iz 68. člena, napravo ali dejavnost iz 82. člena in obrat iz 86. člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odl. US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 48/12, 57/12, 92/13 in 56/15), začeti do uveljavitve tega zakona, se ustavijo.
+
+(3) Za okoljevarstvena dovoljenja, izdana na podlagi 68., 82. in 86. člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odl. US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 48/12, 57/12, 92/13 in 56/15), se šteje, da so bila izdana za nedoločen čas, ministrstvo pa mora ob prvi spremembi okoljevarstvenega dovoljenja oziroma najpozneje v dveh letih od uveljavitve tega zakona ta dovoljenja uskladiti s spremenjenim določbami 69., 82. in 86. člena zakona.
+
+(4) Imetnik okoljevarstvenega dovoljenja za obratovanje naprave, ki je bilo izdano na podlagi 68. ali 82. člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odl. US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 48/12 in 57/12) pred 1. septembrom 2012, rok za prilagoditev te naprave zahtevam predpisa, ki ureja emisijo snovi in toplote pri odvajanju odpadnih voda v vode in javno kanalizacijo, pa je določen z rokom izteka veljavnosti okoljevarstvenega dovoljenja, mora prilagoditi obratovanje naprave do tega roka.
+
+(5) Postopki za pridobitev okoljevarstvenega dovoljenja, začeti pred uveljavitvijo predpisa iz enajstega odstavka 74. člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odl. US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 48/12, 57/12, 92/13 in 56/15) in ne dokončani do uveljavitve tega zakona, se dokončajo v skladu četrtim, petim in šestim odstavkom 70. člena in spremenjenim 74. členom zakona.
+
+(6) Postopki prijave nameravanih sprememb v obratovanju naprave iz 82. člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odl. US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 48/12, 57/12, 92/13 in 56/15), začeti pred uveljavitvijo tega zakona, se ustavijo.
+
+(7) Ministrstvo razveljavi pravnomočna okoljevarstvena dovoljenja, izdana na podlagi 82. člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odl. US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 48/12, 57/12, 92/13 in 56/15) istemu upravljavcu za obratovanje iste naprave ali izvajanje iste dejavnosti, ob prvi spremembi katerega izmed njih in izda eno okoljevarstveno dovoljenje, v katerem določi vse obveznosti iz razveljavljenih okoljevarstvenih dovoljenj.
+
+(8) Postopki za pridobitev okoljevarstvenega dovoljenja za obrat na podlagi 86. člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odl. US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 48/12, 57/12, 92/13 in 56/15), začeti pred uveljavitvijo tega zakona, se končajo po določbah Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odl. US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 48/12, 57/12, 92/13 in 56/15).
+
+(9) Inšpekcija iz prvega odstavka 156. člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odl. US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 48/12, 57/12, 92/13 in 56/15) pripravi prvi načrt inšpekcijskega nadzora iz 40. člena tega zakona najkasneje v dvanajstih mesecih od uveljavitve tega zakona.
+
+43\. člen
+
+**(začetek veljavnosti)**
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.«.
+
+---
+
+Gradbeni zakon – GZ (Uradni list RS, št. [61/17](http://www.uradni-list.si/1/objava.jsp?urlurid=20172914)) v zvezi s prenehanjem veljavnosti tretjega odstavka 69. člena, prenehanjem veljavnosti četrtega odstavka 82. člena in prenehanjem veljavnosti tretjega odstavka 86. člena zakona določa:
+
+»…uporabljajo pa se do začetka uporabe tega zakona.«;
+
+ter vsebuje naslednjo končno določbo:
+
+»126. člen
+
+**(začetek veljavnosti in uporabe zakona)**
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije, uporabljati pa se začne 1. junija 2018.«.
+
+---
+
+Zakon o nevladnih organizacijah – ZNOrg (Uradni list RS, št. [21/18](http://www.uradni-list.si/1/objava.jsp?urlurid=2018887)) vsebuje naslednjo končno določbo:
+
+»39. člen
+
+**(uveljavitev zakona)**
+
+(1) Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.
+
+(2) Določbe 28. člena tega zakona se začnejo uporabljati 1. januarja 2019.«.
+
+---
+
+Zakon o interventnih ukrepih pri ravnanju s komunalno odpadno embalažo in z odpadnimi nagrobnimi svečami – ZIURKOE (Uradni list RS, št. [84/18](http://www.uradni-list.si/1/objava.jsp?urlurid=20184120)) vsebuje naslednjo končno določbo:
+
+»19. člen
+
+Ta zakon začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.«.
+
+---
+
+Zakon o spremembah in dopolnitvah Zakona o varstvu okolja – ZVO-1J (Uradni list RS, št. [158/20](http://www.uradni-list.si/1/objava.jsp?urlurid=20202763)) vsebuje naslednje prehodne in končne določbe:
+
+**»PREHODNE IN KONČNE DOLOČBE**
+
+38\. člen
+
+**(veljavnost predpisov)**
+
+Z dnem uveljavitve tega zakona preneha veljati Odlok o seznamu upravljavcev naprav, ki izpuščajo toplogredne pline, za obdobje od leta 2013 do 2020 (Uradni list RS, št. 21/14), uporablja pa se do 31. decembra 2020.
+
+39\. člen
+
+**(uskladitev dovoljenj za izpuščanje toplogrednih plinov)**
+
+Ministrstvo dovoljenje za izpuščanje toplogrednih plinov, izdano do uveljavitve tega zakona na podlagi 119. člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odl. US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 108/09 – ZPNačrt-A, 48/12, 57/12, 92/13, 56/15, 102/15, 30/16, 61/17 – GZ, 21/18 – ZNOrg in 84/18 – ZIURKOE), po uradni dolžnosti uskladi z določbami zakona in izda novo dovoljenje za izpuščanje toplogrednih plinov najpozneje do 1. decembra 2020, pri čemer novo dovoljenje začne veljati s 1. januarjem 2021, prej veljavno dovoljenje pa preneha veljati z 31. decembrom 2020.
+
+40\. člen
+
+**(začetek veljavnosti in uporabe)**
+
+(1) Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.
+
+(2) Obveznosti iz spremenjenega 20. člena zakona se za osebe iz prvega in tretjega odstavka 25. člena ter družbo za ravnanje z odpadno embalažo iz prvega odstavka 26. člena Uredbe o ravnanju z embalažo in odpadno embalažo (Uradni list RS, št. 84/06, 106/06, 110/07, 67/11, 68/11 – popr., 18/14, 57/15, 103/15, 2/16 – popr., 35/17, 60/18, 68/18 in 84/18 – ZIURKOE) začnejo uporabljati s 1. januarjem 2021, do takrat pa se za njih uporablja 20. člen Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odl. US, 33/07 – ZPNačrt, 57/08 – ZFO-1A, 70/08, 108/09, 108/09 – ZPNačrt-A, 48/12, 57/12, 92/13, 56/15, 102/15, 30/16, 61/17 – GZ, 21/18 – ZNOrg in 84/18 – ZIURKOE).«.
+
+---
+
+Zakon o varstvu okolja – ZVO-2 (Uradni list RS, št. [44/22](http://www.uradni-list.si/1/objava.jsp?urlurid=2022873)) vsebuje naslednjo končno določbo:
+
+»321. člen
+
+**(začetek veljavnosti)**
+
+(1) Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.
+
+(2) Določbe 34. do 40. člena, 42. do 44. člena, 46. in 47. člena ter določbe 50. do 53. člena tega zakona se začnejo uporabljati s 1. januarjem 2023, razen določb prvega do sedmega odstavka 34. člena, prvega do četrtega odstavka 35. člena, prvega do šestega odstavka 36. člena, tretjega in četrtega odstavka 37. člena, četrtega do devetega odstavka in enajstega odstavka 38. člena, prvega odstavka 40. člena tega zakona, ki se začnejo uporabljati z dnem začetka veljavnosti tega zakona.«.

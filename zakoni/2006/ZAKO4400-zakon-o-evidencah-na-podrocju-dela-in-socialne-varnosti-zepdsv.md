@@ -1,0 +1,789 @@
+---
+title: "Zakon o evidencah na področju dela in socialne varnosti (ZEPDSV)"
+identifier: "ZAKO4400"
+abbreviation: "ZEPDSV"
+type: act
+jurisdiction: si
+language: sl
+act_kind: "Zakon"
+date: 2006-03-31
+published: 2006-04-14
+in_force_from: 2006-04-29
+last_amended: 2025-04-08
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "NPB 2 (neuradno prečiščeno besedilo)"
+citation: "Uradni list RS, št. 40/06, 50/23 in 24/25"
+adopted_by: "Državni zbor Republike Slovenije"
+eva: "2005-2611-0059"
+epa: "0642-IV"
+sop: "2006-01-1768"
+source: "https://pisrs.si/pregledPredpisa?id=ZAKO4400"
+retrieved: 2026-10-12
+---
+
+# Zakon o evidencah na področju dela in socialne varnosti (ZEPDSV)
+
+*Opozorilo: Neuradno prečiščeno besedilo predpisa predstavlja zgolj informativni delovni pripomoček, glede katerega organ ne jamči odškodninsko ali kako drugače.*
+
+Neuradno prečiščeno besedilo Zakona o evidencah na področju dela in socialne varnosti obsega:
+
+- Zakon o evidencah na področju dela in socialne varnosti – ZEPDSV (Uradni list RS, št. 40/06 z dne 14. 4. 2006),
+
+- Zakon o spremembah in dopolnitvah Zakona o evidencah na področju dela in socialne varnosti – ZEPDSV-A (Uradni list RS, št. 50/23 z dne 5. 5. 2023),
+
+- Zakon o spremembah in dopolnitvah Zakona o evidencah na področju dela in socialne varnosti – ZEPDSV-B (Uradni list RS, št. 24/25 z dne 8. 4. 2025).
+
+**ZAKON**
+
+**O EVIDENCAH NA PODROČJU DELA IN SOCIALNE VARNOSTI (ZEPDSV)**
+
+*(neuradno prečiščeno besedilo št. 2)*
+
+## I. SPLOŠNE DOLOČBE
+
+### 1. člen
+
+**(namen zakona)**
+
+Ta zakon določa vrste in vsebino evidenc na področju dela in socialne varnosti (v nadaljnjem besedilu: evidenca), način zbiranja podatkov, način vodenja in povezovanja evidenc, način posredovanja podatkov za potrebe državnih organov, lokalnih skupnosti in nosilcev javnih pooblastil ter ostalih uporabnikov (v nadaljnjem besedilu: uporabniki), ki te podatke potrebujejo za opravljanje zakonsko določenih nalog oziroma za vodenje zbirk podatkov o posameznikih ali posameznicah (v nadaljnjem besedilu: posamezniki) ter za namene izvajanja statističnih, socialno ekonomskih in drugih raziskovanj, ki imajo zakonsko podlago.
+
+### 2. člen
+
+**(opredelitev pojmov)**
+
+Izrazi v tem zakonu imajo naslednji pomen:
+
+- Uradne evidence so uradne zbirke podatkov, ki jih vodijo za to pooblaščeni organi in organizacije v Republiki Sloveniji.
+
+- Centralni register prebivalstva je uradna evidenca podatkov o državljanih in državljankah (v nadaljnjem besedilu: državljanih), ki imajo stalno ali začasno prebivališče v Republiki Sloveniji, in tujcih in tujkah (v nadaljnjem besedilu: tujcih), ki imajo dovoljenje za stalno ali začasno prebivanje v Republiki Sloveniji, o državljanih, ki so stalno ali začasno, za več kot tri mesece, odsotni iz Republike Slovenije, ter o tujcih, ki v Republiki Sloveniji nimajo dovoljenja za stalno ali začasno prebivanje, imajo pa določene pravice ali obveznosti na področju pokojninskega in invalidskega zavarovanja, davkov, iz humanitarnih razlogov ali na drugem področju, če je tako določeno z zakonom.
+
+- Poslovni register Slovenije je uradna evidenca o vseh poslovnih subjektih s sedežem na območju Republike Slovenije, ki opravljajo pridobitno ali nepridobitno dejavnost, o njihovih delih in podružnicah tujih podjetij, kakor jih določa zakon, ki ureja gospodarske družbe.
+
+- Davčni register je uradna evidenca zavezancev za davek.
+
+- Evidenca osebnih podatkov je zbirka osebnih podatkov oziroma vsak strukturiran niz podatkov, ki vsebuje vsaj en osebni podatek, ki je dostopen na podlagi meril, ki omogočajo uporabo ali združevanje podatkov, ne glede na to, ali je niz centraliziran, decentraliziran ali razpršen na funkcionalni ali geografski podlagi; strukturiran niz podatkov je niz podatkov, ki je organiziran na takšen način, da določi ali omogoči določljivost posameznika.
+
+- Upravljavec evidence je fizična ali pravna oseba ali druga oseba javnega ali zasebnega prava, ki sama ali skupaj z drugimi določa namene in sredstva obdelave osebnih podatkov oziroma oseba, določena z zakonom, ki določa tudi namene in sredstva obdelave.
+
+- Podatkovni vir je tisti, ki ima v skladu z zakonom pristojnost, da zbira določene podatke, oziroma je pristojen za to, da podatke posreduje.
+
+- Delavec ali delavka (v nadaljnjem besedilu: delavec) je vsaka fizična oseba, ki je v delovnem razmerju na podlagi sklenjene pogodbe o zaposlitvi.
+
+- Kot delavec se v smislu tega zakona šteje tudi oseba, ki na kakršni koli drugi pravni podlagi opravlja delo za delodajalca ali opravlja samostojno poklicno, kmetijsko ali drugo dejavnost, pod pogojem, da se zanjo uporabljajo določbe zakona, ki ureja delovna razmerja, glede delovnega časa, odmorov in počitkov ali ga opravlja osebno in je vključena v delovni proces delodajalca, in oseba, ki pri delodajalcu opravlja delo zaradi usposabljanja.
+
+- Delodajalec ali delodajalka (v nadaljnjem besedilu: delodajalec) je pravna in fizična oseba ter drug subjekt, kot je državni organ, lokalna skupnost, podružnica tujega podjetja ter diplomatsko in konzularno predstavništvo, ki zaposluje delavca na podlagi pogodbe o zaposlitvi.
+
+- Kot delodajalec se v smislu tega zakona šteje tudi oseba, ki na kakršnikoli drugi pravni podlagi zaposluje delavca oziroma osebo, ki opravlja delo. Kot delodajalec se šteje tudi kmet ali kmetica (v nadaljnjem besedilu: kmet) ali fizična oseba, ki sam ali s člani svojega gospodarstva oziroma z družinskimi člani opravlja kmetijsko, pridobitno ali drugo dejavnost kot edini ali glavni poklic in ne zaposluje drugih oseb.
+
+- Socialno zavarovanje obsega sistem obveznega zdravstvenega, pokojninskega in invalidskega zavarovanja oziroma zavarovanja za primer brezposelnosti in starševstva.
+
+- Povezovalni znaki so osebna identifikacijska številka in druge z zakonom opredeljene enolične identifikacijske številke posameznika, z uporabo katerih je mogoče zbirati oziroma priklicati osebne podatke iz tistih zbirk osebnih podatkov, v katerih so obdelovani tudi isti povezovalni znaki.
+
+- Spletni servis je računalniški vmesnik, ki omogoča neposredni vpogled v javne evidence državnih organov in nosilcev javnih pooblastil v postopkih odločanja o pravicah in obveznostih posameznikov na posameznih področjih.
+
+- Paketna izmenjava podatkov je izpis podatkov po želenem kriteriju, pri čemer dva upravljavca skleneta dogovor o zagotavljanju izmenjave sprememb podatkov iz posameznih baz.
+
+### 3. člen
+
+**(metodološka načela)**
+
+(1) Podatki v evidencah se vodijo po enotnih metodologijah, standardih, šifrantih in klasifikacijah, ki jih predpiše minister, pristojen za področje, v okviru katerega se vodi posamezna evidenca iz 6. člena tega zakona.
+
+(2) Podatki se zbirajo v evidencah tako, da se prenašajo iz listin, obrazcev ali računalniških nosilcev podatkov, ki jih upravljavcem evidenc posredujejo subjekti, ki so po zakonu dolžni voditi te podatke. Za potrebe zbiranja oziroma vnosa podatkov se lahko določeni podatki prenesejo tudi iz drugih evidenc.
+
+### 4. člen
+
+**(pridobivanje in posredovanje podatkov)**
+
+(1) Upravljavci evidenc iz točk a) do č) ter o) 6. člena tega zakona pridobivajo podatke neposredno od podatkovnega vira.
+
+(2) Upravljavci evidenc iz 6. člena tega zakona in upravljavci uradnih evidenc iz 8. člena tega zakona morajo omogočiti dostop do podatkov iz teh evidenc uporabnikom, določenim s tem zakonom, za namen vzpostavitve oziroma vodenja in vzdrževanja uradnih evidenc tako, da je omogočeno izvrševanje njihovih nalog, določenih z zakonom. Upravljavci evidenc omogočijo brezplačen dostop do navedenih podatkov.
+
+(3) Podatki, ki jih vsebujejo evidence po tem zakonu, se lahko pridobijo za vlagatelje oziroma za osebe, ki so stranke v postopkih iz prvega odstavka 5. člena tega zakona, lahko pa tudi za člane vlagateljeve družine ali gospodinjstva, če je to določeno s predpisom, ki ureja posamezno področje.
+
+(4) Upravljavci evidenc morajo v predpisanih rokih zagotavljati ažurno in točno stanje evidenc.
+
+(5) Upravljavci evidenc iz točk d) do n) 6. člena tega zakona in upravljavci uradnih evidenc iz 8. člena tega zakona omogočijo državnim organom, lokalnim skupnostim in nosilcem javnih pooblastil dostop iz drugega odstavka tega člena z vzpostavitvijo spletnih servisov, ki omogočajo neposreden vpogled v zbirke podatkov, in z vzpostavitvijo servisa za paketno izmenjavo podatkov.
+
+(6) Za podatke, za katere je z zakonom, ki ureja davčno področje, predpisano, da se smejo državnim organom, lokalnim skupnostim in nosilcem javnih pooblastil razkriti na podlagi obrazloženega pisnega zahtevka predstojnika organa ali z njegove strani pooblaščene osebe, velja, da se za pisni zahtevek šteje tudi zahtevek, ki je izmenjan v elektronski obliki z varnim elektronskim podpisom s kvalificiranim potrdilom.
+
+(7) Statistični urad Republike Slovenije in pooblaščeni izvajalci programa statističnih raziskovanj, določeni v vsakoletnem programu statističnih raziskovanj, so za te namene upravičeni do brezplačnega dostopa do podatkov iz evidenc iz 6. člena tega zakona.
+
+### 5. člen
+
+**(uporaba podatkov)**
+
+(1) Podatki, ki jih vsebujejo evidence iz 6. člena tega zakona, se lahko uporabljajo za odločanje v upravnih postopkih v skladu z zakoni, ki urejajo posamezna področja, ter za namene izvajanja statističnih, socialno ekonomskih in drugih raziskovanj, ki imajo zakonsko podlago.
+
+(2) Za vzpostavitev neposredne računalniške povezave, preko katere se bodo posredovali podatki uporabnikom iz 1. člena tega zakona, je potrebno predhodno soglasje ministra ali ministrice (v nadaljnjem besedilu: ministra), pristojnega za delo, družino in socialne zadeve, ter ministra, pristojnega za področje, v okviru katerega se vodi posamezna zbirka, ter informacijskega pooblaščenca ali pooblaščenke.
+
+## II. EVIDENCE
+
+### 6. člen
+
+**(vrste evidenc)**
+
+Na področju dela in socialne varnosti se vodijo naslednje evidence:
+
+a) evidenca o zaposlenih delavcih,
+
+b) evidenca o stroških dela,
+
+c) evidenca o izrabi delovnega časa,
+
+č) evidenca o oblikah razreševanja kolektivnih delovnih sporov pri delodajalcu,
+
+d) evidenca brezposelnih oseb,
+
+e) evidenca o potrebi po delavcih,
+
+f) evidenca o državljanih Evropske unije in z njimi izenačenih državljanov, ki se zaposlijo in delajo na ozemlju Republike Slovenije,
+
+g) evidenca o državljanih tretjih držav, ki se zaposlijo in delajo na ozemlju Republike Slovenije,
+
+h) evidenca o zavarovancih in uživalcih pravic iz obveznega zdravstvenega zavarovanja,
+
+i) evidenca o družinskih članih državljanov Republike Slovenije na začasnem delu v tujini – upravičencih do zdravstvenega varstva,
+
+j) evidenca o zavarovancih in uživalcih pravic iz pokojninskega in invalidskega zavarovanja,
+
+k) evidenca o socialnih prejemkih,
+
+l) evidenca o družinskih prejemkih,
+
+m) evidenca o starševskih nadomestilih,
+
+n) evidenca o uživalcih pravic iz naslova varstva vojnih invalidov, vojnih veteranov in žrtev vojnega nasilja,
+
+o) evidence s področja varnosti in zdravja pri delu.
+
+### 7. člen
+
+**(upravljavci evidenc)**
+
+(1) Evidence iz točk a), b), c) in č) prejšnjega člena vodijo delodajalci v skladu z določbami tega zakona za namene uveljavljanja pravic iz sistema socialnega zavarovanja in socialnega varstva, za namen zagotavljanja statističnega spremljanja ter za potrebe inšpekcijskega nadzora.
+
+(2) Evidence iz točk d, e), f) in g) prejšnjega člena vodi Zavod Republike Slovenije za zaposlovanje na podlagi zakona, ki ureja zaposlovanje in zavarovanje za primer brezposelnosti, na podlagi zakona, ki ureja zaposlovanje in delo tujcev, ter na podlagi zakona, ki ureja zaposlitveno rehabilitacijo in zaposlovanje invalidov, razen evidence zaposlenih invalidov v podporni zaposlitvi, evidence invalidov, zaposlenih v zaščitni zaposlitvi, in evidence invalidov, zaposlenih v invalidskih podjetjih, ki jih vodi Sklad Republike Slovenije za vzpodbujanje zaposlovanja invalidov.
+
+(3) Evidence iz točk h) in i) prejšnjega člena vodi Zavod za zdravstveno zavarovanje Slovenije na podlagi zakona, ki ureja zdravstveno varstvo in zdravstveno zavarovanje.
+
+(4) Evidenco iz točke j) prejšnjega člena vodi Zavod za pokojninsko in invalidsko zavarovanje Slovenije na podlagi zakona, ki ureja matično evidenco o zavarovancih in uživalcih pravic iz pokojninskega zavarovanja.
+
+(5) Evidence iz točke k) prejšnjega člena vodi ministrstvo, pristojno za socialne zadeve, na podlagi zakona, ki ureja socialno varstvo, oziroma v sodelovanju z drugimi ministrstvi, ki so pristojna za posamezne vrste socialnih prejemkov.
+
+(6) Evidenci iz točk l) in m) prejšnjega člena vodi ministrstvo, pristojno za družino, na podlagi zakona, ki ureja starševsko varstvo in družinske prejemke.
+
+(7) Evidenco iz točke n) prejšnjega člena vodi ministrstvo, pristojno za varstvo vojnih invalidov, vojnih veteranov in žrtev vojnega nasilja na podlagi zakonov, ki urejajo varstvo vojnih invalidov, vojnih veteranov in žrtev vojnega nasilja.
+
+(8) Evidence iz točke o) prejšnjega člena vodijo delodajalci na podlagi zakona, ki ureja varnost in zdravje pri delu.
+
+### 8. člen
+
+**(uradne evidence podatkov)**
+
+Na področju dela in socialne varnosti se za namen vodenja evidenc iz točk d) do n) 6. člena tega zakona in za izvajanje nalog, določenih z zakonom, uporabljajo podatki iz naslednjih uradnih evidenc podatkov:
+
+a) Centralni register prebivalstva, ki ga vodi ministrstvo, pristojno za notranje zadeve, zagotavlja državnim organom, lokalnim skupnostim in nosilcem javnih pooblastil dostop do naslednjih podatkov:
+
+- enotna matična številka občana (v nadaljnjem besedilu: EMŠO),
+
+- davčna številka,
+
+- kraj rojstva,
+
+- država rojstva, če je kraj rojstva v tujini,
+
+- osebno ime,
+
+- državljanstvo,
+
+- stalno prebivališče,
+
+- začasno prebivališče, če je oseba tujec,
+
+- zakonski stan,
+
+- izobrazba,
+
+- EMŠO matere, očeta, zakonca in otrok,
+
+- datumi in podatki o dogodkih, spremembah ali popravkih.
+
+b) Poslovni register Slovenije (v nadaljnjem besedilu: PRS), ki ga vodi Agencija za javnopravne evidence in storitve (v nadaljnjem besedilu: AJPES), zagotavlja državnim organom, lokalnim skupnostim in nosilcem javnih pooblastil dostop do naslednjih podatkov o posamezni enoti poslovnega registra:
+
+- datum vpisa v poslovni register,
+
+- matična številka poslovnega subjekta, številke transakcijskih računov, davčna številka,
+
+- popolno ali dolgo ime, kratko ime, sedež in naslov poslovnega subjekta (ulica, hišna številka, dodatek k hišni številki, naselje, občina, poštna številka, ime pošte, upravna enota in podatki o geokodi),
+
+- datum akta o ustanovitvi, podatki o vpisu pri registrskem organu (organ, datum, številka akta o vpisu in zaporedna številka vpisa),
+
+- registrirana oziroma z aktom o ustanovitvi določena dejavnost po standardni klasifikaciji dejavnosti (v nadaljnjem besedilu: SKD), glavna dejavnost po SKD,
+
+- institucionalni sektor po standardni klasifikaciji institucionalnih sektorjev,
+
+- pravnoorganizacijska oblika,
+
+- vrsta društva (samo za društva),
+
+- poseben status,
+
+- podatki o ustanoviteljih (osebno ime ali firma, sedež in naslov stalnega ali začasnega prebivališča, EMŠO ali matična številka, davčna številka),
+
+- poreklo ustanovitvenega kapitala, države ustanovitvenega kapitala, vrsta lastnine po pretežnem deležu, lastniški delež Republike Slovenije,
+
+- podatki o zastopnikih (osebno ime, naslov stalnega ali začasnega prebivališča, davčna številka, EMŠO in vrsta zastopnika),
+
+- telefon, telefaks, elektronski naslov in naslov spletne strani (če jih enota poslovnega registra posreduje),
+
+- vrsta in datum spremembe,
+
+- podatki o izbrisu (vrsta, datum, pravni naslednik),
+
+- davčna številka,
+
+- EMŠO,
+
+- lastniški delež gospodarskih družb,
+
+- podatki o poslovanju gospodarske družbe (družba posluje: da, ne),
+
+- številke računov gospodarskih družb,
+
+- šifra proračunskega uporabnika.
+
+c) Davčni register, ki ga vodi Davčna uprava Republike Slovenije (v nadaljnjem besedilu: DURS), zagotavlja državnim organom, lokalnim skupnostim in nosilcem javnih pooblastil, pod pogoji in na način, ki jih predpisuje davčna zakonodaja, dostop do naslednjih podatkov:
+
+O fizičnih osebah:
+
+- davčna številka, številke transakcijskih računov pri izvajalcih plačilnega prometa,
+
+- osebni podatki: osebno ime, rojstni podatki, EMŠO, podatki o državljanstvu, naslov stalnega in začasnega prebivališča, naslov za vročanje (naselje, ulica, hišna številka in pošta), drugi podatki o fizični osebi (zaposlena ali nezaposlena; delodajalec, podatek o tem, ali je oseba prijavljena na Zavodu Republike Slovenije za zaposlovanje, upokojenec, kmet, študent, dijak), datum smrti,
+
+- podatki o družini (osebno ime in naslov stalnega oziroma začasnega prebivališča ter davčna številka zakonca oziroma osebe, s katero živi fizična oseba v življenjski skupnosti, ki je po predpisih, ki urejajo zakonsko zvezo in družinska razmerja, v pravnih posledicah izenačena z zakonsko zvezo, osebno ime in naslov stalnega in začasnega prebivališča vzdrževanih družinskih članov ter njihovo davčno številko),
+
+- podatki o osebah, ki so pooblaščene za zastopanje fizične osebe (davčna številka, osebno ime, naslov prebivališča, tip zastopnika, meje pooblastil za zastopanje, datum podelitve pooblastila, datum prenehanja pooblastila, podatki o elektronskem certifikatu),
+
+- podatki o kapitalskih naložbah doma in v tujini, in sicer: firma, sedež in organizacijska oblika podjetja.
+
+O pravnih osebah, združenjih oseb po tujem pravu, ki so brez pravne osebnosti, in drugih osebah, ki opravljajo dejavnost:
+
+- davčna številka, identifikacijska številka, ki jo določi upravljavec poslovnega registra, šifra dejavnosti po standardni klasifikaciji dejavnosti (šifra razreda in podrazreda), številke transakcijskih računov pri izvajalcih plačilnega prometa in številke deviznih računov v Republiki Sloveniji in izven Republike Slovenije, davčne številke in številke transakcijskih računov pri izvajalcih plačilnega prometa in številke deviznih računov v Republiki Sloveniji in izven Republike Slovenije tudi za povezane osebe, določene z zakonom; davčna številka, firma oziroma osebno ime, sedež in naslov osebe, ki vodi poslovne knjige, če se poslovne knjige ne vodijo pri zavezancu za davek,
+
+- firma oziroma ime, sedež in naslov (občina, naselje, ulica, hišna številka, dodatek k hišni številki, poštna številka, vse potrebne službene in domače številke telefonov in telefaksov, naslov službene elektronske pošte), podatki o številu in lokaciji poslovnih in drugih prostorov, ki se uporabljajo za opravljanje dejavnosti in pridobivanje dohodkov; podatki o poslovnih enotah doma in v tujini; podatki o ustanoviteljih, družbenikih oziroma članih (davčna številka, ime in priimek oziroma firma, naslov prebivališča oziroma sedeža, država prebivališča oziroma sedeža, vrsta in obseg odgovornosti, datum vstopa in datum izstopa),
+
+- podatki o kapitalskih naložbah doma in v tujini, in sicer: firma, sedež in organizacijska oblika podjetja v tujini,
+
+- podatki o osebah, ki so pooblaščene za zastopanje pravne osebe in druge osebe, ki opravlja dejavnost (davčna številka, osebno ime, naslov prebivališča, tip zastopnika, meje pooblastil za zastopanje, datum podelitve pooblastila, datum prenehanja pooblastila, podatki o elektronskem certifikatu),
+
+- podatki o postopku prisilne poravnave, likvidacije oziroma stečaja in o drugi vrsti prenehanja (datum pravnomočnega sklepa o začetku postopka, datum pravnomočnega sklepa o koncu postopka in način končanja postopka),
+
+- podatki o statusnih spremembah.
+
+č) Evidenca o davkih, ki jo vodi DURS, zagotavlja državnim organom, lokalnim skupnostim in nosilcem javnih pooblastil, pod pogoji in na način, ki jih predpisuje davčna zakonodaja, dostop do:
+
+- podatkov iz davčnih napovedi in iz obračunov davka,
+
+- podatkov iz odločb o odmeri davkov.
+
+d) Knjigovodska evidenca, ki jo vodi DURS, zagotavlja državnim organom, lokalnim skupnostim in nosilcem javnih pooblastil, pod pogoji in na način, ki jih predpisuje davčna zakonodaja, dostop do:
+
+- podatkov o stanju terjatev in gibanju terjatev in obveznosti davčnega zavezanca.
+
+### 9. člen
+
+**(tehnični pogoji uporabe in izmenjave osebnih podatkov)**
+
+Tehnične pogoje uporabe in izmenjave osebnih podatkov predpiše Vlada Republike Slovenije.
+
+### 10. člen
+
+**(povezljivost na zahtevo)**
+
+(1) Zavod Republike Slovenije za zaposlovanje ima za potrebe izvajanja obveznega socialnega zavarovanja in socialnega varstva pravico do dostopa in uporabe osebnih podatkov iz evidenc iz 6. člena tega zakona ter iz uradnih evidenc iz 8. člena tega zakona.
+
+(2) Zavod za zdravstveno zavarovanje Slovenije ima za potrebe izvajanja obveznega socialnega zavarovanja in socialnega varstva pravico do dostopa in uporabe osebnih podatkov iz evidenc iz 6. člena tega zakona ter iz uradnih evidenc iz 8. člena tega zakona.
+
+(3) Zavod za pokojninsko in invalidsko zavarovanje Slovenije ima za potrebe vodenja postopkov za priznanje pravic iz naslova pokojninskega in invalidskega zavarovanja pravico do dostopa in uporabe osebnih podatkov iz evidenc iz 6. člena tega zakona ter iz uradnih evidenc iz 8. člena tega zakona.
+
+(4) Ministrstvo, pristojno za delo, družino in socialne zadeve, ima za potrebe vodenja postopkov za priznanje pravic iz naslova socialnega varstva, starševskega varstva, družinskih prejemkov ter varstva vojnih invalidov, vojnih veteranov in žrtev vojnega nasilja pravico do dostopa in uporabe osebnih podatkov iz evidenc iz 6. člena tega zakona ter iz uradnih evidenc iz 8. člena tega zakona.
+
+(5) Statistični urad Republike Slovenije ima za potrebe izvajanja nacionalnega programa izvajanja statističnih raziskovanj v skladu z zakonom pravico do dostopa in uporabe osebnih podatkov iz evidenc iz 6. člena tega zakona ter iz uradnih evidenc iz 8. člena tega zakona.
+
+### 11. člen
+
+**(povezovalni znak)**
+
+Za namene enotne opredelitve in povezave podatkov iz evidenc iz 6. člena tega zakona ter iz uradnih evidenc iz 8. člena tega zakona se kot povezovalni znak uporabljata EMŠO in davčna številka za fizične osebe ter davčna in matična številka delodajalca iz PRS za pravne osebe.
+
+## III. EVIDENCE, KI JIH VODIJO DELODAJALCI
+
+### 12. člen
+
+**(evidence, ki jih vodijo delodajalci)**
+
+Delodajalci vodijo naslednje evidence v skladu s tem zakonom:
+
+- evidenco o zaposlenih delavcih,
+
+- evidenco o stroških dela,
+
+- evidenco o izrabi delovnega časa,
+
+- evidenco o oblikah reševanja kolektivnih delovnih sporov pri delodajalcu.
+
+### 13. člen
+
+**(evidenca o zaposlenih delavcih)**
+
+V evidenco o zaposlenih delavcih se za vsakega delavca, ki je v delovnem razmerju, vpišejo:
+
+a) podatki o delavcu:
+
+- osebno ime,
+
+- datum rojstva, če oseba nima EMŠO,
+
+- kraj rojstva,
+
+- država rojstva, če je kraj rojstva v tujini,
+
+- enotna matična številka občana,
+
+- davčna številka,
+
+- državljanstvo,
+
+- naslov stalnega prebivališča (ulica, hišna številka, kraj, poštna številka, šifra občine, občina, šifra države, država),
+
+- naslov začasnega prebivališča (ulica, hišna številka, kraj, poštna številka, šifra občine, občina, šifra države, država),
+
+- izobrazba,
+
+- ali je delavec invalid,
+
+- kategorija invalidnosti,
+
+- ali je delavec delno upokojen,
+
+- ali delavec opravlja dopolnilno delo pri drugem delodajalcu,
+
+- ime drugega delodajalca (in matična številka), pri katerem delavec opravlja dopolnilno delo,
+
+- naslov drugega delodajalca, pri katerem delavec opravlja dopolnilno delo (ulica, hišna številka, poštna številka, kraj);
+
+b) podatki o delovnem dovoljenju delavca (tujci):
+
+- vrsta delovnega dovoljenja,
+
+- datum izdaje delovnega dovoljenja,
+
+- datum izteka delovnega dovoljenja,
+
+- številka delovnega dovoljenja,
+
+- organ, ki je izdal delovno dovoljenje;
+
+c) podatki o sklenjeni pogodbi o zaposlitvi:
+
+- datum sklenitve pogodbe o zaposlitvi,
+
+- datum nastopa dela,
+
+- vrsta sklenjene pogodbe o zaposlitvi,
+
+- razlog za sklenitev pogodbe o zaposlitvi za določen čas,
+
+- poklic, ki ga opravlja delavec,
+
+- strokovna usposobljenost, potrebna za opravljanje del in nalog delovnega mesta, za katero je delavec sklenil pogodbo o zaposlitvi,
+
+- naziv delovnega mesta oziroma podatki o vrsti dela, za katerega je delavec sklenil pogodbo o zaposlitvi,
+
+- število ur tedenskega rednega delovnega časa,
+
+- razporeditev delovnega časa,
+
+- kraj, kjer delavec opravlja delo,
+
+- ali pogodba o zaposlitvi delavca vsebuje konkurenčno klavzulo;
+
+č) podatki o prenehanju pogodbe o zaposlitvi:
+
+- datum prenehanja pogodbe o zaposlitvi,
+
+- način prenehanja pogodbe o zaposlitvi.
+
+### 14. člen
+
+**(vodenje evidence o zaposlenih delavcih)**
+
+(1) Evidenca o zaposlenih delavcih se začne za posameznega delavca voditi z dnem, ko sklene pogodbo o zaposlitvi, preneha pa z dnem, ko mu preneha pogodba o zaposlitvi.
+
+(2) Delavec mora delodajalcu prijaviti spremembe osebnih podatkov iz točke a) prejšnjega člena v osmih dneh po nastanku spremembe.
+
+(3) Dokumenti s podatki o delavcu, za katerega se preneha voditi evidenca o zaposlenih delavcih, in izvirne listine, na podlagi katerih se vpisujejo podatki v evidenco o zaposlenih delavcih, se hranijo kot listina trajne vrednosti, ki jo mora delodajalec predložiti na zahtevo pristojnega organa.
+
+(4) Ob prenehanju dejavnosti delodajalca prevzame arhiv podatkov o delavcu pravni naslednik. Če pravnega naslednika ni, arhivsko gradivo prevzame Arhiv Republike Slovenije.
+
+### 15. člen
+
+**(posredovanje podatkov)**
+
+Delodajalec podatke iz evidence o zaposlenih delavcih posreduje Zavodu za zdravstveno zavarovanje Slovenije z dnem nastopa dela po pogodbi o zaposlitvi, vendar najpozneje pred začetkom opravljanja dela. Če delavec tega dne iz opravičljivih razlogov ne začne z delom, delodajalec podatke posreduje najpozneje tistega dne, ki je kot dan nastopa dela dogovorjen v pogodbi o zaposlitvi. Podatke delodajalec sporoči ob prijavi v zavarovanje na predpisanih obrazcih.
+
+### 16. člen
+
+**(evidenca o stroških dela)**
+
+Delodajalec mesečno za vsakega delavca vpisuje v evidenco o stroških dela naslednje:
+
+a) podatke o delavcu:
+
+poleg podatkov iz točke a) 13. člena vpisuje še:
+
+- številko transakcijskega računa, na katerega se izplačujejo plače in ostali prejemki;
+
+b) podatke o plačah in nadomestilih plač, ki bremenijo delodajalca:
+
+plača za tekoči mesec, izplačana v skladu s kolektivno pogodbo oziroma pogodbo o zaposlitvi:
+
+- bruto plača za delo s polnim delovnim časom,
+
+- bruto plača za delo s krajšim delovnim časom od polnega,
+
+- bruto izplačila za delo preko polnega delovnega časa (nadurno delo),
+
+- bruto nadomestila plač, ki bremenijo delodajalca;
+
+- zaostala izplačila in nadomestila plač, ki bremenijo delodajalca, izplačana v skladu s kolektivno pogodbo oziroma pogodbo o zaposlitvi:
+
+- bruto zaostala izplačila in nadomestila plač;
+
+izredno izplačilo (izplačilo po drugih osnovah, ki ne predstavlja redne mesečne plače):
+
+- bruto izplačila na podlagi osebne delovne uspešnosti,
+
+- dodatna denarna izplačila iz naslova uspešnosti poslovanja;
+
+neto plača (za mesec poročanja, za zaostala izplačila, nadomestila plač in za izredna izplačila):
+
+- plača,
+
+- zaostalo izplačilo,
+
+- nadomestilo plače,
+
+- izredno izplačilo;
+
+c) podatke o drugih stroških dela:
+
+- povračila stroškov v zvezi z delom,
+
+- regres za letni dopust,
+
+- jubilejna nagrada,
+
+- dodatna plačila, namenjena socialni varnosti delavcev,
+
+- plačila za prostovoljno pokojninsko zavarovanje,
+
+- solidarnostna pomoč,
+
+- odpravnina,
+
+- stroški izobraževanja delavcev,
+
+- davki na izplačane plače,
+
+- ostali stroški dela;
+
+č) podatke o zakonsko določenih prispevkih za socialno varnost za posameznega delavca:
+
+prispevki v breme delodajalca:
+
+- plačani prispevki za pokojninsko in invalidsko zavarovanje,
+
+- plačani prispevki za zdravstveno zavarovanje,
+
+- plačani prispevki za starševsko varstvo,
+
+- plačani prispevki za zaposlovanje;
+
+prispevki v breme zavarovanca:
+
+- plačani prispevki za pokojninsko in invalidsko zavarovanje,
+
+- plačani prispevki za zdravstveno zavarovanje,
+
+- plačani prispevki za starševsko varstvo,
+
+- plačani prispevki za zaposlovanje.
+
+### 17. člen
+
+**(vodenje evidence o stroških dela)**
+
+(1) Evidenca o stroških dela se začne za posameznega delavca voditi z dnem, ko sklene pogodbo o zaposlitvi, preneha pa z dnem, ko mu preneha pogodba o zaposlitvi.
+
+(2) Dokumenti s podatki o delavcu, za katerega se preneha voditi evidenca o stroških dela, se hranijo kot listina trajne vrednosti, ki jo mora delodajalec predložiti na zahtevo pristojnega organa.
+
+(3) Ob prenehanju dejavnosti delodajalca prevzame arhiv podatkov o stroških dela pravni naslednik. Če pravnega naslednika ni, prevzame arhivsko gradivo Arhiv Republike Slovenije.
+
+### 18. člen
+
+**(evidenca o izrabi delovnega časa)**
+
+(1) Delodajalec dnevno vpisuje v evidenco o izrabi delovnega časa za posameznega delavca naslednje podatke:
+
+1. podatke o številu ur,
+
+2. skupno število opravljenih delovnih ur s polnim delovnim časom in s krajšim delovnim časom od polnega, z oznako vrste opravljenega delovnega časa,
+
+3. opravljene ure v času nadurnega dela,
+
+4. neopravljene ure, za katere se prejema nadomestilo plače iz sredstev delodajalca, z oznako vrste nadomestila,
+
+5. neopravljene ure, za katere se prejema nadomestilo plače v breme drugih organizacij ali delodajalcev in organov, z oznako vrste nadomestila,
+
+6. neopravljene ure, za katere se ne prejema nadomestilo plače,
+
+7. število ur pri delih na delovnem mestu, za katera se šteje zavarovalna doba s povečanjem oziroma na katerih je obvezno dodatno pokojninsko zavarovanje, z oznako vrste statusa,
+
+8. čas prihoda na delo in odhoda delavca z dela,
+
+9. opravljene ure v drugih posebnih pogojih dela, ki izhajajo iz razporeditve delovnega časa (zlasti opravljene ure nočnega, nedeljskega, izmenskega, prazničnega dela, dela v deljenem delovnem času in druge oblike razporeditve delovnega časa, določene z zakonom ali kolektivno pogodbo),
+
+10. opravljene ure v neenakomerno razporejenem delovnem času ali v začasno prerazporejenem delovnem času in
+
+11. tekoči seštevek ur v tednu, mesecu oziroma letu, iz katerega je razvidno referenčno obdobje, ki se upošteva za neenakomerno razporeditev in za začasno prerazporeditev polnega delovnega časa.
+
+(2) Ne glede na prejšnji odstavek lahko delodajalec podatke iz 9. in 11. točke prejšnjega odstavka vpisuje mesečno.
+
+### 19. člen
+
+**(vodenje evidence o izrabi delovnega časa)**
+
+(1) Evidenca o izrabi delovnega časa se začne za posameznega delavca voditi z dnem, ko sklene pogodbo o zaposlitvi, preneha pa z dnem, ko mu preneha pogodba o zaposlitvi.
+
+(2) Dokumenti s podatki o delavcu, za katerega se preneha voditi evidenca o izrabi delovnega časa, se hranijo kot listina trajne vrednosti, ki jo je delodajalec dolžan predložiti na zahtevo pristojnega organa.
+
+(3) Ob prenehanju dejavnosti delodajalca prevzame arhiv podatkov o izrabi delovnega časa pravni naslednik. Če pravnega naslednika ni, prevzame arhivsko gradivo Arhiv Republike Slovenije.
+
+(4) Delodajalec delavcu zagotavlja vpogled v podatke iz evidence o izrabi delovnega časa, ki se nanašajo nanj. Delodajalec delavca pisno obvesti o podatkih iz evidence o izrabi delovnega časa za pretekli mesec do konca plačilnega dne. Pisno obvestilo se lahko pošlje tudi po elektronski poti na elektronski naslov delavca, ki ga zagotavlja in uporabo nalaga delodajalec ali katerega uporabo dogovorita. Delavec lahko od delodajalca enkrat tedensko zahteva, da ga pisno seznani s podatki iz evidence o izrabi delovnega časa. Za obveznost seznanitve iz prejšnjega stavka se šteje tudi neposreden elektronski dostop delavca do evidence o izrabi delovnega časa, ki ga zagotavlja delodajalec.
+
+(5) Delodajalec evidenco o izrabi delovnega časa in dokumentacijo, na podlagi katere se v evidenco o izrabi delovnega časa vpisujejo podatki, hrani na sedežu ali na kraju opravljanja dela delavca.
+
+(6) Obveznost delodajalca voditi evidenco o izrabi delovnega časa ne velja za poslovodne osebe.
+
+### 19.a člen
+
+**(obveznost elektronskega vodenja evidenc)**
+
+(1) Delodajalec dve leti vodi evidenco o izrabi delovnega časa elektronsko, če mu je bila:
+
+1. pravnomočno izrečena globa na podlagi prvega, drugega ali tretjega odstavka 217.a člena Zakona o delovnih razmerjih (Uradni list RS, št. 21/13, 78/13 – popr., 47/15 – ZZSDT, 33/16 – PZ-F, 52/16, 15/17 – odl. US, 22/19 – ZPosS, 81/19, 203/20 – ZIUPOPDVE, 119/21 – ZČmIS-A, 202/21 – odl. US, 15/22 in 54/22 – ZUPŠ-1; v nadaljnjem besedilu: ZDR-1), ki se nanaša na prekrške iz 5., 8., 9., 10., 11., 12., 13., 14. ali 15. točke prvega odstavka 217.a člena ZDR-1, ali
+
+2. pravnomočno izrečena globa na podlagi prvega, drugega, tretjega, četrtega ali petega odstavka 23. člena tega zakona.
+
+(2) Delodajalec začne voditi evidenco na način iz prejšnjega odstavka v treh mesecih od pravnomočnosti odločbe.
+
+(3) Naknadna sprememba podatka elektronske evidence iz 18. člena tega zakona mora vsebovati tudi razlog spremembe in čas vpisa spremembe, ki ga zagotavlja delodajalec.
+
+### 19.b člen
+
+**(predlog za uvedbo elektronskega načina vodenja evidence)**
+
+(1) Sindikat pri delodajalcu, če ta ni organiziran, pa svet delavcev oziroma delavski zaupnik, lahko poda pisni predlog delodajalcu za uvedbo elektronskega načina vodenja evidence o izrabi delovnega časa. Delodajalec mora predlog obravnavati in se do njega opredeliti v 30 dneh od prejema.
+
+(2) Če delodajalec zavrne predlog iz prejšnjega odstavka, mora svojo odločitev pisno utemeljiti, o zavrnitvi predloga pa hkrati pisno obvestiti tudi inšpektorat, pristojen za delo. Predlog iz prejšnjega odstavka se lahko znova poda po preteku enega leta od pisne utemeljitve zavrnitve predloga.
+
+(3) Delodajalec, ki ugodi predlogu za uvedbo elektronskega načina vodenja evidence o izrabi delovnega časa iz prvega odstavka tega člena, mora začeti voditi evidenco o izrabi delovnega časa elektronsko v treh mesecih od poteka roka iz prvega odstavka tega člena.
+
+(4) Naknadna sprememba podatka elektronske evidence iz 18. člena tega zakona mora vsebovati tudi razlog spremembe in čas vpisa spremembe, ki ga zagotavlja delodajalec.
+
+### 19.c člen
+
+**(obveščanje in seznanitev delavca o podatkih iz evidence)**
+
+(1) Za izpolnitev obveznosti podaje pisnega obvestila o podatkih iz evidence o izrabi delovnega časa za pretekli mesec iz četrtega odstavka 19. člena tega zakona se šteje tudi neposreden elektronski dostop delavca do evidence o izrabi delovnega časa, ki ga zagotavlja delodajalec.
+
+(2) Delavec neposredni elektronski dostop iz prejšnjega odstavka in četrtega odstavka 19. člena tega zakona uresničuje brez prisotnosti delodajalca.
+
+### 20. člen
+
+**(evidenca o oblikah razreševanja kolektivnih delovnih sporov pri delodajalcu)**
+
+(1) Evidenca o oblikah reševanja kolektivnih delovnih sporov pri delodajalcu vsebuje naslednje podatke o stavkah:
+
+a) podatke o delodajalcu:
+
+- ime delodajalca,
+
+- naslov delodajalca,
+
+- matična številka delodajalca iz PRS,
+
+- davčna številka delodajalca,
+
+- šifra dejavnosti delodajalca po SKD,
+
+- ime kolektivne pogodbe in šifra,
+
+- število zaposlenih,
+
+- šifra proračunskega porabnika;
+
+b) podatke o organizatorju stavke:
+
+- naziv organizatorja stavke;
+
+c) podatke o stavki:
+
+- število delodajalcev, pri katerih je stavka potekala sočasno,
+
+- število delavcev, ki so neposredno sodelovali v stavki,
+
+- število delavcev, ki so posredno sodelovali v stavki,
+
+- razlogi za stavko,
+
+- ali so bile pred začetkom stavke uporabljene druge oblike razreševanja delovnih sporov (pomirjanje, arbitraža),
+
+- trajanje stavke,
+
+- število izgubljenih delovnih dni,
+
+- ocena stroškov, ki jih je zaradi stavke utrpel delodajalec,
+
+- ocena rezultatov stavke.
+
+(2) Evidenca o oblikah razreševanja kolektivnih delovnih sporov pri delodajalcu vsebuje naslednje podatke o arbitražah delovnih sporov:
+
+a) podatke o delodajalcu:
+
+- ime delodajalca,
+
+- naslov delodajalca,
+
+- matična številka delodajalca iz PRS,
+
+- davčna številka delodajalca,
+
+- šifra dejavnosti delodajalca po SKD,
+
+- ime kolektivne pogodbe in šifra,
+
+- število zaposlenih,
+
+- šifra proračunskega porabnika;
+
+b) podatke o sindikalni organizaciji ali skupini delavcev ali delavcu, ki je stranka v delovnem sporu:
+
+- ime sindikalne organizacije,
+
+- naslov sindikalne organizacije,
+
+- število delavcev, ki so stranke v delovnem sporu;
+
+c) podatke o arbitražah delovnih sporov:
+
+- vrsta delovnega spora,
+
+- razlogi za delovni spor,
+
+- ali je bil delovni spor rešen s pomočjo arbitraže.
+
+### 21. člen
+
+**(posredovanje podatkov o oblikah razreševanja kolektivnih delovnih sporov pri delodajalcu)**
+
+(1) V sedmih dneh po koncu stavke ali arbitraže delovnega spora mora delodajalec, pri katerem je stavka ali arbitraža delovnega spora potekala, poslati podatke iz evidence o oblikah razreševanja kolektivnih delovnih sporov pri delodajalcu Statističnemu uradu Republike Slovenije, ki zbira in obdeluje podatke o stavkah in arbitražah delovnih sporov na ravni države.
+
+(2) Delodajalec pošlje podatke iz evidence o oblikah razreševanja kolektivnih delovnih sporov pri delodajalcu na obrazcu, ki ga predpiše minister, pristojen za delo.
+
+## IV. NADZOR
+
+### 22. člen
+
+Nadzor nad izvrševanjem določb tega zakona in predpisov, izdanih na njegovi podlagi, izvaja organ, pristojen za inšpekcijo dela.
+
+## V. KAZENSKE DOLOČBE
+
+### 23. člen
+
+**(prekrški v zvezi z vodenjem evidenc)**
+
+(1) Z globo od 1.500 do 20.000 eurov se kaznuje delodajalec – pravna oseba, samostojni podjetnik posameznik oziroma posameznik, ki samostojno opravlja dejavnost, ki:
+
+- ne vodi, hrani ali posodablja evidenc iz 12. člena tega zakona v skladu s 4. členom tega zakona,
+
+- v evidencah iz 12. člena tega zakona navede neresnične, nepravilne ali nepopolne podatke (5. člen),
+
+- uporabi podatke iz evidenc iz 12. člena tega zakona za druge namene, kot so določeni v skladu s 1. in 5. členom tega zakona,
+
+- ne predloži podatkov iz evidenc iz 12. člena tega zakona v skladu s 14., 15., 17., 18., 19. in 21. členom tega zakona,
+
+- delavca pisno ne obvesti o podatkih iz evidence o izrabi delovnega časa v skladu s četrtim odstavkom 19. člena tega zakona,
+
+- ne hrani evidence o izrabi delovnega časa ali dokumentacije, na podlagi katere se v evidenco o izrabi delovnega časa vpisujejo podatki v skladu s petim odstavkom 19. člena tega zakona.
+
+(2) Z globo od 300 do 8.000 eurov se kaznuje manjši delodajalec – pravna oseba, samostojni podjetnik posameznik oziroma posameznik, ki samostojno opravlja dejavnost, če stori prekršek iz prejšnjega odstavka.
+
+(3) Z globo od 150 do 1.200 eurov se kaznuje delodajalec posameznik, če stori prekršek iz prvega odstavka tega člena.
+
+(4) Z globo od 150 do 2.000 eurov se kaznuje odgovorna oseba delodajalca pravne osebe, samostojnega podjetnika posameznika oziroma posameznika, ki samostojno opravlja dejavnost, ter odgovorna oseba v državnem organu ali v lokalni skupnosti, če stori prekršek iz prvega odstavka tega člena.
+
+(5) Z globo od 150 do 2.000 eurov se kaznuje odgovorna oseba v državnem organu ali drugi organizaciji z javnim pooblastilom, ki za potrebe tega zakona ne zagotovi dostopa ali vpogleda v podatke iz evidenc, določenih v petem odstavku 4. člena tega zakona.
+
+### 23.a člen
+
+**(prekrški v zvezi z elektronskim načinom vodenja evidence o izrabi delovnega časa)**
+
+(1) Z globo od 3.000 do 20.000 eurov se kaznuje delodajalec – pravna oseba, samostojni podjetnik posameznik oziroma posameznik, ki samostojno opravlja dejavnost, ki:
+
+- ne vodi evidence v skladu s prvim in drugim odstavkom 19.a člena tega zakona,
+
+- se ne opredeli do predloga sindikata pri delodajalcu oziroma sveta delavcev ali delavskega zaupnika za uvedbo elektronskega načina vodenja evidence o izrabi delovnega časa v skladu s prvim in drugim odstavkom 19.b člena tega zakona,
+
+- ne obvesti Inšpektorata Republike Slovenije za delo o zavrnitvi predloga za uvedbo elektronskega načina vodenja evidence o izrabi delovnega časa v skladu z drugim odstavkom 19.b člena tega zakona,
+
+- ne začne voditi evidence v skladu s tretjim odstavkom 19.b člena tega zakona,
+
+- ne vodi evidence o izrabi delovnega časa elektronsko v skladu s tretjim odstavkom 19.a ali četrtim odstavkom 19.b člena tega zakona.
+
+(2) Z globo od 1.500 do 8.000 eurov se kaznuje manjši delodajalec – pravna oseba, samostojni podjetnik posameznik oziroma posameznik, ki samostojno opravlja dejavnost, če stori prekršek iz prejšnjega odstavka.
+
+(3) Z globo od 300 do 1.200 eurov se kaznuje delodajalec posameznik, če stori prekršek iz prvega odstavka tega člena.
+
+(4) Z globo od 300 do 2.000 eurov se kaznuje odgovorna oseba delodajalca pravne osebe, samostojnega podjetnika posameznika oziroma posameznika, ki samostojno opravlja dejavnost, ter odgovorna oseba v državnem organu ali v lokalni skupnosti, če stori prekršek iz prvega odstavka tega člena.
+
+### 23.b člen
+
+**(višina globe v hitrem prekrškovnem postopku)**
+
+Za prekrške iz tega zakona se sme v hitrem postopku izreči globa tudi v znesku, ki je višji od najnižje globe, določene s tem zakonom.
+
+## VI. PREHODNE IN KONČNE DOLOČBE
+
+### 24. člen
+
+Z dnem uveljavitve tega zakona se preneha uporabljati Zakon o evidencah na področju dela (Uradni list SFRJ, št. 17/90).
+
+### 25. člen
+
+Minister, pristojen za delo, izda predpis iz prvega odstavka 3. člena tega zakona najkasneje do 1. januarja 2008.
+
+### 26. člen
+
+(1) Izvršilni predpis iz 9. člena tega zakona Vlada Republike Slovenije sprejme do 1. januarja 2007.
+
+(2) Način, obliko in vsebino poročanja, ki bo omogočalo spremljanje podatkov iz evidence o stroških dela iz 16. člena tega zakona, določi minister, pristojen za finance, najkasneje do 1. januarja 2008.
+
+(3) Minister, pristojen za delo, določi obrazec iz drugega odstavka 21. člena tega zakona najkasneje do 1. januarja 2007.
+
+### 27. člen
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.

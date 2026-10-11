@@ -1,0 +1,423 @@
+---
+title: "Zakon o nujnih ukrepih za zagotovitev stabilnosti zdravstvenega sistema (ZNUZSZS)"
+identifier: "ZAKO8643"
+abbreviation: "ZNUZSZS"
+type: act
+jurisdiction: si
+language: sl
+act_kind: "Zakon"
+date: 2022-07-14
+published: 2022-07-25
+in_force_from: 2022-07-26
+last_amended: 2025-12-26
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "NPB 6 (neuradno prečiščeno besedilo)"
+citation: "Uradni list RS, št. 100/22, 141/22 – ZNUNBZ, 76/23, 136/23 – ZIUZDS, 112/24 – ZDIUZDZ, 32/25 – ZZDej-N in 111/25 – ZDIUPZ"
+adopted_by: "Državni zbor Republike Slovenije"
+eva: "2022-2711-0080"
+epa: "0179-IX"
+sop: "2022-01-2511"
+source: "https://pisrs.si/pregledPredpisa?id=ZAKO8643"
+retrieved: 2026-10-12
+---
+
+# Zakon o nujnih ukrepih za zagotovitev stabilnosti zdravstvenega sistema (ZNUZSZS)
+
+*Opozorilo: Neuradno prečiščeno besedilo predpisa predstavlja zgolj informativni delovni pripomoček, glede katerega organ ne jamči odškodninsko ali kako drugače.*
+
+Neuradno prečiščeno besedilo Zakona o nujnih ukrepih za zagotovitev stabilnosti zdravstvenega sistema obsega:
+
+- Zakon o nujnih ukrepih za zagotovitev stabilnosti zdravstvenega sistema – ZNUZSZS (Uradni list RS, št. 100/22 z dne 25. 7. 2022),
+
+- Zakon o nujnih ukrepih za zajezitev širjenja in blaženja posledic nalezljive bolezni COVID-19 na področju zdravstva – ZNUNBZ (Uradni list RS, št. 141/22 z dne 7. 11. 2022),
+
+- Zakon o spremembi Zakona o nujnih ukrepih za zagotovitev stabilnosti zdravstvenega sistema – ZNUZSZS-A (Uradni list RS, št. 76/23 z dne 12. 7. 2023),
+
+- Zakon o interventnih ukrepih na področju zdravstva, dela in sociale ter z zdravstvom povezanih vsebin – ZIUZDS (Uradni list RS, št. 136/23 z dne 30. 12. 2023),
+
+- Zakon o dodatnih interventnih ukrepih za zagotovitev dostopnosti v zdravstvu - ZDIUZDZ (Uradni list RS, št. 112/24 z dne 27. 12. 2024),
+
+- Zakon o spremembah in dopolnitvah Zakona o zdravstveni dejavnosti – ZZDej-N (Uradni list RS, št. 32/25 z dne 6. 5. 2025),
+
+- Zakon o dodatnih interventnih ukrepih na področju zdravstva – ZDIUPZ (Uradni list RS, št. 111/25 z dne 26. 12. 2025).
+
+**ZAKON**
+
+**O NUJNIH UKREPIH ZA ZAGOTOVITEV STABILNOSTI ZDRAVSTVENEGA SISTEMA (ZNUZSZS)**
+
+*(neuradno prečiščeno besedilo št. 6)*
+
+## I. DEL SPLOŠNA DOLOČBA
+
+#### 1. člen
+
+**(vsebina)**
+
+S tem zakonom se zaradi odprave organizacijskih slabosti zdravstvenega sistema in nedopustno dolgih čakalnih dob, nastalih zlasti zaradi preprečevanja in obvladovanja nalezljive bolezni COVID-19, ter z namenom zagotoviti zadostne zmogljivosti (kader, oprema, prostor) za zagotovitev stabilnosti zdravstvenega sistema na način, da je prebivalstvu Republike Slovenije zagotovljena enakopravna, primerna, kakovostna in varna zdravstvena obravnava,
+
+1. spreminjajo in dopolnjujejo določbe naslednjih zakonov:
+
+- Zakona o zdravstveni dejavnosti (Uradni list RS, št. 23/05 – uradno prečiščeno besedilo, 15/08 – ZPacP, 23/08, 58/08 – ZZdrS-E, 77/08 – ZDZdr, 40/12 – ZUJF, 14/13, 88/16 – ZdZPZD, 64/17, 1/19 – odl. US, 73/19, 82/20, 152/20 – ZZUOOP, 203/20 – ZIUPOPDVE, 112/21 – ZNUPZ in 196/21 – ZDOsk; v nadaljnjem besedilu: ZZDej),
+
+- Zakona o spremembah in dopolnitvah Zakona o zdravstveni dejavnosti (Uradni list RS, št. 64/17, 73/19 – ZZDej-L, 152/20 – ZZUOOP, 203/20 – ZIUPOPDVE in 112/21 – ZNUPZ; v nadaljnjem besedilu: ZZDej-K),
+
+- Zakona o pacientovih pravicah (Uradni list RS, št. 15/08, 55/17 in 177/20; v nadaljnjem besedilu: ZPacP),
+
+- Zakona o zdravstvenem varstvu in zdravstvenem zavarovanju (Uradni list RS, št. 72/06 – uradno prečiščeno besedilo, 114/06 – ZUTPG, 91/07, 76/08, 62/10 – ZUPJS, 87/11, 40/12 – ZUJF, 21/13 – ZUTD-A, 91/13, 99/13 – ZUPJS-C, 99/13 – ZSVarPre-C, 111/13 – ZMEPIZ-1, 95/14 – ZUJF-C, 47/15 – ZZSDT, 61/17 – ZUPŠ, 64/17 – ZZDej-K, 36/19, 189/20 – ZFRO, 51/21, 159/21, 196/21 – ZDOsk, 15/22 in 43/22; v nadaljnjem besedilu: ZZVZZ),
+
+2. odstopa od določb ZZDej in ZZVZZ,
+
+3. določajo začasni ukrepi na področju čakalnih dob in poklicev v zdravstveni dejavnosti.
+
+## II. DEL SPREMEMBE IN DOPOLNITVE ZAKONOV
+
+### 1. Zakon o zdravstveni dejavnosti
+
+#### 2. člen
+
+V Zakonu o zdravstveni dejavnosti (Uradni list RS, št. 23/05 – uradno prečiščeno besedilo, 15/08 – ZPacP, 23/08, 58/08 – ZZdrS-E, 77/08 – ZDZdr, 40/12 – ZUJF, 14/13, 88/16 – ZdZPZD, 64/17, 1/19 – odl. US, 73/19, 82/20, 152/20 – ZZUOOP, 203/20 – ZIUPOPDVE, 112/21 – ZNUPZ in 196/21 – ZDOsk) se besedilo 25. člena spremeni tako, da se glasi:
+
+»Javni zdravstveni zavod na primarni ravni ustanovi samoupravna lokalna skupnost s soglasjem ministrstva, pristojnega za zdravje, in po predhodnem mnenju Zavoda za zdravstveno zavarovanje Slovenije. Ustanoviteljske pravice in obveznosti samoupravne lokalne skupnosti uresničuje občinski svet, če s predpisi, ki urejajo področje lokalne samouprave, ni določeno drugače.
+
+Javni zdravstveni zavod na sekundarni in terciarni ravni ustanovi Republika Slovenija po predhodnem mnenju Zavoda za zdravstveno zavarovanje Slovenije. Ustanoviteljske pravice in obveznosti Republike Slovenije uresničuje Vlada Republike Slovenije, predloge v zvezi z uresničevanjem ustanoviteljskih pravic in obveznosti pa daje ministrstvo, pristojno za zdravje.
+
+Mnenje Zavoda za zdravstveno zavarovanje Slovenije se zahteva tudi za spremembo dejavnosti in za prenehanje javnega zdravstvenega zavoda.«.
+
+#### 3. člen
+
+V 28. členu se prvi in drugi odstavek spremenita tako, da se glasita:
+
+»Zdravstveni zavod, ki ga ustanovi samoupravna lokalna skupnost, upravlja svet zavoda, ki je sestavljen iz predstavnikov:
+
+- ustanovitelja,
+
+- delavcev zavoda,
+
+- zavarovancev oziroma drugih uporabnikov.
+
+V svet zavoda ne sme biti imenovana oseba, pri kateri obstaja nasprotje interesov, kot ga opredeljuje zakon, ki ureja integriteto in preprečevanje korupcije, pri čemer ob imenovanju podpiše izjavo o odsotnosti obstoja nasprotja interesov.«.
+
+#### 4. člen
+
+Za 28. členom se doda nov 28.a člen, ki se glasi:
+
+#### »28.a člen
+
+Zdravstveni zavod, ki ga ustanovi Republika Slovenija, upravlja svet zavoda, ki je sestavljen iz predstavnikov ustanovitelja, delavcev zavoda, zavarovancev in uporabnikov.
+
+Svet zdravstvenega zavoda iz prejšnjega odstavka je pristojen za:
+
+- imenovanje in razrešitev direktorja zdravstvenega zavoda s soglasjem ustanovitelja,
+
+- imenovanje in razrešitev strokovnega vodje zdravstvenega zavoda,
+
+- nadzor nad delom direktorja zdravstvenega zavoda in strokovnega vodje zdravstvenega zavoda,
+
+- druge naloge, ki jih določa zakon.
+
+Člane sveta zavoda, predstavnike ustanovitelja, imenuje in razrešuje Vlada Republike Slovenije na predlog ministra, pristojnega za zdravje, ki jih izbere med strokovnjaki s področja zdravstva, upravljanja oziroma ekonomije in prava. Člane sveta zavoda, predstavnike delavcev zavoda, izvolijo predstavniki delavcev. Člane sveta zavoda, predstavnike zavarovancev, na predlog Zavoda za zdravstveno zavarovanje Slovenije imenuje Vlada Republike Slovenije. Člane sveta zavoda, predstavnike uporabnikov, na predlog nevladnih organizacij s področja varstva pacientovih pravic ali samoupravne lokalne skupnosti, v kateri ima zavod sedež, imenuje Vlada Republike Slovenije. Predsednika sveta zavoda izvolijo člani med predstavniki ustanovitelja, podpredsednik pa je član, ki je predstavnik delavcev zavoda.
+
+V svet zavoda ne sme biti imenovana oseba, pri kateri obstaja nasprotje interesov, kot ga opredeljuje zakon, ki ureja integriteto in preprečevanje korupcije, pri čemer ob imenovanju podpiše izjavo o odsotnosti obstoja nasprotja interesov.
+
+Člani sveta zavoda morajo pri svojem delu ravnati s skrbnostjo dobrega gospodarja. Člani sveta zavoda so za svoje delo upravičeni do sejnine in povračila stroškov v skladu s predpisom, ki ureja sejnine in povračila stroškov v javnih zavodih.
+
+Za škodo, ki je nastala kot posledica kršitve njihove dolžnosti iz prejšnjega odstavka, člani sveta zavoda odgovarjajo v skladu s splošnimi pravili civilne odgovornosti. Pred imenovanjem v svet zavoda morajo kandidati podpisati izjavo o seznanitvi z odgovornostjo.
+
+Podrobnejše pogoje za imenovanje, sestavo in številčno razmerje predstavnikov v svetu zavoda ter postopek za izbiro članov sveta zavoda določi minister, pristojen za zdravje.«.
+
+#### 5. člen
+
+Za 30. členom se doda nov 30.a člen, ki se glasi:
+
+#### »30.a člen
+
+Svet zavoda iz prvega odstavka 28.a člena tega zakona imenuje in razrešuje notranjega revizorja, ki ima naziv preizkušeni državni notranji revizor oziroma državni notranji revizor in opravlja notranje revidiranje v skladu z zakonom, ki ureja javne finance.
+
+Notranja revizija se v zdravstvenem zavodu iz prvega odstavka 28.a člena tega zakona opravi vsako leto.
+
+Revizija računovodskih izkazov, ki jo v skladu z zahtevami zakona, ki ureja revidiranje, opravi revizijska družba, se opravi vsako drugo leto, vsako leto pa pri zdravstvenih zavodih, ki imajo:
+
+- skupno vrednost aktive v bilanci stanja višjo od 40 milijonov eurov ali
+
+- več kot 1000 zaposlenih.
+
+Notranji revizor izvaja naloge v skladu z letnim načrtom notranje revizije, ki ga direktor zavoda in svet zavoda sprejmeta do konca marca za tekoče leto. Letni načrt mora vsebovati tudi revizijo upravljanja čakalnih seznamov, čakalnih dob, vzrokov zanje in predlogov za njihovo odpravo ter revizijo izkoriščenosti zmogljivosti (prostorov, opreme in kadrov), pri čemer se pri reviziji izkoriščenosti kadrovskih zmogljivosti ugotavljajo tudi odmiki glede na standarde Zavoda za zdravstveno zavarovanje Slovenije.
+
+Letno poročilo o delu notranje revizije za preteklo koledarsko leto, ki vsebuje tudi opredelitev notranjega revizorja, ali se v zdravstvenem zavodu z javnimi sredstvi, namenjenimi za opravljanje javne službe, upravlja kot dober gospodar, notranji revizor najpozneje do konca februarja tekočega leta naslovi na direktorja zavoda in svet zavoda, z njegovo vsebino pa seznani tudi urad, pristojen za nadzor proračuna. Po potrditvi sveta zavoda notranji revizor letno poročilo v seznanitev posreduje ministrstvu, pristojnemu za zdravje, in uradu, pristojnemu za nadzor, kakovost in investicije v zdravstvu.
+
+Postopek izbire notranjega revizorja ter revizijske družbe za izvedbo revizije računovodskih izkazov izvede svet zavoda, pogodbo o zaposlitvi z notranjim revizorjem ali civilno pravno pogodbo z zunanjim izvajalcem notranje revizije pa sklene predsednik sveta zavoda.«.
+
+#### 6. člen
+
+V 64. členu se v petem odstavku na koncu druge alineje pika nadomesti z vejico in doda nova, tretja alineja, ki se glasi:
+
+»– zdravstveni administrativni sodelavec, če ima zaključeno srednjo izobrazbo, kot jo določa seznam poklicev zdravstvenih delavcev in zdravstvenih sodelavcev.«.
+
+#### 7. člen
+
+V 80. členu se v drugem odstavku v napovednem stavku besedilo »ministrstvo, pristojno za zdravje« nadomesti z besedilom »urad, pristojen za nadzor, kakovost in investicije v zdravstvu«.
+
+V tretjem odstavku se besedilo »ministrstva, pristojnega za zdravja« nadomesti z besedilom »urada, pristojnega za nadzor, kakovost in investicije v zdravstvu«, besedilo »ministrstvo, pristojno za zdravje, samo« pa z besedilom »urad, pristojen za nadzor, kakovost in investicije v zdravstvu, sam«.
+
+V četrtem odstavku se:
+
+- v napovednem stavku besedilo »ministrstvo, pristojno za zdravje« nadomesti z besedilom »urad, pristojen za nadzor, kakovost in investicije v zdravstvu«,
+
+- v prvi alineji besedilo »ki jo sestavljajo predstavniki ministrstva, pristojnega za zdravje, in po potrebi zunanji strokovnjaki,« črta.
+
+V šestem odstavku se v napovednem stavku besedilo »ministru, pristojnemu za zdravje« nadomesti z besedilom »uradu, pristojnemu za nadzor, kakovost in investicije v zdravstvu«.
+
+V sedmem odstavku se v drugem stavku besedilo »ministra, pristojnega za zdravje« nadomesti z besedilom »urada, pristojnega za nadzor, kakovost in investicije v zdravstvu«.
+
+V osmem odstavku se:
+
+- v prvem stavku besedilo »ministrstvu, pristojnemu za zdravje« nadomesti z besedilom »uradu, pristojnemu za nadzor, kakovost in investicije v zdravstvu«,
+
+- v drugem stavku besedilo »ministrstvo, pristojno za zdravje, začne postopek« nadomesti z besedilom »urad, pristojen za nadzor, kakovost in investicije v zdravstvu, predlaga ministrstvu, pristojnemu za zdravje, začetek postopka«.
+
+Deveti odstavek se spremeni tako, da se glasi:
+
+»V primeru ugotovljenih pomanjkljivosti oziroma nepravilnosti izvajalec zdravstvene dejavnosti poročilo iz šestega odstavka tega člena obravnava v okviru organov, pristojnih za kakovost in varnost zdravstvene dejavnosti, in o tem poroča uradu, pristojnemu za nadzor, kakovost in investicije v zdravstvu.«.
+
+V enajstem odstavku se v napovednem stavku besedilo »Ministrstvo, pristojno za zdravje« nadomesti z besedilom »Urad, pristojen za nadzor, kakovost in investicije v zdravstvu«.
+
+#### 8. člen
+
+V 82. členu v prvem odstavku besedilo »Minister, pristojen za zdravje« nadomesti z besedilom »Urad, pristojen za nadzor, kakovost in investicije v zdravstvu«.
+
+V drugem odstavku se v prvem in drugem stavku besedilo »minister, pristojen za zdravje« v vseh sklonih nadomesti z besedilom »urad, pristojen za nadzor, kakovost in investicije v zdravstvu« v ustreznem sklonu.
+
+### 2. Zakon o spremembah in dopolnitvah Zakona o zdravstveni dejavnosti
+
+#### 9. člen
+
+V Zakonu o spremembah in dopolnitvah Zakona o zdravstveni dejavnosti (Uradni list RS, št. 64/17, 73/19 – ZZDej-L, 152/20 – ZZUOOP, 203/20 – ZIUPOPDVE in 112/21 – ZNUPZ) se v 39. členu v drugem odstavku beseda »petih« nadomesti z besedo »sedmih«.
+
+### 3. Zakon o pacientovih pravicah
+
+#### 10. člen
+
+V Zakonu o pacientovih pravicah (Uradni list RS, št. 15/08, 55/17 in 177/20) se v 85. členu v prvem odstavku besedilo »ministrstvo, pristojno za zdravje, inšpektorat, pristojen za zdravje« nadomesti z besedilom »urad, pristojen za nadzor, kakovost in investicije v zdravstvu, inšpektorji, pristojni za področje čakalnih seznamov oziroma čakalnih dob«.
+
+V drugem odstavku se besedilo »Ministrstvo, pristojno za zdravje« nadomesti z besedilom »Urad, pristojen za nadzor, kakovost in investicije v zdravstvu«.
+
+V tretjem odstavku se besedilo »četrtega odstavka 14. člena, prvega in osmega odstavka 14.b člena, prvega, drugega, tretjega, šestega, sedmega, osmega in devetega odstavka 15. člena, drugega in tretjega odstavka 15.a člena, prvega, tretjega in četrtega odstavka 15.b člena, 15.c in 15.č člena, četrtega odstavka 16. člena,« črta.
+
+Za tretjim odstavkom se doda nov četrti odstavek, ki se glasi:
+
+»(4) Nadzor nad določbami četrtega odstavka 14. člena, prvega in osmega odstavka 14.b člena, prvega, drugega, tretjega, šestega, sedmega, osmega in devetega odstavka 15. člena, drugega in tretjega odstavka 15.a člena, prvega, tretjega in četrtega odstavka 15.b člena, 15.c in 15.č člena ter četrtega odstavka 16. člena tega zakona opravljajo inšpektorji, pristojni za področje čakalnih seznamov oziroma čakalnih dob.«.
+
+Dosedanji četrti do šesti odstavek postanejo peti do sedmi odstavek.
+
+V dosedanjem sedmem odstavku, ki postane osmi odstavek, se besedilo »tretjega, četrtega in petega« nadomesti z besedilom »tretjega, četrtega, petega in šestega«.
+
+Za novim osmim odstavkom, se dodajo novi deveti, deseti, enajsti in dvanajsti odstavek, ki se glasijo:
+
+»(9) Naloge inšpekcijskega nadzora na področju čakalnih seznamov oziroma čakalnih dob opravljajo inšpektorji, zaposleni na uradu, pristojnem za nadzor, kakovost in investicije v zdravstvu.
+
+(10) Za inšpektorja, pristojnega za področje čakalnih seznamov oziroma čakalnih dob, ki opravlja nadzor nad izvajanjem tega zakona v skladu s četrtim odstavkom tega člena, je lahko imenovana oseba, ki ima:
+
+- predpisano izobrazbo v skladu z zakonom, ki ureja sistem javnih uslužbencev,
+
+- ustrezne delovne izkušnje, določene s predpisi, ki urejajo notranjo organizacijo in sistemizacijo v organih državne uprave,
+
+- strokovni izpit za inšpektorja, kot ga določajo predpisi o inšpekcijskem nadzoru,
+
+- najmanj eno leto delovnih izkušenj s področja upravljanja čakalnih seznamov oziroma čakalnih dob.
+
+(11) Izjemoma se lahko za inšpektorja, pristojnega za področje čakalnih seznamov oziroma čakalnih dob, imenuje oseba, ki nima strokovnega izpita za inšpektorja, vendar mora ta izpit opraviti najpozneje v šestih mesecih od dneva imenovanja za inšpektorja.
+
+(12) Če ni s tem zakonom določeno drugače, se za inšpektorje iz devetega odstavka tega člena in za izvedbo postopkov inšpekcijskega nadzora uporabljajo določbe zakona, ki ureja splošni upravni postopek, ter zakona, ki ureja inšpekcijski nadzor.«.
+
+### 4. Zakon o zdravstvenem varstvu in zdravstvenem zavarovanju
+
+#### 11. člen
+
+V Zakonu o zdravstvenem varstvu in zdravstvenem zavarovanju (Uradni list RS, št. 72/06 – uradno prečiščeno besedilo, 114/06 – ZUTPG, 91/07, 76/08, 62/10 – ZUPJS, 87/11, 40/12 – ZUJF, 21/13 – ZUTD-A, 91/13, 99/13 – ZUPJS-C, 99/13 – ZSVarPre-C, 111/13 – ZMEPIZ-1, 95/14 – ZUJF-C, 47/15 – ZZSDT, 61/17 – ZUPŠ, 64/17 – ZZDej-K, 36/19, 189/20 – ZFRO, 51/21, 159/21, 196/21 – ZDOsk, 15/22 in 43/22) se besedilo 63. člena spremeni tako, da se glasi:
+
+»Zavod, pristojne zbornice, združenja zdravstvenih zavodov in drugih zavodov ter organizacij, ki opravljajo zdravstveno dejavnost, (v nadaljnjem besedilu: deležniki) se vsako leto dogovorijo o programih storitev obveznega zdravstvenega zavarovanja, opredelijo zmogljivosti, potrebne za njegovo izvajanje, in določijo obseg sredstev (v nadaljnjem besedilu: dogovor). V dogovoru določijo izhodišča za izvajanje programov in za oblikovanje cen programov oziroma storitev ter druge podlage za sklepanje pogodb z zdravstvenimi zavodi, drugimi zavodi in organizacijami, ki opravljajo zdravstveno dejavnost, ter zasebnimi zdravstvenimi delavci.
+
+Zavod za namen pogajanj z deležniki pripravi predlog dogovora, pri čemer upošteva resolucijo o nacionalnem planu zdravstvenega varstva, smernice zdravstvene politike, ki jih vsako leto najpozneje do konca avgusta za naslednje koledarsko leto določi minister, pristojen za zdravje, najnovejša spoznanja znanosti in razvoj medicinske tehnologije, z vidika obsega programov pa tudi aktualna demografska gibanja in ekonomske razmere v Republiki Sloveniji. Zavod k predlogu dogovora pridobi soglasje ministra, pristojnega za zdravje. Če se tekom pogajanj z deležniki predlog dogovora bistveno spremeni, Zavod pridobi ponovno soglasje ministra, pristojnega za zdravje. Šteje se, da se predlog dogovora bistveno spremeni, če se spreminja obseg sredstev za več kot 10 odstotkov ali uvaja nove širitve programov. Minister, pristojen za zdravje, soglasje poda najpozneje v 15 dneh od prejema predloga dogovora oziroma bistvenih sprememb predloga dogovora.
+
+Zavod začne pogajanja z deležniki najpozneje do konca septembra za naslednje koledarsko leto. Dogovor se sklene najpozneje do konca novembra za naslednje koledarsko leto.
+
+Če dogovor ni sklenjen v roku iz prejšnjega odstavka oziroma v primeru resnih motenj, ki ogrožajo stabilnost zdravstvenega sistema (večja nesreča, kot jo opredeljuje zakon, ki ureja varstvo okolja, naravna nesreča, ki jo opredeljuje zakon, ki ureja varstvo pred naravnimi in drugimi nesrečami, negativno finančno poslovanje zdravstvenih zavodov v obsegu najmanj 20 milijonov eurov in trajanju najmanj šest mesecev zaporedoma ali druge resne motnje, ki ogrožajo javno zdravje in jih ni mogoče obvladovati z običajnimi sredstvi oziroma ukrepi), lahko Vlada Republike Slovenije določi vsebino dogovora, pri čemer upošteva vsebine iz prvega stavka drugega odstavka tega člena ter izredne okoliščine, ki so podlaga za določitev vsebine dogovora. Če dogovor ni sklenjen v roku iz prejšnjega odstavka in Vlada Republike Slovenije ne določi vsebine dogovora do konca decembra, do določitve vsebine dogovora velja dogovor, sklenjen za preteklo koledarsko leto.
+
+Postopek sklepanja dogovora iz tega člena smiselno velja tudi za sklepanje sprememb dogovora tekom koledarskega leta, pri čemer se lahko spremeni le vsebina, ki ob pripravi dogovora ni bila znana, neupoštevanje te vsebine pa bi lahko ogrozilo nemoteno izvajanje programov storitev obveznega zdravstvenega zavarovanja v tekočem koledarskem letu.«.
+
+#### 12. člen
+
+V 77. členu se za tretjim odstavkom doda nov četrti odstavek, ki se glasi:
+
+»Postopek in način izvajanja nadzora iz tega člena določi Zavod v soglasju z ministrom, pristojnim za zdravje.«.
+
+## III. DEL ODSTOP OD DOLOČB POSAMEZNIH ZAKONOV
+
+### 1. Zakon o zdravstveni dejavnosti
+
+#### 13. člen
+
+**(podaljšanje koncesije)**
+
+(1) Ne glede na drugi, tretji in četrti odstavek 43. člena ZZDej se koncesiji, katere obdobje podelitve se izteče v času veljavnosti tega ukrepa, po samem zakonu podaljša obdobje podelitve koncesije za dve leti.
+
+(2) Do podaljšanja iz prejšnjega odstavka ne pride, če najpozneje 90 dni pred potekom obdobja podelitve koncesije:
+
+- koncesionar koncedenta pisno obvesti, da ne želi podaljšanja obdobja podelitve koncesije, oziroma
+
+- koncedent ugotovi, da koncesija, upoštevajoč razloge iz drugega odstavka 43. člena ZZDej, ni več potrebna in o tem pisno obvesti koncesionarja.
+
+(3) Ukrep iz tega člena velja do 31. decembra 2024.
+
+### 2. Zakon o zdravstvenem varstvu in zdravstvenem zavarovanju
+
+#### 14. člen
+
+**(prenos pooblastil izbranega osebnega zdravnika)**
+
+(1) Ne glede na tretji odstavek 80. člena ZZVZZ lahko za namen razbremenitve in zagotavljanja večje dostopnosti do zdravstvenega varstva izbrani osebni zdravnik, če oceni, da to narekuje racionalnost dela, ob upoštevanju kliničnih smernic in strokovnih priporočil pristojnega razširjenega strokovnega kolegija prenese naslednja pooblastila, če ne vplivajo na diagnostiko in zdravljenje:
+
+- pooblastilo za izdajo listin za uveljavljanje pravice do potnih stroškov – spremstva in nenujnih reševalnih prevozov, ki ga lahko prenese na diplomirano medicinsko sestro oziroma diplomiranega zdravstvenika, višjo medicinsko sestro oziroma višjega zdravstvenega tehnika ali srednjo medicinsko sestro oziroma zdravstvenega tehnika;
+
+- pooblastilo za izdajo listin za izbiro izbranega osebnega zdravnika, ki ga lahko prenese na diplomirano medicinsko sestro oziroma diplomiranega zdravstvenika, višjo medicinsko sestro oziroma višjega zdravstvenega tehnika, srednjo medicinsko sestro oziroma zdravstvenega tehnika ali zdravstvenega administrativnega sodelavca;
+
+- pooblastilo za predpis medicinskih pripomočkov, ki ga lahko prenese na diplomirano medicinsko sestro oziroma diplomiranega zdravstvenika ali višjo medicinsko sestro oziroma višjega zdravstvenega tehnika.
+
+(2) Natančnejši seznam medicinskih pripomočkov iz tretje alineje prejšnjega odstavka določi upravni odbor Zavoda za zdravstveno zavarovanje Slovenije (v nadaljnjem besedilu: Zavod) s sklepom, ki ga objavi na svojih spletnih straneh.
+
+(3) Prenos pooblastil iz prvega odstavka tega člena izvede izbrani osebni zdravnik s pisnim pooblastilom, ki velja znotraj istega izvajalca zdravstvene dejavnosti.
+
+(4) Ukrep iz tega člena velja do 31. decembra 2027.
+
+## IV. DEL ZAČASNI UKREPI
+
+#### 15. člen
+
+**(plačilo zdravstvenih storitev po realizaciji)**
+
+(1) Za namen povečane dostopnosti do zdravstvenih storitev in odprave oziroma skrajševanja čakalnih dob za izbrane vrste zdravstvenih storitev, za katere se vodi čakalni seznam, se izvajalcem zdravstvene dejavnosti v mreži javne zdravstvene službe, ki v okviru svojih zmogljivosti (kader, oprema, prostor) izvajajo zdravstvene storitve nad obsegom programa, dogovorjenim z Zavodom (v nadaljnjem besedilu: redni obseg programa zdravstvene dejavnosti), zagotovi plačilo zdravstvenih storitev po realizaciji brez sklenitve posebne pisne pogodbe. Izbrane vrste zdravstvenih storitev iz prejšnjega stavka, vključno z obdobjem trajanja ukrepa plačila po realizaciji za posamezno vrsto zdravstvenih storitev, določi Vlada z uredbo, na predlog Zavoda, ki pripravi predlog za vsak naslednji kvartal, do konca prvega meseca tekočega kvartala, na podlagi podatkov Nacionalnega inštituta za javno zdravje o čakalnih dobah za posamezno vrsto zdravstvenih storitev in upoštevajoč stopnje nujnosti za posamezno vrsto zdravstvene storitve. Če zavod v roku iz prejšnjega stavka predloga ne pripravi, izbrane vrste zdravstvenih storitev iz tega člena, za ta kvartal, določi Vlada na predlog ministrstva, pristojnega za zdravje, ki predlog pripravi po kriterijih iz tega odstavka. Ne glede na drugi stavek tega odstavka lahko izbrane vrste zdravstvenih storitev in obdobje trajanja ukrepa plačila po realizaciji za posamezno vrsto zdravstvenih storitev kadarkoli določi Vlada z uredbo na predlog ministrstva, pristojnega za zdravje. Nacionalni inštitut za javno zdravje spremlja podatke o številu čakajočih in čakalni dobi za izbrane vrste zdravstvenih storitev ter o tem poroča Zavodu in ministru, pristojnemu za zdravje, vsake tri mesece od njihove določitve, na zahtevo ministrstva, pristojnega za zdravje, pa tudi v roku treh delovnih dni od zahteve, ki mora biti pisna, za namene določitve izbranih vrst zdravstvenih storitev iz četrtega stavka tega odstavka.
+
+(2) Izvajalci lahko izvajajo zdravstvene storitve iz prejšnjega odstavka nad rednim obsegom programa zdravstvene dejavnosti, če so predhodno v celoti izpolnili redni obseg programa za izbrane vrste zdravstvenih storitev. V izvajanje zdravstvenih storitev iz prejšnjega odstavka izvajalec zdravstvene dejavnosti s koncesijo ne more vključiti zdravstvenih delavcev, zaposlenih pri javnih zdravstvenih zavodih.
+
+(3) Izvajanje zdravstvenih storitev iz prvega odstavka tega člena spremlja Zavod, ki ministru, pristojnemu za zdravje, posreduje mesečna poročila o obsegu izvajanja zdravstvenih storitev. Podrobnejšo vsebino in način poročanja določi minister, pristojen za zdravje. Minister, pristojen za zdravje, do 28. februarja 2024 posreduje pristojnemu odboru Državnega zbora Republike Slovenije in Vladi poročilo o izvajanju zdravstvenih storitev iz tega člena, vključno z analizo odprave oziroma skrajševanja čakalnih dob za te storitve, in sicer za obdobje od 1. avgusta 2023 do 31. decembra 2023.
+
+(4) Vir podatkov o čakalni dobi in čakajočih so podatki iz centralnega sistema eNaročanje. Nacionalni inštitut za javno zdravje redno zagotavlja podatke o stanju števila čakajočih in čakalnih dobah po posameznih stopnjah nujnosti in vrstah zdravstvenih storitev na podlagi predhodno prečiščenih čakalnih seznamov. Izvajalci zdravstvene dejavnosti so odgovorni za usklajenost podatkov o čakalni dobi in čakajočih v lokalnih sistemih glede na centralni sistem eNaročanje. V izvajanje ukrepa iz tega člena se lahko vključijo le izvajalci, ki imajo usklajene podatke iz tega odstavka.
+
+(5) Izvajalcem zdravstvene dejavnosti iz tega člena se zagotovi plačilo glede na obseg opravljenih zdravstvenih storitev, upoštevaje standarde storitev in cene, dogovorjene v programu storitev obveznega zdravstvenega zavarovanja v skladu z zakonom, ki ureja zdravstveno varstvo in zdravstveno zavarovanje.
+
+(6) Ne glede na 53.c člen ZZDej lahko javni zdravstveni zavod za namen opravljanja zdravstvenih storitev iz tega člena sklene podjemno pogodbo ali drugo pogodbo civilnega prava (v nadaljnjem besedilu: podjemna pogodba) z zdravstvenim delavcem, zaposlenim pri njem, za opravljanje izbranih vrst zdravstvenih storitev, ki presegajo redni obseg programa zdravstvene dejavnosti, če te zdravstvene storitve tak delavec opravi zunaj svojega rednega delovnega časa. Ne glede na zakon, ki ureja posebni davek na določene prejemke, se posebni davek na določene prejemke ne plačuje od izplačil na podlagi podjemnih pogodb, ki jih javni zdravstveni zavod v tem primeru sklene z lastnim zaposlenim zdravstvenim delavcem. Javni zdravstveni zavod Finančni upravi Republike Slovenije sporoči podatke o zneskih izplačil iz prejšnjega stavka za posamezni mesec po posameznem zaposlenem, in sicer najpozneje do konca tekočega meseca za pretekli mesec. Javni zdravstveni zavod v primeru sklenitve podjemne pogodbe iz tega odstavka vodi evidenco opravljenih zdravstvenih storitev za posameznega zaposlenega tako, da sta iz nje razvidna datum in časovno obdobje vseh zdravstvenih storitev, ki jih ta zaposleni opravi za javni zdravstveni zavod izven rednega delovnega časa, in izven rednega obsega programa tega zaposlenega. Nadzor nad evidenco iz prejšnjega stavka izvaja Zdravstveni inšpektorat Republike Slovenije.
+
+(7) Sredstva za povečanje obsega programa oziroma izvedbo zdravstvenih storitev iz tega člena se v deležu obveznega zdravstvenega zavarovanja zagotovijo iz sredstev nerealiziranega programa storitev obveznega zdravstvenega zavarovanja. Zavod preveri realizacijo izvajalcev zdravstvene dejavnosti in sredstva iz nerealiziranih programov nameni za izvajanje zdravstvenih storitev iz tega člena. Če sredstva iz prvega stavka tega odstavka ne zadoščajo, se dodatna sredstva za zagotavljanje ukrepa iz tega člena zagotovijo iz proračuna Republike Slovenije. Zavod izstavlja zahtevke za izplačilo sredstev iz proračuna, skupaj z dokazili, kvartalno, in sicer do konca maja za prvi kvartal, do konca septembra za drugi kvartal in do konca novembra za tretji kvartal. Končna obveznost proračuna Republike Slovenije do Zavoda za posamezno koledarsko leto se ugotovi na podlagi končnega letnega obračuna zdravstvenih storitev iz tega člena. Zavod zahtevek za izplačilo, skupaj z dokazili, izstavi do konca februarja za preteklo leto. Zahtevki se plačajo Zavodu v 15 dneh po sprejetju zahtevka.
+
+(8) Zavarovalnice, ki izvajajo dopolnilno zdravstveno zavarovanje, iz neporabljenih sredstev za povečanje obsega programa iz tega člena, ki so jih oblikovale kot zavarovalno- tehnične rezervacije na podlagi 35. člena Zakona o začasnih ukrepih za omilitev in odpravo posledic COVID-19 (Uradni list RS, št. 152/20, 175/20 – ZIUOPDVE, 82/21 – ZNB-C, 112/21 – ZNUPZ, 167/21 – odl. US in 206/21 – ZDUPŠOP in 18/23 – ZDU-1O) in 39. člena Zakona o nujnih ukrepih na področju zdravstva (Uradni list RS, št. 112/21, 189/21, 206/21 – ZDUPŠOP in 132/22) plačujejo izvedbo zdravstvenih storitev v deležu dopolnilnega zdravstvenega zavarovanja, in sicer do njihove porabe oziroma najdlje do izteka veljavnosti ukrepa iz tega člena.
+
+(9) Ukrep iz tega člena velja do 31. decembra 2023.
+
+**16. člen(prenehal veljati)**
+
+## V. DEL PREHODNE IN KONČNE DOLOČBE
+
+#### 17. člen
+
+**(izvajanje določb o javnih zdravstvenih zavodih)**
+
+(1) Vlada uskladi akte o ustanovitvi javnih zdravstvenih zavodov z določbami novega 28.a člena ZZDej najpozneje do 31. decembra 2022.
+
+(2) Sveti zdravstvenih zavodov iz novega 28.a člena ZZDej uskladijo statute z akti iz prejšnjega odstavka v 60 dneh od njihove uveljavitve.
+
+(3) Vlada imenuje člane svetov zavodov iz novega 28.a člena ZZDej najpozneje v 30 dneh od uveljavitve sprememb in dopolnitev statutov iz prejšnjega odstavka. Dosedanji člani svetov zavodov opravljajo svojo funkcijo do imenovanja novih članov svetov zavodov v skladu z določbami novega 28.a člena ZZDej.
+
+(4) Podrobnejše pogoje za imenovanje, sestavo in številčno razmerje predstavnikov v svetu zavoda ter postopek za izbiro članov sveta zavoda iz sedmega odstavka novega 28.a člena ZZDej določi minister, pristojen za zdravje, najpozneje v dveh mesecih od uveljavitve tega zakona.
+
+(5) Predsednik sveta zavoda sklene pogodbo iz šestega odstavka novega 30.a člena ZZDej najpozneje do 31. decembra 2022.
+
+#### 18. člen
+
+**(izvajanje določb o nadzoru v zdravstvu)**
+
+(1) Ministrstvo, pristojno za zdravje, evidenco iz enajstega odstavka 80. člena ZZDej ter vse podatke, dokumentacijo in arhiv o upravnih in sistemskih nadzorih v zdravstvu, opravljenih ali uvedenih do začetka uveljavitve tega zakona, prenese na urad, pristojen za nadzor, kakovost in investicije v zdravstvu, najpozneje v dveh mesecih od uveljavitve tega zakona.
+
+(2) Minister, pristojen za zdravje, uskladi predpisa iz trinajstega odstavka 80. in četrtega odstavka 82. člena ZZDej s tem zakonom najpozneje v dveh mesecih od uveljavitve tega zakona.
+
+(3) Inšpektorji, pristojni za področje čakalnih seznamov oziroma čakalnih dob, iz spremenjenega 85. člena ZPacP začnejo z delovanjem v okviru urada, pristojnega za nadzor, kakovost in investicije v zdravstvu, najpozneje do 1. septembra 2022. Urad, pristojen za nadzor, kakovost in investicije v zdravstvu prevzame naloge na področju inšpektorjev, pristojnih za področje čakalnih seznamov oziroma čakalnih dob ter inšpektorje, ki na dan začetka njegovega delovanja v Zdravstvenem inšpektoratu Republike Slovenije opravljajo inšpekcijski nadzor nad področjem čakalnih seznamov oziroma čakalnih dob, skupaj s pripadajočo opremo in sredstvi, nedokončanimi zadevami, arhivi in evidencami ter pravicami proračunske porabe v skladu z določbami zakona, ki ureja izvrševanje državnega proračuna. Z dnem prevzema nalog v skladu s prejšnjim stavkom z vodenjem postopkov na področju prenesenih nalog, ki so se začeli pred prevzemom nalog, nadaljuje urad, pristojen za nadzor, kakovost in investicije v zdravstvu. Ustrezno število inšpektorjev, ki opravljajo nadzor nad izvajanjem zakona, ki ureja pacientove pravice, za področje čakalnih seznamov oziroma čakalnih dob, se imenuje najpozneje do 1. septembra 2022. Do imenovanja inšpektorjev na podlagi prejšnjega stavka opravljajo inšpekcijski nadzor zdravstveni inšpektorji, ki izpolnjujejo pogoje v skladu s posebnim zakonom.
+
+(4) Zavod določi postopek in način izvajanja nadzora iz novega četrtega odstavka 77. člena ZZVZZ najpozneje v štirih mesecih od uveljavitve tega zakona.
+
+#### 19. člen
+
+**(prevzem javnih uslužbencev in dokumentacije)**
+
+Urad, pristojen za nadzor, kakovost in investicije v zdravstvu najpozneje do 1. septembra 2022 prevzame javne uslužbence in dokumentacijo Urada Vlade Republike Slovenije za centralno cenovno evidenco medicinskih pripomočkov in medicinske opreme.
+
+#### 20. člen
+
+**(izvajanje določb o prenosu pooblastil)**
+
+Upravni odbor Zavoda izda sklep iz drugega odstavka 14. člena tega zakona v 30 dneh od uveljavitve tega zakona.
+
+#### 21. člen
+
+**(izvajanje določb o dogovoru in izvajanju zdravstvenih storitev nad rednim obsegom programa zdravstvene dejavnosti)**
+
+(1) Smernice zdravstvene politike iz drugega odstavka spremenjenega 63. člena ZZVZZ za leto 2023 določi minister, pristojen za zdravje, najpozneje do 31. avgusta 2022.
+
+(2) Vlada v 30 dneh od uveljavitve tega zakona preveri, ali so izpolnjeni pogoji za določitev programov storitev obveznega zdravstvenega zavarovanja, opredelitev zmogljivosti, potrebnih za njegovo izvajanje, in določitev obsega sredstev v skladu s četrtim odstavkom spremenjenega 63. člena ZZVZZ.
+
+(3) Vlada najpozneje do 15. aprila 2023 preveri obseg odprave oziroma skrajšanja čakalnih dob, ki presegajo najdaljšo dopustno čakalno dobo, opravljen na podlagi izvajanja zdravstvenih storitev v skladu s prvim odstavkom 15. člena tega zakona.
+
+(4) Minister, pristojen za zdravje, določi podrobnejšo vsebino in način poročanja iz prvega odstavka 15. člena tega zakona v 30 dneh od uveljavitve tega zakona.
+
+(5) Minister, pristojen za zdravje, določi vrste zdravstvene dejavnosti, podrobnejši postopek in merila za vključitev izvajalcev iz tretjega odstavka 15. člena tega zakona v šestih mesecih od uveljavitve tega zakona.
+
+(6) Zavod določi postopek financiranja, poročanje in nadzor nad izvajanjem zdravstvenih storitev ter tehnične pogoje za vključitev v poročanje izvajanja zdravstvenih storitev iz tretjega odstavka 15. člena tega zakona v šestih mesecih od uveljavitve tega zakona.
+
+(7) Zavod ministrstvu, pristojnemu za zdravje, ne glede na prvi odstavek 15. člena zakona posreduje tudi poročilo glede izvajanja ukrepa iz prvega odstavka 15. člena zakona, in sicer:
+
+- do 30. novembra 2022 za obdobje od 1. septembra 2022 do uveljavitve Zakona o nujnih ukrepih za zajezitev širjenja in blaženja posledic nalezljive bolezni COVID-19 na področju zdravstva (Uradni list RS, št. 141/22);
+
+- do 15. januarja 2023 za obdobje od uveljavitve Zakona o nujnih ukrepih za zajezitev širjenja in blaženja posledic nalezljive bolezni COVID-19 na področju zdravstva (Uradni list RS, št. 141/22) do 31. decembra 2022.
+
+(8) Javni zdravstveni zavod iz četrtega odstavka 15. člena tega zakona preveri izpolnjevanje pogojev soglasij, izdanih na podlagi prvega odstavka 53.b člena ZZDej, najpozneje do 31. avgusta 2022.
+
+#### 22. člen
+
+**(izvajanje določb glede poklicev v zdravstveni dejavnosti)**
+
+(1) Minister, pristojen za zdravje, uskladi seznam poklicev iz spremenjenega 64. člena ZZDej v 30 dneh od uveljavitve tega zakona.
+
+(2) Vlada določi višino dodatka za povečan obseg dela za posebne obremenitve, obseg dodatnega kadra, upoštevajoč število opredeljenih pacientov in opravljenih zdravstvenih storitev, podrobnejša merila za posamezni poklic v zdravstveni dejavnosti, ter poročanje, način vlaganja zahtevkov, obvezna dokazila in roke za vložitev zahtevkov iz tretjega odstavka 16. člena tega zakona v dveh mesecih od uveljavitve tega zakona.
+
+(3) Vlada določi višino dodatka za posebne pogoje dela na območjih občin z nižjo razvitostjo, poročanje, način vlaganja zahtevkov, obvezna dokazila in roke za vložitev zahtevkov iz četrtega odstavka 16. člena tega zakona v dveh mesecih od uveljavitve tega zakona.
+
+#### 23. člen
+
+**(prenehanje veljavnosti)**
+
+(1) Z dnem uveljavitve tega zakona prenehajo veljati:
+
+- 27.a in 27.b točka prvega odstavka 2. člena, štirinajsti odstavek 24. člena, sedmi odstavek 32. člena, 47.a člen, tretji odstavek 64. člena in tretji odstavek 84. člena Zakona o javnem naročanju (Uradni list RS, št. 91/15, 14/18, 121/21, 10/22 in 74/22 – odl. US),
+
+- Uredba o metodologiji za izračun referenčnih cen za medicinske pripomočke in medicinsko opremo (Uradni list RS, št. 74/22),
+
+- Odlok o ustanovitvi, nalogah in organizaciji Urada Vlade Republike Slovenije za centralno cenovno evidenco medicinskih pripomočkov in medicinske opreme (Uradni list RS, št. 37/22),
+
+- Sklep Vlade Republike Slovenije št. 10007-130/2021/5 z dne 9. 12. 2021 in št. 10005-96/2022/3 z dne 5. 5. 2022 o Posebnem vladnem projektu za nagrajevanje timov ambulant družinske medicine oziroma otroškega in šolskega dispanzerja.
+
+(2) Predpisi, določbe in akti iz prejšnjega odstavka se uporabljajo do 31. avgusta 2022.
+
+(3) Z dnem uveljavitve tega zakona se ustavi postopek sprejemanja Aneksa št. 2 k Splošnemu dogovoru za pogodbeno leto 2022. Postopek morebitnega spreminjanja Splošnega dogovora za pogodbeno leto 2022 se nadaljuje v skladu z določbami spremenjenega 63. člena ZZVZZ.
+
+(4) Do ustrezne ureditve v zakonu, ki ureja zdravstveno varstvo in zdravstveno zavarovanje, se za arbitražo iz prvega odstavka 65. člena ZZVZZ uporablja določba drugega odstavka 63. člena ZZVZZ.
+
+#### 24. člen
+
+**(začetek uporabe)**
+
+Spremenjeni 80. in spremenjeni 82. člen ZZDej, spremenjeni 85. člena ZPacP ter 15. in 16. člen tega zakona se začnejo uporabljati 1. septembra 2022.
+
+#### 25. člen
+
+**(začetek veljavnosti)**
+
+Ta zakon začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.

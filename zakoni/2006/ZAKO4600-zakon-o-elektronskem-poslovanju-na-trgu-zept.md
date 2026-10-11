@@ -1,0 +1,355 @@
+---
+title: "Zakon o elektronskem poslovanju na trgu (ZEPT)"
+identifier: "ZAKO4600"
+abbreviation: "ZEPT"
+type: act
+jurisdiction: si
+language: sl
+act_kind: "Zakon"
+date: 2006-05-30
+published: 2006-06-13
+in_force_from: 2006-06-28
+last_amended: 2024-04-05
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "NPB 7 (neuradno prečiščeno besedilo)"
+citation: "Uradni list RS, št. 96/09 – uradno prečiščeno besedilo, 19/15, 189/21 – ZDU-1M, 18/23 – ZDU-1O in 30/24 – ZIUETDS"
+adopted_by: "Državni zbor Republike Slovenije"
+eva: "2006-2111-0019"
+epa: "0805-IV"
+sop: "2006-01-2566"
+source: "https://pisrs.si/pregledPredpisa?id=ZAKO4600"
+retrieved: 2026-10-12
+---
+
+# Zakon o elektronskem poslovanju na trgu (ZEPT)
+
+*Opozorilo: Neuradno prečiščeno besedilo predpisa predstavlja zgolj informativni delovni pripomoček, glede katerega organ ne jamči odškodninsko ali kako drugače.*
+
+Neuradno prečiščeno besedilo Zakona o elektronskem poslovanju na trgu obsega:
+
+- Zakon o elektronskem poslovanju na trgu – ZEPT (Uradni list RS, št. 61/06 z dne 13. 6. 2006),
+
+- Zakon o arbitraži – ZArbit (Uradni list RS, št. 45/08 z dne 9. 5. 2008),
+
+- Zakon o spremembah in dopolnitvah Zakona o elektronskem poslovanju na trgu – ZEPT-A (Uradni list RS, št. 79/09 z dne 9. 10. 2009),
+
+- Zakon o elektronskem poslovanju na trgu – uradno prečiščeno besedilo – ZEPT-UPB2 (Uradni list RS, št. 96/09 z dne 27. 11. 2009),
+
+- Zakon o spremembi Zakona o elektronskem poslovanju na trgu – ZEPT-B (Uradni list RS, št. 19/15 z dne 20. 3. 2015),
+
+- Zakon o spremembah Zakona o državni upravi – ZDU-1M (Uradni list RS, št. 189/21 z dne 3. 12. 2021),
+
+- Zakon o spremembah in dopolnitvah Zakona o državni upravi – ZDU-1O (Uradni list RS, št. 18/23 z dne 13. 2. 2023),
+
+- Zakon o izvajanju Uredbe (EU) o enotnem trgu digitalnih storitev - ZIUETDS (Uradni list RS, št. 30/24 z dne 5. 4. 2024).
+
+**ZAKON**
+
+**o elektronskem poslovanju na trgu (ZEPT)**
+
+*(neuradno prečiščeno besedilo št. 7)*
+
+## Prvo poglavje SPLOŠNE DOLOČBE
+
+### 1. člen
+
+**(vsebina in namen zakona)**
+
+(1) Ta zakon določa način in obseg elektronskega poslovanja na trgu v skladu z [Direktivo 2000/31/ES](http://data.europa.eu/eli/dir/2000/31/oj "to EUR-Lex") Evropskega parlamenta in Sveta z dne 8. junija 2000 o nekaterih pravnih vidikih storitev informacijske družbe, zlasti elektronskega poslovanja na notranjem trgu (Direktiva o elektronskem poslovanju) (UL L št. 178 z dne 17. 7. 2000, str. 1).
+
+(2) Zakon zlasti ureja vprašanja storitev informacijske družbe kot gospodarskih dejavnosti, ki potekajo po internetu in so stalno dostopne. Pri tem zlasti ureja vprašanja glede sedeža ponudnikov storitev informacijske družbe, komercialnih sporočil, elektronskih pogodb, odgovornosti posrednikov, kodeksov ravnanja na področju storitev informacijske družbe, izvensodnega reševanja sporov, sodnega varstva in sodelovanja med državami članicami.
+
+(3) Pri vprašanjih elektronskega poslovanja, ki niso urejena s tem zakonom, se uporabljajo določbe zakona, ki ureja elektronsko poslovanje in elektronski podpis.
+
+### 2. člen
+
+**(izključitev uporabe tega zakona)**
+
+(1) Ta zakon se ne uporablja za:
+
+1. področje obdavčitve,
+
+2. vprašanja, povezana z dogovori in ravnanjem, urejenimi s kartelnim pravom,
+
+3. vprašanja, povezana s storitvami informacijske družbe v zvezi z varstvom osebnih podatkov, za katere se uporablja zakon, ki ureja varstvo osebnih podatkov ali zakon, ki ureja elektronske komunikacije in
+
+4. naslednje dejavnosti storitev informacijske družbe:
+
+- dejavnosti notarjev ali podobnih poklicev, če so v neposredni in posebni zvezi z izvajanjem javnih pooblastil,
+
+- zastopanje strank in varovanje njihovih interesov na sodišču,
+
+- dejavnosti igralništva, pri katerih gre za vložke denarne vrednosti v igrah na srečo, vključno z loterijami in transakcijami v zvezi s stavami.
+
+(2) Ta zakon se ne uporablja za ukrepe, namenjene spodbujanju kulturne in jezikovne raznolikosti ter zagotavljanju zaščite pluralizma.
+
+### 3. člen
+
+**(pomen izrazov)**
+
+Izrazi, uporabljeni v tem zakonu, imajo naslednji pomen:
+
+1. »država članica« je država pogodbenica Sporazuma o ustanovitvi Evropskega gospodarskega prostora (UL L št. 1 z dne 3. januarja 1994, str. 3), z vsemi spremembami;
+
+2. »komercialno sporočilo« je vsaka oblika sporočila, namenjena neposredni ali posredni promociji blaga, storitev ali podobe podjetja, organizacije ali osebe, ki opravlja trgov­sko, industrijsko ali obrtno dejavnost ali regulirani poklic, pri čemer podatki, ki omogočajo neposreden dostop do dejavnosti podjetja, organizacije ali osebe, predvsem ime domene ali elektronski naslov in sporočila v zvezi z blagom, storitvami ali podobo podjetja, organizacije ali osebe, ki se zagotavljajo neodvisno in brez finančnega nadomestila, sami po sebi še niso komercialno sporočilo;
+
+3. »komisija« je Komisija v skladu s Pogodbo o Evropski uniji (UL C 325 z dne 24. decembra 2002 UL, prečiščeno besedilo), Pogodbo o ustanovitvi Evropske skupnosti (UL C 325 z dne 24. decembra 2002 UL, prečiščeno besedilo) in Pogodbo o ustanovitvi Evropske skupnosti za atomsko energijo (UL C 325 z dne 24. decembra 2002 UL prečiščeno besedilo), z vsemi spremembami;
+
+4. »koordinirano področje« so zahteve, določene v pravnih sistemih držav članic za ponudnike storitev informacijske družbe ali storitve informacijske družbe, ne glede na to ali so splošne narave ali posebej določene; pri tem gre za zahteve, povezane z začetkom opravljanja teh storitev, na primer za zahteve glede kvalifikacij, dovoljenj in priglasitev ali zahteve, povezane z izvajanjem dejavnosti storitev informacijske družbe, na primer zahteve glede obnašanja ponudnika storitev in glede kakovosti ali vsebine storitve, vključno z zahtevami za oglaševanje in pogodbam ali zahtevami glede odgovornosti ponudnika storitve; ne gre pa za zahteve, povezane z blagom samim, z dobavo blaga in storitvami, ki se ne zagotavljajo elektronsko;
+
+5. »notranji trg« je ozemlje, za katero velja Sporazum o ustanovitvi Evropskega gospodarskega prostora;
+
+6. »ponudnik storitev ali ponudnica storitev« (v nadaljnjem besedilu: ponudnik storitev) je vsaka fizična ali pravna oseba, ki ponuja storitve informacijske družbe;
+
+7. »ponudnik storitve s sedežem ali ponudnica storitev s sedežem« (v nadaljnjem besedilu: ponudnik storitev s sedežem) je ponudnik, ki dejansko izvaja gospodarsko dejavnost za nedoločen čas na območju, kjer ima sedež, pri čemer njegova prisotnost ter uporaba tehničnih sredstev in tehnologij, potrebnih za izvajanje dejavnosti, sami še ne pomenita ustanovitve sedeža;
+
+8. »potrošnik ali potrošnica« (v nadaljnjem besedilu: potrošnik) je vsaka fizična oseba, ki pridobiva ali uporablja blago in storitve za namene izven njegove poklicne ali pridobitne dejavnosti;
+
+9. »prejemnik storitve ali prejemnica storitve« (v nadaljnjem besedilu: prejemnik storitev) je vsaka fizična ali pravna oseba, ki iz poklicnih ali drugih razlogov uporablja storitev informacijske družbe, zlasti za iskanje podatkov ali omogočanje dostopa do njih;
+
+10. »regulirani poklici« so tisti poklici oziroma poklicne dejavnosti, katerih pogoje opravljanja določa zakon ali podzakonski akt;
+
+11. »storitev informacijske družbe« je storitev, ki se po navadi zagotavlja za plačilo, na daljavo, z elektronskimi sredstvi in na posamezno zahtevo prejemnika storitev. Pri tem »na daljavo« pomeni, da se storitev zagotavlja, ne da bi bili strani navzoči sočasno. »Z elektronskimi sredstvi« pomeni, da se storitev na začetku pošlje in v namembnem kraju sprejme z elektronsko opremo za obdelavo, vključno z digitalnim stiskanjem in za shranjevanje podatkov ter v celoti pošlje, prenese in sprejme po žici, radiu, optičnih ali drugih elektromagnetnih sredstvih. »Na posamezno zahtevo prejemnika storitev« pa pomeni, da se storitev zagotavlja s prenosom podatkov na posamezno zahtevo. Storitve informacijske družbe vključujejo zlasti prodajo blaga ali storitev, dostop do podatkov ali oglaševanje na svetovnem spletu ter dostop do komunikacijskega omrežja, prenos podatkov ali shranjevanje prejemnikovih podatkov v komunikacijskem omrežju.
+
+## Drugo poglavje ELEKTRONSKO POSLOVANJE NA TRGU
+
+### 4. člen
+
+**(načelo izključitve predhodnega dovoljenja)**
+
+(1) Za začetek opravljanja in izvajanje dejavnosti storitev informacijske družbe ni treba pridobiti predhodnega dovoljenja.
+
+(2) Ne glede na določbo prejšnjega odstavka mora ponudnik storitev pridobiti tista dovoljenja, ki se ne nanašajo posebej in izključno na storitve informacijske družbe ali jih je treba pridobiti v skladu z drugimi predpisi.
+
+### 5. člen
+
+**(splošna obveznost zagotavljanja podatkov)**
+
+(1) Ponudnik storitev mora na svojih spletnih straneh prejemnikom storitve in pristojnim organom poleg drugih zahtev v zvezi s podatki v skladu z veljavnimi predpisi zagotavljati lahek, neposreden in stalen dostop do:
+
+- podatkov o podjetju in sedežu ponudnika storitev,
+
+- veljavnega elektronskega naslova za hitro in učinkovito komuniciranje,
+
+- matične številke,
+
+- davčne številke,
+
+- podatkov o dovoljenjih iz drugega odstavka prejšnjega člena in pristojnih nadzornih organih,
+
+- pri reguliranih poklicih navedbe poklicnega združenja, v katero je ponudnik včlanjen, poklicnega naziva in države, v kateri je bil podeljen naziv, ter napotila k uporabnim poklicnim pravilom v državi članici, v kateri je registrirana dejavnost, in načinom dostopa do njih.
+
+(2) Ponudnik storitev mora dostop do podatkov iz prejšnjega odstavka omogočiti s povezavami, ki jih objavi na svoji glavni spletni strani.
+
+(3) Ponudnik storitev mora prejemnikom storitve in pristojnim organom poleg drugih zahtev, v zvezi s podatki v skladu z veljavnimi predpisi jasno in nedvoumno označiti ceno storitve ter navesti, ali je v njej vključen davek, stroški dobave in morebitne druge dajatve.
+
+### 6. člen
+
+**(posebna obveznost zagotavljanja podatkov v zvezi s komercialnimi sporočili)**
+
+(1) Ponudnik storitev lahko pošilja komercialna sporočila, ki so del storitev informacijske družbe, če:
+
+- je komercialno sporočilo kot tako jasno razpoznavno,
+
+- je nedvoumno navedena fizična ali pravna oseba, v imenu katere je komercialno sporočilo poslano,
+
+- so jasno in nedvoumno navedeni pogoji za sprejem posebnih ponudb, ki so povezane s popusti, premijami in darili, ki morajo biti kot taki nedvoumno označeni, in
+
+- so jasno in nedvoumno ter lahko dostopno navedeni pogoji za sodelovanje v nagradnih tekmovanjih ali igrah na srečo, ki morajo biti kot taki jasno razpoznavni.
+
+(2) Poleg pogojev iz prejšnjega odstavka mora ponudnik storitev pri pošiljanju komercialnih sporočil, ki so del storitev informacijske družbe, upoštevati tudi pravila o soglasju prejemnika storitve skladno z zakonom, ki ureja elektronske komunikacije.
+
+(3) Poleg pogojev iz prvega in drugega odstavka tega člena mora ponudnik storitev z reguliranim poklicem pri pošiljanju komercialnih sporočil kot dela storitve informacijske družbe, ki jo opravlja, upoštevati tudi morebitna posebna pravila reguliranega poklica v zvezi z neodvisnostjo, dostojanstvom in častjo poklica, poklicno skrivnostjo ter poštenostjo do strank in sodelavcev.
+
+### 7. člen
+
+**(sklepanje pogodb v elektronski obliki)**
+
+(1) Ponudnik storitev, ki sklepa pogodbe v elektronski obliki, mora pogodbena določila in splošne pogoje zagotoviti v taki obliki, da jih prejemnik storitve lahko shrani in reproducira.
+
+(2) Ponudnik storitev mora poleg drugih zahtev v zvezi s podatki v skladu z veljavnimi predpisi pred oddajo naročila prejemnika storitve v elektronski obliki, jasno, razumljivo in nedvoumno:
+
+- opisati tehnične postopke za sklenitev pogodbe,
+
+- navesti, ali bo shranil besedilo pogodbe in ali bo dostopno prejemniku storitve,
+
+- opisati tehnična sredstva za prepoznavanje in popravo napak pred oddajo naročila ter
+
+- poleg slovenščine navesti ostale jezike, v katerih je mogoče skleniti pogodbo.
+
+(3) Ponudnik storitev mora prejemniku storitve omogočiti uporabo ustreznih, učinkovitih in dostopnih elektronskih sredstev, s katerimi lahko prepozna in popravi napake pri vnosu pred oddajo naročila.
+
+(4) Ponudnik storitev mora prejem naročila v elektronski obliki, takoj potrditi s potrdilom o prejemu v elektronski obliki.
+
+(5) Naročilo in potrdilo o prejemu se štejeta za prejeti, ko je strankam, ki sta jima namenjeni, omogočen dostop do njiju.
+
+(6) Kadar ponudnika storitev zavezujejo kodeksi ravnanja, jih mora navesti ter zagotoviti ali opisati elektronski dostop do njih.
+
+(7) Določbe drugega, tretjega, četrtega in šestega odstavka tega člena se ne uporabljajo, če se pogodba sklene izključno z izmenjavo elektronske pošte ali s primerljivimi posamičnimi sporočili.
+
+(8) Določbe drugega, tretjega, četrtega, petega in šestega odstavka tega člena se ne uporabljajo če se stranke, ki niso potrošniki, dogovorijo drugače.
+
+**8. člen**(prenehal veljati)****
+
+**9. člen**(prenehal veljati)****
+
+**10. člen**(prenehal veljati)****
+
+**11. člen**(prenehal veljati)****
+
+## Tretje poglavje POSEBNE DOLOČBE O OPRAVLJANJU STORITEV INFORMACIJSKE DRUŽBE NA NOTRANJEM TRGU
+
+### 12. člen
+
+**(načelo uporabe prava države sedeža ponudnika storitev)**
+
+(1) Ponudnik storitev s sedežem v Republiki Sloveniji je dolžan opravljati storitve informacijske družbe na koordiniranem področju v skladu z veljavnimi predpisi v Republiki Sloveniji.
+
+(2) Če ta zakon ne določa drugače, storitev informacijske družbe ponudnika storitve s sedežem v drugi državi članici na koordiniranem področju ni dovoljeno omejevati iz razlogov, ki so določeni v pravnem redu Republike Slovenije.
+
+### 13. člen
+
+**(izjeme načela uporabe prava države sedeža ponudnika storitev)**
+
+Ne glede na določbo drugega odstavka prejšnjega člena so dopustne omejitve na področjih:
+
+- avtorske in sorodnih pravic ter pravic industrijske lastnine, kot jih določajo zakon, ki ureja avtorsko in sorodne pravice in zakon, ki ureja pravice industrijske lastnine,
+
+- izdaje elektronskega denarja, če za storitev velja izjema v skladu s prvim odstavkom 8. člena [Direktive 2000/46/ES](http://data.europa.eu/eli/dir/2000/46/oj "to EUR-Lex") Evropskega parlamenta in Sveta z dne 18. septembra 2000 o začetku opravljanja in opravljanju dejavnosti ter nadzoru skrbnega in varnega poslovanja institucij za izdajo elektronskega denarja (UL L št. 275 z dne 27. oktobra 2000, str. 39),
+
+- oglaševanja investicijskih skladov,
+
+- zavarovalnih pogodb, ki zagotavljajo kritje v dveh ali več državah članicah, v katerih je vsaj eno zavarovanje obvezno, glede ustanavljanja in svobode opravljanja storitev zavarovalništva, uporabe prava in veljavnosti zavarovalnih pogodb, kot jih določajo zakon, ki ureja zavarovalništvo,
+
+- svobodne izbire prava, ki velja za pogodbo,
+
+- pogodbenih obveznostih pri potrošniških pogodbah,
+
+- veljavnosti pogodb, s katerimi se pridobijo, prenesejo ali prenehajo pravice na nepremičninah in za katere se zahteva obličnost,
+
+- dopustnosti pošiljanja nepovabljenih komercialnih sporočil po elektronski pošti.
+
+### 14. člen
+
+**(omejitve opravljanja storitev informacijske družbe)**
+
+(1) Sodišče ali pristojni upravni organ lahko omeji opravljanje storitev informacijske družbe ponudnika storitev s sedežem v drugi državi članici, če se ukrep navezuje na opravljanje storitev na koordiniranem področju in če:
+
+- je ukrep potreben zaradi uresničevanja ciljev zagotavljanja javnega reda, še posebno pregona kaznivih dejanj, varstva mladoletnikov, preprečevanja sovraštva zaradi rase, spola, veroizpovedi ali narodnosti, zaščite človekovega dostojanstva ali zaradi zaščite javnega zdravja, zagotavljanja javne varnosti ali varstva potrošnikov, vključno z varstvom investitorjev in
+
+- opravljanje storitve informacijske družbe posega v katerega od ciljev, navedenih v prejšnji alinei in
+
+- je omejitev sorazmerna s ciljem, ki se ga želi doseči.
+
+(2) Upravni organ o nameravanem sprejetju ukrepa iz prejšnjega odstavka obvesti ministrstvo, pristojno za elektronske komunikacije (v nadaljnjem besedilu: ministrstvo). Ministrstvo o tem uradno obvesti Komisijo in državo članico, v kateri ima ponudnik storitev sedež, in zahteva sprejetje ustreznih ukrepov. Upravni organ lahko ukrep sprejme, če država članica, v kateri ima ponudnik storitve sedež, v roku, ki je običajno potreben, ni sprejela ukrepov ali če sprejeti ukrepi niso bili ustrezni.
+
+(3) Ne glede na določbo prejšnjega odstavka lahko upravni organ iz nujnih razlogov ukrep sprejme brez predhodnega uradnega obvestila Komisije in države članice, v kateri ima ponudnik storitev sedež. V tem primeru je treba uradno obvestilo poslati takoj, ko je mogoče, skupaj z razlogi, ki opravičujejo nujnost ukrepa.
+
+(4) Drugi in tretji odstavek tega člena se ne uporabljata, če ukrep odredi sodišče.
+
+(5) Ukrep, s katerim se omeji opravljanje storitev informacijske družbe, je treba odpraviti ali preklicati takoj, ko zanj niso več izpolnjeni pogoji, ali na zahtevo Komisije.
+
+## Četrto poglavje IZVAJANJE IN NADZOR
+
+### 15. člen
+
+**(naloge ministrstva)**
+
+(1) Ministrstvo opravlja naloge organa za zvezo, naloge mednarodnega sodelovanja in obveščanja ter spodbujevalne, posvetovalne in druge naloge v skladu s tem zakonom.
+
+(2) Ministrstvo najmanj vsaka tri leta pripravi poročilo o pogodbah, ki jih ni mogoče skleniti v elektronski obliki, in razlogih za to ter o tem obvesti Državni zbor Republike Slovenije in Komisijo.
+
+(3) Ministrstvo določi enega ali več organov za zvezo in sporoči njihove kontaktne podatke državam članicam in Komisiji. Organ za zvezo sodeluje z organi za zvezo drugih držav članic in Komisijo. Biti mora dostopen z elektronskimi sredstvi. Organ za zvezo:
+
+- zagotavlja splošne informacije o pogodbenih pravicah in obveznostih ter o mehanizmih za pritožbo in za pravna sredstva, ki so na voljo v sporih, vključno s praktičnimi vidiki uporabe teh mehanizmov;
+
+- zagotavlja vse potrebne informacije glede organov, združenj ali organizacij, zadolženih za dajanje nadaljnjih informacij ali praktične pomoči, in
+
+- zagotavlja pomoč in podatke, ki jih zahtevajo druge države članice ali Komisija, tudi z uporabo elektronskih sredstev.
+
+(4) Ministrstvo v okviru svojih nalog posebej spodbuja izdelavo kodeksov ravnanja za trgovska, poklicna in potrošniška združenja ali organizacije, kodeksov ravnanja v zvezi z varstvom mladoletnikov, varstvom pravic invalidov in varstvom človekovega dostojanstva ter spremlja njihovo izvajanje. Ministrstvo zagotavlja dostopnost kodeksov ravnanja v elektronski obliki v skladu z zakonom, ki ureja dostop do informacij javnega značaja, spremlja njihov vpliv na prakso, navade ali običaje v zvezi z elektronskim poslovanjem in obvešča Komisijo o pripravi osnutkov kodeksov ravnanja.
+
+(5) Ministrstvo o pravnomočnih sodnih in upravnih odločbah, o odločitvah arbitraž, pristojnih za izvensodno reševanje sporov, ter o praksi, običajih in navadah v zvezi z elektronskim poslovanjem in storitvami informacijske družbe sproti obvešča Komisijo ter jih objavi na svojih spletnih straneh v skladu z zakonom, ki ureja dostop do informacij javnega značaja.
+
+### 16. člen
+
+**(inšpekcijski nadzor)**
+
+(1) Inšpekcijski nadzor nad izvajanjem tega zakona opravlja inšpektorica ali inšpektor (v nadaljnjem besedilu inšpektor), pristojen za trg.
+
+(2) Inšpektor pošlje pravnomočne odločbe, izdane v postopku nadzora nad izvajanjem tega zakona ministrstvu.
+
+### 17. člen
+
+**(sodno varstvo)**
+
+(1) Kdor meni, da ponudnik storitev krši katero njegovo pravico, lahko zahteva sodno varstvo pred pristojnim sodiščem v skladu z zakonom.
+
+(2) Sodišče pravnomočne odločbe v sporih iz prejšnjega odstavka pošlje ministrstvu.
+
+### 18. člen
+
+**(začasna odredba)**
+
+(1) Kdor meni, da ponudnik storitev krši katero njegovo pravico, lahko pred pristojnim sodiščem zahteva izdajo začasne odredbe. Če ta zakon ne določa drugače, se v postopku za izdajo začasne odredbe uporabljajo določbe zakona, ki ureja izvršbo in zavarovanje.
+
+(2) Sodišče lahko z začasno odredbo zlasti:
+
+- prepove grozeče kršitve ali nadaljevanje že začetih kršitev;
+
+- omeji opravljanje storitev informacijske družbe tako, da naloži ponudniku storitve, da odstrani ali onemogoči dostop do podatkov, ki jih hrani.
+
+(3) Sodišče lahko izda začasno odredbo tudi brez zaslišanja nasprotne stranke, če predlagatelj izkaže za verjetno, da bi kakršnokoli odlašanje z izdajo začasne odredbe onemogočilo doseganje njenega namena ali povzročilu težko nadomestljivo škodo predlagatelju. Sodišče nemudoma obvesti nasprotno stranko o izdani začasni odredbi, najpozneje pa ob izvršbi odredbe.
+
+(4) Ob izdaji začasne odredbe sodišče določi predlagatelju rok, v katerem mora vložiti tožbo. Rok za vložitev tožbe začne teči z dnem vročitve začasne odredbe predlagatelju in ne sme biti daljši od 30 dni.
+
+(5) Postopek za izdajo začasne odredbe po tem zakonu je nujen.
+
+### 19. člen
+
+**(izvensodno reševanje sporov)**
+
+(1) Ponudnik storitve informacijske družbe in prejemnik storitve se za reševanje medsebojnih sporov lahko dogovorita o pristojnosti arbitraže.
+
+(2) **(prenehal veljati)**
+
+(3) Arbitraža, ki odloča v sporu v zvezi z elektronskim poslovanjem, pošlje odločitve ministrstvu ter ga sproti obvešča tudi o praksi, običajih in navadah v zvezi z elektronskim poslovanjem.
+
+## Peto poglavje KAZENSKE DOLOČBE
+
+### 20. člen
+
+**(prekrški)**
+
+(1) Z globo od 10.000 do 50.000 eurov se kaznuje za prekršek ponudnik storitev, ki opravlja dejavnost kot pravna oseba, ki se po zakonu, ki ureja gospodarske družbe, šteje za srednjo ali veliko gospodarsko družbo, če:
+
+- ne zagotovi prejemniku storitev dostopa do podatkov v skladu s prvim odstavkom 5. člena,
+
+- ne označi jasno in nedvoumno cene storitve ali ne navede, ali so v njej vključeni davek, stroški dobave in morebitne druge dajatve (tretji odstavek 5. člena),
+
+- pošilja komercialna sporočila v nasprotju s prvim odstavkom 6. člena,
+
+- ne omogoča shranjevanja ali reprodukcije pogodbenih določil ali splošnih pogojev (prvi odstavek 7. člena),
+
+- ne opiše tehničnih postopkov za sklenitev pogodbe ali ne navede, ali bo shranil besedilo pogodbe in ali bo to besedilo dostopno prejemniku storitve, ali ne opiše tehničnih sredstev za prepoznavanje in popravo napak pred oddajo naročila ali ne navede jezikov, v katerih je mogoče skleniti pogodbo (drugi odstavek 7. člena),
+
+- ne omogoča prejemniku storitve uporabe ustreznih, učinkovitih in dostopnih elektronskih sredstev, s katerimi lahko prepozna in popravi napake pri vnosu pred oddajo naročila (tretji odstavek 7. člena),
+
+- ne navede kodeksov ravnanja, h katerim je zavezan, ali ne zagotovi ali ne opiše elektronskega dostopa do njih (šesti odstavek 7. člena),
+
+- ne sporoči podatkov iz zahteve pristojnega organa v predvidenem roku (četrti odstavek 8. člena).
+
+(2) Z globo od 2.000 do 20.000 eurov se za prekršek iz prejšnjega odstavka kaznuje ponudnik storitev, ki opravlja dejavnost kot pravna oseba ali kot samostojni podjetnik posameznik oziroma samostojna podjetnica posameznica (v nadaljnjem besedilu: samostojni podjetnik posameznik).
+
+(3) Z globo od 1.000 do 4.000 eurov se za prekršek iz prvega odstavka tega člena kaznuje odgovorna oseba pravne osebe oziroma odgovorna oseba samostojnega podjetnika posameznika.
+
+## Šesto poglavje PREHODNA IN KONČNA DOLOČBA
+
+### 21. člen
+
+Z dnem uveljavitve tega zakona prenehajo veljati določbe 21. in 22. točke 2. člena, 8. točke drugega odstavka 13. člena in določbe 13.a do 13.d člena Zakona o elektronskem poslovanju in elektronskem podpisu (Uradni list RS, št. 98/04 – uradno prečiščeno besedilo).
+
+### 22. člen
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.

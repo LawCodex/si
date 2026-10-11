@@ -1,0 +1,88 @@
+---
+title: "Zakon o zagotavljanju sredstev pooblaščenim investicijskim družbam zaradi zamenjave teh sredstev za zbrane lastniške certifikate (ZZSPID)"
+identifier: "ZAKO472"
+abbreviation: "ZZSPID"
+type: act
+jurisdiction: si
+language: sl
+act_kind: "Zakon"
+date: 1996-10-09
+published: 1996-10-25
+in_force_from: 1996-11-09
+last_amended: 1999-06-28
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "NPB 1 (neuradno prečiščeno besedilo)"
+citation: "Uradni list RS, št. 59/96 in 50/99 – ZPSPID"
+adopted_by: "Državni zbor Republike Slovenije"
+epa: "1608"
+sop: "1996-01-3392"
+source: "https://pisrs.si/pregledPredpisa?id=ZAKO472"
+retrieved: 2026-10-12
+---
+
+# Zakon o zagotavljanju sredstev pooblaščenim investicijskim družbam zaradi zamenjave teh sredstev za zbrane lastniške certifikate (ZZSPID)
+
+*Opozorilo: Neuradno prečiščeno besedilo predpisa predstavlja zgolj informativni delovni pripomoček, glede katerega organ ne jamči odškodninsko ali kako drugače.*
+
+Neuradno prečiščeno besedilo Zakona o zagotavljanju sredstev pooblaščenim investicijskim družbam zaradi zamenjave teh sredstev za zbrane lastniške certifikate obsega:
+
+- Zakon o zagotavljanju sredstev pooblaščenim investicijskim družbam zaradi zamenjave teh sredstev za zbrane lastniške certifikate – ZZSPID (Uradni list RS, št. 59/96 z dne 25. 10. 1996),
+
+- Zakon o prvem pokojninskem skladu Republike Slovenije in preoblikovanju pooblaščenih investicijskih družb – ZPSPID (Uradni list RS, št. 50/99 z dne 28. 6. 1999).
+
+**ZAKON**
+
+**O ZAGOTAVLJANJU SREDSTEV POOBLAŠČENIM INVESTICIJSKIM DRUŽBAM ZARADI ZAMENJAVE TEH SREDSTEV ZA ZBRANE LASTNIŠKE CERTIFIKATE (ZZSPID)**
+
+*(neuradno prečiščeno besedilo št. 1)*
+
+## 1. člen
+
+S tem zakonom Republika Slovenija zagotavlja, da bo zaradi uresničitve zakona o lastninskem preoblikovanju podjetij (Uradni list RS, št. 55/92, 7/93, 31/93, 32/94 – odločba US in Uradni list RS, št. 1/96) in za zagotovitev polne vrednosti vseh izdanih lastniških certifikatov, zagotovila tolikšen obseg družbenega kapitala, ki se lastninsko preoblikuje ali premoženja v lasti države, da bodo vse pooblaščene investicijske družbe lahko zbrane lastniške certifikate uporabile za delnice ali druga sredstva.
+
+Obveznost Republike Slovenije iz prejšnjega odstavka tega člena se nanaša na zagotovitev premoženja, potrebnega za uporabo vseh lastniških certifikatov, ki jih bodo pooblaščene investicijske družbe zbrale v rokih, odobrenih do uveljavitve tega zakona in v okviru svojega odobrenega osnovnega kapitala, za katerega so do tedaj pridobile dovoljenje pristojnega organa po predpisih, ki urejajo ustanovitev in delovanje investicijskih skladov in družb za upravljanje.
+
+## 2. člen
+
+Obseg in vrsto premoženja, potrebnega za izpolnitev obveznosti iz prejšnjega člena, določi poseben zakon.
+
+Od skupnega obsega sredstev iz prejšnjega člena se odšteje vrednost delnic oziroma poslovnih deležev podjetij, nad katerimi je bil začet stečajni postopek, ki bi bile na podlagi zakona o lastninskem preoblikovanju podjetij namenjene za razdelitev pooblaščenim investicijskim družbam. Vrednost delnic oziroma poslovnih deležev se ugotovi v skladu z drugim odstavkom 3. člena tega zakona.
+
+Vlada Republike Slovenije predloži zakon iz prvega odstavka tega člena v obravnavo Državnemu zboru Republike Slovenije najkasneje do 31. 1. 1997.
+
+## 3. člen
+
+Vrednost delnic oziroma poslovnih deležev podjetja, ki se lastninsko preoblikuje oziroma privatizira z uporabo vseh ali posameznih od naslednjih načinov prodaje oziroma razdelitve za lastniške certifikate: javna prodaja, interna razdelitev oziroma notranji odkup, se določi kot ponderirana aritmetična sredina cen vseh prej navedenih načinov brez upoštevanja popustov. Vrednost delnic oziroma poslovnih deležev podjetij se ugotovi v skladu z zakonom o lastninskem preoblikovanju podjetij ali drugimi predpisi, ki urejajo lastninsko preoblikovanje teh podjetij.
+
+Sredstva, ki niso delnice ali poslovni deleži, se ocenijo le s cenitvijo pooblaščenega cenilca, na osnovi enakih standardov vrednotenja, ki veljajo za ocenjevanje vrednosti podjetij. **([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlid=199950&stevilka=2368))**
+
+Vrednost sredstev, ki je ni mogoče ugotoviti po stanju 1. 1. 1993, se z dneva cenitve preračuna na dan 1. 1. 1993 upoštevaje indeks drobnoprodajnih cen. **([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlid=199950&stevilka=2368))**
+
+Za ugotovitev vrednosti delnic in drugih sredstev je zadolžena Vlada Republike Slovenije. Stroške ugotavljanja vrednosti nosi podjetje oziroma gospodarska družba ali dotedanji lastnik teh sredstev.
+
+## 4. člen
+
+Delnice in druga sredstva, ki bodo dana na razpolago pooblaščenim investicijskim družbam zaradi njihove zamenjave za zbrane lastniške certifikate, morajo biti zagotovljena tako, da bodo do 31. 12. 1997 vse pooblaščene investicijske družbe lahko zamenjale zbrane lastniške certifikate in s tem izpolnile pogoje za redno poslovanje.
+
+## 5. člen
+
+V zakonu iz 2. člena tega zakona se določi rok, po katerem imajo pooblaščene investicijske družbe pravico, da uveljavijo svoje terjatve za pokritje vrednosti zbranih lastniških certifikatov do države iz njenega premoženja, neposredno na podlagi zakona.
+
+---
+
+**Zakon** **o zagotavljanju sredstev pooblaščenim investicijskim družbam zaradi zamenjave teh sredstev za zbrane lastniške certifikate – ZZSPID (Uradni list RS, št. [59/96](http://www.uradni-list.si/1/objava.jsp?urlid=199659&stevilka=3392)****) vsebuje naslednjo končno določbo:**
+
+**»6. člen**
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.«.
+
+---
+
+**Zakon o prvem pokojninskem skladu Republike Slovenije in preoblikovanju pooblaščenih investicijskih družb – ZPSPID (Uradni list RS, št. [50/99](http://www.uradni-list.si/1/objava.jsp?urlid=199950&stevilka=2368)****) vsebuje naslednjo končno določbo:**
+
+**»Končna določba**
+
+48\. člen
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.«.

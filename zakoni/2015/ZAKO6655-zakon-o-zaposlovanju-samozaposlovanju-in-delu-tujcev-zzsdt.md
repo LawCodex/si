@@ -1,0 +1,1713 @@
+---
+title: "Zakon o zaposlovanju, samozaposlovanju in delu tujcev (ZZSDT)"
+identifier: "ZAKO6655"
+abbreviation: "ZZSDT"
+type: act
+jurisdiction: si
+language: sl
+act_kind: "Zakon"
+date: 2015-06-16
+published: 2015-06-30
+in_force_from: 2015-07-15
+last_amended: 2025-05-06
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "NPB 8 (neuradno prečiščeno besedilo)"
+citation: "Uradni list RS, št. 91/21 – uradno prečiščeno besedilo, 42/23 in 32/25"
+adopted_by: "Državni zbor Republike Slovenije"
+eva: "2013-2611-0032"
+epa: "0426-VII"
+sop: "2015-01-1930"
+source: "https://pisrs.si/pregledPredpisa?id=ZAKO6655"
+retrieved: 2026-10-12
+---
+
+# Zakon o zaposlovanju, samozaposlovanju in delu tujcev (ZZSDT)
+
+*Opozorilo: Neuradno prečiščeno besedilo predpisa predstavlja zgolj informativni delovni pripomoček, glede katerega organ ne jamči odškodninsko ali kako drugače.*
+
+Neuradno prečiščeno besedilo Zakona o zaposlovanju, samozaposlovanju in delu tujcev obsega:
+
+- Zakon o zaposlovanju, samozaposlovanju in delu tujcev – ZZSDT (Uradni list RS, št. 47/15 z dne 30. 6. 2015),
+
+- Zakon o čezmejnem izvajanju storitev – ZČmIS (Uradni list RS, št. 10/17 z dne 27. 2. 2017),
+
+- Zakon o spremembah in dopolnitvah Zakona o zaposlovanju, samozaposlovanju in delu tujcev – ZZSDT-A (Uradni list RS, št. 59/17 z dne 27. 10. 2017),
+
+- Zakon o zaposlovanju, samozaposlovanju in delu tujcev – uradno prečiščeno besedilo – ZZSDT-UPB2 (Uradni list RS, št. 1/18 z dne 5. 1. 2018),
+
+- Zakon o dopolnitvi Zakona o zaposlovanju, samozaposlovanju in delu tujcev – ZZSDT-B (Uradni list RS, št. 31/18 z dne 4. 5. 2018),
+
+- Zakon o spremembah in dopolnitvah Zakona o zaposlovanju, samozaposlovanju in delu tujcev – ZZSDT-C (Uradni list RS, št. 57/21 z dne 12. 4. 2021),
+
+- Zakon o zaposlovanju, samozaposlovanju in delu tujcev – uradno prečiščeno besedilo – ZZSDT-UPB4 (Uradni list RS, št. 91/21 z dne 7. 6. 2021),
+
+- Zakon o spremembah in dopolnitvah Zakona o zaposlovanju, samozaposlovanju in delu tujcev – ZZSDT-D (Uradni list RS, št. 42/23 z dne 7. 4. 2023),
+
+- Zakon o spremembah in dopolnitvah Zakona o zaposlovanju, samozaposlovanju in delu tujcev – ZZSDT-E (Uradni list RS, št. 32/25 z dne 6. 5. 2025).
+
+**ZAKON**
+
+**O ZAPOSLOVANJU, SAMOZAPOSLOVANJU IN DELU TUJCEV (ZZSDT)**
+
+*(neuradno prečiščeno besedilo št. 8)*
+
+## I. poglavje
+
+## SPLOŠNE DOLOČBE
+
+#### 1. člen
+
+**(vsebina zakona)**
+
+S tem zakonom se določajo pogoji za zaposlovanje, samozaposlovanje in delo tujcev ter s tem povezane naloge Republike Slovenije za urejanje in zaščito trga dela.
+
+#### 2. člen
+
+**(naloge Republike Slovenije)**
+
+(1) Republika Slovenija sklepa mednarodne pogodbe, s katerimi določa pogoje za zaposlovanje, samozaposlovanje in delo tujcev, ter sprejema ukrepe za zaščito domačega trga dela, določene s tem zakonom.
+
+(2) V skladu z mednarodnimi pogodbami, ki zavezujejo Republiko Slovenijo ter urejajo prosto gibanje delavcev in prosto izvajanje storitev med državami članicami Evropske unije (v nadaljnjem besedilu: EU), Evropskega gospodarskega prostora (v nadaljnjem besedilu: EGP) in Švicarske konfederacije, lahko Vlada Republike Slovenije (v nadaljnjem besedilu: vlada) predlaga Državnemu zboru Republike Slovenije uvedbo in ukinitev ukrepov, ki jih omogočajo mednarodne pogodbe (prehodno obdobje ali varnostna klavzula).
+
+#### 3. člen
+
+**(predpisi Evropske unije)**
+
+S tem zakonom se v pravni red Republike Slovenije delno prenašajo naslednje direktive Evropske unije:
+
+- **(prenehala veljati)**;
+
+- [Direktiva Sveta 2001/55/ES](http://data.europa.eu/eli/dir/2001/55/oj "to EUR-Lex") z dne 20. julija 2001 o najnižjih standardih za dodelitev začasne zaščite v primeru množičnega prihoda razseljenih oseb in o ukrepih za uravnoteženje prizadevanj in posledic za države članice pri sprejemanju takšnih oseb (UL L št. 212 z dne 7. 8. 2001, str. 12);
+
+- [Direktiva Sveta 2003/86/ES](http://data.europa.eu/eli/dir/2003/86/oj "to EUR-Lex") z dne 22. septembra 2003 o pravici do združitve družine (UL L št. 251 z dne 3. 10. 2003, str. 12);
+
+- [Direktiva Sveta 2003/109/ES](http://data.europa.eu/eli/dir/2003/109/oj "to EUR-Lex") z dne 25. novembra 2003 o statusu državljanov tretjih držav, ki so rezidenti za daljši čas (UL L št. 16 z dne 23. 1. 2004, str. 44), zadnjič spremenjena z [Direktivo Evropskega parlamenta in Sveta 2011/51/EU](http://data.europa.eu/eli/dir/2011/51/oj "to EUR-Lex") z dne 11. maja 2011 o spremembah [Direktive Sveta 2003/109/ES](http://data.europa.eu/eli/dir/2003/109/oj "to EUR-Lex"), da se razširi njeno področje uporabe na upravičence do mednarodne zaščite (UL L št. 132 z dne 19. 5. 2011, str. 1);
+
+- [Direktiva Evropskega parlamenta in Sveta 2004/38/ES](http://data.europa.eu/eli/dir/2004/38/oj "to EUR-Lex") z dne 29. aprila 2004 o pravici državljanov Unije in njihovih družinskih članov do prostega gibanja in prebivanja na ozemlju držav članic, ki spreminja [Uredbo (EGS) št. 1612/68](http://data.europa.eu/eli/reg/1968/1612/oj "to EUR-Lex") in razveljavlja [direktive 64/221/EGS](http://data.europa.eu/eli/dir/1964/221/oj "to EUR-Lex"), [68/360/EGS](http://data.europa.eu/eli/dir/1968/360/oj "to EUR-Lex"), [72/194/EGS](http://data.europa.eu/eli/dir/1972/194/oj "to EUR-Lex"), [73/148/EGS](http://data.europa.eu/eli/dir/1973/148/oj "to EUR-Lex"), [75/34/EGS](http://data.europa.eu/eli/dir/1975/34/oj "to EUR-Lex"), [75/35/EGS](http://data.europa.eu/eli/dir/1975/35/oj "to EUR-Lex"), [90/364/EGS](http://data.europa.eu/eli/dir/1990/364/oj "to EUR-Lex"), [90/365/EGS](http://data.europa.eu/eli/dir/1990/365/oj "to EUR-Lex") in [93/96/EGS](http://data.europa.eu/eli/dir/1993/96/oj "to EUR-Lex") (UL L št. 158 z dne 30. 4. 2004, str. 77);
+
+- [Direktiva Sveta 2004/81/ES](http://data.europa.eu/eli/dir/2004/81/oj "to EUR-Lex") z dne 29. aprila 2004 o dovoljenju za prebivanje, izdanem prebivalcem tretjih držav, ki so žrtve nedovoljene trgovine z ljudmi ali so bili predmet dejanj omogočanja nezakonitega priseljevanja, ki sodelujejo s pristojnimi organi (UL L št. 261 z dne 6. 8. 2004, str. 19);
+
+- [Direktiva (EU) 2016/801](http://data.europa.eu/eli/dir/2016/801/oj "to EUR-Lex") Evropskega parlamenta in Sveta z dne 11. maja 2016 o pogojih za vstop in prebivanje državljanov tretjih držav za namene raziskovanja, študija, opravljanja pripravništva, prostovoljskega dela, programov izmenjave učencev ali izobraževalnih projektov in dela varušk au pair (UL L št. 132 z dne 21. 5. 2016, str. 21);
+
+- [Direktiva (EU) 2021/1883](http://data.europa.eu/eli/dir/2021/1883/oj "to EUR-Lex") Evropskega parlamenta in Sveta z dne 20. oktobra 2021 o pogojih za vstop in prebivanje državljanov tretjih držav za namen visokokvalificirane zaposlitve in razveljavitvi [Direktive Sveta 2009/50/ES](http://data.europa.eu/eli/dir/2009/50/oj "to EUR-Lex") (UL L št. 382 z dne 28. 10. 2021, str. 1);
+
+- [Direktiva Evropskega parlamenta in Sveta 2009/52/ES](http://data.europa.eu/eli/dir/2009/52/oj "to EUR-Lex") z dne 18. junija 2009 o minimalnih standardih glede sankcij in ukrepov zoper delodajalce nezakonito prebivajočih državljanov tretjih držav (UL L št. 168 z dne 30. 6. 2009, str. 24);
+
+- [Direktiva Evropskega parlamenta in Sveta 2011/95/EU](http://data.europa.eu/eli/dir/2011/95/oj "to EUR-Lex") z dne 13. decembra 2011 o standardih glede pogojev, ki jih morajo izpolnjevati državljani tretjih držav ali osebe brez državljanstva, da so upravičeni do mednarodne zaščite, glede enotnega statusa beguncev ali oseb, upravičenih do subsidiarne zaščite, in glede vsebine te zaščite (UL L št. 337 z dne 20. 12. 2011, str. 9);
+
+- [Direktiva Evropskega parlamenta in Sveta 2011/98/EU](http://data.europa.eu/eli/dir/2011/98/oj "to EUR-Lex") z dne 13. decembra 2011 o enotnem postopku obravnavanja vloge za enotno dovoljenje za državljane tretjih držav za prebivanje in delo na ozemlju države članice ter o skupnem nizu pravic za delavce iz tretjih držav, ki zakonito prebivajo v državi članici (UL L št. 343, 23. 12. 2011, str. 1);
+
+- [Direktiva Evropskega parlamenta in Sveta 2013/33/EU](http://data.europa.eu/eli/dir/2013/33/oj "to EUR-Lex") z dne 26. junija 2013 o standardih za sprejem prosilcev za mednarodno zaščito (UL L št. 180 z dne 29. 6. 2013, str. 96);
+
+- [Direktiva Evropskega parlamenta in Sveta 2014/36/EU](http://data.europa.eu/eli/dir/2014/36/oj "to EUR-Lex") z dne 26. februarja 2014 o pogojih za vstop in bivanje državljanov tretjih držav zaradi zaposlitve sezonskih delavcev (UL L št. 94 z dne 28. 3. 2014, str. 375);
+
+- [Direktiva Evropskega parlamenta in Sveta 2014/66/EU](http://data.europa.eu/eli/dir/2014/66/oj "to EUR-Lex") z dne 15. maja 2014 o pogojih za vstop in prebivanje državljanov tretjih držav v okviru premestitev znotraj podjetja (UL L št. 157 z dne 27. 5. 2014, str. 1).
+
+#### 4. člen
+
+**(opredelitev pojmov)**
+
+Za potrebe tega zakona posamezni pojmi pomenijo:
+
+1. delodajalec ali delodajalka (v nadaljnjem besedilu: delodajalec): pravna oseba ali posameznik, registriran za opravljanje dejavnosti oziroma vpisan v register kmetijskih gospodarstev v Republiki Sloveniji, ter drug subjekt, določen z zakonom, ki ureja delovna razmerja, ki zaposluje tujca na podlagi pogodbe o zaposlitvi;
+
+2. enotno dovoljenje: enotno dovoljenje za prebivanje in delo, ki ga v skladu z zakonom, ki ureja vstop in prebivanje tujcev, izda pristojni organ in ki tujcu omogoča, da vstopi, prebiva in dela v Republiki Sloveniji;
+
+2.a informativni list: informacija o pogojih in elementih zaposlitve ali dela, izdana na podlagi soglasja za izdajo ali podaljšanje enotnega dovoljenja ali modre karte EU, ali izdana na podlagi soglasja za zamenjavo;
+
+3. povezane gospodarske družbe: za povezani gospodarski družbi se štejeta gospodarski družbi, ki sta v večinski lasti iste gospodarske družbe, ali gospodarski družbi, med katerima ima ena neposredno ali posredno prevladujoč vpliv v drugi zaradi njenega lastništva, finančne udeležbe v njej ali pravil upravljanja. Prevladujoč vpliv obstaja, ko ima ena gospodarska družba neposredno ali posredno glede na drugo gospodarsko družbo večino njenega vpisanega kapitala, nadzor nad večino glasov, povezanih z delnicami, ki jih je izdala, ali lahko imenuje več kot polovico članov njenega upravnega, vodstvenega ali nadzornega organa;
+
+3.a poslovna dejavnost: dejavnost, v kateri tujec ne pridobiva dohodka, neposredno ne opravlja prodaje ali storitev, temveč zgolj sodeluje na poslovnih sestankih, vzpostavlja poslovne stike, vključno s pogajanji v zvezi z opravljanjem storitev ali dejavnosti, tudi tistih v zvezi s pripravami na tržno prisotnost tujega delodajalca v Republiki Sloveniji;
+
+3.b visoke poklicne kvalifikacije: kvalifikacije, dokazane z dokazilom o visokošolskih kvalifikacijah ali visoki poklicni usposobljenosti;
+
+3.c visokošolske kvalifikacije: vsaka diploma, spričevalo ali drugo dokazilo o formalnih kvalifikacijah, ki ga je izdal pristojni organ in ki dokazuje uspešen zaključek visokošolskega programa ali enakovrednega programa terciarnega izobraževanja, in sicer sklopa študijskih predmetov, ki ga zagotavlja izobraževalna ustanova, ki jo država, v kateri ima izobraževalna ustanova sedež, priznava kot visokošolsko ustanovo ali enakovredno ustanovo terciarnega izobraževanja, kadar študij, potreben za pridobitev teh kvalifikacij, traja najmanj tri leta in ustreza najmanj ravni 6 Mednarodne standardne klasifikacije izobraževanja (ISCED 2011) ali 6. ravni evropskega ogrodja kvalifikacij v skladu z nacionalnim pravom;
+
+3.č visoka poklicna usposobljenost: znanje, spretnosti in kompetence, potrjene s poklicnimi izkušnjami na ravni, primerljivi z visokošolskimi kvalifikacijami, ki so relevantne za poklic ali sektor, naveden v pogodbi o zaposlitvi, in ki so bili pridobljeni v najmanj treh letih v obdobju zadnjih sedem let v zvezi s poklici po Standardni klasifikaciji poklicev 2008 (SKP 08): 133 vodstveni delavci na področju storitev informacijske in komunikacijske tehnologije in 25 strokovnjaki za informacijsko in komunikacijsko tehnologijo;
+
+3.d SOK: enotni sistem kvalifikacij v Republiki Sloveniji za razvrščanje kvalifikacij v ravni glede na učne izide, kot jih določa zakon, ki ureja slovensko ogrodje kvalifikacij;
+
+3.e 4. raven SOK: najmanj izobrazba, pridobljena po izobraževalnih programih za pridobitev srednje poklicne izobrazbe, ki je po zakonu, ki ureja slovensko ogrodje kvalifikacij, uvrščena na 4. raven slovenskega ogrodja kvalifikacij;
+
+3.f 6. raven SOK: najmanj izobrazba, pridobljena po študijskem programu za pridobitev višje strokovne izobrazbe, ki je po zakonu, ki ureja slovensko ogrodje kvalifikacij, uvrščena na 6. raven slovenskega ogrodja kvalifikacij;
+
+3.g 7. raven SOK: najmanj izobrazbo, pridobljeno po študijskem programu prve stopnje, oziroma izobrazbo, ki ustreza ravni izobrazbe, pridobljene po študijskih programih prve stopnje, in je v skladu z zakonom, ki ureja slovensko ogrodje kvalifikacij, uvrščena na 7. raven slovenskega ogrodja kvalifikacij;
+
+4. modra karta EU: dovoljenje za začasno prebivanje zaradi visokokvalificirane zaposlitve, ki se izda v skladu z zakonom, ki ureja vstop in prebivanje tujcev, in ki njenemu imetniku omogoča, da vstopi, prebiva in se zaposli v Republiki Sloveniji;
+
+5. napoteni delavec ali napotena delavka (v nadaljnjem besedilu: napoteni delavec): tujec ali tujka, ki na podlagi pogodbe o zaposlitvi pri delodajalcu s sedežem ali prebivališčem izven Republike Slovenije začasno opravlja delo v Republiki Sloveniji;
+
+6. naročnik dela: pravna oseba ali posameznik, registriran za opravljanje dejavnosti oziroma vpisan v register kmetijskih gospodarstev v Republiki Sloveniji, za katerega bo tujec opravljal določeno delo na podlagi sklenjene pogodbe civilnega prava;
+
+7. soglasje za zamenjavo: potrdilo o izpolnjevanju pogojev, določenih s tem zakonom, ki ga na zahtevo organa, pristojnega v skladu z zakonom, ki ureja vstop in prebivanje tujcev, da Zavod Republike Slovenije za zaposlovanje (v nadaljnjem besedilu: zavod) k zamenjavi delovnega mesta, zamenjavi delodajalca, ali zaposlitvi pri dveh ali več delodajalcih, v času veljavnosti enotnega dovoljenja;
+
+8. soglasje: potrdilo o izpolnjevanju pogojev, določenih s tem zakonom, ki ga na zahtevo organa, pristojnega po zakonu, ki ureja vstop in prebivanje tujcev, poda zavod k enotnemu dovoljenju ali modri karti EU, za določen namen zaposlitve ali dela;
+
+9. tretja država: vsaka država, ki ni članica EU, EGP ali ni Švicarska konfederacija;
+
+10. tujec ali tujka (v nadaljnjem besedilu: tujec): oseba, ki nima državljanstva Republike Slovenije;
+
+11. tuji delodajalec ali tuja delodajalka (v nadaljnjem besedilu: tuji delodajalec): pravna oseba ali posameznik, ki je registriran za opravljanje dejavnosti in ima prebivališče ali sedež v tretji državi, ki zaposluje tujca na podlagi pogodbe o zaposlitvi;
+
+12. zastopnik ali zastopnica (v nadaljnjem besedilu: zastopnik): državljan tretje države, ki je vpisan v ustrezen register kot oseba, pooblaščena za zastopanje;
+
+13. subjekt gostitelj je gospodarska družba s sedežem v Republiki Sloveniji, kamor je napoten tujec v okviru premestitve znotraj povezanih gospodarskih družb.
+
+#### 5. člen
+
+**(uporaba zakona)**
+
+(1) Določbe tega zakona veljajo za vse tujce, razen če ta zakon ali mednarodna pogodba, ki zavezuje Republiko Slovenijo, določa drugače.
+
+(2) Določbe tega zakona se ne uporabljajo za tujce, ki:
+
+1. so po mednarodnem pravu upravičeni do privilegijev in imunitete ter razpolagajo s posebnim dokumentom, ki ga izda ali evidentira pristojno ministrstvo za zunanje zadeve;
+
+2. opravljajo delo na podlagi ustreznih sporazumov z mednarodnimi organizacijami, sporazumov med pristojnimi institucijami ali v okviru mednarodnih projektov o strokovno tehnični pomoči, izobraževanju, izpopolnjevanju ali raziskovanju;
+
+3. so tuji dopisniki, akreditirani v Republiki Sloveniji in drugi dopisniki in poročevalci za tuje medije, v času izvajanja dejavnosti obveščanja;
+
+4. opravljajo duhovniški poklic ali redovniško dejavnost v okviru registrirane verske skupnosti in tujce, ki organizirajo oziroma vodijo karitativno in humanitarno dejavnost v okviru priznane humanitarne organizacije ali registrirane verske skupnosti;
+
+5. na podlagi pogodbe z ministrstvom, pristojnim za obrambo, ali ministrstvom, pristojnim za notranje zadeve, opravljajo storitve za potrebe obrambe in varnosti države, in osebe, ki se strokovno izpopolnjujejo na teh področjih;
+
+6. izvajajo interventne storitve v primerih, ko je treba nemudoma zagotoviti storitve tuje pravne osebe ali ustrezno usposobljenega tujca zaradi reševanja življenj, ukrepov, potrebnih za preprečitev ogrožanja zdravja prebivalstva, ali zaradi odprave ali preprečitve gospodarske škode, ki je posledica naravne nesreče;
+
+7. so člani posadke ladij, posadke letal ali opravljajo tranzitne prevoze v cestnem ali železniškem prometu in so zaposleni pri tujem delodajalcu;
+
+8. so v skladu z zakonom vpisani v sodni register v Republiki Sloveniji kot ustanovitelji, družbeniki ali člani nadzornih svetov gospodarskih družb za opravljanje dela v tej funkciji in obenem niso vpisani v sodni register kot zastopniki;
+
+9. v Republiki Sloveniji opravljajo poslovno dejavnost. Ta dejavnost je časovno omejena na 90 dni v šestih mesecih, šteto od dneva prvega vstopa tujca v Republiko Slovenijo;
+
+10. kot predavatelji sodelujejo na organiziranih strokovnih srečanjih, predstavljajo znanstvene dosežke ali občasno sodelujejo pri njihovem izvajanju, tujce, ki so njihovo spremljevalno tehnično osebje, ter tujce, ki opravljajo začasno raziskovalno delo (sobotno leto);
+
+11. osebno opravljajo storitve na področju kulture kot udeleženci kulturnih delavnic, srečanj, kolonij ali drugih kulturnih dogodkov ali kot poročevalci o njih; kot sodelavci, ustvarjalci in poustvarjalci s področja glasbene, glasbeno-scenske, plesne in baletne, literarne, fotografske, video in filmske umetnosti, umetnosti elektronskih medijev, vizualne umetnosti, arhitekture in oblikovanja, intermedijske umetnosti, uprizoritvene umetnosti, področja varovanja kulturne dediščine, knjižničarstva in arhivistike, ter tujce, ki so spremljajoče instruktažno, poročevalsko, organizacijsko in tehnično osebje;
+
+12. sodelujejo na športnih prireditvah;
+
+13. v Republiki Sloveniji opravljajo raziskovalno delo na podlagi sporazuma o gostovanju z raziskovalno organizacijo iz Republike Slovenije, tujce, ki v Republiki Sloveniji izvajajo program raziskovalnega dela do največ treh mesecev in imajo v drugi državi članici EU izdano dovoljenje za prebivanje raziskovalca ter tujci, ki imajo status mladega raziskovalca, pridobljen v Republiki Sloveniji;
+
+14. so poklicni športniki ali zasebni športni delavci in so v Republiki Sloveniji sklenili pogodbo o sodelovanju s slovenskim klubom ali športno organizacijo s sedežem v Republiki Sloveniji in so vpisani v razvid poklicnih športnikov ali v razvid zasebnih športnih delavcev, v 90 dneh od dneva prvega vstopa tujca v Republiko Slovenijo;
+
+15. na območju Republike Slovenije spremljajo oziroma vodijo goste ali skupine gostov iz tujine in so turistični vodniki ali turistični spremljevalci, ki opravljajo dejavnost v skladu z zakonom, ki ureja spodbujanje razvoja turizma, ali gorski vodniki, ki opravljajo dejavnost v skladu z zakonom, ki ureja gorsko vodništvo;
+
+16. v okviru sejemskih ali razstavnih prireditev v Republiki Sloveniji opravljajo dela postavljanja, opremljanja in razstavljanja opreme in predmetov;
+
+17. so izvajalci cirkuških predstav, delavci v gostujočih zabaviščnih parkih in drugi podobni delavci;
+
+18. na podlagi mednarodnih pogodb, ki zavezujejo Republiko Slovenijo, ali prava EU uživajo pravico do prostega pretoka delavcev;
+
+19. imajo v Republiki Sloveniji status dijaka ali študenta in na tej podlagi opravljajo začasna in občasna dela v skladu s predpisi, ki urejajo začasna in občasna dela dijakov in študentov, ter tujci, ki na podlagi sporazumov o izmenjavi študentov ali dijakov opravljajo začasna in občasna dela v skladu s predpisi, ki urejajo začasna in občasna dela dijakov in študentov;
+
+20. se zaposlujejo pri delodajalcih s področja javnega sektorja, ki izvajajo zdravstveno dejavnost, v javnih zavodih, ki izvajajo institucionalno varstvo odraslih oseb, v posebnih socialno varstvenih zavodih za odrasle, v varstveno delovnih centrih in socialno varstvenih zavodih za usposabljanje, v javnih zavodih, ki izvajajo socialnovarstveno storitev pomoč družini na domu, in v javnih socialno varstvenih zavodih, ki izvajajo socialnovarstvene storitve.
+
+(3) V primeru dvoma, če gre za primere iz prejšnjega odstavka, pristojno ministrstvo v 15 dneh od prejema zahteve tujca, upravne enote ali pristojnega nadzornega organa na podlagi tega zakona o tem poda mnenje, in sicer:
+
+1. v primeru iz 1. točke prejšnjega odstavka – ministrstvo, pristojno za zunanje zadeve;
+
+2. v primerih iz 2. točke prejšnjega odstavka – ministrstvo, pristojno za visoko šolstvo, za znanost, za inovacije, za vzgojo in izobraževanje, za delo, za gospodarstvo, za turizem ali za šport;
+
+3. v primerih iz 3., 4. in 11. točke prejšnjega odstavka – ministrstvo, pristojno za kulturo;
+
+4. v primeru iz 5. točke prejšnjega odstavka – ministrstvo, pristojno za obrambo ali za notranje zadeve;
+
+5. v primeru iz 6. točke prejšnjega odstavka – ministrstvo, pristojno za notranje zadeve, za obrambo, za zdravje ali za okolje;
+
+6. v primeru iz 7. točke prejšnjega odstavka – ministrstvo, pristojno za promet;
+
+7. v primerih iz 8., 9., 15. in 16. točke prejšnjega odstavka – ministrstvo, pristojno za gospodarstvo, za turizem ali za obrambo;
+
+8. v primerih iz 10. točke prejšnjega odstavka – ministrstvo, pristojno za visoko šolstvo, za znanost ali za inovacije;
+
+9. v primerih iz 12. in 14. točke prejšnjega odstavka – ministrstvo, pristojno za šport;
+
+10. v primerih iz 13. točke prejšnjega odstavka – ministrstvo, pristojno za visoko šolstvo, za znanost ali za gospodarstvo;
+
+11. v primerih iz 17., 18. in 19. točke prejšnjega odstavka – ministrstvo, pristojno za delo;
+
+12. v primeru iz 20. točke prejšnjega odstavka – ministrstvo, pristojno za zdravje ali za delo.
+
+(4) Določbe tega zakona se ne uporabljajo za tujce, ki želijo v Republiki Sloveniji opravljati prostovoljno delo, v skladu z zakonom, ki ureja prostovoljno delo.
+
+(5) Tujci iz drugega odstavka tega člena in prejšnjega odstavka se lahko zaposlijo, samozaposlijo ali opravljajo delo, če imajo urejeno prebivanje v skladu s predpisi, ki urejajo prebivanje tujcev.
+
+#### 6. člen
+
+**(prost dostop na trg dela)**
+
+(1) Pravica do prostega dostopa na trg dela pomeni, da se tujec v Republiki Sloveniji lahko zaposli, samozaposli ali opravlja delo brez soglasja k enotnemu dovoljenju ali modri karti EU ali brez dovoljenja za sezonsko delo.
+
+(2) Pravico do prostega dostopa na trg dela ima:
+
+1. tujec, ki v Republiki Sloveniji prebiva na podlagi dovoljenja za začasno prebivanje zaradi združitve družine s slovenskim državljanom;
+
+2. tujec, ki v Republiki Sloveniji prebiva na podlagi dovoljenja za stalno prebivanje;
+
+3. tujec, ki v Republiki Sloveniji prebiva na podlagi dovoljenja za začasno prebivanje za tujca slovenskega rodu;
+
+4. tujec, ki v Republiki Sloveniji prebiva na podlagi dovoljenja za začasno prebivanje kot žrtev trgovine z ljudmi;
+
+5. tujec, ki v Republiki Sloveniji prebiva na podlagi dovoljenja za začasno prebivanje kot žrtev nezakonitega zaposlovanja;
+
+6. tujec, ki mu je v Republiki Sloveniji priznana pravica do mednarodne zaščite ter njegov družinski član, ki v Republiki Sloveniji prebiva na podlagi dovoljenja za prebivanje zaradi združitve družine;
+
+7. tujec, ki mu je v Republiki Sloveniji priznan status osebe z začasno zaščito, kar dokazuje z izkaznico osebe z začasno zaščito;
+
+8. tujec, čigar istovetnost je nesporno ugotovljena in ima v Republiki Sloveniji status prosilca za mednarodno zaščito, in sicer po treh mesecih od vložitve prošnje za mednarodno zaščito, če mu v tem času ni bila vročena odločitev pristojnega organa in te zamude ni mogoče pripisati tujcu. Izpolnjevanje navedenih pogojev tujec dokazuje s potrdilom ministrstva, pristojnega za notranje zadeve.
+
+(3) Tujci iz prejšnjega odstavka imajo pravico do prostega dostopa na trg dela tudi v času, ko v Republiki Sloveniji prebivajo na podlagi potrdila o pravočasno vloženi prošnji za podaljšanje dovoljenja za prebivanje ali statusa.
+
+#### 7. člen
+
+**(zaposlitev, samozaposlitev in delo ter zagotavljanje dela delavcev uporabniku)**
+
+(1) Tujec je zaposlen v Republiki Sloveniji, kadar je na podlagi sklenjene pogodbe o zaposlitvi v delovnem razmerju pri delodajalcu v Republiki Sloveniji. Pogodba o zaposlitvi mora biti v skladu z zakonom, ki ureja delovna razmerja, in s kolektivnimi pogodbami, ki zavezujejo delodajalca.
+
+(2) Tujec je samozaposlen v Republiki Sloveniji, če samostojno opravlja pridobitno ali drugo dovoljeno dejavnost.
+
+(3) Tujec opravlja delo v Republiki Sloveniji, kadar opravlja delo kot napoteni delavec ali opravlja delo na podlagi sklenjene pogodbe civilnega prava, ki se časovno omejeno izvaja na ozemlju Republike Slovenije.
+
+(4) Prepovedano je opravljanje ali omogočanje opravljanja drugega dela kot tistega, za katerega je bilo v postopku izdaje ali podaljšanja enotnega dovoljenja oziroma modre karte EU podano soglasje, ali podano soglasje za zamenjavo, ali za katerega je bilo izdano dovoljenje za sezonsko delo. Tujec z enotnim dovoljenjem, ki mu je bilo izdano ali podaljšano na podlagi soglasja za zaposlitev, samozaposlitev ali delo, ali tujec, ki mu je bilo v času veljavnosti enotnega dovoljenja pri zamenjavi delodajalca, delovnega mesta pri istem delodajalcu ali zaposlitvi pri dveh ali več delodajalcih podano soglasje za zaposlitev, samozaposlitev ali delo, ali tujec z enotnim dovoljenjem zaradi opravljanja dela kot samozaposlena oseba in tujec, ki ima v skladu z določbami tega zakona prost dostop na trg dela, lahko opravlja vsa dela v okviru registriranih dejavnosti delodajalca ali poslovnega subjekta ter druge posle, potrebne za obstoj in opravljanje dejavnosti, ki pa ne pomenijo neposrednega opravljanja dejavnosti.
+
+(5) Delodajalec, ki lahko v skladu z zakonom, ki ureja trg dela, opravlja dejavnost zagotavljanja dela delavcev uporabniku, lahko v okviru opravljanja te dejavnosti sklepa pogodbe o zaposlitvi samo s tujci, ki v Republiki Sloveniji prebivajo na podlagi modre karte EU, s tujci, za katere je bilo v postopku izdaje ali podaljšanja enotnega dovoljenja ali v postopku zamenjave delodajalca, delovnega mesta pri istem delodajalcu ali zaposlitve pri dveh ali več delodajalcih podano soglasje za zaposlitev, samozaposlitev ali delo, ter s tujci, ki imajo v skladu s tem zakonom prost dostop na trg dela.
+
+(6) Posameznik s prebivališčem v Republiki Sloveniji, ki ni registriran za opravljanje dejavnosti, ali ni vpisan v register kmetijskih gospodarstev, sme skleniti pogodbo o zaposlitvi ali pogodbo civilnega prava le s tujcem, ki ima prost dostop na slovenski trg dela, in s tujcem, za katerega je bilo v postopku izdaje ali podaljšanja enotnega dovoljenja ali v postopku zamenjave delodajalca, delovnega mesta pri istem delodajalcu ali zaposlitve pri dveh ali več delodajalcih podano soglasje za zaposlitev, samozaposlitev ali delo.
+
+(7) Tujci, ki so v Republiki Sloveniji zaposleni, samozaposleni ali opravljajo delo, morajo imeti urejeno prebivanje v skladu s predpisi, ki urejajo prebivanje tujcev v Republiki Sloveniji.
+
+#### 8. člen
+
+**(rok za nastop dela tujca in obveznost prijave v socialno zavarovanje)**
+
+(1) Prijava v obvezno pokojninsko in invalidsko zavarovanje, obvezno zdravstveno zavarovanje, starševsko varstvo in zavarovanje za primer brezposelnosti (v nadaljnjem besedilu: obvezna socialna zavarovanja) tujcev v Republiki Sloveniji se opravi v skladu s predpisi, ki urejajo prijavo in odjavo iz obveznih socialnih zavarovanj.
+
+(2) Kadar je enotno dovoljenje ali modra karta EU tujcu vročena v Republiki Sloveniji, mora tujec nastopiti delo najpozneje deseti dan od vročitve enotnega dovoljenja ali modre karte EU.
+
+(3) Kadar tujec v času veljavnosti enotnega dovoljenja na podlagi soglasja za zamenjavo zamenja delodajalca ali se zaposli pri dveh ali več delodajalcih, mora nastopiti delo v 30 dneh od vročitve informativnega lista vlagatelju prošnje za podajo soglasja za zamenjavo.
+
+(4) V primerih, ko je enotno dovoljenje ali modra karta EU tujcu vročena izven Republike Slovenije, mora tujec nastopiti delo najkasneje 15. dan od vročitve enotnega dovoljenja ali modre karte EU.
+
+(5) Tujec, za katerega je bilo izdano dovoljenje za sezonsko delo ali vizum, kadar je ta potreben, mora nastopiti delo najkasneje 15. dan od vročitve dovoljenja za sezonsko delo ali vizuma.
+
+#### 9. člen
+
+**(predhodna kontrola trga dela)**
+
+(1) Delodajalec lahko pred vložitvijo vloge za izdajo enotnega dovoljenja, modre karte EU, vloge za zamenjavo delodajalca ali zaposlitev pri dveh ali več delodajalcih ali dovoljenja za sezonsko delo pridobi obvestilo zavoda o tem, ali so v evidenci brezposelnih oseb ustrezne brezposelne osebe, brez navedbe osebnih podatkov.
+
+(2) Obvestilo iz prejšnjega odstavka delodajalec pridobi na podlagi sporočila o prostem delovnem mestu, vloženega pri zavodu. Zavod posreduje obvestilo iz prejšnjega odstavka vlagatelju v petih delovnih dneh od prejema sporočila o prostem delovnem mestu.
+
+(3) Obvestilo zavoda, da v evidenci brezposelnih oseb ni ustreznih brezposelnih oseb, se šteje kot dokazilo o izpolnjenem pogoju iz 1. točke prvega odstavka 17. člena, 1. točke prvega odstavka 29. člena ter 3. točke prvega odstavka 30. člena tega zakona, če je bila vloga za izdajo enotnega dovoljenja, modre karte EU, za zamenjavo delodajalca ali zaposlitev pri dveh ali več delodajalcih ali dovoljenja za sezonsko delo vložena v 30 dneh od izdaje obvestila.
+
+#### 10. člen
+
+**(nastanitev tujcev)**
+
+(1) Delodajalci in naročniki dela, ki zagotavljajo nastanitev tujcem v Republiki Sloveniji, so pri tem dolžni zagotoviti minimalne bivanjske in higienske standarde.
+
+(2) Minimalni bivanjski in higienski standardi iz prejšnjega odstavka se določijo v podzakonskem aktu, ki ga skupaj izdajo minister, pristojen za delo, minister, pristojen za prostor, in minister, pristojen za zdravje.
+
+(3) Minimalni bivanjski standardi iz prvega odstavka tega člena določajo opremljenost, vzdrževanje, ogrevanje in osvetlitev prostorov, največje število oseb, ki lahko prebivajo v enem prostoru, in minimalno kvadraturo prostora glede na število oseb.
+
+(4) Minimalni higienski standardi iz prvega odstavka tega člena določajo največje število uporabnikov glede na opremljenost sanitarnih prostorov, ločenost teh prostorov od drugih bivalnih prostorov, njihovo zračenje in osvetlitev.
+
+(5) Višina najemnine za nastanitveni prostor se določi s pogodbo. V primeru spora glede višine najemnine za oddan nastanitveni prostor po tem zakonu odloča pristojno sodišče, pri čemer se smiselno upoštevajo določbe predpisa, ki ureja določitev najvišje priznane tržne najemnine.
+
+#### 11. člen
+
+**(pristojni organi)**
+
+(1) Zavod je pristojen za izvajanje postopkov v zvezi z izdajo, podaljšanjem in razveljavitvijo dovoljenj za sezonsko delo, podajo in umikom soglasij k enotnemu dovoljenju ali modri karti EU, podajo soglasij za zamenjavo, izdajo obvestil iz 9. člena tega zakona in potrdil o pravočasno vloženih prošnjah za podaljšanje dovoljenj za sezonsko delo v skladu z zakonom, ki ureja splošni upravni postopek, če niso posamezna vprašanja z zakonom, ki ureja vstop in prebivanje tujcev, ali s tem zakonom drugače urejena.
+
+(2) O pritožbah zoper odločbe in sklepe, ki jih na prvi stopnji izda zavod, odloča ministrstvo, pristojno za delo.
+
+## II. poglavje
+
+## SOGLASJE ZAVODA IN DOVOLJENJE ZA SEZONSKO DELO
+
+#### 12. člen
+
+**(splošna določba)**
+
+(1) Soglasje k enotnemu dovoljenju ali modri karti EU da zavod na zahtevo organa, pristojnega v skladu z zakonom, ki ureja vstop in prebivanje tujcev (v nadaljnjem besedilu: upravna enota). Upravna enota ob vročitvi enotnega dovoljenja ali modre karte EU tujcu priloži informativni list, na katerem so navedeni vsi pogoji in elementi zaposlitve ali dela, opredeljeni s soglasjem zavoda.
+
+(2) Zavod poda soglasje, če so izpolnjeni pogoji za podajo soglasja za posamezni namen po tem zakonu, ki ga vlagatelj izkaže v vlogi za izdajo ali podaljšanje enotnega dovoljenja oziroma modre karte EU. Zavod izda ali podaljša dovoljenje za sezonsko delo, če so izpolnjeni pogoji za opravljanje sezonskega dela iz 30. člena tega zakona.
+
+(3) V času veljavnosti enotnega dovoljenja ali modre karte EU zavod na zahtevo upravne enote da soglasje za zamenjavo, ki nadomesti predhodno dano soglasje k enotnemu dovoljenju ali modri karti EU. Predhodno dano soglasje velja do prenehanja delovnega razmerja pri prvem delodajalcu. O soglasju za zamenjavo zavod obvesti upravno enoto in Zavod za zdravstveno zavarovanje Slovenije, vlagatelju pa na podlagi danega soglasja vroči informativni list. Na podlagi informativnega lista in veljavnega enotnega dovoljenja ali modre karte EU lahko tujec zamenja delovno mesto, zamenja delodajalca ali se zaposli pri dveh ali več delodajalcih.
+
+(4) Zavod soglasja k enotnemu dovoljenju, modri karti EU ali soglasja za zamenjavo ne da ali se izdaja ali podaljšanje dovoljenja za sezonsko delo zavrne, če je delodajalcu, tujemu delodajalcu, naročniku dela ali tujcu prepovedano zaposlovanje, samozaposlovanje ali delo na podlagi 42. člena tega zakona.
+
+(5) Tujec je v Republiki Sloveniji lahko zaposlen le za polni delovni čas, razen tujca, ki izkazuje izobrazbo najmanj na 7. ravni SOK, ali tujca, ki se mu delovni čas skrajša v skladu s predpisi, ki urejajo pokojninsko in invalidsko zavarovanje ali starševsko varstvo.
+
+(6) Tujec je lahko še naprej zaposlen ali opravlja delo, opravlja dejavnost kot samostojni podjetnik posameznik ali opravlja samostojno poklicno dejavnost tudi v času, ko v Republiki Sloveniji prebiva na podlagi potrdila o pravočasno vloženi prošnji za podaljšanje dovoljenja za prebivanje ali za izdajo nadaljnjega dovoljenja za prebivanje, izdanega na podlagi zakona, ki ureja vstop in prebivanje tujcev, ali za izdajo dovoljenja za sezonsko delo, vendar izključno pod pogoji in v obsegu, kot mu je bilo dovoljeno s predhodnim dovoljenjem za prebivanje ali dovoljenjem za sezonsko delo, do dokončne oziroma pravnomočne odločitve o vlogi.
+
+(7) Tujec se lahko v poklicih in dejavnostih, ki jih minister, pristojen za delo, določi v skladu z devetim odstavkom 17. člena tega zakona, zaposli na podlagi potrdila o vloženi prošnji za prvo enotno dovoljenje in soglasja zavoda.
+
+(8) Za namen zaposlitev tujca iz prejšnjega odstavka zavod poda:
+
+- soglasje k enotnemu dovoljenju za namen zaposlitve v skladu s 17. členom tega zakona,
+
+- soglasje k modri karti EU v skladu z 20. členom tega zakona,
+
+- soglasje k enotnemu dovoljenju za namen usposabljanja in izpopolnjevanja ali soglasje k enotnemu dovoljenju za namen opravljanja pripravništva v skladu s 25. členom tega zakona,
+
+- soglasje k enotnemu dovoljenju za zastopnika v skladu s 27. členom tega zakona ali
+
+- soglasje k enotnemu dovoljenju za namen sezonskega dela v skladu z 28. in 29. členom tega zakona.
+
+(9) Zavod soglasje iz prejšnjega odstavka posreduje upravni enoti, ki vodi postopek, in vlagatelju. Zavod za namen zaposlitve tujca na podlagi podanega soglasja na zahtevo delodajalca nemudoma izda informativni list ter ga vroči delodajalcu.
+
+(10) Tujec iz sedmega odstavka tega člena mora nastopiti delo v roku deset dni od vročitve informativnega lista iz prejšnjega odstavka. Če tujec dela ne nastopi v roku deset dni od vročitve informativnega lista, zavod soglasje umakne in o tem obvesti upravno enoto. Če tujec dokaže, da dela v roku deset dni od vročitve informativnega lista ni nastopil zaradi objektivnih razlogov (npr. bolezni tujca, smrti ožjega družinskega člana), zavod rok za nastop dela podaljša.
+
+(11) Tujec iz sedmega odstavka tega člena je lahko zaposlen na podlagi potrdila o vloženi prošnji za prvo enotno dovoljenje in soglasja zavoda do pravnomočne odločitve o vlogi za izdajo enotnega dovoljenja.
+
+(12) Po zaposlitvi tujca iz sedmega odstavka tega člena mora delodajalec v prvih šestih mesecih po nastopu dela v okviru delovnega časa in brezplačno za tujca zagotoviti udeležbo v javnoveljavnem izobraževalnem programu za odrasle za učenje slovenskega jezika v trajanju najmanj 80 ur. O tej obveznosti mora delodajalec ob nastopu dela tujca pisno obvestiti v tujcu razumljivem jeziku.
+
+(13) Delodajalec mora v šestih mesecih od nastopa dela tujca zavodu predložiti potrdilo izvajalca javnoveljavnega izobraževalnega programa o zaključeni udeležbi v programu učenja slovenskega jezika.
+
+(14) Če se tujcu iz sedmega odstavka tega člena zaradi objektivnih razlogov (npr. zaradi bolezni tujca, nedostopnosti izobraževalnega programa) ni uspelo udeležiti izobraževalnega programa, mora o tem njegov delodajalec zavod pisno obvestiti v roku 15 dni po poteku roka za predložitev potrdila iz prejšnjega odstavka. Zavod na podlagi pisnega obvestila delodajalca rok za izpolnitev obveznosti iz prejšnjega odstavka podaljša še za šest mesecev.
+
+(15) V postopku podaje soglasja se v tujini pridobljena izobrazba dokazuje s fotokopijo overjene listine o izobraževanju in njenim prevodom v slovenski jezik. Izvirnik listine o izobraževanju, katerega fotokopija se priloži, mora biti predhodno overjen na podlagi Konvencije o odpravi potrebe legalizacije tujih javnih listin (Uradni list FLRJ, št. 10/62) z žigom Apostille ali v primeru, ko tuja država ni podpisnica te konvencije, na podlagi Zakona o overovitvi listin v mednarodnem prometu (Uradni list RS, št. 64/01).
+
+(16) V postopku podaje soglasja se v Republiki Sloveniji pridobljena izobrazba dokazuje s fotokopijo javne listine o izobraževanju, v Republiki Sloveniji pridobljena nacionalna poklicna kvalifikacija pa s fotokopijo javne listine o pridobljeni nacionalni poklicni kvalifikaciji.
+
+(17) V postopku podaje soglasja za opravljanje reguliranega poklica se ustreznost v tujini pridobljene poklicne kvalifikacije ali izobrazbe dokazuje z odločbo organa, pristojnega za priznavanje poklicnih kvalifikacij, ali mnenjem organa, pristojnega za priznavanje ali vrednotenje izobraževanja.
+
+### 1. Soglasje za zaposlitev, samozaposlitev ali delo
+
+#### 13. člen
+
+**(splošna določba)**
+
+(1) Enotno dovoljenje, izdano ali podaljšano na podlagi soglasja za zaposlitev, samozaposlitev ali delo, v času veljavnosti tujcu omogoča dostop do trga dela. Tujec lahko na tej podlagi opravlja delo na podlagi pogodb civilnega prava, se zaposli pri kateremkoli delodajalcu, se zaposli pri več delodajalcih ali se samozaposli, ne more pa na tej podlagi opravljati dela kot napoten delavec delodajalca s sedežem ali prebivališčem izven Republike Slovenije.
+
+(2) V primeru zamenjave delovnega mesta, zamenjave delodajalca ali zaposlitve pri dveh ali več delodajalcih lahko zavod na zahtevo upravne enote v času veljavnosti enotnega dovoljenja da soglasje za zaposlitev, samozaposlitev ali delo tujca, če tujec izpolnjuje katerega od pogojev iz 14. člena tega zakona.
+
+(3) V obdobju treh let od izdaje ali podaljšanja enotnega dovoljenja na podlagi soglasja za zaposlitev, samozaposlitev ali delo oziroma podaje soglasja iz prejšnjega odstavka v postopkih podaljšanja ali izdaje novega enotnega dovoljenja za istega tujca novo soglasje ni potrebno.
+
+#### 14. člen
+
+**(pogoji za podajo soglasja za zaposlitev, samozaposlitev ali delo)**
+
+(1) V postopku izdaje ali podaljšanja enotnega dovoljenja, razen za namen napotitve, ali v postopku zamenjave delodajalca, delovnega mesta pri istem delodajalcu ali zaposlitve pri dveh ali več delodajalcih zavod na zahtevo upravne enote poda soglasje za zaposlitev, samozaposlitev ali delo, če tujec izpolnjuje naslednje pogoje:
+
+1. ima izobrazbo najmanj na 4. ravni SOK ali pridobljeno nacionalno poklicno kvalifikacijo v Republiki Sloveniji in je bil v zadnjih 24 mesecih pred vložitvijo vloge najmanj 20 mesecev zaposlen ali samozaposlen v Republiki Sloveniji in na tej podlagi vključen v obvezna socialna zavarovanja ali
+
+2. je bil v zadnjih treh letih pred vložitvijo vloge najmanj 30 mesecev zaposlen ali samozaposlen v Republiki Sloveniji in na tej podlagi vključen v obvezna socialna zavarovanja ali
+
+3. je v obdobju zadnjih dveh let v Republiki Sloveniji uspešno zaključil najmanj višje strokovno izobraževanje in pridobil izobrazbo najmanj na 6. ravni SOK ter se namerava zaposliti ali samozaposliti ali
+
+4. je v obdobju zadnjih dveh let v Republiki Sloveniji zaključil program raziskovalnega dela in se namerava zaposliti ali samozaposliti.
+
+(2) **(črtan)**
+
+### 2. Soglasje za samozaposlitev
+
+#### 15. člen
+
+**(pogoj za samozaposlitev)**
+
+(1) V postopku izdaje ali podaljšanja enotnega dovoljenja zaradi samozaposlitve tujca soglasje zavoda ni potrebno.
+
+(2) Tujec se lahko samozaposli po enoletnem neprekinjenem zakonitem prebivanju v Republiki Sloveniji.
+
+(3) Pogoj enoletnega predhodnega prebivanja iz prejšnjega odstavka ne velja za tujca, ki je vpisan v poslovni register kot oseba, ki bo opravljala samostojno poklicno dejavnost.
+
+### 3. Soglasje za zaposlitev
+
+#### 16. člen
+
+**(splošna določba)**
+
+(1) Enotno dovoljenje, izdano ali podaljšano na podlagi soglasja za zaposlitev, ter soglasje za zamenjavo, sta vezani na zaposlitvene potrebe delodajalca. Tujec se sme na tej podlagi zaposliti le pri delodajalcu, ki je v postopku izdaje ali podaljšanja enotnega dovoljenja oziroma izdaje soglasja za zamenjavo izpolnjeval pogoje za zaposlitev tujca na podlagi tega zakona.
+
+(2) V postopku izdaje ali podaljšanja enotnega dovoljenja in soglasja za zamenjavo, ki sta izdana za namen zaposlitve, zavod pri podjetjih, ki so v skladu z zakonom, ki ureja spodbujanje investicij, vpisana v register podjetij z visoko dodano vrednostjo ali v register inovativnih zagonskih podjetij, ne preverja pogojev iz 2., 3., 4., in 5. točke prvega odstavka 17. člena tega zakona, pod pogojem, da pogodba iz 8. točke prvega odstavka 17. člena tega zakona tujcu zagotavlja plačo najmanj v višini povprečne mesečne bruto plače v Republiki Sloveniji, nazadnje objavljene v Uradnem listu Republike Slovenije.
+
+#### 17. člen
+
+**(pogoji za podajo soglasja za zaposlitev)**
+
+(1) V postopku izdaje enotnega dovoljenja za namen zaposlitve zavod na zahtevo upravne enote poda soglasje k enotnemu dovoljenju, če so izpolnjeni naslednji pogoji:
+
+1. da v evidenci brezposelnih oseb ni ustrezne brezposelne osebe;
+
+2. da je delodajalec ustrezno registriran ali vpisan v registru kmetijskih gospodarstev oziroma v poslovnem registru za opravljanje dejavnosti, v okviru katere bo tujec opravljal delo;
+
+3. da delodajalec ni v postopku likvidacije ali stečaja;
+
+4. da delodajalec aktivno posluje, kar pomeni:
+
+- da je pri delodajalcu najmanj šest mesecev pred vložitvijo vloge že zaposlena in vključena v obvezna socialna zavarovanja najmanj ena oseba, zaposlena za poln delovni čas, ali
+
+- da je delodajalec kot posameznik, registriran za opravljanje dejavnosti oziroma vpisan v register kmetijskih gospodarstev, najmanj šest mesecev pred vložitvijo vloge vključen v obvezna socialna zavarovanja ali
+
+- da je imel delodajalec v vsakem od zadnjih šestih mesecev pred vložitvijo vloge prilive iz naslova opravljanja dejavnosti najmanj v višini 10.000 eurov na transakcijski račun, odprt v Republiki Sloveniji;
+
+5. da je delodajalec za dohodke iz delovnega razmerja za zadnjih šest mesecev pred mesecem vložitve vloge ali za čas poslovanja, če je ta krajši od šest mesecev, predlagal obračune davčnega odtegljaja za dohodke iz delovnega razmerja, če je zaposloval delavce, in nima neporavnanih zapadlih davčnih obveznosti;
+
+6. da ni izkoriščena kvota iz 41. člena tega zakona;
+
+7. da tujec izpolnjuje pogoje, ki jih zahteva delodajalec;
+
+8. da je priložena s strani delodajalca podpisana pogodba o zaposlitvi, v skladu z določbami tega zakona;
+
+9. da delodajalec v zadnjih šestih mesecih ni odpovedal pogodbe o zaposlitvi iz poslovnih razlogov delavcem, ki izpolnjujejo pogoje za zasedbo delovnega mesta.
+
+(2) V primeru delodajalcev, ki so registrirani manj kot šest mesecev, se pogoj iz 4. točke prejšnjega odstavka šteje za izpolnjen, če je delodajalec pred vložitvijo vloge investiral najmanj 50.000 eurov v dejavnost, v okviru katere bo tujec opravljal delo.
+
+(3) V primeru tujca z izobrazbo najmanj na 7. ravni SOK se soglasje za zaposlitev poda brez preverjanja pogoja iz 4. točke prvega odstavka tega člena in pogoja iz prejšnjega odstavka.
+
+(4) V primeru tujca, ki je športnik ali strokovni delavec v skladu z zakonom, ki ureja šport, se soglasje za zaposlitev poda brez preverjanja pogojev iz 1. točke in prve alineje 4. točke prvega odstavka tega člena, če je vlogi priloženo mnenje pristojne nacionalne panožne športne zveze po zakonu, ki ureja šport, o tem, da za zaposlitev v športni panogi ni ustrezne brezposelne osebe.
+
+(5) Tujcu, ki je prejemnik denarnega nadomestila za primer brezposelnosti in ga v zaposlitev napotuje zavod, se za namen te zaposlitve poda soglasje k izdaji enotnega dovoljenja za namen zaposlitve brez preverjanja pogojev iz prvega odstavka tega člena, pod pogojem, da delodajalec v zadnjih štirih mesecih ni odpuščal iz poslovnih razlogov delavcev, ki izpolnjujejo pogoje za zasedbo delovnega mesta.
+
+(6) V primeru, da delodajalčeva obveznost predložitve obračuna davčnega odtegljaja za dohodke iz delovnega razmerja za zadnji mesec pred vložitvijo vloge še ni nastala, se izpolnjevanje pogoja iz 5. točke prvega odstavka tega člena ugotavlja na podlagi podatkov za zadnjih šest mesecev ali za čas poslovanja, če je ta krajši od šest mesecev, pred vložitvijo vloge, za katere je obveznost predložitve obračuna davčnega odtegljaja za dohodke iz delovnega razmerja že nastala.
+
+(7) Pogoj iz 9. točke prvega odstavka tega člena se ne upošteva, če delodajalec tujcu zagotovi plačo najmanj v višini bruto povprečne mesečne plače v preteklem letu v Republiki Sloveniji, ali če se v postopku podaje soglasja dokaže, da v evidenci brezposelnih oseb ni oseb, ki jim je delodajalec odpovedal pogodbo o zaposlitvi iz poslovnih razlogov in ki izpolnjujejo pogoje za zasedbo prostega delovnega mesta.
+
+(8) Minister, pristojen za delo, lahko določi primere, ko zaposlitev tujca zaradi narave dela oziroma posebnih okoliščin na strani delodajalca ali tujca ni vezana na trg dela in se soglasje k enotnemu dovoljenju ali soglasje za zamenjavo za namen zaposlitve poda brez ugotavljanja izpolnjevanja pogoja iz 1. točke prvega odstavka tega člena.
+
+(9) Minister, pristojen za delo, lahko na podlagi ugotovitve, da zaposlovanje tujcev ne bo škodljivo vplivalo na trg dela, ob upoštevanju stanja brezposelnosti, strukture zaposlovanja in regionalnih potreb za odpiranje novih delovnih mest v okviru posameznih gospodarskih panog, s soglasjem socialnih partnerjev določi poklice, v zvezi s katerimi se soglasje k enotnemu dovoljenju ali soglasje za zamenjavo za namen zaposlitve poda brez ugotavljanja izpolnjevanja pogoja iz 1. točke prvega odstavka tega člena.
+
+#### 18. člen
+
+**(soglasje k podaljšanju enotnega dovoljenja za namen zaposlitve)**
+
+(1) Soglasje k podaljšanju enotnega dovoljenja za namen zaposlitve tujca pri istem delodajalcu in na istem delovnem mestu zavod poda, če:
+
+- so izpolnjeni pogoji iz 5. in 8. točke prvega odstavka prejšnjega člena,
+
+- je tujec neprekinjeno prijavljen v obvezna socialna zavarovanja od dneva nastopa dela.
+
+(2) Pri podaji soglasja k podaljšanju enotnega dovoljenja za namen zaposlitve se za istega delodajalca šteje tudi univerzalni pravni naslednik delodajalca v primeru univerzalnega pravnega nasledstva.
+
+#### 19. člen
+
+**(soglasje za zamenjavo)**
+
+(1) Soglasje k zamenjavi delovnega mesta pri istem delodajalcu, ki nadomesti predhodno dano soglasje, zavod da, če so izpolnjeni pogoji iz 1. in 7. točke prvega odstavka 17. člena tega zakona.
+
+(2) Kadar je pri tujcu v času trajanja delovnega razmerja v Republiki Sloveniji ugotovljena invalidnost na podlagi zakona, ki ureja pokojninsko in invalidsko zavarovanje, in mu je z odločbo Zavoda za pokojninsko in invalidsko zavarovanje Slovenije ali sodišča v Republiki Sloveniji priznana pravica na podlagi te invalidnosti, soglasje zavoda k zamenjavi delovnega mesta pri istem delodajalcu za preostali čas veljavnosti enotnega dovoljenja ni potrebno.
+
+(3) Soglasje k zamenjavi delodajalca, ki nadomesti predhodno dano soglasje, zavod da, če so izpolnjeni pogoji iz 17. člena tega zakona.
+
+(4) Soglasje k zaposlitvi pri dveh ali več delodajalcih zavod da, če ima tujec izobrazbo najmanj na 7. ravni SOK in so izpolnjeni naslednji pogoji:
+
+- da je od dneva vključitve v obvezna socialna zavarovanja na podlagi prve zaposlitve pretekel najmanj en mesec;
+
+- da so izpolnjeni pogoji iz 17. člena tega zakona;
+
+- da je sklenjen sporazum med novim delodajalcem, tujcem in delodajalcem, pri katerem je tujec že zaposlen.
+
+### 4. Soglasje k modri karti EU
+
+#### 20. člen
+
+**(pogoji za podajo soglasja)**
+
+(1) V postopku izdaje modre karte EU zavod na zahtevo upravne enote poda soglasje k modri karti EU, če so izpolnjeni naslednji pogoji:
+
+1. da ima tujec najmanj visoke poklicne kvalifikacije,
+
+2. da je priložena s strani delodajalca podpisana pogodba o zaposlitvi za najmanj šest mesecev, s katero je tujcu zagotovljena plača v višini najmanj povprečne letne bruto plače v Republiki Sloveniji, nazadnje objavljene v Uradnem listu Republike Slovenije,
+
+3. da so izpolnjeni pogoji iz 1., 2., 3., 4., 5. in 7. točke prvega odstavka 17. člena tega zakona.
+
+(2) V prvem letu zaposlitve zavod na zahtevo upravne enote poda soglasje k podaljšanju modre karte EU, če sta izpolnjena pogoja iz 2. točke prejšnjega odstavka in pogoj iz 5. točke prvega odstavka 17. člena tega zakona.
+
+(3) V prvem letu zaposlitve zavod na zahtevo upravne enote poda soglasje za zamenjavo delovnega mesta pri istem delodajalcu, če sta izpolnjena pogoja iz 2. točke prvega odstavka tega člena in pogoj iz 5. točke prvega odstavka 17. člena tega zakona.
+
+(4) V prvem letu zaposlitve zavod na zahtevo upravne enote poda soglasje za zamenjavo delodajalca, če sta izpolnjena pogoja iz 2. točke prvega odstavka tega člena in pogoji iz 1., 2., 3., 5. in 7. točke prvega odstavka 17. člena tega zakona.
+
+(5) Po prvem letu zaposlitve zavod na zahtevo upravne enote poda soglasje k podaljšanju modre karte EU, če sta izpolnjena pogoja iz 2. točke prvega odstavka tega člena.
+
+(6) V postopku izdaje ali podaljšanja modre karte EU ali soglasja za zamenjavo za namen zaposlitve pri podjetjih iz drugega odstavka 16. člena tega zakona zavod preverja pogoje za izdajo soglasja k modri karti EU, določene v tem členu, razen pogojev iz 2., 3., 4. in 5. točke prvega odstavka 17. člena tega zakona.
+
+(7) V primeru, da za modro karto EU zaprosi tujec, ki je v skladu s pogoji, določenimi v drugem odstavku 16. člena tega zakona, zaposlen v podjetju iz drugega odstavka 16. člena tega zakona, zavod v postopku podaje soglasja k modri karti EU ne preverja visokih poklicnih kvalifikacij, če so bile le te že preverjene v okviru podaje soglasja za zaposlitev pri podjetju iz drugega odstavka 16. člena tega zakona.
+
+(8) V primeru, da za modro karto EU zaprosi tujec iz prejšnjega odstavka zaradi zaposlitve pri istem delodajalcu, zavod v postopku podaje soglasja k modri karti EU ne preverja pogoja iz 1. točke prvega odstavka 17. člena tega zakona.
+
+(9) Imetnik modre karte EU lahko po enoletni zaposlitvi kot dopolnilno dejavnost opravlja tudi samozaposlitveno ali samostojno poklicno dejavnost.
+
+#### 20.a člen
+
+**(zaposlitev visoko poklicno usposobljenih)**
+
+(1) V primeru, da se bo tujec zaposlil kot vodilni delavec na področju informacijske in komunikacijske tehnologije (področna skupina poklicev 133 po Standardni klasifikaciji poklicev 2008 – SKP08) ali kot strokovnjak za informacijsko in komunikacijsko tehnologijo (podskupina poklicev 25 po SKP08), lahko pogoj iz 1. točke prvega odstavka prejšnjega člena dokazuje tudi z visoko poklicno usposobljenostjo.
+
+(2) Tujec v postopku ugotavljanja njegove visoke poklicne usposobljenosti za poklice iz prejšnjega odstavka predloži dokazilo:
+
+- da je bil v zadnjih sedmih letih najmanj tri leta zakonito zaposlen kot vodilni delavec na področju storitev informacijske in komunikacijske tehnologije ali kot strokovnjak za informacijsko in komunikacijsko tehnologijo ali
+
+- mnenje iz 20.b člena tega zakona, da ima ustrezne poklicne izkušnje, na ravni, primerljivi z visokošolskimi kvalifikacijami, ki so relevantne za poklic, določen v pogodbi o zaposlitvi.
+
+(3) Dokazilo iz prve alineje prejšnjega odstavka je lahko:
+
+- potrdilo uradne institucije države, v kateri je bil tujec zaposlen, da je bil zadnjih sedem let zakonito zaposlen pri enem ali več delodajalcih in socialno zavarovan ali
+
+- overjen prevod potrdila ali potrdil delodajalcev, iz katerega oziroma iz katerih je razvidno na katerih delovnih mestih in koliko časa je tujec opravljal delo, če v zadevni državi ni uradne institucije, ki izdaja potrdila iz prejšnje alineje.
+
+#### 20.b člen
+
+**(mnenje imenovanega strokovnjaka o poklicnih izkušnjah)**
+
+(1) Pisno mnenje, da ima tujec ustrezne poklicne izkušnje na ravni, primerljivi z visokošolskimi kvalifikacijami, ki so relevantne za poklic in delo, določeno v pogodbi o zaposlitvi (v nadaljnjem besedilu: mnenje), poda imenovani strokovnjak.
+
+(2) Imenovani strokovnjak je lahko oseba, ki:
+
+- ima izobrazbo najmanj na 7. ravni SOK s področja računalništva in informatike ali elektrotehnike, elektronike in informacijskega inženiringa in
+
+- je v zadnjih treh letih najmanj dve leti opravljala poklic, za katerega bo podajala mnenja.
+
+(3) Imenovanega strokovnjaka imenuje komisija iz 20.c člena tega zakona za 5 let. Ob izpolnjevanju pogojev je lahko oseba ponovno imenovana za imenovanega strokovnjaka.
+
+(4) Za mnenje imenovanega strokovnjaka zaprosi delodajalec, pri katerem se bo tujec zaposlil. Mnenje velja le za zaposlitev pri delodajalcu, pri katerem se bo tujec na podlagi izdanega mnenja zaposlil.
+
+(5) Imenovani strokovnjak mnenje poda najpozneje v 30 dneh. Če mnenja ne poda v 30 dneh, lahko delodajalec zaprosi za mnenje drugega imenovanega strokovnjaka. Mnenje imenovani strokovnjak posreduje tujcu, delodajalcu in komisiji iz 20.c člena tega zakona.
+
+(6) Stroške mnenja imenovanega strokovnjaka plača delodajalec.
+
+#### 20.c člen
+
+**(komisija)**
+
+(1) Komisijo, ki opravlja naloge v zvezi z ugotavljanjem poklicnih izkušenj (v nadaljnjem besedilu: komisija), imenuje minister, pristojen za delo, za dobo pet let. Isti člani in namestniki komisije so lahko imenovani večkrat.
+
+(2) Delo članov komisije je brezplačno. Prostore in gradivo za delo komisije zagotavlja ministrstvo, pristojno za delo.
+
+(3) Komisijo sestavlja pet članov, ki imajo vsak svojega namestnika, ki ga nadomešča v njegovi odsotnosti. Člane komisije in njihove namestnike predlagajo reprezentativne delodajalske organizacije, reprezentativne sindikalne organizacije, ministrstvo, pristojno za visoko šolstvo, ministrstvo, pristojno za gospodarstvo, in ministrstvo, pristojno za delo. Člani in namestniki komisije, ki jih predlagajo pristojna ministrstva, so predstavniki ministrstev. Predsednik komisije je predstavnik ministrstva, pristojnega za delo, v njegovi odsotnosti pa ga nadomešča njegov namestnik.
+
+(4) Komisija se sestaja po potrebi, na predlog predsednika komisije ali na predlog vsaj dveh članov komisije. Komisija odloča v sestavi petih članov.
+
+(5) Člana komisije ali njegovega namestnika razreši minister, pristojen za delo, na predlog organa, ki je člana in namestnika člana predlagal.
+
+(6) Komisija opravlja naloge:
+
+- na predlog reprezentativne delodajalske organizacije ali reprezentativne sindikalne organizacije sprejema standarde in kompetence, ki se zahtevajo za posamezen poklic iz prvega odstavka 20.a člena tega zakona. Komisija o standardu in kompetenci za posamezni poklic odloči v 30 dneh od prejema predloga,
+
+- na predlog reprezentativne delodajalske organizacije ali reprezentativne sindikalne organizacije imenuje strokovnjake iz prejšnjega člena. Komisija o imenovanju predlaganega strokovnjaka odloči v 30 dneh od prejema predloga,
+
+- razrešuje imenovane strokovnjake iz prejšnjega člena.
+
+(7) Komisija za namen opravljanja nalog v zvezi z ugotavljanjem poklicnih izkušenj vodi seznam imenovanih strokovnjakov iz 20.b člena tega zakona z naslednjimi podatki:
+
+- osebno ime,
+
+- izobrazba,
+
+- EMŠO,
+
+- firma ali ime delodajalca, pri katerem je imenovani strokovnjak zaposlen, ali podatek, da je imenovani strokovnjak samozaposlen oziroma opravlja samostojno poklicno dejavnost.
+
+(8) Seznam imenovanih strokovnjakov s podatki o osebnem imenu in izobrazbi se z namenom seznanitve delodajalcev objavi na spletnih straneh ministrstva, pristojnega za delo. Po razrešitvi se podatki o imenovanem strokovnjaku izbrišejo s seznama imenovanih strokovnjakov in s spletnih strani ministrstva, pristojnega za delo.
+
+(9) Komisija dela po poslovniku, ki ga izda minister, pristojen za delo.
+
+#### 20.č člen
+
+**(delo in razrešitev imenovanih strokovnjakov)**
+
+(1) Imenovani strokovnjak pri podaji mnenja navede:
+
+- osebno ime tujca, državo rojstva in njegovo izobrazbo;
+
+- firmo ali ime delodajalca iz Republike Slovenije, pri katerem se tujec želi zaposliti;
+
+- poklic, ki ga bo tujec opravljal;
+
+- opis poklicnih izkušenj tujca in
+
+- ali poklicne izkušnje ustrezajo sprejetim standardom in kompetencam za poklic in za delo, ki ga bo tujec pri delodajalcu opravljal na podlagi pogodbe o zaposlitvi.
+
+(2) Komisija imenovanega strokovnjaka razreši na pisno zahtevo imenovanega strokovnjaka.
+
+#### 20.d člen
+
+**(soglasje za tujca, ki ima v državi članici EU že izdano modro karto EU)**
+
+V postopku izdaje modre karte EU za tujca, ki ima v državi članici EU že izdano modro karto EU, zavod na zahtevo upravne enote poda soglasje k modri karti EU, če so izpolnjeni naslednji pogoji:
+
+- da ima tujec odločbo organa, pristojnega za priznavanje poklicnih kvalifikacij, ali mnenje organa, pristojnega za priznavanje ali vrednotenje izobraževanja, če bo opravljal regulirani poklic,
+
+- da ima tujec najmanj visoke poklicne kvalifikacije, če bo opravljal nereguliran poklic in če je bil v prvi državi članici zaposlen manj kot dve leti,
+
+- da je priložena s strani delodajalca podpisana pogodba o zaposlitvi za najmanj šest mesecev, s katero je tujcu zagotovljena plača v višini najmanj povprečne letne bruto plače v Republiki Sloveniji, nazadnje objavljene v Uradnem listu Republike Slovenije,
+
+- da je izpolnjen pogoj iz 1. točke prvega odstavka 17. člena tega zakona.
+
+### 5. Soglasje za napotene delavce
+
+#### 21. člen
+
+**(splošna določba)**
+
+(1) Tuji delodajalci lahko v Republiko Slovenijo napotijo delavce v skladu s predpisi Republike Slovenije in mednarodnimi pogodbami, ki zavezujejo Republiko Slovenijo.
+
+(2) Tuji delodajalec lahko napoti svoje delavce z namenom:
+
+1. izvajanja čezmejnih storitev v svojem imenu in za svoj račun na podlagi pogodbe z naročnikom storitve iz držav članic EU, EGP ali Švicarske konfederacije ali na podlagi pogodbe z izvajalcem storitve, ki ima sklenjeno pogodbo z naročnikom storitve iz držav članic EU, EGP ali Švicarske konfederacije;
+
+2. izvedbe določenih nalog v subjektu gostitelju, s katerim je povezan, če subjekt gostitelj izpolnjuje pogoje iz 4. in 5. točke prvega odstavka 17. člena ali drugega odstavka 17. člena tega zakona;
+
+3. usposabljanja v gospodarski družbi s sedežem v Republiki Sloveniji, s katero je povezan na enega izmed načinov, opredeljenih v prvem odstavku 24. člena tega zakona.
+
+(3) Soglasje za napotene delavce lahko tuji delodajalec, razen v primerih iz 24. člena tega zakona, pridobi le za tiste delavce, ki so že najmanj devet mesecev oziroma v primeru iz 3. točke četrtega odstavka 23. člena tega zakona najmanj šest mesecev neprekinjeno zaposleni pri njem ali v kapitalsko povezani gospodarski družbi s sedežem v tretji državi.
+
+(4) Soglasje za napotene delavce se poda v postopku izdaje ali podaljšanja enotnega dovoljenja, če ni izkoriščena kvota iz 41. člena tega zakona.
+
+#### 22. člen
+
+**(čezmejno izvajanje storitev)**
+
+(1) Soglasje k izdaji enotnega dovoljenja za delavca, napotenega na delo v okviru čezmejnega izvajanja storitev, se lahko poda pod pogoji iz prejšnjega člena, in sicer enkrat ali večkrat, pri čemer skupno trajanje izvajanja storitve ne sme presegati 90 dni v koledarskem letu.
+
+(2) Soglasje k podaljšanju enotnega dovoljenja za napotenega delavca se lahko poda, če se izvajanje pogodbe podaljša za največ en mesec in če izvajalec in naročnik dokažeta, da se storitve zaradi objektivnih razlogov (npr. višja sila, zamuda pri izvedbi del, ki so vezana na dela, določena v pogodbi) niso mogle izvesti v dogovorjenem roku.
+
+(3) Ne glede na določbo prvega odstavka tega člena se lahko storitev, ki je posebnega pomena za državo, izvaja daljši čas. O tem, ali gre za storitev, ki je posebnega pomena za državo, odloči ministrstvo, pristojno za delo, na podlagi mnenja ministrstva, pristojnega za področje dejavnosti, in sicer na zaprosilo naročnika storitve, kateremu priloži pogodbo o izvajanju storitve ter pisno obrazložitev, iz katere izhaja poseben pomen za državo, čas izvajanja storitve ter število napotenih delavcev, potrebnih za izvedbo storitve.
+
+#### 23. člen
+
+**(premestitev oseb znotraj povezanih gospodarskih družb)**
+
+(1) Soglasje za napotenega delavca, premeščenega na delo v okviru premestitve oseb znotraj povezanih gospodarskih družb, se v postopku izdaje ali podaljšanja enotnega dovoljenja poda pod pogoji iz tega člena in iz 21. člena tega zakona.
+
+(2) Soglasje za napotenega delavca se v postopku izdaje ali podaljšanja enotnega dovoljenja zaradi dolgotrajne premestitve iz povezane gospodarske družbe, ki ima sedež v drugi državi članici EU, poda pod pogoji iz tega člena.
+
+(3) Napoteni delavci iz prvega in drugega odstavka tega člena lahko pri subjektu gostitelju opravljajo delo le na podlagi pogodbe o zaposlitvi, sklenjene s tujim delodajalcem, in akta o premestitvi, ki mora vsebovati določila o:
+
+1. trajanju in kraju opravljanja dela za čas premestitve v Republiki Sloveniji;
+
+2. zagotavljanju pravic, razen plače, v skladu z določbami zakona, ki ureja delovna razmerja, ki se nanašajo na položaj delavcev, napotenih na delo v Republiko Slovenijo;
+
+3. predvideni vrnitvi v povezano družbo s sedežem v tretji državi ali v drugi državi članici EU;
+
+4. nalogah, ki jih bo napoteni delavec opravljal v subjektu gostitelju;
+
+5. višini plače napotenega delavca, ki ne sme biti nižja od višine plače, ki jo za zasedbo primerljivih delovnih mest prejmejo delavci v Republiki Sloveniji, v skladu s predpisi in kolektivnimi pogodbami s splošno veljavnostjo ali veljavnostjo na ravni dejavnosti.
+
+(4) Tuji delodajalec lahko za opravljanje določenih nalog v subjektu gostitelju premesti naslednje delavce:
+
+1. tujca, ki bo zasedal vodstveno mesto v gospodarski družbi, v katero je napoten, za kar se šteje mesto, ki zahteva vodenje gospodarske družbe ali njenega dela in nadzor nad delom drugih nadzornih, strokovnih ali poslovodnih delavcev ter omogoča neposredni ali posredni vpliv na kadrovske zadeve;
+
+2. tujca z izobrazbo najmanj na 4. ravni SOK, ki ima posebna znanja in poklicne izkušnje, bistvene na področju izvajanja registriranih dejavnosti gospodarske družbe, v katero je napoten;
+
+3. tujca z izobrazbo najmanj na 7. ravni SOK, ki je premeščen za namene poklicnega razvoja ali usposabljanja v poslovnih tehnikah ali metodah.
+
+(5) Če kljub izpolnjevanju pogojev iz tretjega odstavka tega člena in 3. točke prejšnjega odstavka obstaja dvom, ali se bo premestitev iz 3. točke prejšnjega odstavka izvajala z namenom poklicnega razvoja ali usposabljanja, lahko zavod v postopku podaje soglasja k izdaji ali podaljšanju enotnega dovoljenja zahteva predložitev pogodbe o usposabljanju, ki jo skleneta gospodarska družba s sedežem v Republiki Sloveniji in gospodarska družba s sedežem v tretji državi in ki mora vsebovati podatke o:
+
+1. opisu programa usposabljanja z namenom poklicnega razvoja ali usposabljanja v poslovnih tehnikah ali metodah;
+
+2. načinu usposabljanja delavcev, ki je lahko individualno ali skupinsko;
+
+3. področju usposabljanja (strokovno področje, poklic ali delovno mesto, na katerem se bo usposabljanje izvajalo);
+
+4. mentorju (osebno ime, raven dosežene izobrazbe in delovno mesto) in njegovih obveznostih.
+
+#### 24. člen
+
+**(usposabljanje napotenih in slovenskih delavcev v povezanih gospodarskih družbah)**
+
+(1) Usposabljanje v gospodarskih družbah se lahko izvaja, če sta gospodarska družba s sedežem v Republiki Sloveniji ter gospodarska družba s sedežem v tretji državi kapitalsko povezani ali če gre za poslovno-tehnično sodelovanje ali prenos tehnologije. Za kapitalsko povezani gospodarski družbi se za podajo soglasja iz tega člena štejeta gospodarski družbi, ki sta v večinski lasti iste gospodarske družbe, ali gospodarski družbi, med katerima ima ena najmanj deset odstotni delež v drugi gospodarski družbi, ki pa ne sme biti manjši od 10.000 eurov. Pogodba o poslovno-tehničnem sodelovanju ali prenosu tehnologije se šteje za ustrezno, če sta gospodarska družba s sedežem v Republiki Sloveniji ter gospodarska družba s sedežem v tretji državi v skladu s predpisi obeh držav registrirani za opravljanje dejavnosti na področjih, na katerih bosta sodelovali po tej pogodbi in izkazuje najmanj 40.000 eurov letnega prometa med gospodarsko družbo s sedežem v Republiki Sloveniji ter gospodarsko družbo s sedežem v tretji državi.
+
+(2) Usposabljanje tujih napotenih delavcev in usposabljanje slovenskih delavcev se izvaja v gospodarski družbi s sedežem v Republiki Sloveniji na podlagi pogodbe o usposabljanju, ki jo skleneta gospodarska družba s sedežem v Republiki Sloveniji ter gospodarska družba s sedežem v tretji državi.
+
+(3) Pogodba o usposabljanju mora vsebovati določila o plačilu, nastanitvi in prehrani napotenih delavcev ter program usposabljanja.
+
+(4) Program usposabljanja mora vsebovati podatke o:
+
+1. napotenih delavcih z navedbo delovnih mest pri tujem delodajalcu in njihovo strokovno izobrazbo;
+
+2. načinu usposabljanja delavcev, ki je lahko individualno ali skupinsko;
+
+3. področju usposabljanja (strokovno področje, poklic ali delovno mesto, na katerem se bo usposabljanje izvajalo);
+
+4. ciljih usposabljanja (znanje in usposobljenost, ki naj bi ju delavci dosegli, npr. uvajanje v delo v zvezi z novimi tehnologijami, standardi, ekološkimi zahtevami, funkcionalno izobraževanje);
+
+5. mentorju (osebno ime, izobrazba in delovno mesto) in njegovih obveznostih;
+
+6. kraju usposabljanja (npr. proizvodni prostori, učne delavnice gospodarske družbe s sedežem v Republiki Sloveniji, udeležba na seminarjih) ter času opravljanja usposabljanja na posamezni lokaciji.
+
+(5) K vlogi za izdajo ali podaljšanje enotnega dovoljenja mora biti priloženo soglasje o ustreznosti pogodbe s programom usposabljanja, ki ga, na podlagi kriterijev iz tretjega in četrtega odstavka tega člena, izda združenje delodajalcev ali pristojna zbornica, ustanovljena na podlagi zakona, ki ureja gospodarske zbornice, ali drugega zakona, in za katero je ugotovljena njena reprezentativnost.
+
+(6) Gospodarska družba s sedežem v tretji državi lahko na usposabljanje svojih ali usposabljanje slovenskih delavcev napoti posameznega delavca večkrat, vendar največ za šest mesecev v času dveh let.
+
+(7) Zavod poda soglasje k izdaji ali podaljšanju enotnega dovoljenja za usposabljanje v povezanih gospodarskih družbah pod pogoji iz tega člena in 21. člena tega zakona.
+
+### 6. Soglasje za usposabljanje ali izpopolnjevanje ali soglasje za opravljanje pripravništva
+
+#### 25. člen
+
+**(pogoji za podajo soglasja)**
+
+(1) Zavod poda soglasje k izdaji enotnega dovoljenja za prebivanje in delo za namen usposabljanja ali izpopolnjevanja ali k izdaji enotnega dovoljenja zaradi opravljanja pripravništva tujcev, če so izpolnjeni naslednji pogoji:
+
+1. je priložena s strani delodajalca podpisana pogodba o zaposlitvi za namen usposabljanja, izpopolnjevanja ali opravljanja pripravništva oziroma pogodba civilnega prava, če drugi predpisi ali splošno veljavne kolektivne pogodbe na ozemlju Republike Slovenije omogočajo opravljanje usposabljanja, izpopolnjevanja ali pripravništva brez sklenjenega delovnega razmerja;
+
+2. je priložen program usposabljanja, izpopolnjevanja ali opravljanja pripravništva;
+
+3. je k programu usposabljanja, izpopolnjevanja ali opravljanja pripravništva priloženo pozitivno mnenje gospodarskega združenja, pristojne zbornice ali ministrstva, pristojnega za področje dejavnosti;
+
+4. tujec še ni bil vključen v vsebinsko podoben program usposabljanja, izpopolnjevanja ali opravljanja pripravništva;
+
+5. je naročnik dela ali delodajalec za dohodke iz delovnega razmerja za zadnjih šest mesecev pred mesecem vložitve vloge ali za čas poslovanja, če je ta krajši od šest mesecev, predlagal obračune davčnega odtegljaja za dohodke iz delovnega razmerja, če je zaposloval delavce, in nima neporavnanih zapadlih davčnih obveznosti.
+
+(2) Soglasje k izdaji enotnega dovoljenja zaradi opravljanja pripravništva iz prejšnjega odstavka zavod poda, če sta poleg pogojev iz prejšnjega odstavka izpolnjena tudi naslednja pogoja:
+
+- je izpolnjen pogoj iz 1. točke prvega odstavka 17. člena tega zakona,
+
+- tujec izkazuje izobrazbo najmanj na 6. ravni SOK, pridobljeno v zadnjih dveh letih pred vložitvijo vloge, ali dokazilo o vključitvi v najmanj višje strokovno izobraževanje, ki omogoča pridobitev izobrazbe najmanj na 6. ravni SOK.
+
+(3) Če usposabljanje ali izpopolnjevanje organizira gospodarsko združenje, pristojna zbornica ali ministrstvo, pristojno za področje dejavnosti (v nadaljnjem besedilu: organizator), mnenje iz 3. točke prvega odstavka tega člena ni potrebno. V tem primeru organizator in delodajalec, pri katerem se bo tujec usposabljal ali izpopolnjeval, skleneta pisno pogodbo, s katero uredita medsebojna razmerja glede obveznosti in odgovornosti obeh pogodbenih strank pri izvajanju programa usposabljanja ali izpopolnjevanja.
+
+(4) Če delodajalčeva obveznost predložitve obračuna davčnega odtegljaja za dohodke iz delovnega razmerja za zadnji mesec pred vložitvijo vloge še ni nastala, se izpolnjevanje pogoja iz 5. točke prvega odstavka tega člena ugotavlja na podlagi podatkov za zadnjih šest mesecev ali za čas poslovanja, če je ta krajši od šest mesecev, pred vložitvijo vloge, za katere je obveznost predložitve obračuna davčnega odtegljaja za dohodke iz delovnega razmerja že nastala.
+
+(5) Program usposabljanja ali izpopolnjevanja tujcev se lahko izvaja največ za čas do enega leta. Če programa usposabljanja ali izpopolnjevanja ni mogoče zaključiti v enem letu, se lahko njegovo izvajanje podaljša za največ šest mesecev. Kadar se usposabljanje ali izpopolnjevanje izvajata na področju zdravstva (npr. specializacija), se lahko izvajanje programa usposabljanja ali izpopolnjevanja podaljša do zaključka specializacije.
+
+(6) Program za opravljanje pripravništva vsebuje podatke o:
+
+1. strokovnem področju, ki mora vsebinsko ustrezati pridobljeni izobrazbi najmanj na 6. ravni SOK ali področju izobraževanja;
+
+2. ciljih in učnih elementih usposabljanja;
+
+3. trajanju pripravništva;
+
+4. kraju opravljanja pripravništva;
+
+5. mentorju in pogojih za nadzor nad pripravništvom;
+
+6. urah pripravništva;
+
+7. pravnem razmerju med tujcem in delodajalcem ali naročnikom dela.
+
+(7) Zavod v postopku podaljšanja enotnega dovoljenja za prebivanje in delo ali enotnega dovoljenja zaradi opravljanja pripravništva, izdanih na podlagi soglasja iz prvega odstavka tega člena, poda soglasje le na podlagi obrazložitve razlogov, zaradi katerih programa usposabljanja, izpopolnjevanja ali opravljanja pripravništva ni bilo mogoče zaključiti, in predložene ustrezne pogodbe o zaposlitvi ali pogodbe civilnega prava za predmetno obdobje.
+
+(8) Tujec z veljavnim enotnim dovoljenjem, izdanim na podlagi soglasja iz prvega odstavka tega člena, se lahko do izteka veljavnosti enotnega dovoljenja zaposli pri istem delodajalcu na podlagi soglasja za zamenjavo brez preverjanja pogojev iz 17. člena tega zakona. Za zaposlitev pri dveh ali več delodajalcih zavod poda soglasje za zamenjavo, če so izpolnjeni pogoji iz četrtega odstavka 19. člena tega zakona.
+
+(9) Tujec se lahko po izteku veljavnosti enotnega dovoljenja iz prvega odstavka tega člena zaposli pri delodajalcu, pri katerem se je usposabljal, izpopolnjeval ali opravljal pripravništvo, na podlagi novega enotnega dovoljenja. Zavod poda soglasje k novemu enotnemu dovoljenju, če je izpolnjen pogoj iz 1. točke prvega odstavka 17. člena tega zakona.
+
+### 7. Soglasje za individualne storitve tujcev
+
+#### 26. člen
+
+**(pogoji za podajo soglasja)**
+
+(1) Soglasje za individualne storitve tujca se poda za opravljanje dela, za katerega se zahteva posebno strokovno znanje tujca, ki ni registriran za opravljanje dejavnosti.
+
+(2) Zavod poda soglasje k izdaji ali podaljšanju enotnega dovoljenja ali soglasje za zamenjavo za opravljanje dela, za katerega se zahteva posebno strokovno znanje, če je med tujcem in naročnikom dela sklenjena pogodba civilnega prava in ima tujec posebno strokovno znanje, ki se zahteva za izvedbo dela na podlagi pogodbe.
+
+(3) Tujec lahko delo na področju znanosti, kulture, športa, zdravstva in izobraževanja opravlja za čas največ enega leta, v drugih primerih pa največ tri mesece v koledarskem letu.
+
+(4) V primeru dvoma o posebnem strokovnem znanju tujca, zavod poda soglasje na podlagi mnenja, ki ga pridobi od pristojne zbornice, poklicnega združenja ali ministrstva, pristojnega za področje dejavnosti.
+
+### 8. Soglasje za zastopnika
+
+#### 27. člen
+
+**(pogoji za podajo soglasja)**
+
+(1) Soglasje za zastopnika se poda za namen zastopanja samostojnega podjetnika posameznika, pravne osebe, ustanovljene v skladu z zakonom, ki ureja gospodarske družbe, ali slovenske podružnice tujega podjetja, pri kateri se tujec želi zaposliti ali opravljati delo.
+
+(2) Zavod poda soglasje za zastopnika k izdaji ali podaljšanju enotnega dovoljenja, ob upoštevanju omejitev iz petega, šestega in sedmega odstavka tega člena, če so izpolnjeni naslednji pogoji:
+
+1. da delodajalec oziroma naročnik dela aktivno posluje, kar pomeni:
+
+- da je pri njem najmanj šest mesecev pred vložitvijo vloge že zaposlena in vključena v obvezna socialna zavarovanja najmanj ena oseba, zaposlena za poln delovni čas, ali
+
+- da je delodajalec kot posameznik registriran za opravljanje dejavnosti in najmanj šest mesecev pred vložitvijo vloge vključen v obvezna socialna zavarovanja ali
+
+- da je imel v vsakem od zadnjih šestih mesecev pred vložitvijo vloge prilive iz naslova opravljanja dejavnosti podjetja najmanj v višini 10.000 eurov na transakcijski račun, odprt v Republiki Sloveniji;
+
+2. da je naročnik dela ali delodajalec za dohodke iz delovnega razmerja za zadnjih šest mesecev pred mesecem vložitve vloge ali za čas poslovanja, če je ta krajši od šest mesecev, predlagal obračune davčnega odtegljaja za dohodke iz delovnega razmerja, če je zaposloval delavce, in nima neporavnanih zapadlih davčnih obveznosti;
+
+3. da je zastopnik vpisan v ustreznem registru;
+
+4. da je priložena s strani delodajalca podpisana pogodba o zaposlitvi ali s strani naročnika dela podpisana pogodba civilnega prava;
+
+5. da ni izkoriščena kvota iz 41. člena tega zakona.
+
+(3) V primeru delodajalcev, ki so registrirani manj kot šest mesecev, se pogoj iz 1. točke prejšnjega odstavka šteje za izpolnjen, če je delodajalec pred vložitvijo vloge investiral najmanj 50.000 eurov v dejavnost, v okviru katere bo tujec opravljal delo.
+
+(4) Če delodajalčeva obveznost predložitve obračuna davčnega odtegljaja za dohodke iz delovnega razmerja za zadnji mesec pred vložitvijo vloge še ni nastala, se izpolnjevanje pogoja iz 2. točke drugega odstavka tega člena ugotavlja na podlagi podatkov za zadnjih šest mesecev, ali za čas poslovanja, če je ta krajši od šest mesecev, pred vložitvijo vloge, za katere je obveznost predložitve obračuna davčnega odtegljaja za dohodke iz delovnega razmerja že nastala.
+
+(5) Za zaposlitev ali delo pri pravni osebi ali samostojnemu podjetniku posamezniku, ki zaposluje do vključno deset delavcev, lahko zavod poda eno soglasje za zastopnika pravne osebe ali samostojnega podjetnika posameznika.
+
+(6) Za zaposlitev ali delo pri pravni osebi ali samostojnemu podjetniku posamezniku, ki zaposluje od 11 do vključno 50 delavcev, lahko zavod poda dve soglasji za zastopnika pravne osebe ali samostojnega podjetnika posameznika.
+
+(7) Za zaposlitev ali delo pri slovenski podružnici tujega podjetja zavod pri podaji soglasja za zastopnika upošteva omejitve iz petega in šestega odstavka tega člena.
+
+(8) V primeru podaljšanja enotnega dovoljenja za namen zaposlitve pri istem delodajalcu ali dela pri pravni osebi, samostojnem podjetniku posamezniku, slovenski podružnici tujega podjetja, pri kateri je tujec delal ali je bil zaposlen ob vložitvi vloge, poda zavod soglasje za zastopnika pod pogoji iz 1., 2., 3. in 4. točke drugega odstavka tega člena.
+
+(9) Tujec z veljavnim enotnim dovoljenjem, izdanim na podlagi soglasja za zastopnika, lahko zamenja delovno mesto pri istem delodajalcu, zamenja delodajalca ali sklene novo pogodbo civilnega prava le na podlagi novega enotnega dovoljenja. Soglasje za zamenjavo zaradi zaposlitve pri dveh ali več delodajalcih zavod lahko poda pod pogoji iz četrtega odstavka 19. člena tega zakona.
+
+### 9. Soglasje za sezonsko delo in dovoljenje za sezonsko delo
+
+#### 28. člen
+
+**(splošna določba)**
+
+(1) Sezonsko delo se lahko opravlja v kmetijstvu, gozdarstvu, gostinstvu ali turizmu in je neločljivo povezano s sezono, v kateri je za posamezno dejavnost značilen izrazito povečan obseg potrebe po delavcih.
+
+(2) Sezonsko delo se lahko izvaja zgolj na podlagi pogodbe o zaposlitvi, razen v primerih, ki jih določa zakon, ki ureja začasno in občasno delo v kmetijstvu.
+
+(3) Tujec lahko sezonsko delo, ki ne presega 90 dni v koledarskem letu, opravlja na podlagi dovoljenja za sezonsko delo, sezonsko delo, daljše od 90 dni v koledarskem letu, pa lahko opravlja na podlagi enotnega dovoljenja, izdanega na podlagi soglasja za sezonsko delo.
+
+(4) Za opravljanje sezonskega dela tujca v različnih časovnih obdobjih pri istem ali drugem delodajalcu oziroma naročniku dela zavod lahko poda eno ali več soglasij, pri čemer skupno trajanje ne sme presegati šestih mesecev v koledarskem letu. Če zavod v postopku izdaje enotnega dovoljenja poda eno soglasje za več časovnih obdobij, v postopku izdaje novih enotnih dovoljenj za predmetna časovna obdobja soglasje zavoda ni potrebno.
+
+(5) Skupno trajanje veljavnosti enega ali več dovoljenj za sezonsko delo, izdanih za istega tujca, za opravljanje sezonskega dela pri istem ali drugem delodajalcu oziroma naročniku dela, ne sme presegati 90 dni v koledarskem letu.
+
+(6) Ne glede na četrti odstavek tega člena se lahko za nadaljnje opravljanje sezonskega dela pri istem delodajalcu enotno dovoljenje podaljša pod pogojem, da je vlogi za podaljšanje enotnega dovoljenja priloženo mnenje zbornice, pristojne za kmetijstvo in gozdarstvo, da je prišlo do izrednih pridelovalnih pogojev (npr. podaljšanje vegetacije), ali mnenje zbornice, pristojne za turizem in gostinstvo, da je prišlo do podaljšanja turistične sezone in s tem povečane potrebe gostinskih storitev ter pogodba o zaposlitvi oziroma pogodba civilnega prava za predmetno obdobje. V postopku podaljšanja enotnega dovoljenja za ta namen soglasje zavoda ni potrebno.
+
+(7) Če bi tujec, ki je zaposlen ali opravlja delo na podlagi dovoljenja za sezonsko delo, po izteku veljavnosti predhodnega dovoljenja za sezonsko delo želel zamenjati delodajalca ali naročnika dela, mora vložiti vlogo najpozneje 15 dni pred iztekom veljavnosti dovoljenja za sezonsko delo. V primeru, da zavod o vlogi ne odloči do izteka veljavnosti predhodnega dovoljenja za sezonsko delo, se lahko tujec pri drugem delodajalcu zaposli ali opravlja delo na podlagi potrdila o vloženi prošnji in pogodbe o zaposlitvi ali pogodbe civilnega prava, in sicer do odločitve zavoda.
+
+(8) Zavod o prošnji tujca za izdajo dovoljenja za sezonsko delo, ki je imel v zadnjih petih letih v Republiki Sloveniji vsaj enkrat izdano enotno dovoljenje za sezonsko delo, daljše od 90 dni, ali dovoljenje za sezonsko delo, odloči nemudoma, najpozneje pa v desetih dneh od prejema popolne prošnje.
+
+#### 29. člen
+
+**(pogoji za izdajo soglasja)**
+
+(1) V postopku izdaje enotnega dovoljenja za namen opravljanja sezonskega dela zavod na zahtevo upravne enote poda soglasje, če so izpolnjeni naslednji pogoji:
+
+1. da v evidenci brezposelnih oseb ni ustrezne brezposelne osebe;
+
+2. da je naročnik dela ali delodajalec ustrezno registriran ali vpisan v poslovnem registru za opravljanje dejavnosti, v okviru katere se izvaja delo, ki ga bo opravljal tujec, ali da je kot nosilec kmetijskega gospodarstva ali član kmetije vpisan v register kmetijskih gospodarstev;
+
+3. da naročnik dela ali delodajalec ni v postopku likvidacije ali stečaja;
+
+4. da je naročnik dela ali delodajalec za dohodke iz delovnega razmerja za zadnjih šest mesecev pred mesecem vložitve vloge ali za čas poslovanja, če je ta krajši od šest mesecev, predlagal obračune davčnega odtegljaja za dohodke iz delovnega razmerja, če je zaposloval delavce, in nima neporavnanih zapadlih davčnih obveznosti;
+
+5. da ni izkoriščena kvota iz 41. člena tega zakona;
+
+6. da je priložena s strani delodajalca podpisana pogodba o zaposlitvi ali s strani naročnika dela podpisana pogodba civilnega prava.
+
+(2) Ne glede na določbo prejšnjega odstavka se v primeru, da bo tujec sezonsko delo opravljal na podlagi pogodbe civilnega prava, soglasje poda brez preverjanja pogoja iz 1. točke prejšnjega odstavka.
+
+(3) Če delodajalčeva obveznost predložitve obračuna davčnega odtegljaja za dohodke iz delovnega razmerja za zadnji mesec pred vložitvijo vloge še ni nastala, se izpolnjevanje pogoja iz 4. točke prvega odstavka tega člena ugotavlja na podlagi podatkov za zadnjih šest mesecev, ali za čas poslovanja, če je ta krajši od šest mesecev, pred vložitvijo vloge, za katere je obveznost predložitve obračuna davčnega odtegljaja za dohodke iz delovnega razmerja že nastala.
+
+(4) V postopku podaljšanja enotnega dovoljenja zaradi opravljanja sezonskega dela zavod na zahtevo upravne enote poda soglasje, če so izpolnjeni pogoji iz 4. in 6. točke prvega odstavka tega člena.
+
+#### 30. člen
+
+**(pogoji za izdajo in podaljšanje dovoljenja za sezonsko delo)**
+
+(1) Dovoljenje za sezonsko delo izda zavod na vlogo naročnika dela ali delodajalca, če so izpolnjeni naslednji pogoji:
+
+1. da ima tujec veljavno potno listino, katere veljavnost je najmanj tri mesece daljša od nameravanega prebivanja v Republiki Sloveniji;
+
+2. da ima tujec ustrezno zdravstveno zavarovanje;
+
+3. da v evidenci brezposelnih oseb ni ustreznih brezposelnih oseb;
+
+4. da je naročnik dela ali delodajalec ustrezno registriran ali vpisan v poslovnem registru za opravljanje dejavnosti, v okviru katere se izvaja delo, ki ga bo opravljal tujec, ali da je kot nosilec kmetijskega gospodarstva ali član kmetije vpisan v register kmetijskih gospodarstev;
+
+5. da je priložena s strani delodajalca podpisana pogodba o zaposlitvi ali s strani naročnika dela podpisana pogodba civilnega prava;
+
+6. da naročnik dela ali delodajalec nista v postopku likvidacije ali stečaja;
+
+7. da je naročnik dela ali delodajalec za dohodke iz delovnega razmerja za zadnjih šest mesecev pred mesecem vložitve vloge ali za čas poslovanja, če je ta krajši od šest mesecev, predlagal obračune davčnega odtegljaja za dohodke iz delovnega razmerja, če je zaposloval delavce, in nima neporavnanih zapadlih davčnih obveznosti;
+
+8. da ni izkoriščena kvota iz 41. člena tega zakona.
+
+(2) Ne glede na določbo prejšnjega odstavka se v primeru, da bo tujec sezonsko delo opravljal na podlagi pogodbe civilnega prava, dovoljenje izda brez preverjanja pogoja iz 3. točke prejšnjega odstavka.
+
+(3) Če delodajalčeva obveznost predložitve obračuna davčnega odtegljaja za dohodke iz delovnega razmerja za zadnji mesec pred vložitvijo vloge še ni nastala, se izpolnjevanje pogoja iz 7. točke prvega odstavka tega člena ugotavlja na podlagi podatkov za zadnjih šest mesecev, ali za čas poslovanja, če je ta krajši od šest mesecev, pred vložitvijo vloge, za katere je obveznost predložitve obračuna davčnega odtegljaja za dohodke iz delovnega razmerja že nastala.
+
+(4) Dovoljenje za sezonsko delo se lahko podaljša, če je vloga za podaljšanje vložena pred iztekom veljavnosti predhodnega dovoljenja za sezonsko delo, če so izpolnjeni pogoji iz 1., 2., 5. in 7. točke prvega odstavka tega člena in če skupno trajanje ne presega 90 dni v koledarskem letu.
+
+#### 31. člen
+
+**(rok za vrnitev dovoljenja za sezonsko delo)**
+
+Delodajalec ali naročnik dela je dolžan vrniti dovoljenje za sezonsko delo zavodu, če s tujcem iz kakršnihkoli razlogov ne sklene pogodbe o zaposlitvi ali pogodbe civilnega prava oziroma če pogodba o zaposlitvi ali pogodba civilnega prava preneha pred potekom veljavnosti dovoljenja za sezonsko delo, v roku:
+
+1. 15 dni od vročitve dovoljenja za sezonsko delo, če tujec ne nastopi zaposlitve ali dela;
+
+2. treh delovnih dni od prenehanja delovnega ali drugega pogodbenega razmerja s tujcem.
+
+## III. poglavje
+
+## ZAPOSLOVANJE, SAMOZAPOSLOVANJE IN DELO TUJCEV Z DOVOLJENJEM ZA ZAČASNO PREBIVANJE, KI NI IZDANO ZARADI ZAPOSLITVE, SAMOZAPOSLITVE ALI DELA
+
+#### 32. člen
+
+**(splošna določba)**
+
+Tujec z dovoljenjem za začasno prebivanje, ki ni izdano zaradi zaposlitve, samozaposlitve ali dela, in ki mu ni prepovedano zaposlovanje, samozaposlovanje in delo v skladu z 42. členom tega zakona, se lahko zaposli, samozaposli ali dela v skladu z določbami tega poglavja, razen tujcev, ki imajo pravico do prostega dostopa na slovenski trg dela na podlagi tega zakona.
+
+#### 33. člen
+
+**(zaposlovanje)**
+
+(1) Tujec z dovoljenjem za začasno prebivanje, ki ni izdano zaradi zaposlitve, samozaposlitve ali dela, se lahko zaposli le na delovnem mestu, za katerega v evidenci brezposelnih oseb ni ustreznih brezposelnih oseb, razen v primeru opravljanja dela zastopnika.
+
+(2) V primeru, da v evidenci brezposelnih oseb ni vpisanih ustreznih kandidatov, zavod v petih delovnih dneh od sporočila o prostem delovnem mestu delodajalcu, upravni enoti ter pristojnemu nadzornemu organu o tem posreduje pisno obvestilo ter informativni list, na katerem so navedeni vsi pogoji in elementi zaposlitve, ki jih je delodajalec opredelil v sporočilu. V primeru zaposlitve tujca za opravljanje dela zastopnika in tujca, ki je bil predhodno že zakonito zaposlen pri istem delodajalcu na istem delovnem mestu, se informativni list izda brez preverjanja obstoja ustreznih brezposelnih oseb v evidenci zavoda.
+
+(3) Če so v evidenci brezposelnih oseb vpisani ustrezni kandidati, zavod v petih delovnih dneh od sporočila o prostem delovnem mestu o tem pisno obvesti delodajalca.
+
+(4) Tujec z dovoljenjem za začasno prebivanje, ki ni izdano zaradi zaposlitve, samozaposlitve ali dela, je lahko zaposlen le na podlagi veljavne izkaznice dovoljenja za prebivanje, na kateri je označena pravica do dela, kateri upravna enota ob vročitvi priloži tudi informativni list. Do izdaje izkaznice dovoljenja za prebivanje, na kateri je označena pravica do dela, se tujec lahko zaposli in vključi v obvezna socialna zavarovanja na podlagi veljavne izkaznice dovoljenja za prebivanje, ki ni izdano zaradi zaposlitve, samozaposlitve ali dela, in informativnega lista iz drugega odstavka tega člena.
+
+(5) Pisno obvestilo iz drugega odstavka tega člena se šteje kot dokazilo o izpolnjenem pogoju iz prvega odstavka tega člena, če tujec nastopi delo v roku 30 dni od izdaje pisnega obvestila. V času trajanja delovnega razmerja morajo biti izpolnjeni vsi pogoji in elementi zaposlitve, navedeni na informativnem listu.
+
+(6) Tujec je lahko še naprej zaposlen pri istem delodajalcu tudi v času, ko v Republiki Sloveniji prebiva na podlagi potrdila o pravočasno vloženi prošnji za podaljšanje dovoljenja za prebivanje ali za izdajo nadaljnjega dovoljenja za prebivanje, izdanega na podlagi zakona, ki ureja vstop in prebivanje tujcev, vendar izključno pod pogoji in v obsegu, kot mu je bilo dovoljeno s predhodnim dovoljenjem za prebivanje.
+
+(7) Ne glede na določbo prvega odstavka tega člena se tujec z dovoljenjem za začasno prebivanje, ki ni izdano zaradi zaposlitve, samozaposlitve ali dela, lahko zaposli tudi v primerih, ki jih minister, pristojen za delo, določi na podlagi sedmega ali osmega odstavka 17. člena tega zakona.
+
+(8) Za potrebe izdaje izkaznice dovoljenja za začasno prebivanje, na kateri je označena pravica do dostopa na trg dela, ki se izdaja na podlagi zakona, ki ureja vstop in prebivanje tujcev, v primeru iz drugega odstavka tega člena posebna odločitev zavoda o pravici do dostopa na trg dela ni potrebna.
+
+#### 34. člen
+
+**(samozaposlovanje in delo)**
+
+(1) Tujec z dovoljenjem za začasno prebivanje, ki ni izdano zaradi zaposlitve, samozaposlitve ali dela, se lahko samozaposli po enoletnem neprekinjenem zakonitem prebivanju v Republiki Sloveniji. Pogoj enoletnega predhodnega prebivanja ne velja za tujca, ki je vpisan v poslovni register kot oseba, ki bo opravljala samostojno poklicno dejavnost.
+
+(2) Tujci z dovoljenjem za začasno prebivanje, ki ni izdano zaradi zaposlitve, samozaposlitve ali dela, opravljajo delo pod enakimi pogoji kot državljani Republike Slovenije.
+
+(3) Tujec lahko še naprej opravlja delo pri istem naročniku dela, opravlja dejavnost kot samostojni podjetnik posameznik ali opravlja samostojno poklicno dejavnost tudi v času, ko v Republiki Sloveniji prebiva na podlagi potrdila o pravočasno vloženi prošnji za podaljšanje dovoljenja za prebivanje ali za izdajo nadaljnjega dovoljenja za prebivanje, izdanega na podlagi zakona, ki ureja vstop in prebivanje tujcev, vendar izključno pod pogoji in v obsegu, kot mu je bilo dovoljeno s predhodnim dovoljenjem za prebivanje.
+
+(4) Za potrebe izdaje izkaznice dovoljenja za začasno prebivanje, na kateri je označena pravica do dostopa na trg dela, ki se izdaja na podlagi zakona, ki ureja vstop in prebivanje tujcev, v primerih iz prvega in drugega odstavka tega člena posebna odločitev zavoda o pravici do dostopa na trg dela ni potrebna.
+
+## IV. poglavje
+
+## IZVAJANJE STORITEV Z NAPOTENIMI DELAVCI NA PODLAGI PRIJAVE ZAČETKA IZVAJANJA STORITVE IN PRIJAVA DELA ZASTOPNIKOV
+
+#### 36. člen
+
+**35. člen(prenehal veljati)**
+
+**(izvajanje kratkotrajnih storitev izvajalcev iz tretjih držav)**
+
+(1) Tuji delodajalec lahko z napotenimi delavci v Republiki Sloveniji izvaja storitve, vezane na dobavo blaga in servisiranje, na podlagi prijave začetka izvajanja storitev.
+
+(2) Storitve iz prejšnjega odstavka so dovoljene v naslednjih primerih:
+
+1. kadar so storitve, ki jih opravijo napoteni delavci, povezane z dobavo in montažo strojev, naprav ali opreme, uvajanjem osebja naročnika oziroma demontažo strojev, naprav ali opreme;
+
+2. ko gre za izvajanje rednih vzdrževalnih servisov, če so ti dogovorjeni v pogodbi o nakupu strojev, naprav ali opreme in jih opravljajo napoteni delavci, zaposleni pri proizvajalcu ali
+
+3. ko je dobavitelj na podlagi pogodbe o dobavi strojev, naprav ali opreme iz tujine dolžan na svoje stroške odpraviti napake na dobavljenih strojih, napravah ali opremi.
+
+(3) Začetek izvajanja storitev je delodajalec iz prvega odstavka tega člena dolžan prijaviti pri zavodu pred začetkom izvajanja storitve. O opravljeni prijavi izda zavod potrdilo.
+
+(4) Prijava mora vsebovati podatke o:
+
+1. firmi in sedežu ali naslovu naročnika storitve;
+
+2. firmi in sedežu ali naslovu tujega delodajalca;
+
+3. osebnem imenu in datumu rojstva odgovorne osebe naročnika in izvajalca storitve;
+
+4. osebnih imenih, datumih rojstev, državljanstvih napotenih delavcev ter naslovih njihovih prebivališč v Republiki Sloveniji;
+
+5. vrsti storitve;
+
+6. kraju in trajanju izvajanja storitve.
+
+(5) Storitve iz prvega odstavka tega člena se lahko izvajajo neprekinjeno 14 dni ter v skupnem trajanju 90 dni v koledarskem letu. Isti napoteni delavec je lahko ponovno napoten na delo v Republiko Slovenijo po vmesni prekinitvi, ki traja toliko časa, kolikor je trajalo predhodno izvajanje storitev.
+
+(6) Če tujemu delodajalcu iz prvega odstavka tega člena zaradi objektivnih razlogov (na primer zaradi bolezni tujih delavcev, neugodnih vremenskih razmer, tehničnih ovir) ne uspe pravočasno začeti ali zaradi prekinitve dokončati izvedbe storitve, mora v treh dneh od nastopa objektivnega razloga za zamudo ali prekinitev izvajanja storitve zavod o tem pisno obvestiti in predložiti dokazila o razlogih za zamudo ali prekinitev izvajanja storitve. Zavod lahko v teh primerih na podlagi obrazložitve in dokazil tujemu delodajalcu spet izda potrdilo o opravljeni prijavi storitve, ki nadomesti predhodno izdano potrdilo o prijavi začetka opravljanja storitve.
+
+#### 36.a člen
+
+**(prijava izvajanja prevozov s strani izvajalcev iz tretjih držav)**
+
+(1) Tuji delodajalec, ki čezmejno izvaja storitve v dejavnosti mednarodnega prevoza, pred začetkom izvajanja storitve na ozemlju Republike Slovenije oziroma pred začetkom izvajanja storitve za naročnika iz Republike Slovenije opravi spletno prijavo na zavodu, ki vključuje podatke o:
+
+1. firmi ali imenu in sedežu tujega delodajalca,
+
+2. osebnemu imenu, datumu rojstva in državljanstvu napotenega voznika ter njegovemu naslovu stalnega ali začasnega prebivališča v državi zaposlitve,
+
+3. osebnemu imenu odgovorne osebe delodajalca, ki ga tuji delodajalec pooblasti za stike z nadzornimi organi, vključno s pošiljanjem in prejemanjem dokumentov in obvestil ter vročanjem, v skladu z določbami zakona, ki ureja splošni upravni postopek,
+
+4. vrsti storitve (mednarodni prevoz, dvostranski prevoz, kabotaža),
+
+5. predvidenemu datumu začetka in konca izvajanja storitev – obdobje napotitve,
+
+6. državah, med katerimi se izvaja storitev mednarodnega prevoza, oziroma določitev lokacij v Republiki Sloveniji v primeru opravljanja storitev kabotaže,
+
+7. številki licence Skupnosti za opravljanje prevozov,
+
+8. registrski oznaki motornega vozila.
+
+(2) O opravljeni prijavi zavod tujemu delodajalcu izda potrdilo.
+
+(3) Tuji delodajalec iz prvega odstavka tega člena mora v času izvajanja storitev v Republiki Sloveniji delavcu zagotoviti pravice v skladu z določbami zakona, ki ureja delovna razmerja, ki se nanašajo na položaj delavcev, napotenih na delo v Republiko Slovenijo.
+
+(4) V času izvajanja storitve mednarodnega prevoza v Republiki Sloveniji delodajalec zagotovi, da napoteni delavec hrani in na zahtevo nadzornega organa da na razpolago naslednja dokazila:
+
+- potrdilo o opravljeni prijavi iz drugega odstavka tega člena;
+
+- elektronski tovorni list (e-CMR) ali tovorni list (CMR) oziroma druga ustrezna dokazila o prevozih, ki vsebujejo podatke iz 6. člena Konvencije o pogodbi za mednarodni cestni prevoz blaga (CRM),
+
+- dokazilo o vključenosti v obvezna socialna zavarovanja v Republiki Sloveniji ali konvencijsko dokazilo, izdano v skladu z mednarodnim sporazumom o socialnem zavarovanju.
+
+(5) Določbe prvega, drugega in četrtega odstavka tega člena se smiselno uporabljajo tudi za samozaposlene osebe, ko izvajajo storitve v dejavnosti mednarodnega prevoza v Republiki Sloveniji.
+
+(6) Storitev iz prvega odstavka tega člena lahko posamezni delavec tujega delodajalca izvaja neprekinjeno sedem dni ter v skupnem trajanju 90 dni v koledarskem letu.
+
+#### 37. člen
+
+**(prijava kratkotrajnega dela zastopnika)**
+
+(1) Tujec, ki je v skladu z zakonom vpisan v sodni register Republike Slovenije kot zastopnik pravne osebe, lahko opravlja delo zastopanja pravne osebe, sklepanja pravnih poslov, nadzora, dajanja navodil in opravljanja podobnih del, ki jih je mogoče opravljati le v funkciji zastopnika na podlagi prijave dela zastopnika.
+
+(2) Začetek opravljanja dela je tujec dolžan prijaviti pri zavodu pred začetkom opravljanja dela zastopnika. O opravljeni prijavi izda zavod potrdilo.
+
+(3) Prijava dela zastopnika mora vsebovati:
+
+1. podatek o vpisu zastopnika v register iz prvega odstavka tega člena;
+
+2. podatke o podjetju in sedežu ali naslovu pravne osebe, kjer se bo delo zastopnika izvajalo;
+
+3. podatek o trajanju opravljanja dela;
+
+4. podatek o osebnem imenu, datumu rojstva ter državljanstvu zastopnika.
+
+(4) Delo zastopnika iz prvega odstavka tega člena se lahko opravlja do 90 dni v koledarskem letu.
+
+## V. poglavje
+
+## UMIK SOGLASJA K ENOTNEMU DOVOLJENJU, MODRI KARTI EU ALI SOGLASJA ZA ZAMENJAVO
+
+#### 38. člen
+
+**(umik soglasja)**
+
+(1) Zavod v času veljavnosti enotnega dovoljenja ali modre karte EU umakne soglasje k enotnemu dovoljenju, modri karti EU ali soglasje za zamenjavo:
+
+- če je v zvezi z delom tujca, za katerega je bilo dano predmetno soglasje, delodajalcu, naročniku dela ali tujemu delodajalcu pravnomočno izrečena globa na podlagi 50. ali 58. člena tega zakona;
+
+- če je v zvezi z delom tujca, za katerega je bilo dano predmetno soglasje, delodajalcu ali naročniku dela pravnomočno izrečena globa na podlagi prve ali druge alineje prvega odstavka 23. člena Zakona o preprečevanju dela in zaposlovanja na črno (Uradni list RS, št. 32/14, 47/15 – ZZSDT, 43/19 in 121/21 – ZJN-3B; v nadaljnjem besedilu: ZPDZC-1) ali na podlagi 3. točke prvega odstavka 217. člena Zakona o delovnih razmerjih (Uradni list RS, št. 21/13, 78/13 – popr., 47/15 – ZZSDT, 33/16 – PZ-F, 52/16, 15/17 – odl. US, 22/19 – ZPosS, 81/19, 203/20 – ZIUPOPDVE, 119/21 – ZČmIS-A, 202/21 – odl. US, 15/22 in 54/22 – ZUPŠ-1; v nadaljnjem besedilu: ZDR-1), razen če ima tujec veljavno enotno dovoljenje, izdano na podlagi soglasja za zaposlitev, samozaposlitev ali delo;
+
+- če pristojni organ s pravnomočno odločbo ugotovi, da je tujec v postopku izdaje enotnega dovoljenja ali modre karte EU predložil ponarejeno dokazilo, na podlagi katerega je bilo dano soglasje.
+
+(2) V primeru, ko je tujec v času veljavnosti enotnega dovoljenja ali soglasja za zamenjavo, ki nista izdana na podlagi soglasja za zaposlitev, samozaposlitev ali delo, odjavljen iz obveznih socialnih zavarovanj zaradi prenehanja pogodbe o zaposlitvi, zavod tujcu pošlje pisno obvestilo o nameri umika soglasja, ki se tujcu osebno vroči. Če tujec obvestila ne prevzame v 15 dneh, velja vročitev za opravljeno z dnem preteka tega roka, ko se obvestilo pusti v hišnem predalčniku oziroma drugem primernem mestu. Če to ni mogoče, se pošiljko vrne zavodu, ki obvestilo objavi na oglasni deski, vročitev pa velja za opravljeno po poteku osmih dni od dneva objave na oglasni deski. Če tujec v 15 dneh od vročitve obvestila zavoda ni ponovno prijavljen v obvezna socialna zavarovanja na podlagi pogodbe o zaposlitvi pri istem delodajalcu in na istem delovnem mestu, zavod soglasje umakne.
+
+(3) Zavod v času veljavnosti enotnega dovoljenja ali soglasja za zamenjavo umakne soglasje, če tujec iz 1. ali 2. točke prvega odstavka 14. člena tega zakona več kot šest mesecev zaporedoma ni prijavljen v socialno zavarovanje in v času odločanja o umiku ni prijavljen v socialno zavarovanje.
+
+(4) Zavod v času veljavnosti modre karte EU umakne soglasje:
+
+- če v času visokokvalificirane zaposlitve ni več izpolnjen pogoj iz 1. ali 2. točke prvega odstavka 20. člena tega zakona,
+
+- če je imetnik modre karte EU, ki ima modro karto EU manj kot dve leti, neprekinjeno več kot tri mesece odjavljen iz obveznih socialnih zavarovanj,
+
+- če je imetnik modre karte EU, ki ima modro karto EU dve leti ali več, neprekinjeno več kot šest mesecev odjavljen iz socialnih zavarovanj,
+
+- če imetnik modre karte zaradi bolezni, invalidnosti ali starševskega dopusta več kot 12 mesecev ne izpolnjuje pogoja iz 2. točke prvega odstavka 20. člena tega zakona.
+
+(5) Zavod umakne soglasje k enotnemu dovoljenju, modri karti EU ali umakne soglasje za zamenjavo, če tujec ne nastopi dela oziroma ni prijavljen v obvezna socialna zavarovanja v rokih iz 8. člena tega zakona.
+
+(6) Če tujec iz četrtega odstavka 8. člena tega zakona zaradi objektivnih razlogov (npr. zaradi bolezni tujca, smrti ožjega družinskega člana), zaradi katerih ni prišel v Republiko Slovenijo, v 15 dneh od vročitve enotnega dovoljenja ali modre karte EU ne nastopi dela, je treba v tem roku zavod o tem pisno obvestiti in priložiti dokazila o razlogih za zamudo in njihovem trajanju. Zavod na podlagi obrazložitve in dokazil ne umakne soglasja, dokler trajajo navedeni objektivni razlogi.
+
+(7) Zavod soglasje k enotnemu dovoljenju ali modri karti EU oziroma soglasje za zamenjavo umakne najpozneje v treh delovnih dneh od seznanitve z razlogi za umik soglasja iz prvega, drugega, tretjega oziroma četrtega odstavka tega člena in o tem obvesti upravno enoto.
+
+(8) Če zavod umakne soglasje na podlagi prve alineje prvega odstavka tega člena v povezavi s 50. členom tega zakona ali na podlagi druge alineje prvega odstavka tega člena in pristojni organ na podlagi tretje ali četrte alineje prvega odstavka 56. člena Zakona o tujcih (Uradni list RS, št. 91/21 – uradno prečiščeno besedilo, 95/21 – popr., 105/22 – ZZNŠPP, 48/23, 115/23, 62/24 – ZUOPUE in 96/24 – odl. US) razveljavi enotno dovoljenje za sezonsko delo, daljše od 90 dni, se šteje, da je bil tujec s strani delodajalca ali naročnika dela oškodovan, ker ne more nadaljevati s sezonsko zaposlitvijo ali z delom oziroma ker mora za ponovno zaposlitev ali opravljanje dela pridobiti novo enotno dovoljenje za sezonsko delo.
+
+(9) Tujec iz prejšnjega odstavka je upravičen do pavšalne odškodnine v višini tri-kratnika bruto minimalne plače, nazadnje objavljane v Uradnem listu Republike Slovenije. Pavšalno odškodnino je dolžan plačati delodajalec ali naročnik dela v roku 15 dni od dneva pravnomočnosti odločbe o razveljavitvi enotnega dovoljenja za sezonsko delo, daljše od 90 dni.
+
+(10) Če delodajalec ali naročnik dela pavšalne odškodnine ne plača v roku iz prejšnjega odstavka, lahko tujec pavšalno odškodnino uveljavlja pred pristojnim sodiščem.
+
+(11) Kadar je bilo v skladu z drugim odstavkom tega člena umaknjeno soglasje k enotnemu dovoljenju ali soglasje za zamenjavo, pa je bil pozneje v upravnem ali sodnem postopku ugotovljen obstoj delovnega razmerja za obdobje po umiku soglasja in so na tej podlagi izpolnjeni pogoji za vključitev v obvezna socialna zavarovanja, se za namen izvršitve vključitve v ta zavarovanja šteje, da je bilo v predmetnem obdobju enotno dovoljenje ali soglasje za zamenjavo veljavno.
+
+## VI. poglavje
+
+## PRENEHANJE VELJAVNOSTI IN RAZVELJAVITEV DOVOLJENJA ZA SEZONSKO DELO
+
+#### 39. člen
+
+**(prenehanje veljavnosti)**
+
+Dovoljenje za sezonsko delo preneha veljati:
+
+1. s potekom časa, za katerega je bilo izdano;
+
+2. z vrnitvijo, pred potekom časa, za katerega je bilo izdano;
+
+3. s pridobitvijo pravice tujca, ki mu je bilo izdano dovoljenje za sezonsko delo, do prostega dostopa na slovenski trg dela;
+
+4. če je razveljavljeno;
+
+5. v primeru smrti tujca, za katerega je bilo izdano dovoljenje za sezonsko delo.
+
+#### 40. člen
+
+**(razveljavitev dovoljenja za sezonsko delo)**
+
+(1) Zavod razveljavi dovoljenje za sezonsko delo:
+
+- če je delodajalcu oziroma naročniku dela pravnomočno izrečena globa za prekršek po 50. in 55. členu tega zakona;
+
+- če je delodajalcu pravnomočno izrečena globa za prekršek po prvi ali drugi alineji prvega odstavka 23. člena ZPDZC-1 ali 3. točki prvega odstavka 217. člena ZDR-1;
+
+- da je bilo s pravnomočno odločbo ugotovljeno, da je tujec v postopku izdaje dovoljenja za sezonsko delo predložil ponarejeno dokazilo, na podlagi katerega je bilo izdano dovoljenje za sezonsko delo.
+
+(2) Zavod razveljavi dovoljenje za sezonsko delo, če tujec ne nastopi dela oziroma ni prijavljen v obvezna socialna zavarovanja v roku iz petega odstavka 8. člena tega zakona.
+
+(3) Če tujec iz petega odstavka 8. člena tega zakona zaradi objektivnih razlogov (npr. zaradi bolezni tujca, smrti ožjega družinskega člana), zaradi katerih ni prišel v Republiko Slovenijo, v 15 dneh od vročitve dovoljenja za sezonsko delo ali vizuma, kadar je ta potreben, ne nastopi dela, je treba v tem roku zavod o tem pisno obvestiti in priložiti dokazila o razlogih za zamudo in njihovem trajanju. Zavod na podlagi obrazložitve in dokazil ne razveljavi dovoljenja za sezonsko delo, dokler trajajo navedeni objektivni razlogi.
+
+(4) Zavod razveljavi dovoljenje za sezonsko delo najpozneje v treh delovnih dneh od seznanitve z razlogi iz prvega oziroma drugega odstavka tega člena.
+
+(5) Če zavod dovoljenje za sezonsko delo razveljavi na podlagi prve alineje prvega odstavka tega člena v povezavi s 50. členom tega zakona ali na podlagi druge alineje prvega odstavka tega člena se šteje, da je bil tujec s strani delodajalca ali naročnika dela oškodovan, ker ne more nadaljevati s sezonsko zaposlitvijo ali z delom oziroma ker mora za ponovno zaposlitev ali opravljanje dela pridobiti novo dovoljenje za sezonsko delo.
+
+(6) Tujec iz prejšnjega odstavka je upravičen do pavšalne odškodnine v višini tri-kratnika bruto minimalne plače, nazadnje objavljane v Uradnem listu Republike Slovenije. Pavšalno odškodnino je dolžan plačati delodajalec ali naročnik dela v roku 15 dni od dneva pravnomočnosti odločbe o razveljavitvi dovoljenja za sezonsko delo.
+
+(7) Če delodajalec ali naročnik dela pavšalne odškodnine ne plača v roku iz prejšnjega odstavka, lahko tujec pavšalno odškodnino uveljavlja pred pristojnim sodiščem.
+
+## VII. poglavje
+
+## OMEJITVE IN PREPOVEDI ZAPOSLOVANJA, SAMOZAPOSLOVANJA IN DELA TUJCEV
+
+#### 41. člen
+
+**(določitev kvote)**
+
+(1) Glede na stanje in predvidena gibanja na trgu dela lahko vlada letno določi kvoto soglasij k izdaji enotnega dovoljenja in kvoto dovoljenj za sezonsko delo, s katero omeji število tujcev na trgu dela.
+
+(2) Kvoto vladi predlaga minister, pristojen za delo, ob predhodni pridobitvi mnenja Ekonomsko-socialnega sveta.
+
+(3) Vlada lahko s kvoto omeji zaposlovanje in delo tujcev, ki še niso pridobili pravice do prebivanja v Republiki Sloveniji.
+
+(4) Vlada lahko poleg kvote določi tudi omejitve in prepovedi zaposlovanja, samozaposlovanja in dela tujcev po regijah, področjih dejavnosti, podjetjih in poklicih, kakor tudi omeji ali prepove prihod novih tujcev z namenom zaposlitve ali dela v celoti ali z določenih regionalnih območij, kadar je to utemeljeno z javnim redom, javno varnostjo, javnim zdravjem, splošnim gospodarskim interesom ali stanjem ter predvidenimi gibanji na trgu dela.
+
+(5) V primeru mednarodnih razpisov, ki jih razpišejo državni organi, lahko vlada določi, da se soglasja k enotnemu dovoljenju izdajo zunaj kvote oziroma brez preverjanja stanja na trgu dela.
+
+#### 42. člen
+
+**(prepoved zaposlovanja, samozaposlovanja in dela tujcev)**
+
+(1) Delodajalcu, tujemu delodajalcu ali naročniku dela je prepovedano zaposlovanje in delo tujcev oziroma izvajanje storitev, če mu je bila:
+
+1. pravnomočno izrečena globa po 52. ali 58. členu tega zakona ali za prekršek po 21. členu ZPDZC-1 ali po prvi, drugi ali tretji alineji prvega odstavka 23. člena ZPDZC-1 – dve leti od pravnomočnosti odločbe;
+
+2. pravnomočno izrečena globa po 54., 55., 59. ali 65. členu tega zakona – eno leto od pravnomočnosti odločbe;
+
+3. pravnomočno izrečena globa po 1., 3., 8., 9., 12., 23., 27., 29. ali 31. točki prvega odstavka oziroma po drugem ali tretjem odstavku 217. člena ZDR-1 – dve leti od pravnomočnosti odločbe;
+
+4. pravnomočno izrečena globa po 14., 17., 19., 24., 25., 26. ali 28. točki prvega odstavka 217. člena ZDR-1 ali po 8., 9., 11., 13., 15. ali 16. točki prvega odstavka oziroma po drugem ali tretjem odstavku 217.a člena ZDR-1 – eno leto od pravnomočnosti odločbe;
+
+5. pravnomočno izrečena globa po peti alineji prvega odstavka 23. člena ZPDZC-1 – pet let od pravnomočnosti odločbe;
+
+6. pravnomočno izrečena globa po 1., 18. in 19. točki prvega odstavka 76. člena Zakona o varnosti in zdravju pri delu (Uradni list RS, št. 43/11; v nadaljnjem besedilu: ZVZD-1) – eno leto od pravnomočnosti odločbe;
+
+7. pravnomočno izrečena globa po 8., 11., 29. in 34. točki prvega odstavka 76. člena ZVZD-1 – dve leti od pravnomočnosti odločbe;
+
+8. pravnomočno izrečena globa po 179. členu Zakona o urejanju trga dela (Uradni list RS, št. 80/10, 40/12 – ZUJF, 21/13, 63/13, 100/13, 32/14 – ZPDZC-1, 47/15 – ZZSDT, 55/17, 75/19 in 11/20 – odl. US) – dve leti od pravnomočnosti odločbe.
+
+(2) Dve leti od pravnomočnosti odločbe je prepovedano zaposlovanje in delo tujcev pri delodajalcu oziroma naročniku dela, ki mu je bila pravnomočno izrečena globa po 50. členu tega zakona, ter tujcu, ki mu je bila pravnomočno izrečena globa po 51. členu tega zakona ali po tretjem odstavku 23. člena ZPDZC-1.
+
+(3) Pet let od pravnomočnosti sodbe je prepovedano zaposlovanje in delo tujcev pri delodajalcu ali naročniku dela oziroma delo delavcev tujega delodajalca, ki je bil pravnomočno obsojen zaradi kaznivega dejanja zlorabe prostitucije, spravljanja v suženjsko razmerje, trgovine z ljudmi, kršitve temeljnih pravic delavcev, kršitve pravic iz socialnega zavarovanja, zaposlovanje na črno.
+
+(4) Pet let od pravnomočnosti sodbe je prepovedana zaposlitev, samozaposlitev in delo tujca, ki je bil pravnomočno obsojen zaradi predložitve ponarejenega dokazila.
+
+(5) Prepovedi iz tega člena veljajo za zaposlovanje, samozaposlovanje in delo tistih tujcev, ki v Republiki Sloveniji ne uživajo pravice do prostega dostopa na slovenski trg dela oziroma v Republiki Sloveniji ne prebivajo na podlagi enotnega dovoljenja, izdanega na podlagi soglasja za zaposlitev, samozaposlitev ali delo.
+
+(6) Prepoved v skladu z 2. točko prvega odstavka tega člena, razen v primeru pravnomočno izrečene globe po 54. členu tega zakona, in prepoved v skladu s 4. točko prvega odstavka tega člena, razen v primeru pravnomočno izrečene globe po 17. ali 24. točki prvega odstavka 217. člena ZDR-1 ali po 9., 13. ali 15. točki prvega odstavka 217.a člena ZDR-1, v postopku podaje soglasja k podaljšanju enotnega dovoljenja, modre karte EU ali v postopku podaljšanja dovoljenja za sezonsko delo ne velja.
+
+#### 43. člen
+
+**(črtan)**
+
+## VIII. poglavje
+
+## NADZOR
+
+#### 44. člen
+
+**(pristojni nadzorni organi)**
+
+(1) Za nadzor nad izvajanjem tega zakona je pristojen Inšpektorat Republike Slovenije za delo (v nadaljnjem besedilu: inšpektorat za delo).
+
+(2) Inšpektorat za delo ima zaradi nadzora nad izvajanjem tega zakona neposreden vpogled v elektronske evidence zavoda in upravnih enot glede podatkov o enotnih dovoljenjih in modrih kartah EU, o soglasjih za zamenjavo, o dovoljenjih za sezonsko delo, o opravljenih prijavah začetka izvajanja storitev, o opravljenih prijavah izvajanja prevozov s strani izvajalcev iz tretjih držav oziroma opravljanja dela zastopnika.
+
+(3) Nadzor nad kršitvami določb tega zakona v okviru nadzora nad zakonitostjo bivanja, ki ga določa zakon, ki ureja vstop in prebivanje tujcev v Republiki Sloveniji, izvaja tudi policija. O sumih in ugotovljenih kršitvah določb tega zakona je policija dolžna nemudoma obvestiti organ iz prvega odstavka tega člena.
+
+(4) Policija ima zaradi izvajanja nadzora v skladu s prejšnjim odstavkom neposreden vpogled v elektronske evidence zavoda glede podatkov o soglasjih, ki jih zavod poda v postopku izdaje enotnega dovoljenja ali modre karte EU, o soglasjih za zamenjavo, o dovoljenjih za sezonsko delo in o opravljenih prijavah začetka izvajanja storitev, o opravljenih prijavah izvajanja prevozov s strani izvajalcev iz tretjih držav oziroma opravljanja dela zastopnikov.
+
+(5) Če organ iz prvega odstavka tega člena pri izvajanju nadzora po tem zakonu ugotovi sum nezakonitega prebivanja tujcev, je dolžan o tem nemudoma obvestiti policijo, ki v zvezi z navedenim postopa v skladu s pooblastili.
+
+#### 45. člen
+
+**(obveznosti do nadzornih organov)**
+
+(1) Delodajalci in naročniki dela so dolžni sodelovati s pristojnimi nadzornimi organi in jim omogočiti dostop do vseh razpoložljivih dokazil, na podlagi katerih so izdani dokumenti, ki dovoljujejo zaposlitev, samozaposlitev ali delo v Republiki Sloveniji.
+
+(2) Tujec je dolžan na mestu, kjer dela, hraniti informativni list, če mu je bil vročen, ali dovoljenje za sezonsko delo in ga na zahtevo pristojnega nadzornega organa predložiti kot dokazilo v postopku.
+
+(3) **(****prenehal veljati****)**
+
+(4) Tuji delodajalec iz prvega odstavka 36. člena tega zakona mora med napotitvijo svojih delavcev v Republiko Slovenijo na kraju opravljanja storitve hraniti in na zahtevo dati na voljo nadzornemu organu pogodbo med naročnikom in izvajalcem storitve, potrdilo o opravljeni prijavi začetka izvajanja storitev in izvode pogodb o zaposlitvi (in njihov prevod v slovenski jezik) za vse napotene delavce, potrdila o njihovi vključenosti v sistem socialnega zavarovanja na podlagi zaposlitve v državi, kjer ima tuji delodajalec sedež, ter listine s področja varnosti in zdravja pri delu (in njihov prevod v slovenski jezik).
+
+(5) Tujec iz prvega odstavka 37. člena tega zakona mora med opravljanjem funkcije zastopnika na mestu, kjer opravlja delo zastopnika, hraniti in nadzornemu organu na njegovo zahtevo dati na razpolago pogodbo civilnega prava, na podlagi katere tujec opravlja delo zastopnika, in potrdilo o opravljeni prijavi dela.
+
+## IX. poglavje
+
+## TAKSE IN NADOMESTILO POSEBNIH STROŠKOV
+
+#### 46. člen
+
+**(takse)**
+
+(1) Za vloge, spise in dejanja v zvezi z izdajo dovoljenj za sezonsko delo se plačuje taksa po zakonu, ki ureja upravne takse.
+
+(2) Takso je dolžan plačati vlagatelj.
+
+## X. poglavje
+
+## EVIDENCE
+
+#### 47. člen
+
+**(vrste in namen)**
+
+(1) Vrste evidenc, ki se upravljajo po tem zakonu so:
+
+- evidenca o podanih soglasjih;
+
+- evidenca o izdanih dovoljenjih za sezonsko delo;
+
+- evidenca obvestil iz drugega odstavka 33. člena tega zakona;
+
+- **(****prenehala veljati****)**;
+
+- evidenca prijav iz četrtega odstavka 36. člena tega zakona;
+
+- evidenca prijav iz prvega odstavka 36.a člena tega zakona;
+
+- evidenca prijav iz tretjega odstavka 37. člena tega zakona;
+
+- evidenca delodajalcev, tujih delodajalcev in naročnikov dela iz 42. člena tega zakona, ki jim je prepovedano zaposlovanje in delo tujcev oziroma izvajanje storitev.
+
+(2) Za namen podaje ali umika soglasja, za namen odločanja o izdaji ali razveljavitvi dovoljenj za sezonsko delo, za namen spremljanja stanja na trgu dela in izvajanje nadzora ter za znanstvenoraziskovalne in statistične namene zavod upravlja evidence iz prejšnjega odstavka.
+
+(3) Za namen seznanitve delavcev s kršilci delovnopravne zakonodaje in odvračanja od novih kršitev delovno pravne zakonodaje se firma in sedež oziroma ime in naslov delodajalca, tujega delodajalca ali naročnika dela ter obdobje prepovedi zaposlovanja in dela tujcev objavi na spletni strani zavoda. Objava se umakne po izteku časa prepovedi zaposlovanja, samozaposlovanja in dela tujcev.
+
+#### 48. člen
+
+**(vsebina evidenc)**
+
+(1) Evidenca zavoda o podanih soglasjih vsebuje podatke o:
+
+1. tujcu v skladu s 1., 2., 3., 4., 5., 6., 7., 9., 11. in 13. točko prvega odstavka, 1., 2., 3., 4., 5., 8., 9., 10., 11. in 12. točko drugega odstavka ter 1. in 2. točko sedmega odstavka 111. člena Zakona o tujcih (Uradni list RS, št. 45/14 – uradno prečiščeno besedilo in 90/14; v nadaljnjem besedilu: Zakon o tujcih);
+
+2. delodajalcu (firmi ali imenu, sedežu ali naslovu, matični številki ali EMŠO, davčni številki);
+
+3. tujem delodajalcu (firmi ali imenu, sedežu ali naslovu, matično številko);
+
+4. naročniku dela (firmi ali imenu, sedežu ali naslovu, matični številki ali EMŠO);
+
+5. delovnem mestu (šifra poklica, naziv in opis delovnega mesta);
+
+6. številu ur delovnega časa tujca;
+
+7. številu ur polnega delovnega časa pri delodajalcu;
+
+8. soglasju (datum podaje, vrsta in številka, datum in razlog umika);
+
+9. dovoljenju za sezonsko delo (številka, datum izdaje, obdobje veljavnosti, datum vročitve, datum in razlog prenehanja);
+
+10. enotnemu dovoljenju (številka, vrsta, datum izdaje, obdobje veljavnosti, datum vročitve, datum in razlog prenehanja);
+
+11. modri karti EU (številka, datum izdaje, obdobje veljavnosti, datum vročitve, datum in razlog prenehanja);
+
+12. zavarovanju delavcev pri delodajalcu (datum pričetka, datum vključitve ter datum in razlog prenehanja);
+
+13. soglasju za zamenjavo (vrsta, datum izdaje in obdobje veljavnosti, datum vročitve ter datum in razlog prenehanja);
+
+14. potrdilu o pravočasno vloženi vlogi za podaljšanje enotnega dovoljenja ali modre karte EU;
+
+15. vpisu ali izbrisu delodajalcev in naročnikov dela ter o njihovi glavni in stranskih dejavnostih;
+
+16. deležu družbenikov v gospodarski družbi;
+
+17. nosilcu kmetijskega gospodarstva in članih kmetije, vpisanih v register kmetijskih gospodarstev;
+
+18. tujcu, vključenem v obvezno zdravstveno zavarovanje iz naslova zaposlitve ali samozaposlitve in o odjavi iz obveznih socialnih zavarovanj, ki se opravi v času veljavnosti enotnega dovoljenja, modre karte EU, soglasja za zamenjavo, dovoljenja za sezonsko delo ali v času zaposlitve tujca z dovoljenjem za začasno prebivanje, ki ni izdano zaradi zaposlitve, samozaposlitve ali dela;
+
+19. obračunih davčnega odtegljaja delodajalca ali naročnika dela;
+
+20. denarnih prilivih na transakcijske račune delodajalca ali naročnika dela;
+
+21. poravnanih davčnih obveznostih delodajalca ali naročnika dela.
+
+(2) Evidenca zavoda o izdanih dovoljenjih za sezonsko delo vsebuje podatke o:
+
+1. tujcu (osebno ime, spol, datum rojstva, EMŠO, če je določen, kraj in država rojstva, državljanstvo);
+
+2. zadnjem stalnem ali začasnem prebivališču v tujini ali v Republiki Sloveniji (država, kraj, ulica in hišna številka);
+
+3. sedanjem stalnem ali začasnem prebivališču v Republiki Sloveniji (kraj, ulica in hišna številka);
+
+4. vrsti in številki potne listine, datumu in kraju izdaje ter njeni veljavnosti;
+
+5. delodajalcu (firmi ali imenu, sedežu ali naslovu, matični številki, davčni številki, osebnem imenu in EMŠO zastopnika, soglasjih k enotnim dovoljenjem, modri karti EU, soglasjih za zamenjavo, o dovoljenjih za sezonsko delo, o potrdilih o prijavi dela ter datumu podaje oziroma izdaje);
+
+6. o naročniku dela (firmi ali imenu, sedežu ali naslovu, matični številki, davčni številki, osebnem imenu in EMŠO zastopnika, registrirani samostojni dejavnosti);
+
+7. dovoljenju za sezonsko delo (številka, datum izdaje, obdobje veljavnosti, datum in razlog prenehanja);
+
+8. datumu nastopa dela;
+
+9. zavarovanju (datum pričetka ter datum in razlog prenehanja);
+
+10. številki potrdila o pravočasno vloženi vlogi za podaljšanje dovoljenja za sezonsko delo.
+
+(3) Evidenca zavoda o obvestilih iz drugega odstavka 33. člena vsebuje podatke o:
+
+1. dovoljenju za prebivanje (številka, vrsta, obdobje veljavnosti);
+
+2. tujcu v skladu s 1., 2., 3., 4., 5., 6., 7., 9., 11. in 13. točko prvega odstavka, 1., 2., 3., 4., 5., 8., 9., 10., 11. in 12. točko drugega odstavka ter 1. in 2. točko sedmega odstavka 111. člena Zakona o tujcih;
+
+3. delodajalcu (firmi ali imenu, sedežu ali naslovu, matični številki ali EMŠO, davčni številki, soglasjih k enotnim dovoljenjem);
+
+4. pogojih in elementih zaposlitve iz informativnega lista;
+
+5. datumu obvestila zavoda o pogojih zaposlitve.
+
+(4) **(****prenehal veljati****)**
+
+(5) Evidenca zavoda o prijavah začetka izvajanja storitev iz četrtega odstavka 36. člena tega zakona vsebuje podatke o:
+
+1. firmi in sedežu ali naslovu naročnika storitve;
+
+2. firmi in sedežu ali naslovu tujega delodajalca;
+
+3. osebnem imenu in datumu rojstva odgovorne osebe naročnika in izvajalca storitve;
+
+4. osebnem imenu, datumu rojstva, državljanstvu napotenih delavcev in začasnem prebivališču v Republiki Sloveniji;
+
+5. vrsti storitve;
+
+6. kraju in trajanju izvajanja storitve;
+
+7. lokaciji, kjer bodo hranjeni dokumenti iz četrtega odstavka 45. člena tega zakona.
+
+(6) Evidenca zavoda o prijavah izvajanja prevozov s strani izvajalcev iz tretjih držav vsebuje podatke o:
+
+1. firmi ali imenu in sedežu tujega delodajalca;
+
+2. osebnemu imenu, datumu rojstva in državljanstvu napotenega voznika;
+
+3. odgovorni osebi delodajalca, ki ga tuji delodajalec pooblasti za stike z nadzornimi organi;
+
+4. vrsti storitev, ki jih opravlja posamezni tuji delodajalec (mednarodni prevoz, ki ni dvostranske narave, kabotaža);
+
+5. predvidenemu datumu začetka in konca izvajanja storitev – obdobje napotitve;
+
+6. državah, med katerimi se izvaja storitev mednarodnega prevoza;
+
+7. o lokacijah v Republiki Sloveniji, v primeru opravljanja storitev kabotaže;
+
+8. številki licence Skupnosti;
+
+9. državi registracije vozila in registrski oznaki vozila.
+
+(7) Evidenca zavoda o tujcih iz prvega odstavka 37. člena tega zakona vsebuje podatke o:
+
+1. osebnem imenu, datumu rojstva in državljanstvu zastopnika;
+
+2. firmi ali imenu in sedežu ali naslovu pravne osebe, kjer se bo delo zastopnika izvajalo;
+
+3. trajanju opravljanja dela.
+
+(8) Evidenca zavoda o delodajalcih, tujih delodajalcih in naročnikih dela iz 42. člena tega zakona, ki jim je prepovedano zaposlovanje in delo tujcev oziroma izvajanje storitev, vsebuje podatke o:
+
+1. firmi in sedežu oziroma imenu in naslovu delodajalca, tujega delodajalca ali naročnika dela;
+
+2. matični številki delodajalca, tujega delodajalca ali naročnika dela;
+
+3. vrsti kršitve delovnopravne zakonodaje;
+
+4. organu, ki je ugotovil kršitev;
+
+5. vrsti akta, s katerim je ugotovljena kršitev;
+
+6. datumu akta, s katerim je ugotovljena kršitev;
+
+7. pravnomočno izrečeni kazni delodajalcu, tujemu delodajalcu ali naročniku dela;
+
+8. obdobju prepovedi zaposlovanja, samozaposlovanja in dela tujcev.
+
+(9) Podatki iz evidenc iz tega člena se hranijo dve leti po poteku veljavnosti enotnega dovoljenja, modre karte EU, soglasja za zamenjavo, dovoljenja za sezonsko delo ali dve leti po prijavi začetka izvajanja storitev oziroma dela zastopnika in se nato arhivirajo.
+
+(10) Minister, pristojen za delo, predpiše način obdelave podatkov iz evidenc iz tega člena ter način posredovanja teh podatkov.
+
+#### 49. člen
+
+**(zbiranje podatkov in povezovanje evidenc)**
+
+(1) Zavod podatke, ki jih potrebuje za izvajanje svojih pristojnosti v skladu s tem zakonom, brezplačno pridobiva iz evidenc naslednjih upravljavcev, in sicer:
+
+1. upravnih enot: podatki iz 1., 2., 3., 4., 5., 10., 11., 13. in 14. točke prvega odstavka ter 1. in 2. točke tretjega odstavka 48. člena tega zakona;
+
+2. Agencije Republike Slovenije za javnopravne evidence in storitve: podatki iz 15. in 16. točke prvega odstavka 48. člena tega zakona;
+
+3. ministrstva, pristojnega za kmetijstvo: podatek iz 17. točke prvega odstavka 48. člena tega zakona;
+
+4. Zavoda za zdravstveno zavarovanje Slovenije: podatek iz 12. in 18. točke prvega odstavka 48. člena tega zakona;
+
+5. inšpektorata za delo: podatki o pravnomočnih sklepih ali odločbah o prekrških, izdanih delodajalcem ali naročnikom dela, njihovim odgovornim osebam ali tujcem, ki, v skladu z določbami tega zakona, vplivajo na odločitve zavoda v postopkih, ki jih vodi po tem zakonu;
+
+6. Finančne uprave Republike Slovenije (v nadaljnjem besedilu: finančna uprava): podatki iz 19., 20. in 21. točke prvega odstavka 48. člena tega zakona ter o pravnomočnih sklepih ali odločbah o prekrških, izdanih delodajalcem ali naročnikom dela, njihovim odgovornim osebam ali tujcem, ki v skladu z določbami tega zakona vplivajo na odločitve zavoda v postopkih, ki jih vodi po tem zakonu;
+
+7. ministrstva, pristojnega za pravosodje: podatki o pravnomočno obsojenih delodajalcih, tujih delodajalcih in naročnikih del zaradi storitve kaznivega dejanja zlorabe prostitucije, spravljanja v suženjsko razmerje, trgovine z ljudmi, kršitve temeljnih pravic delavcev, zaposlovanja na črno ali kršitve pravic iz socialnega zavarovanja, ki v skladu z določbami tega zakona vplivajo na odločitve zavoda v postopkih, ki jih vodi po tem zakonu.
+
+(2) Zavod lahko evidence, ki jih upravlja po tem zakonu, poveže z evidencami upravljavcev iz prejšnjega odstavka, razen z evidencama inšpektorata za delo in finančne uprave o pravnomočnih sklepih in odločbah o prekrških ter evidenco ministrstva, pristojnega za pravosodje.
+
+(3) Zavod lahko podatke o pravnomočnih sklepih in odločbah o prekrških, ki, v skladu z določbami tega zakona vplivajo na odločitve zavoda v posamičnih postopkih, ki jih vodi po tem zakonu, pridobi iz evidenc inšpektorata za delo z neposrednim vpogledom in iz evidenc finančne uprave na podlagi vsakokratnega zahtevka.
+
+(4) Zavod lahko podatke iz 7. točke prvega odstavka tega člena, ki jih potrebuje za namene odločanja v posamičnih postopkih, pridobi iz kazenske evidence na podlagi vsakokratnega elektronskega zahtevka.
+
+(5) Upravljavci evidenc iz 5. in 6. točke prvega odstavka tega člena za namen upravljanja evidence iz osme alineje prvega odstavka 47. člena tega zakona zavodu po uradni dolžnosti posredujejo podatke o pravnomočno izrečenih globah iz 42. člena tega zakona.
+
+(6) Za obdelavo osebnih podatkov, vsebovanih v evidencah, se uporabljajo določbe zakona, ki ureja varstvo osebnih podatkov, za zbiranje, obdelovanje, shranjevanje, posredovanje in uporabo podatkov, ki predstavljajo davčno tajnost, pa se uporabljajo določbe zakona, ki ureja davčni postopek.
+
+## XI. poglavje
+
+## KAZENSKE DOLOČBE
+
+#### 50. člen
+
+(1) Z globo od 3.000 do 30.000 eurov se kaznuje za prekršek delodajalec, subjekt gostitelj oziroma naročnik dela, ki tujcu omogoči opravljanje dela, za katerega v postopku izdaje ali podaljšanja enotnega dovoljenja oziroma modre karte EU ni bilo podano soglasje ali za katerega mu ni bilo podano soglasje za zamenjavo ali izdano dovoljenje za sezonsko delo (četrti odstavek 7. člena).
+
+(2) Z globo od 3.000 do 30.000 eurov se kaznuje za prekršek delodajalec, ki tujcu z dovoljenjem za začasno prebivanje, ki ni izdano zaradi zaposlitve, samozaposlitve ali dela, omogoči opravljanje dela v nasprotju s pogoji in elementi zaposlitve, navedenimi na informativnem listu (peti odstavek 33. člena).
+
+(3) Z globo od 500 do 5.000 eurov se kaznuje tudi odgovorna oseba delodajalca, subjekta gostitelja ali naročnika dela, ki stori prekršek iz prejšnjih dveh odstavkov.
+
+#### 51. člen
+
+Z globo od 500 do 5.000 eurov se kaznuje tujec, ki opravlja delo, za katerega mu v postopku izdaje ali podaljšanja enotnega dovoljenja oziroma modre karte EU ni bilo podano soglasje ali za katerega mu ni bilo podano soglasje za zamenjavo ali izdano dovoljenje za sezonsko delo (četrti odstavek 7. člena).
+
+#### 52. člen
+
+(1) Z globo od 10.000 do 75.000 eurov se kaznuje za prekršek delodajalec, ki mu zakon dovoljuje opravljanje dejavnosti zagotavljanja dela delavcev uporabniku, če sklene pogodbo o zaposlitvi s tujcem, ki v Republiki Sloveniji ne prebiva na podlagi modre karte EU oziroma za katerega v postopku izdaje ali podaljšanja enotnega dovoljenja ali mu v postopku zamenjave delodajalca, delovnega mesta pri istem delodajalcu ali zaposlitve pri dveh ali več delodajalcih ni bilo podano soglasje za zaposlitev, samozaposlitev ali delo oziroma nima prostega dostopa na slovenski trg dela (peti odstavek 7. člena).
+
+(2) Z globo od 500 do 5.000 eurov se kaznuje tudi odgovorna oseba delodajalca, ki stori prekršek iz prejšnjega odstavka.
+
+#### 53. člen
+
+Z globo od 500 do 5.000 eurov se kaznuje za prekršek posameznik s prebivališčem v Republiki Sloveniji, ki ni registriran za opravljanje dejavnosti ali ni vpisan v register kmetijskih gospodarstev, ki sklene pogodbo o zaposlitvi ali pogodbo civilnega prava s tujcem, ki nima prostega dostopa na trg dela oziroma za katerega v postopku izdaje ali podaljšanja enotnega dovoljenja ali mu v postopku zamenjave delodajalca, delovnega mesta pri istem delodajalcu ali zaposlitve pri dveh ali več delodajalcih ni bilo podano soglasje za zaposlitev, samozaposlitev ali delo (šesti odstavek 7. člena).
+
+#### 54. člen
+
+(1) Z globo od 3.000 do 30.000 eurov se kaznuje za prekršek delodajalec oziroma naročnik dela, ki ne zagotovi minimalnih bivanjskih ali higienskih standardov (prvi odstavek 10. člena).
+
+(2) Z globo od 500 do 2.500 eurov se kaznuje tudi odgovorna oseba delodajalca oziroma naročnika dela, ki stori prekršek iz prejšnjega odstavka.
+
+(3) Z globo od 500 do 1.500 eurov se kaznuje posameznik, ki stori prekršek iz prvega odstavka tega člena.
+
+#### 55. člen
+
+(1) Z globo od 3.000 do 30.000 eurov se kaznuje za prekršek naročnik dela ali delodajalec, ki v predpisanem roku ne vrne dovoljenja za sezonsko delo za tujca, s katerim ni sklenil delovnega ali pogodbenega razmerja oziroma je pogodba o zaposlitvi ali pogodba civilnega prava prenehala pred iztekom veljavnosti dovoljenja za sezonsko delo (31. člen).
+
+(2) Z globo od 500 do 2.500 eurov se kaznuje tudi odgovorna oseba delodajalca ali naročnika dela, ki stori prekršek iz prejšnjega odstavka.
+
+(3) Z globo od 500 do 5.000 eurov se kaznuje za prekršek posameznik – fizična oseba, ki je kot nosilec kmetijskega gospodarstva ali član kmetije vpisana v register kmetijskih gospodarstev, ki stori prekršek iz prvega odstavka tega člena.
+
+**56. člen(prenehal veljati)**
+
+#### 58. člen
+
+**57. člen(prenehal veljati)**
+
+(1) Z globo od 10.000 do 75.000 eurov se kaznuje za prekršek tuji delodajalec, ki izvaja storitve v Republiki Sloveniji z delavci, ki pri njem niso zaposleni, ali izvaja storitve kljub prepovedi dela tujcev (prvi odstavek 36. člena oziroma prvi odstavek 42. člena).
+
+(2) Z globo od 500 do 5.000 eurov se kaznuje tudi odgovorna oseba tujega delodajalca, ki stori prekršek iz prejšnjega odstavka.
+
+#### 59. člen
+
+(1) Z globo od 3.000 do 30.000 eurov se kaznuje za prekršek tuji delodajalec, zavezanec za prijavo, ki ne prijavi začetka izvajanja storitve v Republiki Sloveniji oziroma katerega delavci izvajajo storitve, ki niso vezane na dobavo blaga in servisiranje (drugi in tretji odstavek 36. člena).
+
+(2) Z globo od 500 do 1.500 eurov se kaznuje tudi odgovorna oseba tujega delodajalca, ki stori prekršek iz prejšnjega odstavka.
+
+(3) Z globo od 1.000 do 10.000 eurov se kaznuje za prekršek naročnik storitve, pri katerem napoteni delavci izvajajo storitve, ki niso vezane na dobavo blaga in servisiranje (drugi odstavek 36. člena).
+
+(4) Z globo od 500 do 1.500 eurov se kaznuje tudi odgovorna oseba naročnika storitve, ki stori prekršek iz prejšnjega odstavka.
+
+#### 59.a člen
+
+(1) Z globo od 3.000 do 30.000 eurov se kaznuje za prekršek tuji delodajalec, zavezanec za prijavo, oziroma tuja samozaposlena oseba, ki ne opravi prijave iz prvega odstavka 36.a člena tega zakona.
+
+(2) Z globo od 500 do 1.500 eurov se kaznuje tudi odgovorna oseba tujega delodajalca, ki stori prekršek iz prejšnjega odstavka.
+
+#### 59.b člen
+
+(1) Z globo od 3.000 do 30.000 eurov se kaznuje delodajalec, ki ob prvi zaposlitvi tujca ne izpolni obveznosti zagotavljanja udeležbe v javnoveljavnem izobraževalnem programu za odrasle za učenje slovenskega jezika v trajanju najmanj 80 ur na lastne stroške in v okviru delovnega časa (dvanajsti odstavek 12. člena).
+
+(2) Z globo od 3.000 do 30.000 eurov se kaznuje delodajalec, ki zavodu v predpisanem roku ne predloži potrdila o izpolnjeni obveznosti (trinajsti odstavek 12. člena).
+
+(3) Z globo od 500 do 1.500 eurov se kaznuje odgovorna oseba delodajalca, ki stori prekršek iz prvega in drugega odstavka tega člena.
+
+#### 60. člen
+
+Z globo od 500 do 5.000 eurov se kaznuje za prekršek tujec, zavezanec za prijavo, ki ne prijavi začetka dela zastopnika v Republiki Sloveniji (drugi odstavek 37. člena).
+
+#### 61. člen
+
+Z globo od 500 do 5.000 eurov se kaznuje tujec, ki je zaposlen, samozaposlen ali dela v nasprotju s prepovedjo iz drugega in četrtega odstavka 42. člena tega zakona.
+
+#### 62. člen
+
+(1) Z globo od 3.000 do 30.000 eurov se kaznuje za prekršek delodajalec ali naročnik dela, ki nadzornim organom ne omogoči dostopa do vseh razpoložljivih dokazil, na podlagi katerih so izdani dokumenti, ki dovoljujejo zaposlitev, samozaposlitev ali delo tujca (prvi odstavek 45. člena).
+
+(2) Z globo od 500 do 1.500 eurov se kaznuje tudi odgovorna oseba delodajalca ali naročnika dela, ki stori prekršek iz prejšnjega odstavka.
+
+#### 63. člen
+
+Z globo od 500 do 1.500 eurov se kaznuje za prekršek tujec, ki na poziv nadzornega organa ne predloži informativnega lista ali dovoljenja za sezonsko delo (drugi odstavek 45. člena).
+
+#### 65. člen
+
+**64. člen(prenehal veljati)**
+
+(1) Z globo od 3.000 do 30.000 eurov se kaznuje za prekršek tuji delodajalec, ki med obdobjem napotitve ne hrani dokumentacije iz četrtega odstavka 45. člena tega zakona oziroma je ne predloži na poziv nadzornega organa (četrti odstavek 45. člena).
+
+(2) Z globo od 500 do 2.500 eurov se kaznuje tudi odgovorna oseba tujega delodajalca, ki stori prekršek iz prejšnjega odstavka.
+
+#### 66. člen
+
+Z globo od 500 do 5.000 eurov se kaznuje za prekršek tujec, ki med obdobjem opravljanja dela kot zastopnik ne hrani dokumentacije iz petega odstavka 45. člena tega zakona oziroma je ne predloži na poziv nadzornega organa (peti odstavek 45. člena).
+
+#### 67. člen
+
+Za prekrške iz tega zakona se sme v hitrem postopku izreči globa tudi v znesku, ki je višji od najnižje predpisane globe, določene s tem zakonom.
+
+## XII. poglavje
+
+## POSEBNE DOLOČBE
+
+#### 68. člen
+
+**(Zakon o urejanju trga dela)**
+
+V Zakonu o urejanju trga dela (Uradni list RS, št. 80/10, 40/12 – ZUJF, 21/13, 63/13, 100/13 in 32/14 – ZPDZC-1) se:
+
+1. drugi odstavek 8. člena spremeni tako, da se glasi: »(2) Za brezposelno osebo po tem zakonu se štejejo tudi tujec z državljanstvom države, ki ni članica EU, EGP ali Švicarske konfederacije in ima prost dostop na slovenski trg dela, tujec z veljavnim enotnim dovoljenjem za prebivanje in delo, izdanim na podlagi soglasja za zaposlitev, samozaposlitev ali delo, tujec z modro karto EU ter tujec, ki v Republiki Sloveniji prebiva na podlagi dovoljenja za začasno prebivanje ali potrdila o pravočasno vloženi vlogi za izdajo nadaljnjega dovoljenja za prebivanje ter na podlagi zaposlitve ali samozaposlitve izpolnjuje pogoje za prejemanje denarnega nadomestila za primer brezposelnosti v Republiki Sloveniji, dokler prejema to nadomestilo.«;
+
+2. tretji odstavek 167. člena spremeni tako, da se glasi: »(3) Delodajalec za zagotavljanje dela, ki je vpisan v register oziroma v evidenco, lahko opravlja dejavnost zagotavljanja dela delavcev uporabniku za državljane Republike Slovenije ter za tujce z državljanstvom držav, ki niso članice EU, EGP ali Švicarske konfederacije in imajo:
+
+1. prost dostop na slovenski trg dela, v skladu z zakonom, ki ureja zaposlovanje, samozaposlovanje in delo tujcev,
+
+2. enotno dovoljenje za prebivanje in delo, izdano na podlagi soglasja za zaposlitev, samozaposlitev ali delo, ali
+
+3. modro karto EU.«.
+
+#### 69. člen
+
+**(Zakon o delovnih razmerjih)**
+
+V Zakonu o delovnih razmerjih (Uradni list RS, št. 21/13 in 78/13 – popr.) se:
+
+1. v prvem odstavku 54. člena četrta alineja spremeni tako, da se glasi: »– zaposlitev tujca ali osebe brez državljanstva, ki ima enotno dovoljenje kot ga določa zakon, ki ureja vstop in prebivanje tujcev, in dovoljenje za sezonsko delo, kot ga določa zakon, ki ureja zaposlovanje, samozaposlovanje in delo tujcev, razen kadar je enotno dovoljenje izdano na podlagi soglasja za zaposlitev, samozaposlitev ali delo,«;
+
+2. drugi odstavek 119. člena spremeni tako, da se glasi: »(2) Pogodba o zaposlitvi, ki jo sklene tujec ali oseba brez državljanstva, preneha veljati po samem zakonu z dnem prenehanja veljavnosti enotnega dovoljenja, kot ga določa zakon, ki ureja vstop in prebivanje tujcev, in dovoljenja za sezonsko delo, kot ga določa zakon, ki ureja zaposlovanje, samozaposlovanje in delo tujcev.«.
+
+#### 70. člen
+
+**(Zakon o zdravstvenem varstvu in zdravstvenem zavarovanju)**
+
+V Zakonu o zdravstvenem varstvu in zdravstvenem zavarovanju (Uradni list RS, št. 72/06 – uradno prečiščeno besedilo, 114/06 – ZUTPG, 91/07, 76/08, 62/10 – ZUPJS, 87/11, 40/12 – ZUJF, 21/13 – ZUTD-A, 91/13, 99/13 – ZUPJS-C, 99/13 – ZSVarPre-C, 111/13 – ZMEPIZ-1 in 95/14 – ZUJF-C) se:
+
+1. v 79.a členu za peto alinejo doda nova šesta alineja, ki se glasi: »– dovoljenje za stalno ali začasno prebivanje,«; dosedanje šesta do dvanajsta alineja postanejo sedma do trinajsta alineja;
+
+2. v drugem odstavku 79.b člena za peto alinejo doda nova šesta alineja, ki se glasi: »– dovoljenje za stalno ali začasno prebivanje, «; dosedanje šesta do dvaindvajseta alineja postanejo sedma do triindvajseta alineja.
+
+#### 71. člen
+
+**(Zakon o tujcih)**
+
+V Zakonu o tujcih (Uradni list RS, št. 45/14 – uradno prečiščeno besedilo, 90/14 in 19/15) se:
+
+1. v 56. členu za prvim odstavkom doda nov drugi odstavek, ki se glasi: »(2) Pristojni organ, ki je izdal pisno odobritev, ali pristojni organ, na območju katerega tujec prebiva, pisno odobritev razveljavi, če organ, ki je po zakonu, ki ureja zaposlovanje in delo tujcev, pristojen za podajo soglasja k pisni odobritvi, umakne soglasje k pisni odobritvi. Zoper odločbo o razveljavitvi pisne odobritve pritožba ni dovoljena.«; dosedanji drugi do sedmi odstavek postanejo tretji do osmi odstavek;
+
+2. 1. točka sedmega odstavka 111. člena se spremeni tako, da se glasi: »1. Ime, naslov, matično in davčno številko tujca, ki je vpisan v poslovni register za opravljanje samostojne poklicne dejavnosti.«.
+
+## XIII. poglavje
+
+## PREHODNE IN KONČNE DOLOČBE
+
+#### 72. člen
+
+**(vložene vloge in pridobljene pravice)**
+
+(1) O vlogah, ki so bile vložene pred začetkom uporabe tega zakona, se odloča v skladu z Zakonom o zaposlovanju in delu tujcev (Uradni list RS, št. 26/11, 21/13 – ZUTD-A in 100/13 – ZUTD-C, v nadaljnjem besedilu: ZZDT-1).
+
+(2) Delovna dovoljenja, ki so bila izdana po ZZDT-1, ostanejo v veljavi do poteka njihove veljavnosti.
+
+(3) V postopku izdaje ali podaljšanja enotnega dovoljenja oziroma izdaje pisne odobritve tujcu, ki ima veljavno osebno delovno dovoljenje z veljavnostjo treh let, izdano po ZZDT-1, se v času veljavnosti osebnega delovnega dovoljenja šteje, da je soglasje podano.
+
+#### 73. člen
+
+**(prepovedi zaposlovanja in dela)**
+
+Prepovedi zaposlovanja in dela tujcev, uveljavljene po ZZDT-1, ostanejo v veljavi do poteka prepovedi.
+
+#### 74. člen
+
+**(podzakonski akti po tem zakonu)**
+
+(1) Ministri, pristojni za delo, prostor in zdravje, izdajo podzakonski akt iz drugega odstavka 10. člena tega zakona v treh mesecih od uveljavitve tega zakona.
+
+(2) Minister, pristojen za delo, izda podzakonski akt iz osmega odstavka 48. člena tega zakona v treh mesecih od uveljavitve tega zakona.
+
+#### 75. člen
+
+**(prehodna določba k Zakonu o urejanju trga dela)**
+
+(1) Ne glede na določbo drugega odstavka 8. člena zakona se za brezposelno osebo šteje tudi tujec z veljavnim osebnim delovnim dovoljenjem, izdanim na podlagi ZZDT-1, do poteka veljavnosti osebnega delovnega dovoljenja.
+
+(2) Ne glede na določbo tretjega odstavka 167. člena zakona lahko delodajalec za zagotavljanje dela, ki je vpisan v register oziroma v evidenco, opravlja dejavnost zagotavljanja dela delavcev uporabniku tudi za tujca z veljavnim osebnim delovnim dovoljenjem z veljavnostjo treh let, izdanim na podlagi ZZDT-1, do poteka veljavnosti osebnega delovnega dovoljenja.
+
+#### 76. člen
+
+**(prehodna določba k Zakonu o delovnih razmerjih)**
+
+(1) Ne glede na četrto alinejo prvega odstavka 54. člena zakona se lahko sklene pogodba o zaposlitvi za določen čas tudi v primeru, če gre za zaposlitev tujca ali osebe brez državljanstva, ki ima delovno dovoljenje, izdano na podlagi ZZDT-1 (razen v primeru osebnega delovnega dovoljenja), do poteka veljavnosti delovnega dovoljenja.
+
+(2) Ne glede na drugi odstavek 119. člena zakona pogodba o zaposlitvi, ki jo sklene tujec ali oseba brez državljanstva, preneha veljati po samem zakonu tudi z dnem prenehanja veljavnosti delovnega dovoljenja, izdanega na podlagi ZZDT-1.
+
+#### 77. člen
+
+**(Zakon o preprečevanju dela in zaposlovanja na črno)**
+
+V Zakonu o preprečevanju dela in zaposlovanja na črno (Uradni list RS, št. 32/14) prenehata veljati peta alineja prvega odstavka 5. člena in četrta alineja prvega odstavka 23. člena.
+
+#### 78. člen
+
+**(Zakon o medijih)**
+
+V Zakonu o medijih (Uradni list RS, št. 110/06 – uradno prečiščeno besedilo, 36/08 – ZPOmK-1, 77/10 – ZSFCJA, 90/10 – odl. US, 87/11 – ZAvMS in 47/12) preneha veljati tretji odstavek 124. člena.
+
+#### 79. člen
+
+**(pravica zbiranja podatkov nosilcev javnih pooblastil)**
+
+Nosilci javnih pooblastil, ki so po predpisih, veljavnih na dan uveljavitve tega zakona, upravičeni do podatkov o delovnih dovoljenjih, so upravičeni tudi do podatkov o enotnem dovoljenju, modri karti, pisni odobritvi, soglasju ali dovoljenju za sezonsko delo po tem zakonu in po zakonu, ki ureja vstop in prebivanje tujcev.
+
+#### 80. člen
+
+**(prenehanje veljavnosti podzakonskih aktov)**
+
+(1) Z dnem uveljavitve tega zakona prenehajo veljati:
+
+- Pravilnik o kriterijih za usposabljanje v gospodarski družbi (Uradni list RS, št. 73/11),
+
+- Pravilnik o vlogah in dokazilih v zvezi z zaposlovanjem in delom tujcev ter o zaposlitvah tujcev, ki niso vezane na trg dela (Uradni list RS, št. 45/11 in 11/15),
+
+- Pravilnik o obdelavi in posredovanju podatkov o tujcih, ki se zaposlijo ali delajo na ozemlju Republike Slovenije (Uradni list RS, št. 83/11),
+
+- Pravilnik o določitvi minimalnih standardov za nastanitev tujcev, ki so zaposleni ali delajo v Republiki Sloveniji (Uradni list RS, št. 71/11) in
+
+- Sklep o določitvi višine nadomestila posebnih stroškov (Uradni list RS, št. 8/01).
+
+(2) Ne glede na prejšnji odstavek se podzakonska akta iz prve in druge alineje prejšnjega odstavka uporabljata do začetka uporabe tega zakona, podzakonska akta iz tretje in četrte alineje prejšnjega odstavka pa se uporabljata do uveljavitve podzakonskih aktov po tem zakonu, kolikor z njim nista v nasprotju.
+
+#### 81. člen
+
+**(prenehanje veljavnosti Zakona o zaposlovanju in delu tujcev)**
+
+Z dnem uveljavitve tega zakona preneha veljati Zakon o zaposlovanju in delu tujcev (Uradni list RS, št. 26/11, 21/13 – ZUTD-A in 100/13 – ZUTD-C), uporablja pa se do začetka uporabe tega zakona, razen določb prvega, drugega in tretjega odstavka 57. člena in prvega, drugega in tretjega odstavka 58. člena, ki se za ugotavljanje razlogov za prenehanje veljavnosti in razveljavitev delovnih dovoljenj, izdanih po Zakonu o zaposlovanju in delu tujcev (Uradni list RS, št. 26/11, 21/13 – ZUTD-A in 100/13 – ZUTD-C), uporabljajo do poteka veljavnosti delovnih dovoljenj, izdanih po navedenem zakonu.
+
+#### 82. člen
+
+**(uveljavitev zakona)**
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije, uporabljati pa se začne 1. septembra 2015.

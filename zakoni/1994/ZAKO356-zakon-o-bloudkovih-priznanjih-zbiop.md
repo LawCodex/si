@@ -1,0 +1,254 @@
+---
+title: "Zakon o Bloudkovih priznanjih (ZBIoP)"
+identifier: "ZAKO356"
+abbreviation: "ZBIoP"
+type: act
+jurisdiction: si
+language: sl
+act_kind: "Zakon"
+date: 1994-09-13
+published: 1994-09-23
+in_force_from: 1994-10-08
+last_amended: 2023-10-27
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "NPB 3 (neuradno prečiščeno besedilo)"
+citation: "Uradni list RS, št. 112/05 – uradno prečiščeno besedilo in 109/23 – ZBloP-B"
+adopted_by: "Državni zbor Republike Slovenije"
+epa: "0235"
+sop: "1994-01-2000"
+source: "https://pisrs.si/pregledPredpisa?id=ZAKO356"
+retrieved: 2026-10-12
+---
+
+# Zakon o Bloudkovih priznanjih (ZBIoP)
+
+*Opozorilo: Neuradno prečiščeno besedilo predpisa predstavlja zgolj informativni delovni pripomoček, glede katerega organ ne jamči odškodninsko ali kako drugače.*
+
+Neuradno prečiščeno besedilo Zakona o Bloudkovih priznanjih obsega:
+
+- Zakon o Bloudkovih priznanjih (Uradni list RS, št. 56/94 z dne 23. 9. 1994),
+
+- Zakon o spremembah Zakona o Bloudkovih priznanjih – ZBloP-A (Uradni list RS, št. 91/05 z dne 14. 10. 2005),
+
+- Zakon o Bloudkovih priznanjih – uradno prečiščeno besedilo – ZBloP- UPB1 (Uradni list RS, št. 112/05 z dne 15. 12. 2005),
+
+- Zakon o dopolnitvi Zakona o Bloudkovih priznanjih – ZBloP-B (Uradni list RS, št. 109/23 z dne 27. 10. 2023).
+
+**ZAKON**
+
+**o Bloudkovih priznanjih**
+
+*(neuradno prečiščeno besedilo št. 3)*
+
+## I. TEMELJNE DOLOČBE
+
+### 1. člen
+
+**(vsebina zakona)**
+
+Ta zakon ureja postopek predlaganja in podeljevanja Bloudkovih priznanj kot najvišjih priznanj Republike Slovenije za delo in dosežke na področju športa.
+
+### 2. člen
+
+**(vrste priznanj)**
+
+Bloudkova priznanja se podeljujejo v obliki Bloudkovih nagrad in Bloudkovih plaket.
+
+## II. PREDLAGANJE IN PODELJEVANJE BLOUDKOVIH PRIZNANJ
+
+### 3. člen
+
+**(predlagatelji priznanj)**
+
+Kandidate za priznanja lahko predlagajo fizične in pravne osebe.
+
+Predlagatelji ne morejo predlagati podelitve posmrtnega priznanja.
+
+### 4. člen
+
+**(prejemniki priznanj)**
+
+Bloudkovo priznanje lahko prejme posameznik, športna ekipa ali organizacija.
+
+Bloudkovo nagrado in Bloudkovo plaketo se lahko podeli istemu posamezniku, športni ekipi ali organizaciji samo enkrat.
+
+### 5. člen
+
+**(prejemniki Bloudkovih nagrad)**
+
+Bloudkovo nagrado lahko prejme posameznik, športna ekipa ali druga organizacija v Sloveniji oziroma organizacija v zamejstvu ali organizacija slovenskih izseljencev za izjemen prispevek k razvoju slovenskega športa v najmanj desetletnem obdobju.
+
+Bloudkovo nagrado lahko prejme posameznik za izjemen prispevek k razvoju športa v Sloveniji ali med Slovenci v tujini, ki ga je dosegel z ljubiteljskim ali poklicnim delom na naslednjih področjih:
+
+- znanstveno-raziskovalno delo na področju športa,
+
+- publicistično delo na področju športa,
+
+- organizacijsko delo na področju športa,
+
+- načrtovanje in izgradnja športne infrastrukture.
+
+Bloudkovo nagrado lahko prejme športnik ali športna ekipa za vrhunski mednarodni športni dosežek.
+
+Posameznik lahko prejme Bloudkovo nagrado tudi za življenjsko delo, če je v športu deloval najmanj 30 let.
+
+### 5.a člen
+
+**(prejemniki Bloudkovih nagrad brez javnega razpisa)**
+
+Ne glede na določbe tega zakona o predlaganju in podeljevanju Bloudkovih nagrad prejme nagrado za vrhunski mednarodni športni dosežek športnik ali športna ekipa, ki je dobitnik olimpijske ali paralimpijske medalje, medalje z olimpijade gluhih ali medalje s šahovske olimpijade.
+
+### 6. člen
+
+**(prejemniki Bloudkovih plaket)**
+
+Bloudkovo plaketo lahko prejme posameznik ali organizacija za pomemben prispevek k razvoju slovenskega športa.
+
+Bloudkovo plaketo lahko prejme športnik ali športna ekipa za pomemben tekmovalni dosežek.
+
+Posameznik lahko prejme Bloudkovo plaketo tudi za življenjsko delo, če je v športu deloval najmanj 20 let.
+
+Bloudkovo plaketo lahko prejme športnik tudi ob koncu tekmovalne kariere, če je s svojimi dosežki, osebnostjo in zgledom pomembno prispeval k razvoju in popularizaciji določene športne panoge oziroma športa v Sloveniji.
+
+### 7. člen
+
+**(odbor za podeljevanje Bloudkovih priznanj)**
+
+Bloudkova priznanja podeljuje odbor za podeljevanje Bloudkovih priznanj (v nadaljnjem besedilu: odbor).
+
+Odbor ima predsednika in osem članov, ki jih izmed priznanih športnih delavcev in športnikov imenuje Vlada Republike Slovenije na predlog ministra, pristojnega za šport.
+
+Mandat predsednika in članov odbora traja štiri leta.
+
+Odbor lahko oblikuje posebne strokovne komisije za posamezna področja svojega dela, ki pripravijo strokovna mnenja o posameznih predlogih.
+
+### 8. člen
+
+**(pravilnik o delu odbora)**
+
+Način dela odbora se uredi s pravilnikom, ki ga izda minister, pristojen za šport. Pravilnik določa zlasti:
+
+- pravice, dolžnosti in način delovanja odbora,
+
+- podrobnejše kriterije za dodeljevanje priznanj in način predlaganja kandidatov,
+
+- način ustanovitve in pristojnosti strokovnih komisij,
+
+- vsebino in čas trajanja javnega razpisa.
+
+### 9. člen
+
+**(javni razpis)**
+
+Odbor vsako leto objavi javni razpis s pogoji, ki jih morajo izpolnjevati kandidati za dobitnike Bloudkovih priznanj.
+
+### 10. člen
+
+**(čas podelitve priznanj)**
+
+Bloudkova priznanja se slovesno podeljujejo vsako leto ob obletnici rojstva Stanka Bloudka.
+
+### 11. člen
+
+**(število priznanj)**
+
+Odbor lahko letno podeli največ tri Bloudkove nagrade in deset Bloudkovih plaket.
+
+Ne glede na določilo prejšnjega odstavka se v izjemnih, posebej utemeljenih primerih odbor lahko odloči, da se letno število Bloudkovih priznanj poveča, vendar največ za eno nagrado in dve priznanji.­
+
+### 12. člen
+
+**(sredstva)**
+
+Sredstva za delovanje odbora zagotavlja Republika Slovenija.
+
+Strokovna in administrativno-tehnična opravila za odbor opravlja ministrstvo, pristojno za šport.
+
+### 13. člen
+
+**(denarna višina priznanj)**
+
+Glede na s proračunom Republike Slovenije zagotovljena sredstva odbor vsako leto določi denarno višino Bloudkove nagrade in Bloudkove plakete.
+
+Razmerje med vrednostjo Bloudkove nagrade in Bloudkove plakete je tri proti ena.
+
+### 14. člen
+
+**(poročilo o delu odbora)**
+
+Odbor mora v 30 dneh po podelitvi Bloudkovih priznanj izdelati poročilo o svojem delu in ga predložiti Vladi Republike Slovenije.
+
+---
+
+Zakon o Bloudkovih priznanjih (Uradni list RS, št. [56/94](http://www.uradni-list.si/1/objava.jsp?urlurid=19942000)) vsebuje naslednje prehodne in končne določbe:
+
+**»III. PREHODNE IN KONČNE DOLOČBE**
+
+**15. člen**
+
+**(ustanovitev odbora)**
+
+Odbor se ustanovi najkasneje v dveh mesecih po uveljavitvi tega zakona.
+
+Do imenovanja odbora po določbah tega zakona nadaljuje z delom dosedanji odbor za podeljevanje priznanj Stanka Bloudka.
+
+**16. člen**
+
+**(pravilnik o delu odbora)**
+
+Odbor sprejme pravilnik o delu odbora najkasneje en mesec po imenovanju predsednika in članov.
+
+Do sprejema novega pravilnika odbor dela po pravilniku o delu odbora za podeljevanje priznanj Stanka Bloudka z dne 7. 9. 1984, ki ga je sprejela skupščina Telesnokulturne skupnosti Slovenije.
+
+**17. člen**
+
+**(kontinuiteta in ugled priznanj)**
+
+Priznanja za najvišje dosežke na področju športa v Republiki Sloveniji, podeljena do uveljavitve tega zakona, so izenačena s priznanji, podeljenimi po tem zakonu.
+
+**18. člen**
+
+**(prenehanje dosedanjih zakonskih določb)**
+
+Z dnem uveljavitve tega zakona preneha veljati določba 36. člena zakona o svobodni menjavi dela na področju telesne kulture (Uradni list SRS, št. 35/79).
+
+**19. člen**
+
+**(uveljavitev zakona)**
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.«.
+
+---
+
+Zakon o spremembah Zakona o Bloudkovih priznanjih – ZBloP-A (Uradni list RS, št. [91/05](http://www.uradni-list.si/1/objava.jsp?urlurid=20053889)) vsebuje naslednji prehodni in končno določbo:
+
+»3. člen
+
+Bloudkove nagrade, ki bodo podeljene v skladu z razpisom, objavljenim v Uradnem listu RS, št. 56/05 z dne 10. 6. 2005, se podelijo ob obletnici rojstva Stanka Bloudka. Razpisni rok se podaljša do 31. 12. 2005, razpisni postopki pa se zaključijo v skladu z določbami Pravilnika o delu Odbora za podeljevanje Bloudkovih priznanj (Uradni list RS, št. 46/98).
+
+4\. člen
+
+Minister, pristojen za šolstvo, izda pravilnik iz 1. člena tega zakona v roku dveh mesecev po uveljavitvi tega zakona.
+
+5\. člen
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.«.
+
+---
+
+Zakon o dopolnitvi Zakona o Bloudkovih priznanjih – ZBloP-B (Uradni list RS, št. [109/23](http://www.uradni-list.si/1/objava.jsp?urlurid=20233142)) vsebuje naslednjo prehodno in končno določbo:
+
+**»PREHODNA IN KONČNA DOLOČBA**
+
+2\. člen
+
+**(vrhunski mednarodni športni dosežki pred uveljavitvijo tega zakona)**
+
+V skladu z novim 5.a členom zakona prejme Bloudkovo nagrado za vrhunski mednarodni športni dosežek tudi športnik ali športna ekipa, ki je dobitnik olimpijske ali paralimpijske medalje, medalje z olimpijade gluhih ali medalje s šahovske olimpijade v obdobju pred uveljavitvijo tega zakona.
+
+3\. člen
+
+**(začetek veljavnosti)**
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.«.

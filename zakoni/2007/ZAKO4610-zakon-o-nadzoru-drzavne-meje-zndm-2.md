@@ -1,0 +1,1069 @@
+---
+title: "Zakon o nadzoru državne meje (ZNDM-2)"
+identifier: "ZAKO4610"
+abbreviation: "ZNDM-2"
+type: act
+jurisdiction: si
+language: sl
+act_kind: "Zakon"
+date: 2007-06-22
+published: 2007-07-06
+in_force_from: 2007-07-21
+last_amended: 2024-12-27
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "NPB 11 (neuradno prečiščeno besedilo)"
+citation: "Uradni list RS, št. 35/10 – uradno prečiščeno besedilo, 15/13 – ZNPPol, 5/17, 68/17, 47/19, 139/20, 161/21, 29/22, 76/23 in 112/24"
+adopted_by: "Državni zbor Republike Slovenije"
+eva: "2006-1711-0006"
+epa: "1365-IV"
+sop: "2007-01-3205"
+source: "https://pisrs.si/pregledPredpisa?id=ZAKO4610"
+retrieved: 2026-10-12
+---
+
+# Zakon o nadzoru državne meje (ZNDM-2)
+
+*Opozorilo: Neuradno prečiščeno besedilo predpisa predstavlja zgolj informativni delovni pripomoček, glede katerega organ ne jamči odškodninsko ali kako drugače.*
+
+Neuradno prečiščeno besedilo Zakona o nadzoru državne meje obsega:
+
+- Zakon o nadzoru državne meje – ZNDM-2 (Uradni list RS, št. 60/07 z dne 6. 7. 2007),
+
+- Zakon o spremembah in dopolnitvah Zakona o nadzoru državne meje – ZNDM-2A (Uradni list RS, št. 77/09 z dne 2. 10. 2009),
+
+- Zakon o nadzoru državne meje – uradno prečiščeno besedilo – ZNDM-2 –UPB1 (Uradni list RS, št. 35/10 z dne 3. 5. 2010),
+
+- Zakon o nalogah in pooblastilih policije – ZNPPol (Uradni list RS, št. 15/13 z dne 18. 2. 2013),
+
+- Zakon o spremembah in dopolnitvah Zakona o nadzoru državne meje – ZNDM-2B (Uradni list RS, št. 5/17 z dne 3. 2. 2017),
+
+- Zakon o spremembi Zakona o spremembah in dopolnitvah Zakona o nadzoru državne meje – ZNDM-2C (Uradni list RS, št. 68/17 z dne 1. 12. 2017),
+
+- Zakon o spremembah in dopolnitvah Zakona o nadzoru državne meje – ZNDM-2D (Uradni list RS, št. 47/19 z dne 26. 7. 2019),
+
+- Zakon o dopolnitvah Zakona o nadzoru državne meje – ZNDM-2E (Uradni list RS, št. 139/20 z dne 9. 10. 2020),
+
+- Zakon o dopolnitvah Zakona o nadzoru državne meje – ZNDM-2F (Uradni list RS, št. 161/21 z dne 6. 10. 2021),
+
+- Zakon o dopolnitvi Zakona o nadzoru državne meje – ZNDM-2G (Uradni list RS, št. 29/22 z dne 4. 3. 2022),
+
+- Zakon o spremembah in dopolnitvah Zakona o nadzoru državne meje – ZNDM-2H (Uradni list RS, št. 76/23 z dne 12. 7. 2023),
+
+- Zakon o spremembah in dopolnitvah Zakona o nadzoru državne meje – ZNDM-2I (Uradni list RS, št. 112/24 z dne 27. 12. 2024).
+
+**ZAKON**
+
+**o nadzoru državne meje (ZNDM-2)**
+
+*(neuradno prečiščeno besedilo št. 11)*
+
+## I. SPLOŠNE DOLOČBE
+
+### 1. člen
+
+**(vsebina zakona)**
+
+(1) Ta zakon določa organizacijo in način opravljanja nadzora državne meje, izvajanja izravnalnih ukrepov in mednarodno policijsko sodelovanje.
+
+(2) Ta zakon za izvajanje [Uredbe (EU) 2016/399](http://data.europa.eu/eli/reg/2016/399/oj "to EUR-Lex") Evropskega parlamenta in Sveta z dne 9. marca 2016 o Zakoniku Unije o pravilih, ki urejajo gibanje oseb prek meja (Zakonik o schengenskih mejah) (kodificirano besedilo) (UL L št. 77 z dne 23. 3. 2016, str. 1; v nadaljnjem besedilu: Zakonik o schengenskih mejah) določa pristojne organe v Republiki Sloveniji ter sankcije za kršitve njegovih določb.
+
+(3) Za nadzor državne meje po tem zakonu se štejejo dejavnost in ukrepi iz Zakonika o schengenskih mejah.
+
+(4) Mednarodno policijsko sodelovanje zajema dejavnost tujih policijskih organov na državnem ozemlju Republike Slovenije oziroma organov Republike Slovenije na tujem državnem ozemlju, sodelovanje s tujimi varnostnimi organi, napotitev uradnikov za zvezo v tujino ter sprejem tujih uradnikov za zvezo.
+
+(5) Opravljanje nadzora državne meje po tem zakonu ne posega v izvajanje pooblastil, ki jih imajo v skladu z veljavno zakonodajo drugi državni organi.
+
+### 2. člen
+
+**(namen nadzora državne meje)**
+
+Nadzor državne meje se opravlja z namenom, da se:
+
+- zavarujeta življenje in zdravje ljudi;
+
+- preprečujejo in odkrivajo kazniva dejanja in prekrški ter odkrivajo in prijemajo njihovi storilci;
+
+- preprečujejo nedovoljene migracije;
+
+- zagotavlja varnost ljudi, premoženja in okolja;
+
+- preprečujejo in odkrivajo druge nevarnosti za javno varnost in red.
+
+### 3. člen
+
+**(pomen izrazov)**
+
+Posamezni izrazi, uporabljeni v tem zakonu, pomenijo:
+
+1. mejna črta razmejuje območje Republike Slovenije od območij sosednjih držav;
+
+2. državna meja po tem zakonu je kopenska in morska meja ter letališča in pristanišča, prek katerih poteka mednarodni promet;
+
+3. mejni prehod je infrastrukturni objekt državnega pomena, ki je namenjen za smotrno in varno odvijanje prometa ter opravljanje varnostnega, carinskega in inšpekcijskega nadzora;
+
+4. strateška mejna točka je kraj, ki je glede na lego in gospodarski položaj državnega pomena za Republiko Slovenijo in je ključen za ohranjanje državne pripravljenosti na morebitne varnostne izzive ali druge izredne okoliščine;
+
+5. mednarodni običaji so pravila splošne prakse in splošno sprejeta pravila, ki se nanašajo na vsebino in zadeve, urejene s tem zakonom;
+
+6. mejna prometna povezava je cesta, železniška proga ali pot, ki poteka čez mejno črto izven mejnih prehodov.
+
+## II. ORGAN, KI NADZIRA DRŽAVNO MEJO IN POOBLASTILA
+
+### 4. člen
+
+**(nadzor državne meje in prepovedana ravnanja)**
+
+(1) Za nadzor državne meje je pristojna policija.
+
+(2) Prepovedano je vsakršno ravnanje posameznika ali skupine najmanj dveh oseb, ki se z namenom nadzora državne meje izvaja na način, ki je enak ali podoben oblikam opravljanja policijskih nalog pri izvajanju nadzora državne meje, ali ki ovira policijo pri izvajanju nadzora državne meje.
+
+(3) Prepovedano je tudi vsako ravnanje pravne osebe ali posameznika, ki pomeni spodbujanje dejanj iz prejšnjega odstavka, njihovo organiziranje ali vsako drugo ravnanje, ki pomeni omogočanje dejanj iz prejšnjega odstavka.
+
+### 5. člen
+
+**(pooblastila)**
+
+(1) Za opravljanje nalog nadzora državne meje imajo policisti in policistke (v nadaljnjem besedilu: policisti) pooblastila, ki jih predpisuje ta zakon, pooblastila, ki jih predpisujejo drugi zakoni, ter pooblastila, ki izhajajo iz pravnega reda Evropske unije.
+
+(2) Če s tem ali drugim predpisom ni določeno drugače, morajo policisti, kadar opravljajo naloge po tem zakonu, upoštevati mednarodne običaje.
+
+### 6. člen
+
+**(ukrepi za preprečevanje nevarnosti)**
+
+Policija lahko za opravljanje nadzora nad državno mejo, če ta zakon ali drugi predpisi posebej ne urejajo posebnih pooblastil, sprejema in izvaja tudi druge nujne ukrepe za preprečevanje nevarnosti, ki v konkretnem primeru pomenijo neposredno ogrožanje javne varnosti in reda, še zlasti življenja in zdravja ljudi ter premoženja.
+
+### 7. člen
+
+**(načelo sorazmernosti)**
+
+(1) Policisti smejo pri opravljanju nalog nadzora državne meje uporabljati le tisto pooblastilo, s katerim opravljajo nalogo z najmanjšimi škodljivimi posledicami za osebo.
+
+(2) Izvajanje pooblastil ne sme povzročiti škode, ki bi bila v očitnem nesorazmerju z njihovim namenom in zastavljenimi cilji njihove uporabe.
+
+(3) Policist mora prenehati izvajati pooblastila takoj, ko ni več razlogov za njihovo uporabo.
+
+### 8. člen
+
+**(omogočanje nadzora državne meje)**
+
+(1) Za opravljanje nadzora državne meje in preprečevanje nedovoljenega prehajanja državne meje sme policija postaviti table z opozorilnimi napisi in drugo signalizacijo, namestiti in uporabljati tehnična sredstva za fotografiranje, video in avdio snemanje, tehnična sredstva za prepoznavo oseb in predmetov ter tehnična sredstva za ugotovitev ali preverjanje identifikacije oseb ob primerjavi podatkov, zajetih v potovalnem dokumentu, in identifikacijo vozil ter postaviti, namestiti in uporabljati druga tehnična in druga sredstva kot so varovalna ograja ali druga tehnična ovira ali druga sredstva za preprečevanje nedovoljenega prehajanja državne meje. Za vzdrževanje tabel in druge signalizacije ter tehničnih sredstev in drugih sredstev po tem členu je pristojna policija.
+
+(2) Če je potrebno za uspešno izvedbo nalog po tem zakonu in nalog, predpisanih s pravnim redom Evropske unije, policisti lahko uporabljajo zemljišča in vodne površine ne glede na lastništvo.
+
+(3) Lastniki in posestniki zemljišč in vodnih površin morajo pustiti prost dostop in gibanje za nemoteno opravljanje nalog nadzora državne meje.
+
+(4) Lastniki in posestniki zemljišč so dolžni dopustiti postavitev, namestitev, uporabo, vzdrževanje in shranjevanje tehničnih in drugih sredstev iz prvega odstavka tega člena, če opravljanja nadzora državne meje in preprečevanja nedovoljenega prehajanja državne meje ni mogoče zagotoviti z obstoječimi kadrovskimi viri in organizacijskimi ukrepi ali so bila ta neuspešna in so podane nepredvidene ali nujne razmere, ki ogrožajo življenje, osebno varnost in premoženje ljudi, vsakdo pa se je dolžan vzdržati vseh ravnanj, ki bi ovirala postavitev, namestitev, uporabo, vzdrževanje ali shranjevanje teh sredstev. Policija lastnike obvesti o razlogih za poseg na zemljiščih, tehnična in druga sredstva pa se odstranijo takoj, ko niso več potrebna za opravljanje nalog iz tega člena.
+
+(5) Za postavitev, namestitev, uporabo, vzdrževanje in shranjevanje tehničnih in drugih sredstev ob državni meji iz prvega odstavka tega člena in izpolnjenih pogojih iz prejšnjega odstavka se ne uporabljajo predpisi, ki urejajo graditev objektov, in prostorski akti ter predpisi, ki urejajo varstvo okolja, ohranjanje narave, sladkovodno ribištvo, divjad in lovstvo, ter predpisi, ki urejajo gozdove in vode.
+
+(6) Ne glede na prejšnji odstavek policija v sodelovanju z ministrstvom, pristojnim za okolje, pripravi načrt namestitve teh sredstev in pridobi oceno njihovih vplivov na naravo, pri tem pa smiselno uporabi metodologijo iz predpisa, ki ureja presojo sprejemljivosti vplivov na varovana območja, s predlogi omilitvenih ukrepov, če postavitev, namestitev, uporaba, vzdrževanje ali shranjevanje tehničnih in drugih sredstev iz prvega odstavka tega člena ob državni meji traja dlje kot šest mesecev in je verjeten pomemben negativni vpliv na varovana območja. Do ocene vplivov in omilitvenih ukrepov se opredeli z mnenjem strokovna organizacija, pristojna za varstvo narave, in se za način izvedbe omilitvenih ukrepov za postavitev, namestitev, uporabo, vzdrževanje in shranjevanje tehničnih in drugih sredstev iz prvega odstavka tega člena dogovori s policijo.
+
+(7) Policija se pri postavitvi, namestitvi, uporabi, vzdrževanju in shranjevanju tehničnih in drugih sredstev iz prvega odstavka tega člena zaradi izvajanja gospodarske javne službe urejanja voda in državnega monitoringa redno usklajuje z ministrstvom, pristojnim za vode, in koncesionarjem, ki ob državni meji izvaja gospodarsko javno službo urejanja voda.
+
+(8) Uporaba tehničnih sredstev iz prvega odstavka tega člena je dopustna samo pri opravljanju nadzora državne meje, ki ga policija izvaja skladno z Zakonikom o schengenskih mejah.
+
+(9) S tehničnimi sredstvi iz prvega odstavka tega člena sme policija pridobivati in obdelovati osebne podatke pod pogoji, ki jih določata zakon, ki ureja naloge in pooblastila policije in zakon, s katerim se določajo pogoji in načini vstopa, zapustitve in bivanja tujcev v Republiki Sloveniji. Pri tem sme policija uporabljati nacionalne, EU in mednarodne baze podatkov do katerih dostopa.
+
+(10) Način uporabe tehničnih sredstev iz prvega odstavka tega člena, v obsegu, ki ga določa Zakonik o schengenskih mejah, podrobneje predpiše minister, pristojen za notranje zadeve.
+
+### 8.a člen
+
+**(upravičenci do nadomestila)**
+
+(1) Če je za opravljanje nalog v skladu s prejšnjim členom ob državni meji potrebna uporaba zemljišč, ki otežuje redno rabo zemljišč, so do nadomestila za oteženo redno rabo zemljišča (v nadaljnjem besedilu: nadomestilo) po tem zakonu upravičeni naslednji upravičenci:
+
+- lastnik zemljišča ali
+
+- oseba, ki uporablja zemljišče na podlagi druge stvarne pravice, vpisane v zemljiško knjigo, ali na podlagi najemne ali zakupne pogodbe.
+
+(2) Šteje se, da so osebe iz prejšnjega odstavka upravičene do nadomestila, če se kot sredstvo iz prvega odstavka prejšnjega člena na zemljišču postavi, namesti, uporablja, vzdržuje ali shranjuje varovalna ograja ali druga tehnična ovira.
+
+(3) Če nadomestilo za isto zemljišče uveljavlja več upravičencev za isto časovno obdobje, je do nadomestila upravičen tisti, ki ima v tem obdobju pravico uporabljati to zemljišče.
+
+(4) Če nadomestilo uveljavljajo vsi solastniki ali skupni lastniki skupaj z eno vlogo, se višina nadomestila določi v celotnem znesku v korist vseh solastnikov oziroma skupnih lastnikov. Če nadomestila ne uveljavljajo vsi solastniki skupaj, so upravičeni do nadomestila skladno s solastniškimi deleži, če so ti določeni. Če solastniški deleži niso določeni in v primeru skupne lastnine, kadar skupni lastniki nadomestila ne uveljavljajo skupaj, se šteje, da so deleži enaki.
+
+### 8.b člen
+
+**(postopek določanja nadomestila)**
+
+(1) Upravičenec do nadomestila lahko zahteva nadomestilo do 31. marca tekočega leta za preteklo leto. Upravičenec zahteva nadomestilo pri upravni enoti, na območju katere leži zemljišče, za katero se uveljavlja nadomestilo. Upravičenec vloži zahtevo za nadomestilo za zemljišče, ki leži na območju dveh upravnih enot, pri eni izmed obeh upravnih enot. Če upravičenec zahteva nadomestilo za več zemljišč, ki ležijo na območju dveh ali več upravnih enot, ga za vsa zemljišča zahteva pri eni izmed upravnih enot, na območju katere leži zemljišče, za katerega uveljavlja nadomestilo. Če upravičenec zahteva nadomestilo pri več pristojnih upravnih enotah, o zahtevi odloča upravna enota, ki je prva prejela zahtevo.
+
+(2) Zahteva iz prejšnjega odstavka vsebuje:
+
+- podatke o upravičencu do nadomestila (osebno ime in naslov prebivališča ter datum rojstva in EMŠO, če gre za fizično osebo, oziroma firmo, sedež in matično številko, če gre za pravno osebo) in številko osebnega oziroma poslovnega računa,
+
+- podatke o zemljišču (parcelna številka in katastrska občina) in
+
+- opis posega oziroma vpliva posega na zemljišče.
+
+(3) Če pravico do nadomestila zahteva oseba, ki uporablja zemljišče na podlagi najemne ali zakupne pogodbe, in ta okoliščina ni razvidna iz uradnih evidenc, zahtevi priloži tudi fotokopijo najemne oziroma zakupne pogodbe.
+
+(4) Upravna enota odloči o zahtevi na podlagi dokumentacije, ki jo glede posega na zemljišču pridobi od ministrstva, pristojnega za notranje zadeve, ki hrani dokumentacijo v zvezi s tem posegom, ter podatkov in listin iz drugega in tretjega odstavka tega člena. Upravna enota pred izdajo odločbe seznani upravičenca do nadomestila z vsemi ugotovljenimi dejstvi in ga pozove, da se v roku najmanj 15 dni mora izreči o ugotovitvah v seznanitvi.
+
+(5) Zoper odločitev upravne enote je dovoljena pritožba. O pritožbi odloča ministrstvo, pristojno za notranje zadeve.
+
+(6) Višina nadomestila se določi na podlagi metodologije, ki jo določi Vlada Republike Slovenije glede na obseg posega na zemljišču, boniteto zemljišča v skladu s predpisi, ki urejajo evidentiranje nepremičnin, in vrsto dejanske rabe v skladu s predpisi, ki urejajo vrsto dejanske rabe zemljišč.
+
+(7) Nadomestilo se odmeri za preteklo koledarsko leto, za obdobje, ko je bila otežena redna raba zemljišča. Nadomestilo pripada upravičencem največ za obdobje 24 mesecev od začetka uporabe zemljišča, ki otežuje redno rabo zemljišča. Če se upravičenec do nadomestila med koledarskim letom spremeni, je do nadomestila upravičen sorazmerno glede na trajanje njegovega upravičenja v koledarskem letu.
+
+(8) Nadomestilo se izplača po pravnomočnosti odločbe upravne enote na osebni oziroma poslovni račun upravičenca. Nadomestilo upravičencu do nadomestila izplača ministrstvo, pristojno za notranje zadeve.
+
+(9) Sredstva za izplačilo nadomestila se zagotovijo v proračunu Republike Slovenije v okviru finančnega načrta ministrstva, pristojnega za notranje zadeve.
+
+(10) V postopku za določitev nadomestila se za vlogo in odločitev na prvi in drugi stopnji taksa ne plača.
+
+(11) V postopku za določitev nadomestila se uporablja zakon, ki ureja splošni upravni postopek, če ni s tem zakonom določeno drugače.
+
+### 8.c člen
+
+**(služnost v javno korist)**
+
+(1) Če je za opravljanje nalog v skladu z 8. členom tega zakona, ki se izvajajo ob državni meji, potrebna trajnejša in nepretrgana uporaba zemljišč, ki otežuje redno rabo zemljišč in že traja dlje kot 24 mesecev, se lastninska pravica na teh zemljiščih začasno obremeni s služnostjo v javno korist.
+
+(2) Služnost v javno korist iz prejšnjega odstavka se lahko ustanovi tudi na nepremičnini, katere solastnik je služnostni upravičenec. V tem primeru se v razmerju med služnostnim upravičencem in ostalimi solastniki šteje, kot da bi bil s služnostjo v javno korist obremenjen solastninski delež služnostnih zavezancev, ki ustreza obsegu uporabe nepremičnine v korist služnostnega upravičenca. V razmerju do tretjih se šteje, da je nepremičnina obremenjena kot celota. Služnost v javno korist se v zemljiški knjigi vpiše na nepremičnini kot celoti v korist služnostnega upravičenca.
+
+(3) Za vprašanja glede ustanovitve služnosti v javno korist, ki niso posebej urejena s tem zakonom, se uporabljajo določbe zakona, ki ureja razlastitev in omejitev lastninske pravice v javno korist.
+
+(4) Javno korist za ustanovitev služnosti in obdobje obremenitve s služnostjo v javno korist ugotovi Vlada Republike Slovenije s sklepom, ki se objavi v Uradnem listu Republike Slovenije. Javna korist za ustanovitev služnosti velja tudi za zemljišča, ki nastanejo s parcelacijo zemljišč, določenih v sklepu iz prejšnjega stavka, če so potrebna za opravljanje nalog v skladu s prvim odstavkom tega člena. Do pravnomočnosti odločitve o služnosti v javno korist lahko policija na zemljiščih, za katere obstaja javna korist za ustanovitev služnosti, še naprej opravlja naloge iz 8. člena tega zakona, za katere je potrebna trajnejša in nepretrgana uporaba zemljišč, ki otežuje redno rabo zemljišč.
+
+(5) Ministrstvo, pristojno za notranje zadeve, v šestih mesecih po sprejetju sklepa iz prejšnjega odstavka začne postopek za ustanovitev služnosti v javno korist.
+
+### 8.č člen
+
+**(upravičenec do služnosti v javno korist)**
+
+Upravičenec do služnosti v javno korist je Republika Slovenija. Postopek sporazumevanja za sklenitev pogodbe o ustanovitvi služnosti v javno korist, sklepanje teh pogodb in vlaganje zahtev za ustanovitev služnosti v javno korist v imenu Republike Slovenije in za njen račun opravlja ministrstvo, pristojno za notranje zadeve.
+
+### 8.d člen
+
+**(postopek sporazumevanja za ustanovitev služnosti v javno korist)**
+
+(1) Upravičenec do služnosti v javno korist poda lastnikom zemljišč iz 8.c člena tega zakona ponudbo za sklenitev pogodbe o ustanovitvi služnosti v javno korist proti plačilu odškodnine. Odškodnina se v ponudbi oblikuje v skladu z metodologijo iz šestega odstavka 8.b člena tega zakona.
+
+(2) Če se lastnik zemljišča strinja s ponudbo iz prejšnjega odstavka in o tem pisno obvesti upravičenca do služnosti v javno korist v 15 dneh od prejema ponudbe, se sklene pogodba o ustanovitvi služnosti, pri čemer stroške v zvezi s to pogodbo krije upravičenec do služnosti v javno korist.
+
+(3) Sklenjena pogodba o ustanovitvi služnosti v javno korist je podlaga za njeno vknjižbo v zemljiško knjigo ne glede na vknjižene prepovedi odtujitve ali obremenitve na zemljišču, na katerem se ustanovi služnost v javno korist.
+
+### 8.e člen
+
+**(ustanovitev služnosti v javno korist)**
+
+(1) Če postopek sporazumevanja iz prejšnjega člena ni bil uspešen, lahko upravičenec do služnosti v javno korist pri upravni enoti, na območju katere leži zemljišče, zahteva začetek postopka za ustanovitev služnosti v javno korist.
+
+(2) Zahteva za ustanovitev služnosti v javno korist iz prejšnjega odstavka vsebuje:
+
+- navedbo sklepa Vlade Republike Slovenije o ugotovljeni javni koristi,
+
+- podatke o lastniku zemljišča (osebno ime in naslov prebivališča ter datum rojstva, če gre za fizično osebo, oziroma firmo, sedež in matično številko, če gre za pravno osebo),
+
+- podatke o zemljišču (parcelna številka in katastrska občina),
+
+- podatke o ustanovitvi služnosti v javno korist (opredelitev obsega zemljišča, na katerem se ustanovi služnost v javno korist, trajanje služnosti v javno korist),
+
+- ponudbo iz prejšnjega člena.
+
+(3) Postopek za ustanovitev služnosti v javno korist se začne s sklepom. Zoper ta sklep ni pritožbe.
+
+(4) Pritožba zoper odločbo o ustanovitvi služnosti v javno korist ne zadrži njene izvršitve.
+
+### 8.f člen
+
+**(določitev in izplačilo odškodnine)**
+
+(1) Odškodnina za ustanovitev služnosti v javno korist se določi za obdobje od poteka 24 mesecev od začetka uporabe zemljišča, ki otežuje redno rabo zemljišča, do poteka obdobja obremenitve zemljišča s služnostjo. Odškodnina se izplačuje na letni ravni za preteklo leto, in sicer do konca meseca marca tekočega leta. Izplačilo za posamezno leto se izračuna tako, da se višina odškodnine, določena za celotno obdobje, deli s številom let, za katera je zemljišče obremenjeno s služnostjo v javno korist. Če odškodnina ni določena v istem koledarskem letu, kot je bila ustanovljena služnost v javno korist, se odškodnina za obdobje do določitve odškodnine, izplača do konca meseca marca leta, ki sledi letu, v katerem je bila določena odškodnina. Če služnost v javno korist ne traja celo koledarsko leto, se izplačilo za posamezno leto sorazmerno zmanjša.
+
+(2) Če se služnost v javno korist ukine pred potekom obdobja, za katero je bila ustanovljena, se za preostalo obdobje odškodnina ne izplača.
+
+(3) Odškodnino zemljišča izplača ministrstvo, pristojno za notranje zadeve, na osebni oziroma poslovni račun lastnika zemljišča. Sredstva za izplačilo odškodnine se zagotovijo v proračunu Republike Slovenije v okviru finančnega načrta ministrstva, pristojnega za notranje zadeve.
+
+### 8.g člen
+
+**(odškodnina, če služnost v javno korist ni ustanovljena)**
+
+(1) Če razlogi za ustanovitev služnosti v javno korist prenehajo pred ustanovitvijo služnosti in se služnost v javno korist ne ustanovi, pripada lastniku zemljišča odškodnina za obdobje od poteka 24 mesecev od začetka uporabe zemljišča, ki otežuje redno rabo zemljišča, do prenehanja takšne uporabe zemljišča.
+
+(2) Ministrstvo, pristojno za notranje zadeve, v šestih mesecih od prenehanja uporabe zemljišča poda lastnikom zemljišč iz prejšnjega odstavka ponudbo za sklenitev sporazuma o odškodnini. Odškodnina se v ponudbi oblikuje v skladu z metodologijo iz šestega odstavka 8.b člena tega zakona.
+
+(3) Če se lastnik zemljišča ne strinja s predlagano višino odškodnine ali če ne dobi ponudbe v roku iz prejšnjega odstavka, lahko predlaga, da o odškodnini odloči pristojno sodišče v nepravdnem postopku. Pri določitvi odškodnine se smiselno uporabljajo določbe zakona, ki ureja razlastitev in omejitev lastninske pravice v javno korist.
+
+(4) V postopkih po tem členu se glede izplačila odškodnine uporablja tretji odstavek 8.f člena tega zakona, glede skrbnika za posebne primere pa se smiselno uporabljajo določbe zakona, ki ureja razlastitev in omejitev lastninske pravice v javno korist.
+
+### 9. člen
+
+**(uporaba vozil in plovil)**
+
+Za opravljanje nalog nadzora državne meje smejo policisti ne glede na druge predpise uporabljati vse vrste vozil, vodna plovila in zrakoplove v obmejnem območju ob državni meji, na drugih območjih pa le, če je to potrebno, da se pride do takega območja.
+
+**9.a člen(črtan)**
+
+**9.b člen(črtan)**
+
+## III. MEJNA ČRTA
+
+### 10. člen
+
+**(označitev mejne črte)**
+
+(1) Vlada Republike Slovenije na predlog posameznih ministrstev imenuje člane delegacij v meddržavnih komisijah za označevanje in vzdrževanje državnih meja, ustanovljenih na podlagi veljavnih mednarodnih pogodb. Ministrstvo, pristojno za zunanje zadeve, z drugimi pristojnimi ministrstvi usklajuje opravljanje nalog, povezanih z označevanjem mejne črte ter razmejitvijo.
+
+(2) Strokovno-tehnična opravila v zvezi z označevanjem mejne črte opravlja upravni organ, pristojen za geodetske zadeve.
+
+(3) Ob glavnih cestah, ki vodijo proti mejni črti na notranjih mejah, se s tablami obvešča o prihodu na ozemlje Republike Slovenije oziroma o približevanju ozemlju sosednje države članice Evropske unije. S tablami se obvešča tudi o prihodu na ozemlje Republike Slovenije na letališčih in pristaniščih.
+
+(4) Če potek mejne črte ni dovolj razpoznaven, je treba bližino mejne črte na cestnih in drugih povezavah označiti s posebnimi opozorilnimi tablami, ki opozarjajo na neposredno bližino mejne črte in s prometno signalizacijo, ki prepoveduje promet vozil.
+
+(5) Na opozorilne table in drugo signalizacijo je prepovedano pritrjevati ali namestiti karkoli, prepovedana so tudi druga ravnanja, s katerimi bi se zakrivala vidnost teh tabel ali druge signalizacije.
+
+(6) Lastniki in upravitelji cest, poti in drugih zemljišč morajo brezplačno dovoliti prehod in omogočiti brezplačno postavitev opozorilnih tabel in druge signalizacije na način, ki ne posega v vrednost nepremičnine. Table iz tretjega odstavka tega člena in posebne opozorilne table iz četrtega odstavka tega člena postavi in vzdržuje ministrstvo, pristojno za notranje zadeve. Drugo prometno signalizacijo iz četrtega odstavka tega člena na javnih cestah postavi in vzdržuje upravljavec ceste.
+
+(7) Oznake iz četrtega odstavka tega člena se vpišejo v evidenco državne meje, ki jo vodi upravni organ, pristojen za geodetske zadeve. Vpis ali spremembo vpisa oznak iz četrtega odstavka tega člena izvede upravni organ, pristojen za geodetske zadeve, na predlog policije.
+
+(8) Minister, pristojen za notranje zadeve, v soglasju z ministrom, pristojnim za infrastrukturo, s pravilnikom podrobneje uredi izvajanje tretjega odstavka tega člena. Način izvajanja četrtega odstavka tega člena s pravilnikom določi minister, pristojen za notranje zadeve.
+
+### 11. člen
+
+**(zapiranje mejnih prometnih povezav)**
+
+(1) Mejne prometne povezave se zaprejo z zapornicami ali na druge načine, ki preprečujejo nedovoljen prehod državne meje.
+
+(2) Na zemljiščih, na katerih se mejne prometne povezave zaprejo na način iz prejšnjega odstavka, se zaradi dostopa, gradnje in postavitve ter za čas postavitve zapornic ali drugih načinov zapiranja ustanovi služnost v javno korist v skladu s predpisi, ki urejajo stvarnopravna razmerja, ter v skladu s predpisi, ki urejajo razlastitev in omejitev lastninske pravice.
+
+(3) Seznam mejnih prometnih povezav, ki se zaprejo, določi Vlada Republike Slovenije.
+
+(4) Izvedba del, s katerimi se mejne prometne povezave, ki jih opredeljuje seznam iz prejšnjega odstavka, zaprejo na način iz prvega odstavka tega člena, se šteje za dela v javno korist, za katera v skladu s predpisi, ki urejajo graditev objektov, ni potrebno gradbeno dovoljenje in se lahko začnejo brez pridobitve lokacijske informacije.
+
+### 12. člen
+
+**(vidnost mejne črte in prepoved dejavnosti ob mejni črti)**
+
+(1) Če mora biti mejna črta na podlagi mednarodne pogodbe prosta drevja, grmičevja in drugega rastlinja, ki zmanjšuje vidnost mejnih oznak ali poteka mejne črte, in mednarodna pogodba ne določa drugače, je za zagotovitev vidnosti pristojen upravni organ, pristojen za geodetske zadeve.
+
+(2) Minister, pristojen za notranje zadeve, lahko zaradi javnega reda z odredbo začasno prepove cestni oziroma železniški promet, lete letal in drugih naprav za letenje, plovbo, lov, ribolov ter gibanje ali zadrževanje oseb ob mejni črti. Prepoved traja, dokler trajajo razlogi za javni red.
+
+(3) Zaradi vidnosti mejne črte lahko policija z odločbo prepove sajenje in setev posameznih vrst drevja in drugih rastlin ob mejni črti. O pritožbi odloča ministrstvo, pristojno za notranje zadeve.
+
+(4) Prizadeti po drugem odstavku tega člena nimajo pravice do odškodnine zaradi izvajanja potrebnih ukrepov po tem členu.
+
+### 13. člen
+
+**(urejanje prostora ob mejni črti)**
+
+Kadar se s prostorskim aktom občine urejata območje strateške mejne točke iz 26.a člena tega zakona ali območje, ki sega 50 metrov od mejne črte, pri pripravi prostorskega akta v skladu z zakonom, ki ureja urejanje prostora, v delu, ki se nanaša na območje strateške mejne točke in na 50-metrski pas, kot udeleženec sodeluje tudi ministrstvo, pristojno za notranje zadeve.
+
+### 14. člen
+
+**(mejni incident)**
+
+(1) Kadar policija ugotovi ravnanje tujih državnih organov na ozemlju Republike Slovenije, ki ni dovoljeno z mednarodnimi pogodbami, predpisi Republike Slovenije ali predpisi Evropske unije, oziroma nedovoljeno poseganje v okolje in prostor ob mejni črti Republike Slovenije državnih organov ali drugih oseb tujih držav, o tem obvesti ministrstvo, pristojno za zunanje zadeve.
+
+(2) Minister, pristojen za notranje zadeve, s pravilnikom podrobneje uredi izvajanje tega člena.
+
+## IV. PRESTOP DRŽAVNE MEJE, MEJNI PREHOD IN STRATEŠKA MEJNA TOČKA
+
+### 15. člen
+
+**(prestop državne meje)**
+
+(1) Prestop državne meje je vsako človekovo gibanje čez državno mejo.
+
+(2) Oseba, ki državno mejo prestopi zaradi nepredvidljivih nujnih okoliščin izven mejnega prehoda ali izven določenega delovnega časa, mora, takoj ko je to mogoče, o tem obvestiti policijo.
+
+(3) Državljan Republike Slovenije mora za prestop državne meje Republike Slovenije imeti veljavno osebno izkaznico ali veljavno potno listino.
+
+(4) Ne glede na prejšnji odstavek mora državljanu Republike Slovenije, ki nima veljavne potne listine ali osebne izkaznice, njegovo državljanstvo in istovetnost pa nista vprašljiva, policija dovoliti vstop v državo.
+
+### 16. člen
+
+**(tranzitni promet)**
+
+(1) Tranzit pomeni vstop v Republiko Slovenijo iz prve države, prehod ozemlja Republike Slovenije in izstop v drugo državo.
+
+(2) Za osebe, ki državno mejo prečkajo v mednarodnem zračnem prometu, ne velja obveznost mejne kontrole:
+
+- če po pristanku na letališču brez odlašanja znova odletijo in v tem vmesnem času ne zapustijo zrakoplova;
+
+- če gre za prelet ozemlja Republike Slovenije brez vmesnega pristanka.
+
+(3) Prejšnji odstavek se smiselno uporablja tudi za mednarodni pomorski promet.
+
+### 17. člen
+
+**(določitev mejnih prehodov)**
+
+Mejne prehode, delovni čas in obseg uporabe mejnih prehodov določi Vlada Republike Slovenije z uredbo.
+
+### 18. člen
+
+**(določitev mejnih prehodov za določen krog oseb)**
+
+(1) Policija lahko ob izkazanem upravičenem interesu z odločbo ustanovi mejni prehod za poimensko določene osebe. Pri ustanovitvi mejnega prehoda za poimensko določene osebe, na katerem se opravlja carinski nadzor, je potrebno tudi soglasje upravnega organa, pristojnega za carinske zadeve, v katerem se opredelijo pogoji in stroški za opravljanje carinskega nadzora. O pritožbi zoper odločbo o ustanovitvi mejnega prehoda za poimensko določene osebe odloča ministrstvo, pristojno za notranje zadeve.
+
+(2) Mejni prehod se po tem členu lahko ustanovi za največ tri leta.
+
+(3) V odločbi se poleg kraja odprtja mejnega prehoda za določen krog oseb navedejo tudi poimenski seznam oseb, ki jim je dovoljen prehod, čas obratovanja mejnega prehoda, obseg uporabe mejnega prehoda in drugi pogoji.
+
+### 19. člen
+
+**(določitev začasnih mejnih prehodov)**
+
+(1) Policija lahko z odločbo ustanovi začasni mejni prehod, če je to potrebno za smotrno izvajanje kratkotrajnih čezmejnih dejavnosti, kot so:
+
+- vaje za primer naravnih in drugih nesreč;
+
+- športne prireditve;
+
+- ukrepi za preusmerjanje prometa;
+
+- kulturne, znanstvene, strokovne in turistične prireditve in dejavnosti;
+
+- izvajanje dejavnosti, ki izhajajo iz mednarodnih pogodb;
+
+- kmetijska, gozdarska dela in druga dela ter opravila, za katera obstaja širši javni interes.
+
+(2) Če se ustanovi začasni mejni prehod na civilnem letališču, vzletišču ali železniški progi, policija izda odločbo v soglasju z ministrstvom, pristojnim za infrastrukturo.
+
+(3) Pri ustanovitvi začasnega mejnega prehoda, na katerem se opravlja carinski nadzor, je potrebno tudi soglasje upravnega organa, pristojnega za carinske zadeve, v katerem se opredelijo pogoji in stroški za opravljanje carinskega nadzora.
+
+(4) Pobudnik ustanovitve začasnega mejnega prehoda za cestni in železniški promet mora o tem pravočasno obvestiti sosednje varnostne organe.
+
+(5) Začasni mejni prehod po tem členu se lahko ustanovi za največ šest mesecev v 12 mesecih, razen zaradi razlogov iz šeste alineje prvega odstavka tega člena, za katere se mejni prehod ustanovi, dokler trajajo ta dela oziroma za čas, dokler obstaja širši javni interes.
+
+(6) V odločbi se poleg kraja odprtja začasnega mejnega prehoda navedejo tudi čas obratovanja mejnega prehoda, obseg uporabe mejnega prehoda in drugi pogoji.
+
+(7) O pritožbi v zadevah iz prvega odstavka tega člena odloča ministrstvo, pristojno za notranje zadeve.
+
+### 20. člen
+
+**(stroški ustanovitve mejnega prehoda)**
+
+Stroške ustanovitve in obratovanja mejnega prehoda za določen krog oseb in začasnega mejnega prehoda krije pobudnik ustanovitve takega mejnega prehoda. Stroški se v tem primeru smejo obračunati pavšalno glede na predvidene stroške opravljanja mejne in carinske kontrole. Stroški se določijo v odločbi o določitvi takega mejnega prehoda.
+
+### 21. člen
+
+**(ureditev mejnega prehoda)**
+
+(1) Mejni prehodi morajo biti urejeni tako, da omogočajo smotrno, učinkovito in ekonomično delovanje služb na mejnem prehodu.
+
+(2) Upravljavci letališč, pristanišč in železniških postaj morajo z ustreznimi objekti in organizacijskimi ukrepi poskrbeti, da lahko policija opravlja mejno kontrolo.
+
+(3) Upravljavci iz prejšnjega odstavka morajo policiji zagotoviti ustrezne službene prostore in zadostno število parkirnih mest, brezplačno omogočiti dostop do svojih objektov in naprav, zagotoviti brezplačen prevoz pri opravljanju nalog, in takoj, ko je mogoče, brezplačno sporočiti vozne rede, rede letenja in vsa dejanska prometna gibanja.
+
+### 22. člen
+
+**(območje mejnega prehoda)**
+
+(1) Vsakemu mejnemu prehodu, razen mejnim prehodom, določenim v 18. členu tega zakona, pripada območje mejnega prehoda, ki zajema neposredno okolico z objekti, ki so potrebni za smotrno in varno odvijanje prometa. Območje, ki je potrebno za opravljanje mejne kontrole, je sestavni del območja mejnega prehoda. Mejnim prehodom iz 19. ter četrtega odstavka 36. člena tega zakona le izjemoma pripada območje mejnega prehoda.
+
+(2) V območje mejnega prehoda za železniški promet spada tudi železniški tir s pripadajočim funkcionalnim zemljiščem od mejne črte do mejnega prehoda.
+
+(3) Območje mejnega prehoda, na katerem se opravlja tudi carinski nadzor, z odločbo določi direktor pristojne policijske uprave v soglasju z upravnim organom, pristojnim za carinske zadeve. Območje mejnega prehoda na mejnih prehodih, na katerih se carinski nadzor ne opravlja, z odločbo določi direktor pristojne policijske uprave. Območje mejnega prehoda na civilnem letališču z odločbo določi direktor pristojne policijske uprave v soglasju z ministrstvom, pristojnim za civilno letalstvo. O pritožbi zoper odločbo o določitvi območja mejnega prehoda odloča ministrstvo, pristojno za notranje zadeve.
+
+(4) Na območju mejnega prehoda sta gibanje in zadrževanje dovoljena le osebam, ki nameravajo prestopiti državno mejo ali so jo že prestopile in se na mejnem prehodu zadržujejo zaradi mejne kontrole, ter drugim osebam, ki imajo upravičen razlog.
+
+(5) Na območju mejnega prehoda je prepovedano pobiranje kakršnih koli dajatev, prispevkov ali pristojbin, razen tistih, ki se pobirajo na podlagi zakona.
+
+(6) Minister, pristojen za notranje zadeve, s pravilnikom podrobneje uredi izvajanje prvega, drugega in četrtega odstavka tega člena.
+
+### 23. člen
+
+**(označitev mejnega prehoda in njegovega območja)**
+
+(1) Mejni prehod in njegovo območje se označita z opozorilnimi, obvestilnimi in dopolnilnimi tablami.
+
+(2) Postavitev opozorilnih, obvestilnih in dopolnilnih tabel ni potrebna na mejnih prehodih iz 18., 19. ter četrtega odstavka 36. člena tega zakona.
+
+(3) Obliko, vsebino in način postavitve opozorilnih, obvestilnih in dopolnilnih tabel v soglasju z ministrom, pristojnim za infrastrukturo, določi minister, pristojen za notranje zadeve, s pravilnikom.
+
+### 24. člen
+
+**(obveznost potnikov in drugih oseb)**
+
+Potniki in druge osebe, ki se nahajajo na mejnem prehodu oziroma na območju mejnega prehoda, morajo upoštevati navodila in odredbe uradnih oseb, ki opravljajo mejno kontrolo.
+
+### 25. člen
+
+**(gradnja in postavitev objektov na območju mejnega prehoda)**
+
+(1) Za gradnjo na območju mejnega prehoda, na katerem se opravlja carinski nadzor, je treba pridobiti soglasji direktorja pristojne policijske uprave in upravnega organa, pristojnega za carinske zadeve. Na ostalih mejnih prehodih je treba pridobiti le soglasje direktorja pristojne policijske uprave. O pritožbi zoper odločitev direktorja policijske uprave odloča ministrstvo, pristojno za notranje zadeve, o pritožbi zoper odločitev upravnega organa, pristojnega za carinske zadeve, pa ministrstvo, pristojno za finance.
+
+(2) Soglasje iz prvega odstavka tega člena se ne izda, če bi objekt, naprava ali dejavnost lahko ovirala opravljanje mejne kontrole, drugih varnostnih ukrepov na državni meji ali zmanjševala preglednost.
+
+(3) Soglasje velja do izdaje ustreznega gradbenega ali drugega dovoljenja, vendar največ dve leti.
+
+### 26. člen
+
+**(obveznost poveljnika plovila)**
+
+(1) Ob prihodu iz tujine mora poveljnik plovila zagotoviti, da člani posadke in potniki ne zapustijo plovila, preden ni opravljena mejna kontrola, če se opravlja na plovilu.
+
+(2) Poveljnik plovila, agent ladje ali oseba, ki jo poveljnik plovila pooblasti, mora najpozneje ob pristanku v pristanišču policiji naznaniti vse potnike, ki nimajo veljavnega dokumenta za prestop državne meje.
+
+(3) Poveljnik plovila mora storiti vse potrebno, da potniki, ki nimajo veljavnega dokumenta za prestop državne meje ali jim je bil vstop v Republiko Slovenijo zavrnjen, ne zapustijo plovila brez dovoljenja policije.
+
+(4) Določbe tega člena se smiselno uporabljajo tudi v mednarodnem zračnem prometu, določbi prvega in drugega odstavka tega člena pa se smiselno uporabljata tudi v avtobusnem in železniškem prometu.
+
+### 26.a člen
+
+**(strateške mejne točke in njihova območja)**
+
+(1) Vlada Republike Slovenije na predlog ministra, pristojnega za notranje zadeve, po predhodnem mnenju upravnega organa, pristojnega za carinske zadeve, z uredbo določi strateške mejne točke, ki so glede na lego in gospodarski položaj državnega pomena za Republiko Slovenijo.
+
+(2) Vsaki strateški mejni točki pripada območje, ki obsega nepremičnine in neposredno okolico z objekti, potrebnimi za smotrn in varen potek prometa ter za opravljanje varnostnega, carinskega in inšpekcijskega nadzora. K območju strateške mejne točke spadajo tudi infrastrukturni objekti in naprave, ki so potrebni za nemoteno delovanje strateške mejne točke. Območja strateških mejnih točk določi Vlada Republike Slovenije z uredbo, na predlog ministra, pristojnega za notranje zadeve, po predhodnem mnenju upravnega organa, pristojnega za carinske zadeve.
+
+### 26.b člen
+
+**(upravljanje nepremičnega premoženja)**
+
+(1) Ministrstvo, pristojno za notranje zadeve, upravlja nepremično premoženje Republike Slovenije na območjih mejnih prehodov in strateških mejnih točk ter na območjih nekdanjih mejnih prehodov na kopenski meji, ki nimajo statusa strateških mejnih točk, na katerih je bila na podlagi Sklepa Sveta z dne 6. decembra 2007 o polni uporabi določb schengenskega pravnega reda v Češki republiki, Republiki Estoniji, Republiki Latviji, Republiki Litvi, Republiki Madžarski, Republiki Malti, Republiki Poljski, Republiki Sloveniji in Slovaški republiki (UL L št. 323 z dne 8. 12. 2007, str. 34) oziroma [Sklepa Sveta (EU) 2022/2451](http://data.europa.eu/eli/dec/2022/2451/oj "to EUR-Lex") z dne 8. decembra 2022 o uporabi vseh določb schengenskega pravnega reda v Republiki Hrvaški (UL L št. 320 z dne 14. 12. 2022, str. 41) ukinjena kontrola oseb na notranjih kopenskih mejah.
+
+(2) Ne glede na prejšnji odstavek ministrstvo, pristojno za notranje zadeve, ne upravlja nepremičnega premoženja, ki ima status infrastrukture po drugih predpisih, nepremičnega premoženja, ki je nujno za opravljanje javnih nalog, povezanih s to infrastrukturo, nepremičnega premoženja v upravljanju ministrstva, pristojnega za sistem ravnanja s stvarnim premoženjem, ki ga za opravljanje zakonskih nalog in svoje delovanje potrebujejo in uporabljajo centralizirani uporabniki v skladu z zakonom, ki ureja ravnanje s stvarnim premoženjem države, in nepremičnega premoženja, katerega upravljavci so določeni z zakonom.
+
+(3) Z nepremičnim premoženjem Republike Slovenije na območjih mejnih prehodov in strateških mejnih točk ni dopustno razpolagati.
+
+### 26.c člen
+
+**(javna korist)**
+
+(1) Gradnja in postavitev objektov mejnega prehoda in objektov na območju strateške mejne točke, ki so potrebni za smotrn in varen potek prometa ter za opravljanje varnostnega, carinskega in inšpekcijskega nadzora, je v javnem interesu in v javno korist.
+
+(2) Lastninska pravica na nepremičninah se lahko odvzame ali omeji, kadar je to potrebno za gradnjo ali postavitev objektov iz prejšnjega odstavka. Za vprašanja glede razlastitve in omejitve lastninske pravice na nepremičninah se uporabljajo določbe zakona, ki ureja razlastitev in omejitev lastninske pravice.
+
+## V. MEJNA KONTROLA
+
+### 27. člen
+
+**(obveznost podreditve mejni kontroli)**
+
+(1) Oseba, ki namerava prestopiti ali je že prestopila mejno črto, mora izročiti veljavni dokument za prestop državne meje in se podrediti mejni kontroli ter ne sme zapustiti območja mejnega prehoda, dokler ni mejna kontrola opravljena, ali se kako drugače izmakniti mejni kontroli oziroma odstopiti od nameravanega prestopa državne meje.
+
+(2) Državljan tretje države, ki namerava prestopiti ali je že prestopil mejno črto, mora policistu, ki opravlja mejno kontrolo, pojasniti vse okoliščine, pomembne za prehod državne meje.
+
+(3) Oseba iz prvega in drugega odstavka tega člena se mora ravnati po navodilih in odredbah policista, ki opravlja mejno kontrolo.
+
+### 28. člen
+
+**(mejna kontrola)**
+
+(1) Mejna kontrola se opravi izključno ob nameravanem prestopu državne meje.
+
+(2) Policist, ki opravlja mejno kontrolo, sme:
+
+- zahtevati predložitev veljavnih dokumentov, ki so potrebni za prestop državne meje za osebe in predmete;
+
+- vnesti v dokumente za prestop državne meje podatke o okoliščinah vstopa ali izstopa iz države;
+
+- opraviti kontrolo potnikov, kontrolo prevoznega sredstva in kontrolo stvari, ki jih ima oseba s seboj;
+
+- zadržati osebo za nujno potreben čas, vendar največ za 48 ur.
+
+(3) Če policist na mejnem prehodu opravlja kontrolo v neposredni bližini pooblaščene uradne osebe upravnega organa, pristojnega za carinske zadeve, policist praviloma pred kontrolo po tretji alineji prejšnjega odstavka omogoči osebi, pri kateri opravlja mejno kontrolo, predložitev blaga pri carinskem organu.
+
+(4) Minister, pristojen za notranje zadeve, predpiše način opravljanja mejne kontrole na posameznih vrstah mejnih prehodov.
+
+### 29. člen
+
+**(kontrola potnikov, prevoznega sredstva in stvari)**
+
+(1) Kontrola potnikov je kontrola, ki zajema preverjanje dokumentov za prestop državne meje skupaj s preverjanjem biometričnih podatkov ter z ugotavljanjem identitete osebe, ki namerava prestopiti državno mejo, in drugih pogojev za prestop in preverjanje osebe z odvzemom prstnih odtisov ter preverjanje drugih telesnih identifikacijskih značilnosti. Policist sme zahtevati od osebe, naj pokaže, kaj ima pri sebi.
+
+(2) Če je glede na okoliščine mogoče pričakovati, da oseba poseduje prepovedane stvari ali predmete, ali zaradi ugotavljanja identitete, sme policist pregledati ali preiskati osebo. Preiskava po tem členu ne zajema preiskave telesnih votlin.
+
+(3) Kontrola prevoznega sredstva je kontrola, ki zajema zunanji in notranji pregled prevoznega sredstva in preiskavo prevoznega sredstva.
+
+(4) Če je glede na okoliščine mogoče pričakovati, da oseba v prevoznem sredstvu prevaža prepovedane predmete ali stvari, ki bi pripomogle k ugotavljanju njene identitete ali identitete drugih potnikov, ter zaradi preprečevanja nedovoljenega vstopa v Republiko Slovenijo sme policist preiskati prevozno sredstvo, kar pomeni podroben pregled vseh delov, vključno z razstavljanjem posameznih delov prevoznega sredstva.
+
+(5) Kontrola stvari zajema kontrolo predmetov in stvari, ki jih ima oseba, ki namerava prestopiti državno mejo, s seboj ali v prevoznem sredstvu.
+
+(6) Če je glede na okoliščine mogoče pričakovati, da so v predmetih ali stvareh, ki jih ima s seboj, ali v prevoznem sredstvu prepovedani predmeti ali stvari, ki bi pripomogle k ugotavljanju njene identitete ali identitete drugih potnikov, sme policist preiskati predmete ali stvari, kar pomeni podroben pregled vseh delov skupaj z razstavljanjem posameznih delov.
+
+(7) Pri opravljanju kontrole potnikov, kontrole prevoznega sredstva in kontrole stvari sme policist uporabljati ustrezne tehnične pripomočke.
+
+### 30. člen
+
+**(pravica prisotnosti)**
+
+(1) Lastnik prevoznega sredstva in lastnik stvari oziroma oseba, ki jih ima v posesti, ima pravico biti prisoten pri pregledu oziroma preiskavi.
+
+(2) Kadar je treba zaradi zavarovanja dokazov ali preprečitve nevarnosti nemudoma ukrepati, sme policist, ki opravlja mejno kontrolo, opraviti kontrolo prevoznega sredstva in kontrolo stvari, če lastnik prevoznega sredstva oziroma stvari ali oseba, ki jih ima v posesti, ni navzoča in je ni mogoče pravočasno obvestiti ali če je neznana.
+
+### 31. člen
+
+**(uporaba drugih predpisov)**
+
+(1) Če policist med pregledom ali preiskavo osebe, stvari ali prevoznega sredstva najde predmete, ki se smejo odvzeti po zakonu, ki ureja kazenski postopek, ali po zakonu, ki ureja prekrške, policist nadaljuje postopek po navedenih zakonih.
+
+(2) Če policist med pregledom ali preiskavo osebe, stvari ali prevoznega sredstva najde predmete, ki ne spadajo med predmete iz prejšnjega odstavka, pa v skladu s predpisi spadajo v področje nadzora drugega državnega organa, jih prepustijo pristojnemu organu v nadaljnji postopek.
+
+### 32. člen
+
+**(zadržanje osebe)**
+
+(1) Policist sme za nujno potreben čas, vendar največ za 48 ur, zadržati osebo, ki namerava prestopiti mejno črto ali jo je že prestopila, in obstajajo razlogi za sum, da namerava nedovoljeno prestopiti državno mejo ali jo je že prestopila, ter je zadržanje potrebno zaradi ugotovitve vseh potrebnih dejstev in okoliščin prehajanja državne meje ali zaradi zavrnitve tujca, ki ne izpolnjuje pogojev za vstop v državo in ga zaradi utemeljenih razlogov iz države ni mogoče napotiti takoj.
+
+(2) Zadržana oseba ima pravice pridržanih oseb, določene v zakonu, ki ureja naloge in pooblastila policije.
+
+(3) Če zadržanje iz prvega odstavka tega člena traja več kot 6 ur, mora policist v pisni obliki z odločbo takoj obvestiti osebo, ki je zadržana, o razlogih za zadržanje. Zadržana oseba ima, dokler traja zadržanje, pravico do pritožbe zoper odločbo o zadržanju. O pritožbi mora odločiti pristojno okrožno sodišče v 48 urah. Pritožba ne zadrži zadržanja.
+
+(4) Zadržanje osebe v skladu s tem členom se prekine oziroma konča, če se osebo zadrži na podlagi zakona, ki ureja kazenski postopek. Skupni čas zadržanja osebe v skladu s tem členom in na podlagi zakona, ki ureja kazenski postopek, ne sme presegati roka iz prvega odstavka tega člena.
+
+### 33. člen
+
+**(območje opravljanja mejne kontrole)**
+
+(1) Območje opravljanja mejne kontrole je del mejnega prehoda, kjer policist opravlja mejno kontrolo.
+
+(2) Mejno kontrolo opravi policist praviloma na območju mejnega prehoda. Če je oseba zalotena pri nezakonitem prestopu državne meje ali po njem, policist opravi mejno kontrolo na kraju, kjer je tako osebo zalotil.
+
+(3) Mejna kontrola se sme opraviti, če tako določa mednarodna pogodba, tudi na ozemlju druge države ali med vožnjo na vlaku, ki je ali bo prevozil državno mejo.
+
+### 34. člen
+
+**(delna opustitev mejne kontrole)**
+
+(1) Ob delni opustitvi mejne kontrole v skladu z Zakonikom o schengenskih mejah policist, odgovoren za organizacijo in vodenje mejne kontrole, določi prednostne cilje mejne kontrole, ki se morajo prilagajati konkretnim varnostnim razmeram.
+
+(2) Če to dopuščajo varnostne razmere, sme generalni direktor policije, če to ni v nasprotju z mednarodnimi obveznostmi Republike Slovenije ali javnim interesom, odrediti, da se sme mejna kontrola opravljati v obliki policijskih patrulj.
+
+## VI. IZRAVNALNI UKREPI
+
+### 35. člen
+
+**(izravnalni ukrepi)**
+
+(1) Zaradi ugotavljanja nedovoljenega vstopa, preverjanja zakonitosti bivanja na ozemlju Republike Slovenije ter preprečevanja in odkrivanja nedovoljenih migracij in čezmejne kriminalitete lahko policisti zoper osebo, za katero je glede na okoliščine mogoče sklepati, da je prestopila notranjo mejo, izvajajo izravnalne ukrepe, kot jih določa ta zakon.
+
+(2) Med izravnalne ukrepe spadajo naslednja policijska pooblastila: kontrola osebe, preverjanje osebe, pregled listin ter pregled prevoznega sredstva in stvari.
+
+(3) Med izvajanjem izravnalnih ukrepov sme policist zadržati osebo za nujno potreben čas, pod pogoji, določenimi v 32. členu tega zakona.
+
+(4) Pooblastila v okviru izravnalnih ukrepov izvajajo policisti tako, da naključno in nediskriminatorno preverjajo osebe, ki so prestopile notranjo mejo.
+
+### 35.a člen
+
+**(preverjanje osebe in pregled listin)**
+
+(1) Policist lahko zahteva od osebe, da mu na vpogled izroči listine, ki dokazujejo, da je oseba v Republiko Slovenijo vstopila na dovoljen način, ter dovoljenja in listine, ki dokazujejo zakonitost bivanja na ozemlju Republike Slovenije.
+
+(2) Policist sme zaradi iskanja znakov ponarejanja listin opraviti njihov pregled, vključno s pregledom z uporabo tehničnih sredstev in naprav.
+
+(3) Policist lahko osebne podatke osebe preverja v zbirkah podatkov, ki jih upravlja ministrstvo, pristojno za notranje zadeve, ter zbirkah podatkov do katerih imajo policisti dostop na podlagi predpisov Evropske unije ali mednarodnih pogodb.
+
+(4) V primeru, da identitete osebe ni mogoče ugotoviti na podlagi predloženih listin ali v primeru dvoma v identiteto osebe, sme policist v zbirkah podatkov iz prejšnjega odstavka preveriti biometrične podatke, kar je odvzem prstnih odtisov in odtisov dlani ter preveriti druge telesne identifikacijske značilnosti, če izhajajo iz zbirk podatkov.
+
+### 35.b člen
+
+**(kontrola osebe, pregled prevoznega sredstva in stvari)**
+
+(1) Policist sme opraviti kontrolo osebe, pregled prevoznega sredstva in stvari, ki jih ima oseba pri sebi ali pod svojim nadzorom, če je glede na okoliščine mogoče pričakovati:
+
+- da ima oseba pri sebi ali v prevoznem sredstvu predmete, ki jih je po zakonu treba zaseči;
+
+- da ima oseba pri sebi ponarejene, prenarejene, izmišljene ali tuje listine, ki jih uporabi kot svoje;
+
+- da se v prevoznem sredstvu skrivajo druge osebe.
+
+(2) Pred začetkom kontrole policist pozove osebo, da pokaže kaj ima pri sebi ali v prevoznem sredstvu, razen če bi to ogrozilo varnost ljudi in premoženja.
+
+(3) Kontrolo osebe mora opraviti oseba istega spola, razen če s postopkom ni mogoče odlašati.
+
+(4) Pri kontroli osebe policist z rokami pretipa oblačila osebe in pregleda vsebino predmetov, ki jih ima oseba pri sebi, pod svojim nadzorom ali v prevoznem sredstvu.
+
+(5) Pregled prevoznega sredstva obsega zunanji in notranji pregled prevoznega sredstva, vključno z njegovimi skritimi deli.
+
+(6) Pri pregledu prevoznega sredstva in stvari smejo policisti uporabljati tehnična sredstva in naprave in če je potrebno pregledati posamezne dele prevoznega sredstva.
+
+(7) Če je na podlagi pregleda s tehničnimi sredstvi ali zaradi drugih okoliščin mogoče pričakovati, da se v delih prevoznega sredstva, ki so zapečateni s carinsko oznako, skrivajo osebe ali se prevažajo predmeti, ki jih je po zakonu treba zaseči, sme policist odstraniti carinsko oznako in opraviti pregled prevoznega sredstva in stvari. Policist sme odstraniti carinsko oznako tudi, če ugotovi, da je ta predrugačena ali poškodovana. O odstranitvi carinske oznake se obvesti upravni organ, pristojen za carinske zadeve, ki zagotovi njeno ponovno namestitev. Do prihoda pooblaščene uradne osebe upravnega organa, pristojnega za carinske zadeve, opravlja carinski nadzor nad prevoznim sredstvom in stvarmi v skladu z veljavnimi carinskimi predpisi policist.
+
+(8) V primerih iz prejšnjega odstavka sme policist odstraniti tudi oznake za zagotovitev istovetnosti blaga pravnih in fizičnih oseb, o čemer izda potrdilo.
+
+(9) Če policist med izvajanjem kontrole po tem členu najde predmete ali stvari, ki se smejo odvzeti po zakonu, ki ureja kazenski postopek, ali po zakonu, ki ureja prekrške, policist nadaljuje postopek po navedenih zakonih. V primeru, da najdeni predmeti ne sodijo med navedene predmete ali stvari, v skladu s predpisi pa spadajo v področje nadzora drugega državnega organa, jih prepustijo pristojnemu organu v nadaljnji postopek.
+
+## VII. ZAČASNA PONOVNA UVEDBA NADZORA
+
+### 36. člen
+
+**(začasna ponovna uvedba nadzora na notranjih mejah)**
+
+(1) O začasni ponovni uvedbi ter podaljšanju nadzora na notranjih mejah v skladu z II. poglavjem III. naslova Zakonika o schengenskih mejah odloči vlada na predlog ministra, pristojnega za notranje zadeve.
+
+(2) Za obveščanje oziroma pošiljanje informacij drugim državam članicam Evropske unije, Komisiji in Evropskemu parlamentu v skladu z II. poglavjem III. naslova Zakonika o schengenskih mejah o ponovni uvedbi ali podaljšanju nadzora na notranjih mejah, posvetovanje, potrjevanje datuma, ko je nadzor odpravljen, in pošiljanje poročila, je pristojno ministrstvo, pristojno za zunanje zadeve, na predlog ministrstva, pristojnega za notranje zadeve.
+
+(3) Ministrstvo, pristojno za notranje zadeve, o ponovni uvedbi in ukinitvi nadzora na notranjih mejah obvešča javnost.
+
+(4) Ob začasni ponovni uvedbi nadzora na notranjih mejah v skladu z II. poglavjem III. naslova Zakonika o schengenskih mejah, minister, pristojen za notranje zadeve, določi mejne prehode, na katerih je dovoljeno prehajati državno mejo.
+
+### 36.a člen
+
+**(finančno nadomestilo občinam zaradi uvedbe začasnega ponovnega nadzora na notranjih mejah)**
+
+(1) Občinam ob državni meji se izplača finančno nadomestilo za upravičene stroške iz drugega odstavka tega člena zaradi začasne ponovne uvedbe nadzora na notranjih mejah v skladu s prejšnjim členom tega zakona, ki ima za posledico intenzivnejše izvajanje dejavnosti in ukrepov po tem zakonu in Zakoniku o schengenskih mejah ter povečano prisotnost policije na območju občin ob državni meji, kjer je tak nadzor uveden.
+
+(2) Med upravičene stroške, za katere se lahko pridobi finančno nadomestilo, spadajo stroški zaradi obnove in investicijskega vzdrževanja občinskih cest in javnih poti, ki so dodatno obremenjene zaradi začasne ponovne uvedbe nadzora na notranjih mejah, in drugi stroški, ki so posledica izvajanja dejavnosti in ukrepov iz prejšnjega odstavka.
+
+(3) Pri izračunu višine finančnega nadomestila se upoštevajo:
+
+- število nedovoljenih vstopov tujcev v državo na območju posamezne občine;
+
+- dolžina državne meje na območju posamezne občine;
+
+- število prebivalcev občine;
+
+- število mejnih prehodov na območju občine, kjer je začasno znova uveden nadzor na notranjih mejah.
+
+(4) Vlada Republike Slovenije podrobneje določi metodologijo za izračun najvišje višine finančnega nadomestila.
+
+(5) Na predlog ministrstva, pristojnega za notranje zadeve, Vlada Republike Slovenije do konca februarja tekočega koledarskega leta s sklepom ugotovi, katere občine so v tekočem koledarskem letu lahko upravičene do finančnega nadomestila zaradi začasnega ponovnega nadzora na notranjih mejah v preteklem letu, in glede na višino zagotovljenih sredstev v državnem proračunu odloči o višini finančnega nadomestila, ki lahko pripada posamezni občini.
+
+(6) Finančno nadomestilo se odmeri za obdobje v preteklem koledarskem letu, ko so bili izpolnjeni pogoji iz prvega odstavka tega člena.
+
+(7) Občine pošljejo ministrstvu, pristojnemu za notranje zadeve, zahtevek za finančno nadomestilo za stroške iz drugega odstavka tega člena, nastale v tekočem koledarskem letu, do 15. novembra tekočega koledarskega leta. Podlaga za izplačilo finančnega nadomestila, ki ga občinam izplača ministrstvo, pristojno za notranje zadeve, so predloženi računi in dokazila o plačilih, ki jih občine priložijo k zahtevku skupaj z utemeljitvijo namenske porabe in listinsko dokumentacijo. Stroški morajo biti izkazani in preverljivi, da gre za upravičene stroške občin iz drugega odstavka tega člena. Zahtevki, poslani po izteku roka iz prvega stavka tega odstavka, se ne upoštevajo.
+
+(8) Finančno nadomestilo občini izplača ministrstvo, pristojno za notranje zadeve, v višini izkazanih upravičenih stroškov iz prejšnjega odstavka, vendar največ v višini zneska, določenega na podlagi sklepa Vlade Republike Slovenije iz petega odstavka tega člena.
+
+(9) Sredstva za izplačilo finančnega nadomestila se zagotovijo v proračunu Republike Slovenije v okviru finančnega načrta ministrstva, pristojnega za notranje zadeve.
+
+## VIII. MEDNARODNO SODELOVANJE
+
+### 37. člen
+
+**(vstop ali tranzit tujih varnostnih organov)**
+
+(1) Vstop ali tranzit v Republiko Slovenijo se lahko dovoli pripadnikom tujih varnostnih organov v uniformi, z orožjem in vozili, ki so označeni z njihovimi znaki in emblemi.
+
+(2) Dovoljenje za vstop ali tranzit tujih varnostnih organov na ozemlje Republike Slovenije izda policija. V dovoljenju se lahko določijo posebni pogoji za vstop ali tranzit.
+
+(3) Ob pogoju vzajemnosti smejo pripadniki tujih varnostnih organov, ki so člani uradnih delegacij na službenih obiskih, vstopiti v Republiko Slovenijo in brez posebnega dovoljenja nositi uniformo in osebno orožje, če je to del njihove uniforme.
+
+(4) **(prenehal veljati)**
+
+### 38. člen
+
+**(sodelovanje s tujimi varnostnimi organi)**
+
+(1) Ne glede na prejšnji člen smejo vstopiti v Republiko Slovenijo in izvajati z mednarodnim sporazumom ukrepe za nadzor državne meje in druge naloge mednarodnega policijskega sodelovanja pooblaščene osebe drugih držav, prav tako pa smejo v skladu z mednarodnimi sporazumi tovrstne ukrepe in naloge izvajati tudi policisti Republike Slovenije v tujini.
+
+(2) Na ozemlju Republike Slovenije smejo pripadniki tujih varnostnih organov, ki opravljajo naloge in ukrepe iz prejšnjega odstavka, brez posebnega dovoljenja nositi uniformo, osebno orožje ali druga prisilna sredstva, če je to del njihove službene opreme, vendar smejo orožje in druga prisilna sredstva uporabiti le, če je to potrebno, da bi odvrnili od sebe ali koga drugega neposredni protipravni napad, s katerim je ogroženo njihovo življenje.
+
+### 39. člen
+
+**(uradnik za zvezo)**
+
+Uradnik za zvezo se v tujino napoti s sklepom Vlade Republike Slovenije, ki podrobneje določi njegove naloge in pristojnosti.
+
+## IX. ZBIRANJE OSEBNIH PODATKOV IN EVIDENCE
+
+### 40. člen
+
+**(hramba podatkov)**
+
+(1) Posnetki, ki so bili napravljeni pri izvajanju 8. člena tega zakona in ki ne bodo uporabljeni v kazenskem postopku ali postopku o prekrških, se izbrišejo takoj, najpozneje pa 30 dni po njihovem nastanku.
+
+(2) Posnetki, ki so bili napravljeni pri izvajanju 8. člena tega zakona na mejnih prehodih, se uničijo v enem letu od njihovega nastanka, razen če se ti podatki potrebujejo v kazenskem postopku ali postopku o prekršku.
+
+### 41. člen
+
+**(avtomatsko zbiranje podatkov)**
+
+Policija sme od oseb, pri katerih se opravlja mejna kontrola, neposredno zbirati osebne podatke, ki se hranijo v evidenci po tem zakonu, pri tem pa lahko za zbiranje osebnih podatkov uporablja tudi ustrezna tehnična sredstva, uporabi pa lahko tudi druge podatke iz že obstoječih evidenc.
+
+### 42. člen
+
+**(evidence)**
+
+(1) Policija za namene izvajanja mejne kontrole upravlja evidenco oseb, pri katerih se izvede postopek po 28. in 29. členu tega zakona.
+
+(2) Policija za namene izvajanja izravnalnih ukrepov, upravlja evidenco oseb, pri katerih se izvede postopek po 35.a in 35.b členu tega zakona, pri čemer ta evidenca ne vsebuje biometričnih podatkov, tudi v primeru, če so bili uporabljeni za ugotavljanje istovetnosti..
+
+### 43. člen
+
+**(osebni podatki v evidencah)**
+
+(1) V evidenci iz prvega odstavka prejšnjega člena se obdelujejo podatki oseb, ki se pridobijo ob preverjanju dokumentov za prestop državne meje, in sicer:
+
+1. osebno ime,
+
+2. rojstni podatki (dan, mesec in leto rojstva),
+
+3. spol,
+
+4. državljanstvo,
+
+5. vrsta in številka dokumenta, s katerim oseba prehaja državno mejo,
+
+6. datum in ura vstopa ali izstopa iz Republike Slovenije ter
+
+7. naziv vstopnega ali izstopnega mejnega prehoda ali kontrolne točke.
+
+(2) V evidenci iz drugega odstavka prejšnjega člena se obdelujejo podatki oseb, ki se pridobijo ob izvedbi izravnalnega ukrepa, in sicer:
+
+1. osebno ime,
+
+2. rojstni podatki (dan, mesec in leto rojstva),
+
+3. EMŠO, če mu je določena,
+
+4. identifikacijska številka posameznika v policijskih evidencah (CR),
+
+5. spol,
+
+6. naslov stalnega ali začasnega prebivališča,
+
+7. državljanstvo,
+
+8. podatki o listini, na podlagi katere je bila ugotovljena identiteta,
+
+9. podatki o kraju in času izvedbe izravnalnega ukrepa,
+
+10. izvedena pooblastila iz 35.a in 35.b člena tega zakona,
+
+11. vrsta zaseženih predmetov,
+
+12. drugi izvedeni ukrepi ter
+
+13. opis okoliščin izvedbe pooblastil iz 35.a in 35.b člena tega zakona.
+
+(3) Podatki, zbrani na podlagi prvega in drugega odstavka tega člena, se hranijo dve leti po vnosu v evidenco, nato pa se brišejo.
+
+### 43.a člen
+
+**(evidenca nadomestil, služnosti v javno korist in odškodnin, če služnost v javno korist ni ustanovljena)**
+
+(1) Za namene odločanja o nadomestilu, o ustanovitvi služnosti v javno korist in o določitvi odškodnine, če služnost v javno korist ni ustanovljena, ter za potrebe izplačevanja nadomestila, odškodnine za ustanovljeno služnost v javno korist in odškodnine, če služnost v javno korist ni ustanovljena, ministrstvo, pristojno za notranje zadeve, upravlja evidenco nadomestil, služnosti v javno korist in odškodnin, če služnost v javno korist ni ustanovljena, v kateri se obdelujejo naslednji podatki:
+
+1. parcelna številka in katastrska občina zemljišča, na katerem so postavljena, nameščena ali shranjena tehnična in druga sredstva iz prvega odstavka 8. člena tega zakona;
+
+2. boniteta zemljišča in vrsta dejanske rabe;
+
+3. osebno ime lastnika zemljišča, EMŠO, datum smrti, naslov stalnega in začasnega prebivališča v Republiki Sloveniji, prebivališče v tujini, naslov za vročanje in številka osebnega računa oziroma ime in priimek skrbnika za posebne primere;
+
+4. osebno ime osebe, ki uporablja zemljišče na podlagi druge stvarne pravice, vpisane v zemljiško knjigo, ali na podlagi najemne ali zakupne pogodbe, EMŠO, naslov stalnega in začasnega prebivališča v Republiki Sloveniji, prebivališče v tujini, naslov za vročanje, številka osebnega računa in podatek o vrsti in trajanju stvarne pravice oziroma trajanju najemne ali zakupne pravice;
+
+5. naziv in sedež firme, matična številka firme, davčna številka oziroma identifikacijska številka za davek na dodano vrednost in številka poslovnega računa, če je upravičenec do nadomestila ali lastnik zemljišča pravna oseba;
+
+6. obseg posega na zemljišču (vrsta, dolžina ali površina in obdobje uporabljenega tehničnega ali drugega sredstva in natančna lokacija posega);
+
+7. številka in datum odločbe o nadomestilu prve in druge stopnje ter organ, ki je izdal odločbo;
+
+8. številka in datum odločitve sodišča o nadomestilu;
+
+9. številka in datum sklenitve pogodbe o ustanovitvi služnosti v javno korist;
+
+10. številka in datum odločbe o ustanovitvi služnosti v javno korist prve in druge stopnje ter organ, ki je izdal odločbo;
+
+11. številka in datum odločitve sodišča o ustanovitvi služnosti v javno korist;
+
+12. številka in datum sklenitve sporazuma o odškodnini, če služnost v javno korist ni ustanovljena;
+
+13. datum in višina izplačila nadomestila;
+
+14. številka in datum odločitve sodišča o določitvi višine odškodnine za ustanovitev služnosti v javno korist;
+
+15. datum in višina izplačila odškodnine za ustanovitev služnosti v javno korist;
+
+16. številka in datum odločitve sodišča o določitvi višine odškodnine, če služnost v javno korist ni ustanovljena;
+
+17. datum in višina izplačila odškodnine na podlagi sporazuma oziroma odločitve sodišča, če služnost v javno korist ni ustanovljena.
+
+(2) Ministrstvo, pristojno za notranje zadeve, in pristojne upravne enote imajo pravico do vpogleda v podatke v evidenci, ki se upravlja na podlagi tega člena, vnosa podatkov, njihovega izpisa, prepisa ali kopiranja njihove vsebine v skladu s pristojnostmi, ki jih imajo v skladu s tem zakonom v postopku določanja nadomestila, ustanovitve služnosti v javno korist in sklenitve sporazuma o odškodnini, če služnost v javno korist ni ustanovljena.
+
+(3) Za ugotavljanje izpolnjevanja pogojev za določitev nadomestila, ustanovitev služnosti v javno korist in sklenitev sporazuma o odškodnini, če služnost v javno korist ni ustanovljena, v skladu s tem zakonom ministrstvo, pristojno za notranje zadeve, in pristojne upravne enote brezplačno pridobivajo, uporabljajo in obdelujejo podatke, vključno z osebnimi podatki lastnikov in posestnikov zemljišč iz četrtega odstavka 8. člena tega zakona, iz naslednjih predpisanih zbirk podatkov:
+
+1. registra prostorskih enot (prostorski okoliš, naselje, občina, upravna enota, katastrska občina, območje vodenja registra prostorskih enot, vrsta prostorske enote, identifikacijska številka, meja, površina in ime prostorske enote);
+
+2. centralnega registra prebivalstva (osebno ime, EMŠO, davčna številka, datum smrti, stalno in začasno prebivališče v Republiki Sloveniji, prebivališče v tujini, naslov za vročanje);
+
+3. zemljiškega katastra (identifikacijska oznaka parcele, meja parcele, površina, firma ali osebno ime ter sedež ali naslov lastnika in upravljavca s hišno številko, dejanska raba, boniteta zemljišča);
+
+4. zemljiške knjige (firma ali osebno ime ter sedež ali naslov lastnika in upravljavca s hišno številko, lastninska, zakupna in najemna pravica na posameznih parcelah);
+
+5. poslovnega registra Slovenije (matična številka, davčna številka oziroma identifikacijska številka za davek na dodano vrednost, firma ali ime in sedež);
+
+6. zbirk podatkov Sklada kmetijskih zemljišč in gozdov Republike Slovenije (podatki o zemljiščih, ki so v lasti Republike Slovenije, ter firma ali osebno ime in sedež ali naslov zakupnika teh zemljišč).
+
+(4) Prevzemanje podatkov iz prejšnjega odstavka v evidenco nadomestil, služnosti v javno korist in odškodnin, če služnost v javno korist ni ustanovljena, poteka s samodejnim povezovanjem z zbirkami podatkov iz prejšnjega odstavka z uporabo EMŠO ali matične številke poslovnega subjekta ali identifikacijskega znaka nepremičnine. Če se v zbirki podatkov iz prejšnjega odstavka spremenijo podatki, se te spremembe samodejno na podlagi povezanosti z zbirko podatkov prevzamejo tudi v evidenco po tem členu.
+
+### 43.b člen
+
+**(ravnanje s podatki)**
+
+(1) Podatki iz evidence iz prejšnjega člena se zbirajo neposredno od pravne ali fizične osebe, na katero se nanašajo, ali se pridobijo iz že obstoječih zbirk osebnih podatkov, če so ti potrebni za opravljanje nalog po tem zakonu.
+
+(2) Upravljavec evidence in upravičenci do vpogleda morajo podatke iz evidence, s katerimi so se seznanili, varovati v skladu z zakonom, ki ureja varstvo osebnih podatkov, in jih smejo uporabiti le pri opravljanju nalog iz svoje pristojnosti.
+
+(3) Podatki o nadomestilu se v evidenci hranijo pet let od pravnomočnosti odločbe o določitvi nadomestila, podatki o ustanovitvi služnosti v javno korist pa pet let po prenehanju služnosti v javno korist.
+
+(4) Po preteku rokov iz prejšnjega odstavka se podatki iz evidenc arhivirajo v skladu z zakonom, ki ureja arhivsko gradivo in arhive.
+
+## X. ORGANI
+
+### 44. člen
+
+**(pristojni organi)**
+
+(1) Pristojni organ Republike Slovenije za izvajanje Zakonika o schengenskih mejah je policija, razen določb iz drugega, tretjega in četrtega odstavka tega člena.
+
+(2) Pristojni organ Republike Slovenije za izvajanje 39. člena Zakonika o schengenskih mejah je ministrstvo, pristojno za notranje zadeve.
+
+(3) Pristojni organ Republike Slovenije za izvajanje b) točke 23. člena in 2.1.1 točke priloge VI Zakonika o schengenskih mejah je ministrstvo, pristojno za infrastrukturo.
+
+(4) Pristojni organ Republike Slovenije za izvajanje 4.3. točke VII. Priloge Zakonika o schengenskih mejah je ministrstvo, pristojno za zunanje zadeve.
+
+(5) Izvajanje tega zakona nadzira policija.
+
+## XI. KAZENSKE DOLOČBE
+
+### 45. člen
+
+(1) Z globo najmanj 400 eurov se za prekršek kaznuje posameznik, ki:
+
+1. ne pusti proste poti za nemoteno opravljanje nalog nadzora državne meje (tretji odstavek 8. člena);
+
+2. seje ali sadi nekatere vrste rastlin ali drevja v nasprotju z odločbo (tretji odstavek 12. člena);
+
+3. prestopi državno mejo izven mejnega prehoda ali izven delovnega časa (prvi odstavek 5. člena Zakonika o schengenskih mejah);
+
+4. prestopi državno mejo zaradi nepredvidljivih nujnih okoliščin, pa o tem takoj ne obvesti policije (drugi odstavek 15. člena);
+
+5. se giblje ali zadržuje na območju mejnega prehoda, pa za to nima upravičenega razloga (četrti odstavek 22. člena);
+
+6. na območju mejnega prehoda ne upošteva navodil in odredb policista, ki opravlja mejno kontrolo (24. člen);
+
+7. brez soglasja kakor koli spremeni namembnost objekta ali naprave, ki je na območju mejnega prehoda (prvi odstavek 25. člena);
+
+8. ne izpolni obveznosti poveljnika plovila (prvi, drugi in tretji odstavek 26. člena tega zakona);
+
+9. se izmakne mejni kontroli ali se poskuša izmakniti mejni kontroli (prvi odstavek 27. člena);
+
+10. samovoljno zapusti območje mejnega prehoda, dokler mejna kontrola ni opravljena (prvi odstavek 27. člena);
+
+11. se pri mejni kontroli izkaže s tujo ali neveljavno listino za prestop državne meje (prvi odstavek 27. člena);
+
+12. ne pojasni vseh okoliščin, pomembnih za prehod državne meje ali ne upošteva navodil in odredb policistov, ki opravljajo mejno kontrolo (drugi in tretji odstavek 27. člena).
+
+(2) Z globo od 200 do 500 eurov se za prekršek kaznuje državljan Republike Slovenije, če prestopi državno mejo Republike Slovenije brez veljavne osebne izkaznice ali veljavne potne listine (tretji odstavek 15. člena).
+
+### 46. člen
+
+Z globo najmanj 600 eurov se za prekršek kaznuje posameznik, ki:
+
+1. nadaljuje let brez dovoljenja (2.1.4. točka priloge VI Zakonika o schengenskih mejah);
+
+2. ne obvesti policije o prihodu ali odhodu letal (2.2.3. točka priloge VI Zakonika o schengenskih mejah);
+
+3. ne pošlje splošne izjave in podatkov o potnikih (2.3.1. točka priloge VI Zakonika o schengenskih mejah);
+
+4. policiji ali organu, pristojnemu za pomorstvo, ne izroči ali pošlje seznama posadke in morebitnih potnikov ali je ta seznam nepopoln (3.1.2 točka priloge VI Zakonika o schengenskih mejah);
+
+5. policiji ali organu, pristojnemu za pomorstvo, ne sporoči vseh sprememb v zvezi s sestavo posadke ali številom potnikov (3.1.4. točka priloge VI Zakonika o schengenskih mejah);
+
+6. policije ali organa, pristojnega za pomorstvo, ne obvesti, da so na krovu slepi potniki (3.1.4. točka priloge VI Zakonika o schengenskih mejah);
+
+7. policije ali organa, pristojnega za pomorstvo, pravočasno ne obvesti o odhodu ladje (3.1.5. točka priloge VI Zakonika o schengenskih mejah);
+
+8. policiji ali organu, pristojnemu za pomorstvo, ne pošlje načrta poti in programa križarjenja (3.2.1 točka priloge VI Zakonika o schengenskih mejah);
+
+9. policiji ali organu, pristojnemu za pomorstvo, ne izroči listine z vsemi tehničnimi lastnostmi plovila in imeni oseb na krovu (3.2.6 točka priloge VI Zakonika o schengenskih mejah);
+
+10. policiji ali organu, pristojnemu za pomorstvo, ne pošlje seznama oseb na krovu (3.2.9.(i) točka priloge VI Zakonika o schengenskih mejah);
+
+11. ne obvesti policije ali organa, pristojnega za pomorstvo, o vplutju rekreacijskega plovila v pristanišče, ki ni mejni prehod (3.2.5. točka priloge VI Zakonika o schengenskih mejah);
+
+12. ne dopusti postavitve, namestitve, uporabe, vzdrževanja ali shranjevanja tehničnih ali drugih sredstev ali se ne vzdrži ravnanj, ki ovirajo postavitev, namestitev, uporabo, vzdrževanje ali shranjevanje teh sredstev.
+
+### 46.a člen
+
+(1) Z globo najmanj 1.000 eurov se za prekršek kaznuje posameznik, ki z namenom nadzora državne meje ravna na način, ki je enak ali podoben oblikam opravljanja policijskih nalog pri izvajanju nadzora državne meje, ali ki ovira policijo pri izvajanju nadzora državne meje (drugi odstavek 4. člena).
+
+(2) Če je dejanje iz prejšnjega odstavka storjeno v skupini najmanj dveh oseb, se posameznik kaznuje z globo najmanj 1.500 eurov.
+
+### 47. člen
+
+Z globo 200 eurov se za prekršek kaznuje posameznik, ki:
+
+1. na opozorilne table in drugo signalizacijo, postavljeno po tem zakonu ali predpisih, izdanih na podlagi tega zakona pritrjuje kakršne koli druge table, napise, plakate in podobno (peti odstavek 10. člena);
+
+2. opravlja cestni oziroma železniški promet, letenje z letali ali drugimi napravami za letenje, pluje, izvaja lov, ribolov, se giblje ali zadržuje ob mejni črti, kadar je to z odredbo prepovedano (drugi odstavek 12. člena);
+
+3. na območju mejnega prehoda pobira dajatve v nasprotju s petim odstavkom 22. člena tega zakona.
+
+### 48. člen
+
+(1) Z globo najmanj 2.000 eurov se za prekršek kaznuje pravna oseba ali samostojni podjetnik posameznik ali posameznik, ki samostojno opravlja dejavnost, ki:
+
+1. ki spodbuja ravnanje posameznikov ali skupin k nadzoru državne meje na način, ki je enak ali podoben oblikam opravljanja policijskih nalog pri izvajanju nadzora državne meje, ali ki ovira policijo pri izvajanju nadzora državne meje, ali organizira tak nadzor ali ga kako drugače omogoča (tretji odstavek 4. člena);
+
+2. ne pusti proste poti za nemoteno opravljanje nalog nadzora državne meje (tretji odstavek 8. člena);
+
+3. ne poskrbi, da bi se mejna kontrola lahko izvajala skladno s tem zakonom (drugi odstavek 21. člena);
+
+4. ne zagotovi službenih prostorov, parkirnih mest, dostopa do objektov in prostorov, brezplačnega prevoza, voznih redov, ne obvešča ali ne obvešča pravočasno o dejanskih prometnih gibanjih (tretji odstavek 21. člena);
+
+5. brez soglasja kakor koli spremeni namembnost objekta ali naprave, ki je na območju mejnega prehoda (prvi odstavek 25. člena);
+
+6. pravna oseba, katere poveljnik plovila ali druga oseba ne izpolni obveznosti poveljnika plovila (prvi, drugi in tretji odstavek 26. člena).
+
+(2) Z globo najmanj 1.000 eurov se kaznuje odgovorna oseba pravne osebe ali samostojnega podjetnika posameznika ali posameznika, ki samostojno opravlja dejavnost, ki stori prekršek iz prejšnjega odstavka.
+
+### 49. člen
+
+(1) Z globo najmanj 2.000 eurov se za prekršek kaznuje pravna oseba ali samostojni podjetnik posameznik ali posameznik, ki samostojno opravlja dejavnost, ki:
+
+1. ne sprejme potrebnih ukrepov iz drugega odstavka 2.1.3. točke priloge VI Zakonika o schengenskih mejah;
+
+2. ravna v nasprotju s 3.1.2. točko priloge VI Zakonika o schengenskih mejah;
+
+3. ravna v nasprotju s 3.1.4. točko priloge VI Zakonika o schengenskih mejah;
+
+4. ravna v nasprotju s 3.1.5. točko priloge VI Zakonika o schengenskih mejah;
+
+5. ravna v nasprotju s 3.2.9.(i) točko priloge VI Zakonika o schengenskih mejah.
+
+(2) Z globo najmanj 1.000 eurov se kaznuje odgovorna oseba pravne osebe ali samostojnega podjetnika posameznika ali posameznika, ki samostojno opravlja dejavnost, ki stori prekršek iz prejšnjega odstavka.
+
+### 49.a člen
+
+**(višina globe v hitrem prekrškovnem postopku)**
+
+Za prekrške iz tega zakona se sme v hitrem postopku izreči globa tudi v znesku, ki je višji od najnižje predpisane globe, določene s tem zakonom.
+
+## XII. PREHODNE IN KONČNE DOLOČBE
+
+### 50. člen
+
+**(podzakonski predpisi)**
+
+(1) Vlada sprejme seznam cestnih povezav, po katerih se ne odvija čezmejni promet iz tretjega odstavka 11. člena tega zakona, v šestih mesecih po uveljavitvi tega zakona.
+
+(2) Minister, pristojen za notranje zadeve, v 12 mesecih po uveljavitvi tega zakona izda predpise iz osmega odstavka 10. člena, drugega odstavka 14. člena, šestega odstavka 22. člena, tretjega odstavka 23. člena, četrtega odstavka 28. člena ter četrtega odstavka 40. člena tega zakona.
+
+### 51. člen
+
+**(uporaba zakona na notranjih mejah)**
+
+(1) Do uveljavitve Sklepa Sveta EU, sprejetega na podlagi drugega odstavka 3. člena Akta o pogojih pristopa Češke republike, Republike Estonije, Republike Cipra, Republike Latvije, Republike Litve, Republike Madžarske, Republike Malte, Republike Poljske, Republike Slovenije in Slovaške republike in prilagoditvi pogodb, na katerih temelji Evropska unija (Uradni list RS - MP, št. 3/04), v Republiki Sloveniji, se na notranjih mejah uporabljajo določbe tega zakona in določbe Zakonika o schengenskih mejah, ki veljajo za zunanje meje.
+
+(2) Z dnem uveljavitve Sklepa Sveta EU, sprejetega na podlagi drugega odstavka 3. člena Akta o pogojih pristopa Češke republike, Republike Estonije, Republike Cipra, Republike Latvije, Republike Litve, Republike Madžarske, Republike Malte, Republike Poljske, Republike Slovenije in Slovaške republike in prilagoditvi pogodb, na katerih temelji Evropska unija (Uradni list RS - MP, št. 3/04), v Republiki Sloveniji, se na notranjih mejah prenehajo uporabljati določbe IV. in V. poglavja tega zakona, razen ob začasni ponovni uvedbi nadzora na notranjih mejah v skladu s 36. členom tega zakona.
+
+### 52. člen
+
+**(predpisi, ki prenehajo veljati)**
+
+(1) Z dnem uveljavitve tega zakona prenehajo veljati:
+
+- Zakon o nadzoru državne meje (Uradni list RS, [št. 87/02](http://data.europa.eu/eli/dec/2002/87/oj "to EUR-Lex"), [126/03](http://data.europa.eu/eli/dec/2003/126/oj "to EUR-Lex"), [69/05 - odločba](http://data.europa.eu/eli/dec/1969/05/oj "to EUR-Lex") US, 83/05 - popravni sklep k odločbi US in 69/06),
+
+- Uredba o izvajanju Uredbe Sveta (ES) o zahtevi, da pristojni organi držav članic sistematično žigosajo potne listine državljanov tretjih držav pri njihovem prehodu zunanjih meja držav članic ter o spremembi Konvencije o izvajanju schengenskega sporazuma in Skupnega priročnika v ta namen (Uradni list RS, št. 39/05),
+
+- Pravilnik o izvajanju zakona o nadzoru državne meje (Uradni list RS, št. 45/04 in 39/05),
+
+- Pravilnik o označevanju mejnih prehodov in njihovih območij (Uradni list RS, št. 45/04).
+
+(2) Predpisa iz tretje in četrte alineje prejšnjega odstavka se smiselno uporabljata do izdaje predpisov iz drugega odstavka 50. člena tega zakona, če nista v nasprotju s tem zakonom.
+
+### 53. člen
+
+**(uveljavitev zakona)**
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.

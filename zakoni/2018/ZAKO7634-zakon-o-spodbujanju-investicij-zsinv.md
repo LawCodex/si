@@ -1,0 +1,1151 @@
+---
+title: "Zakon o spodbujanju investicij (ZSInv)"
+identifier: "ZAKO7634"
+abbreviation: "ZSInv"
+type: act
+jurisdiction: si
+language: sl
+act_kind: "Zakon"
+date: 2018-02-15
+published: 2018-02-28
+in_force_from: 2018-03-15
+last_amended: 2024-04-09
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "NPB 4 (neuradno prečiščeno besedilo)"
+citation: "Uradni list RS, št. 13/18, 204/21, 29/22, 65/23 in 31/24"
+adopted_by: "Državni zbor Republike Slovenije"
+eva: "2017-2130-0012"
+epa: "2374-VII"
+sop: "2018-01-0542"
+source: "https://pisrs.si/pregledPredpisa?id=ZAKO7634"
+retrieved: 2026-10-12
+---
+
+# Zakon o spodbujanju investicij (ZSInv)
+
+*Opozorilo: Neuradno prečiščeno besedilo predpisa predstavlja zgolj informativni delovni pripomoček, glede katerega organ ne jamči odškodninsko ali kako drugače.*
+
+Neuradno prečiščeno besedilo Zakona o spodbujanju investicij obsega:
+
+- Zakon o spodbujanju investicij – ZSInv (Uradni list RS, št. 13/18 z dne 28. 2. 2018),
+
+- Zakon o spremembah in dopolnitvah Zakona o spodbujanju investicij – ZSInv-A (Uradni list RS, št. 204/21 z dne 28. 12. 2021),
+
+- Zakon o spremembah in dopolnitvah Zakona o spodbujanju investicij – ZSInv-B (Uradni list RS, št. 29/22 z dne 4. 3. 2022),
+
+- Zakon o spremembah in dopolnitvah Zakona o spodbujanju investicij – ZSInv-C (Uradni list RS, št. 65/23 z dne 17. 6. 2023),
+
+- Zakon o spremembah in dopolnitvah Zakona o spodbujanju investicij – ZSInv-D (Uradni list RS, št. 31/24 z dne 9. 4. 2024).
+
+**ZAKON**
+
+**O SPODBUJANJU INVESTICIJ (ZSInv)**
+
+*(neuradno prečiščeno besedilo št. 4)*
+
+## I. SPLOŠNE DOLOČBE
+
+#### 1. člen
+
+**(vsebina zakona)**
+
+Ta zakon določa oblike investicijskih spodbud, pogoje, merila in postopek dodeljevanja investicijskih spodbud, aktivnosti za spodbujanje investicij in internacionalizacije gospodarskih družb ter postopek priglasitve in pregleda neposrednih tujih naložb in pristojne organe za izvajanje [Uredbe (EU) 2019/452](http://data.europa.eu/eli/reg/2019/452/oj "to EUR-Lex") Evropskega parlamenta in Sveta z dne 19. marca 2019 o vzpostavitvi okvira za pregled neposrednih tujih naložb v Uniji (UL L št. 79I z dne 21. 3. 2019, str. 1), zadnjič spremenjene z [Delegirano uredbo Komisije (EU) 2021/2126](http://data.europa.eu/eli/reg_del/2021/2126/oj "to EUR-Lex") z dne 29. septembra 2021 o spremembi [Priloge k Uredbi (EU) 2019/452](http://data.europa.eu/eli/reg/2019/452/anx_1/oj "to EUR-Lex") Evropskega parlamenta in Sveta o vzpostavitvi okvira za pregled neposrednih tujih naložb v Uniji (UL L št. 432 z dne 3. 12. 2021, str. 1), (v nadaljnjem besedilu: [Uredba 2019/452/EU](http://data.europa.eu/eli/reg/2019/452/oj "to EUR-Lex")).
+
+#### 2. člen
+
+**(pomen izrazov)**
+
+Posamezni izrazi, uporabljeni v tem zakonu, imajo naslednji pomen:
+
+- investicija je naložba v opredmetena in neopredmetena sredstva, ki se nanaša na vzpostavitev nove gospodarske družbe, širitev zmogljivosti obstoječe gospodarske družbe, diverzifikacijo proizvodnje gospodarske družbe v nove proizvode, ki niso bili predhodno proizvedeni v gospodarski družbi, ali bistvene spremembe v celotnem proizvodnem procesu gospodarske družbe na območju Republike Slovenije ali v upravičene stroške, za katere je dopustno dodeljevanje državnih pomoči za raziskave in razvoj ter inovacije po tem zakonu ter v skladu z [Uredbo Komisije (EU) št. 651/2014](http://data.europa.eu/eli/reg/2014/651/oj "to EUR-Lex") z dne 17. junija 2014 o razglasitvi nekaterih vrst pomoči za združljive z notranjim trgom pri uporabi členov 107 in 108 Pogodbe (UL L št. 187 z dne 26. 6. 2014, str. 1), zadnjič spremenjeno z [Uredbo Komisije (EU) 2023/1315](http://data.europa.eu/eli/reg/2023/1315/oj "to EUR-Lex") z dne 23. junija 2023 o spremembi [Uredbe (EU) št. 651/2014](http://data.europa.eu/eli/reg/2014/651/oj "to EUR-Lex") o razglasitvi nekaterih vrst pomoči za združljive z notranjim trgom pri uporabi členov 107 in 108 Pogodbe ter [Uredbe (EU) 2022/2473](http://data.europa.eu/eli/reg/2022/2473/oj "to EUR-Lex") o razglasitvi nekaterih vrst pomoči za podjetja, ki se ukvarjajo s proizvodnjo, predelavo in trženjem ribiških proizvodov in proizvodov iz akvakulture, za združljive z notranjim trgom z uporabo členov 107 in 108 Pogodbe (UL L št. 167 z dne 30. 6. 2023, str. 1), (v nadaljnjem besedilu: [Uredba 651/2014/EU](http://data.europa.eu/eli/reg/2014/651/oj "to EUR-Lex")),
+
+- investicije v raziskave in razvoj ter inovacije so investicije v raziskovalne in razvojne projekte, inovacije za male ali srednje velike gospodarske družbe, gradnje ali posodobitev raziskovalnih infrastruktur, organizacijske ali procesne inovacije ali v inovacijske grozde, kot so opredeljeni v [Uredbi 651/2014/EU](http://data.europa.eu/eli/reg/2014/651/oj "to EUR-Lex"),
+
+- storitvene dejavnosti so storitve, ki se tržijo na območju Republike Slovenije in še najmanj v dveh drugih državah,
+
+- investicija za potrebe nove gospodarske dejavnosti je naložba v opredmetena in neopredmetena sredstva, ki zadevajo vzpostavitev nove gospodarske družbe ali diverzifikacijo dejavnosti gospodarske družbe, pod pogojem, da nova dejavnost ni enaka ali podobna dejavnosti, ki jo je gospodarska družba že opravljala,
+
+- enaka ali podobna dejavnost je dejavnost, zajeta v istem razredu (štirimestni številčni šifri) statistične klasifikacije gospodarskih dejavnosti NACE Revizija 2, kakor je določena v [Uredbi (ES) št. 1893/2006](http://data.europa.eu/eli/reg/2006/1893/oj "to EUR-Lex") Evropskega parlamenta in Sveta z dne 20. decembra 2006 o uvedbi statistične klasifikacije gospodarskih dejavnosti NACE Revizija 2 in o spremembi [Uredbe Sveta (EGS) št. 3037/90](http://data.europa.eu/eli/reg/1990/3037/oj "to EUR-Lex") kakor tudi nekaterih uredb ES o posebnih statističnih področjih (UL L 393, z dne 30. 12. 2006, str. 1),
+
+- investitor ali investitorka (v nadaljnjem besedilu: investitor) je domača ali tuja pravna oseba, ki investira v gospodarsko družbo na območju Republike Slovenije,
+
+- prejemnik ali prejemnica investicijske spodbude (v nadaljnjem besedilu: prejemnik spodbude) je gospodarska družba, ki je v trenutku izplačila spodbude registrirana v Republiki Sloveniji, kjer se bo izvedla investicija,
+
+- nosilec ali nosilka strateške investicije (v nadaljnjem besedilu: nosilec strateške investicije) je gospodarska družba, registrirana v Republiki Sloveniji, kjer se bo izvedla strateška investicija,
+
+- zaključek investicije pomeni, da so dela končana in je investicija izvedena v višini, obsegu in času, kot je določeno v pogodbi o dodelitvi spodbude,
+
+- premestitev je prenos enake ali podobne dejavnosti ali njenega dela iz gospodarske družbe v eni pogodbenici Sporazuma EGP (začetna gospodarska družba) v gospodarsko družbo v drugi pogodbenici Sporazuma EGP, v kateri se izvede investicija, ki prejme spodbudo. Do prenosa pride, če izdelek ali storitev v začetni gospodarski družbi in gospodarski družbi, ki prejme spodbudo, vsaj delno služi istemu namenu ali izpolnjuje zahteve ali potrebe iste vrste strank, pri tem pa pride tudi do izgube delovnih mest pri enaki ali podobni dejavnosti v eni od začetnih gospodarskih družb investitorja v EGP,
+
+- tretja država je država, ki ni država članica EU,
+
+- neposredna tuja naložba je naložba, ki jo izvede tuji vlagatelj in katere namen je vzpostavitev ali ohranjanje trajnih in posrednih ali neposrednih povezav med tujim vlagateljem in gospodarsko družbo s sedežem v Republiki Sloveniji, s prvo in vsako nadaljnjo neposredno ali posredno pridobitvijo najmanj 10 % udeležbe v kapitalu ali v glasovalnih pravicah,
+
+- tuji vlagatelj je državljan tretje države ali pravna oseba s sedežem v tretji državi, ki namerava izvesti neposredno tujo naložbo v Republiki Sloveniji ali pa je to že izvedel; tuji vlagatelj je tudi državljan tretje države ali pravna oseba s sedežem v tretji državi, ki ima posredno ali neposredno vsaj 10 % udeležbe v kapitalu ali v glasovalnih pravicah v pravni osebi s sedežem v državi članici EU in namerava izvesti neposredno tujo naložbo v Republiki Sloveniji ali pa je to že izvedel,
+
+- končni vlagatelj je državljan tretje države ali pravna oseba s sedežem v tretji državi, ki ima v tujem vlagatelju posredno ali neposredno vsaj 10 % udeležbe v kapitalu ali v glasovalnih pravicah,
+
+– gospodarska družba je pravna oseba, organizirana v eni od oblik, kot jih določa zakon, ki ureja gospodarske družbe, vključno s podružnico tujega podjetja,
+
+– podružnica tujega podjetja je podružnica pravne osebe, ki opravlja pridobitno dejavnost in ima sedež zunaj Republike Slovenije v državi članici EU,
+
+– začetek izvajanja investicije pomeni začetek gradbenih del v okviru investicije ali prvo pravno zavezujočo zavezo za naročilo opreme ali vsako drugo zavezo, zaradi katere investicije ni več mogoče preklicati, če se ta začne pred začetkom gradbenih del. Nakup zemljišča in pripravljalna dela (na primer pridobivanje dovoljenj, opravljanje predhodnih študij izvedljivosti) se ne štejejo za začetek izvajanja investicije.
+
+## II. OBLIKE, POGOJI IN MERILA DODELJEVANJA INVESTICIJSKIH SPODBUD
+
+#### 3. člen
+
+**(oblike investicijskih spodbud)**
+
+(1) Investicijske spodbude (v nadaljnjem besedilu: spodbude) so lahko v obliki:
+
+- subvencije,
+
+- kredita, garancije in subvencionirane obrestne mere ter
+
+- nakupa nepremičnine v lasti samoupravne lokalne skupnosti po ceni, ki je nižja od tržne.
+
+(2) Spodbude iz prejšnjega odstavka imajo značaj regionalnih državnih pomoči ali pomoči za naložbe za mala in srednja podjetja ali državnih pomoči za raziskave in razvoj ter inovacije, ki se dodeljujejo v skladu s tem zakonom na podlagi [Uredbe 651/2014/EU](http://data.europa.eu/eli/reg/2014/651/oj "to EUR-Lex") in, v primeru regionalnih pomoči, uredbo, ki ureja regionalno karto.
+
+(3) Sredstva za subvencije se zagotovijo v proračunu Republike Slovenije ter iz drugih domačih in mednarodnih virov.
+
+#### 4. člen
+
+**(pogoji za dodelitev spodbud)**
+
+(1) Spodbude se dodelijo, če investicija izpolnjuje naslednje pogoje:
+
+1. da je vrednost investicije:
+
+- od 1.000.000 do 12.000.000 eurov v predelovalni dejavnosti, pri čemer investicija v stroje in opremo pomeni najmanj 50 % vrednosti investicije,
+
+- od 500.000 do 3.000.000 eurov v storitveni dejavnosti, pri čemer investicija v stroje in opremo pomeni najmanj 50 % vrednosti investicije,
+
+- od 500.000 do 2.000.000 eurov v razvojno-raziskovalni dejavnosti, pri čemer investicija v stroje in opremo pomeni najmanj 50 % vrednosti investicije,
+
+2. da prejemnik spodbude ohrani najmanj povprečno število zaposlenih iz obdobja zadnjih 12 mesecev pred mesecem oddaje vloge v obdobju ohranjanja investicije,
+
+3. da je dodana vrednost na zaposlenega v prejemniku spodbude dve leti po zaključku investicije višja od dodane vrednosti na zaposlenega v prejemniku spodbude v poslovnem letu pred letom oddaje vloge,
+
+4. da je nameravana gradnja objektov za izvedbo investicije določena na lokaciji, ki je skladna s prostorskim aktom, kar je razvidno iz priloženega mnenja samoupravne lokalne skupnosti,
+
+5. da investicija dosega minimalni prag števila točk na osnovi ocenjevanja investicije po merilih iz prvega odstavka 5. člena tega zakona in ima pozitiven vpliv na regijo, v kateri bo investicija izvedena, iz ekonomskega, okoljskega, prostorskega in socialnega vidika,
+
+6. da je za investicijo izkazana ekonomska, finančna, tehnična, prostorska in tehnološka izvedljivost ter upravičenost investicije,
+
+7. da se investicija ne začne izvajati pred oddajo vloge za dodelitev spodbude in
+
+8. da bo investicija zaključena najkasneje v treh letih od začetka izvajanja investicije, z možnostjo podaljšanja, če investitor izkaže obstoj utemeljenih razlogov (na primer vojna, naravna nesreča, epidemija), zaradi katerih investicije ni mogel dokončati v tem roku.
+
+(2) Šteje se, da investicija bistveno prispeva k razvoju slovenskega gospodarstva, če poleg pogojev iz 4., 5., 6., 7. in 8. točke prejšnjega odstavka izpolnjuje tudi naslednje pogoje:
+
+1. da je najnižja vrednost investicije:
+
+- 12.000.000 eurov v predelovalni dejavnosti, pri čemer investicija v stroje in opremo pomeni najmanj 50 % vrednosti investicije,
+
+- 3.000.000 eurov v storitveni dejavnosti, pri čemer investicija v stroje in opremo pomeni najmanj 50 % vrednosti investicije,
+
+- 2.000.000 eurov v razvojno-raziskovalni dejavnosti ter pri kateri investicija v stroje in opremo pomeni najmanj 50 % vrednosti investicije,
+
+2. da najpozneje v treh letih po zaključku investicije v prejemniku spodbude ustvari in zapolni najmanj naslednje število novih delovnih mest:
+
+- 25 v predelovalni dejavnosti, od tega najmanj 5 visokokvalificiranih,
+
+- 20 v storitveni dejavnosti, od tega najmanj 5 visokokvalificiranih,
+
+- 10 v razvojno-raziskovalni dejavnosti, od tega najmanj 5 visokokvalificiranih, in
+
+3. da je dodana vrednost na zaposlenega v prejemniku spodbude dve leti po zaključku investicije višja od povprečne dodane vrednosti na zaposlenega v dejavnosti v Republiki Sloveniji, v katero se prejemnik spodbude uvršča, in višja od dodane vrednosti na zaposlenega v prejemniku spodbude v poslovnem letu pred letom oddaje vloge.
+
+(3) Spodbude se na območju »c« uredbe, ki ureja regionalno karto velikim gospodarskim družbam lahko dodelijo le za investicijo za potrebe nove gospodarske dejavnosti. Pri opredelitvi velikosti gospodarskih družb se upoštevajo opredelitve, kot jih določa [Priloga I k Uredbi 651/2014/EU](http://data.europa.eu/eli/reg/2014/651/anx_1/oj "to EUR-Lex").
+
+(4) Spodbude se ne dodelijo za investicije v naslednje dejavnosti:
+
+1. primarni sektor kmetijske proizvodnje,
+
+2. sektor ribištva in akvakulture, kakor jih določa [Uredba Evropskega parlamenta in Sveta (EU) št. 1379/2013](http://data.europa.eu/eli/reg/2013/1379/oj "to EUR-Lex") z dne 11. decembra 2013 o skupni ureditvi trgov za ribiške proizvode in proizvode iz ribogojstva in o spremembi [uredb Sveta (ES) št. 1184/2006](http://data.europa.eu/eli/reg/2006/1184/oj "to EUR-Lex") in [(ES) št. 1224/2009](http://data.europa.eu/eli/reg/2009/1224/oj "to EUR-Lex") ter razveljavitvi [Uredbe Sveta (ES) št. 104/2000](http://data.europa.eu/eli/reg/2000/104/oj "to EUR-Lex") (UL L št. 354 z dne 28. 12. 2013, str. 1),
+
+3. predelava in trženje kmetijskih proizvodov, kadar je znesek spodbude določen na podlagi cene ali količine takih proizvodov, ki so kupljeni od primarnih proizvajalcev ali jih je dala na trg zadevna gospodarska družba, ali kadar je spodbuda pogojena s tem, da je delno ali v celoti prenesena na primarne proizvajalce,
+
+4. premogovništvo,
+
+5. jeklarstvo,
+
+6. prometni sektor in povezana infrastruktura,
+
+7. sektor lignita,
+
+8. sektor širokopasovnih povezav,
+
+9. proizvodnja, shranjevanje, prenos in distribucija energije ter energetska infrastruktura,
+
+10. proizvodnja orožja in streliva,
+
+11. gradbeništvo,
+
+12. izobraževanje in
+
+13. zdravstveno in socialno varstvo.
+
+(5) Spodbude niso dovoljene:
+
+- za dejavnosti, povezane z izvozom, ko je spodbuda neposredno vezana na izvožene količine, vzpostavitev in delovanje distribucijske mreže ali na druge tekoče izdatke, povezane z izvozno dejavnostjo,
+
+- za investitorja ali prejemnika spodbude, ki je v postopku vračanja neupravičeno prejete državne pomoči, na osnovi sklepa Evropske komisije, ki je prejeto državno pomoč iste države članice razglasila za nezakonito in nezdružljivo s skupnim trgom Skupnosti,
+
+- v primerih, ko bi se uporabi domačega blaga dajala prednost pred uporabo uvoženega blaga in
+
+- za investitorja ali gospodarsko družbo kot prejemnika spodbude, ki je izvedla premestitev v gospodarsko družbo, v kateri naj bi se izvajala investicija, za katero se zaprosi za spodbudo, v dveh letih pred vlogo za dodelitev spodbude ali ki bo izvedla premestitev pred potekom dveh let po zaključku investicije, za katero se zaprosi za spodbudo.
+
+(6) Spodbude se ne dodelijo, če:
+
+1. je investicija za isti namen, ki vsebuje sestavine državnih pomoči, že sofinancirana iz drugih sredstev državnega, lokalnega ali evropskega proračuna in če skupna višina prejetih sredstev iz tega naslova presega najvišjo dovoljeno višino sofinanciranja, ki jo določajo pravila o državni pomoči,
+
+2. je investitor ali prejemnik spodbude naveden na seznamu podjetij, s katerimi državne institucije ne smejo poslovati v skladu z zakonom, ki ureja preprečevanje korupcije,
+
+3. ima investitor ali prejemnik spodbude neporavnane zapadle finančne obveznosti iz naslova obveznih dajatev in drugih denarnih nedavčnih obveznosti v Republiki Sloveniji v skladu z zakonom, ki ureja finančno upravo, ki jih pobira davčni organ, če vrednost neplačanih zapadlih obveznosti na dan oddaje vloge pa vse do sklenitve pogodbe o dodelitvi subvencije znaša 50 eurov ali več. Šteje se tudi, da investitor ali prejemnik spodbude ne izpolnjuje obveznosti iz prejšnjega stavka, če na dan oddaje vloge ni imel predloženih vseh obračunov davčnih odtegljajev za plače za obdobje zadnjega leta do datuma oddaje vloge oziroma do sklenitve pogodbe o dodelitvi subvencije,
+
+4. je investitor ali prejemnik spodbude gospodarska družba v težavah po 18. točki 2. člena [Uredbe 651/2014/EU](http://data.europa.eu/eli/reg/2014/651/oj "to EUR-Lex"); navedeno ne velja za gospodarske družbe, ki 31. decembra 2019 niso bile v težavah, vendar so v obdobju od 1. januarja 2020 do 31. decembra 2021 postale gospodarske družbe v težavah.
+
+(7) Za dodelitev spodbude iz sredstev v okviru mehanizma za okrevanje in odpornost mora investitor ali prejemnik spodbude izpolnjevati tudi vse naslednje pogoje:
+
+- da je za investicijo izkazana določena raven energetske učinkovitosti proizvodnje,
+
+- da ima investitor ali prejemnik spodbude izkazano okoljsko odgovorno ravnanje,
+
+- da se investicija začne izvajati v roku šestih mesecev po sklenitvi pogodbe o dodelitvi subvencije,
+
+- da je za investicijo v širitev zmogljivosti obstoječe gospodarske družbe ali v bistveno spremembo v celotnem proizvodnem procesu gospodarske družbe izkazana snovna učinkovitost proizvodnje,
+
+- da investicija doseže najmanj 40 % ocenjenih točk iz naslova meril, ki prispevajo k zelenemu prehodu in so navedene v 5. členu tega zakona,
+
+- da bo investicija izvedena v skladu z načelom, da se ne škoduje bistveno in ne škoduje ciljem, določenim v 17. členu [Uredbe (EU) 2020/852](http://data.europa.eu/eli/reg/2020/852/oj "to EUR-Lex") Evropskega parlamenta in Sveta z dne 18. junija 2020 o vzpostavitvi okvira za spodbujanje trajnostnih naložb ter spremembi [Uredbe (EU) 2019/2088](http://data.europa.eu/eli/reg/2019/2088/oj "to EUR-Lex") (UL 198 z dne 22. 6. 2020, str. 13).
+
+(8) Vlada Republike Slovenije (v nadaljnjem besedilu: vlada) z uredbo podrobneje predpiše pogoje in določi način ugotavljanja izpolnjevanja pogojev za dodelitev spodbude.
+
+#### 4.a člen
+
+**(pogoji za dodelitev spodbud za investicije v raziskave in razvoj ter inovacije)**
+
+(1) Ne glede na 4. člen tega zakona se spodbude za investicije v raziskave in razvoj ter inovacije dodelijo, če investicija izpolnjuje naslednje pogoje:
+
+1. da je vrednost investicije nad 500.000 eurov v predelovalni, storitveni ali razvojno-raziskovalni dejavnosti,
+
+2. da prejemnik spodbude v obdobju izvajanja investicije ohrani najmanj povprečno število zaposlenih iz obdobja zadnjih 12 mesecev pred mesecem oddaje vloge,
+
+3. da investicija dosega minimalni prag števila točk na podlagi ocenjevanja investicije po merilih iz prvega odstavka 5. člena tega zakona,
+
+4. da je za investicijo izkazana ekonomska, finančna, tehnična, prostorska in tehnološka izvedljivost ter upravičenost investicije,
+
+5. da se investicija ne začne izvajati pred oddajo vloge za dodelitev spodbude in
+
+6. da bo investicija zaključena najkasneje v treh letih od začetka izvajanja investicije, z možnostjo podaljšanja, če investitor izkaže obstoj utemeljenih razlogov (na primer vojna, naravna nesreča, epidemija), zaradi katerih investicije ni mogel dokončati v tem roku.
+
+(2) Šteje se, da investicija v raziskave in razvoj ter inovacije bistveno prispeva k razvoju slovenskega gospodarstva, če poleg pogojev iz 3., 4., 5. in 6. točke prejšnjega odstavka izpolnjuje tudi naslednje pogoje:
+
+1. da je najnižja vrednost investicije nad 2.000.000 eurov v predelovalni, storitveni dejavnosti ali razvojno-raziskovalni dejavnosti,
+
+2. da gre za investicijo, pri kateri sodelujejo najmanj trije investitorji, ki so velike gospodarske družbe, in vsaj ena mala ali srednja gospodarska družba ter organizacija za raziskovanje in širjenje znanja ali inovacijski grozd, ustanovljen skladno z namenom iz [Uredbe 651/2014/EU](http://data.europa.eu/eli/reg/2014/651/oj "to EUR-Lex"),
+
+3. da je dodana vrednost na zaposlenega v prejemniku spodbude, ki je velika gospodarska družba, dve leti po zaključku investicije višja od dodane vrednosti na zaposlenega v prejemniku spodbude v poslovnem letu pred letom oddaje vloge.
+
+(3) Pri opredelitvi velikosti gospodarskih družb iz prejšnjega odstavka se upoštevajo opredelitve, kot jih določa [Priloga I k Uredbi 651/2014/EU](http://data.europa.eu/eli/reg/2014/651/anx_1/oj "to EUR-Lex").
+
+(4) Spodbude po tem členu se ne dodelijo za investicije v raziskave in razvoj ter inovacije v naslednje dejavnosti:
+
+1. primarni sektor kmetijske proizvodnje, z izjemo pomoči za raziskave in razvoj ter pomoči za inovacije za MSP,
+
+2. sektor ribištva in akvakulture, kakor jih določa Uredba (EU) Evropskega parlamenta in Sveta št. 1379/2013 z dne 11. decembra 2013 o skupni ureditvi trgov za ribiške proizvode in proizvode iz ribogojstva in o spremembi [uredb Sveta (ES) št. 1184/2006](http://data.europa.eu/eli/reg/2006/1184/oj "to EUR-Lex") in [(ES) št. 1224/2009](http://data.europa.eu/eli/reg/2009/1224/oj "to EUR-Lex") ter razveljavitvi [Uredbe Sveta (ES) št. 104/2000](http://data.europa.eu/eli/reg/2000/104/oj "to EUR-Lex") (UL L št. 354 z dne 28. 12. 2013, str. 1), z izjemo pomoči za raziskave in razvoj ter pomoči za inovacije za MSP,
+
+3. predelava in trženje kmetijskih proizvodov, kadar je znesek spodbude določen na podlagi cene ali količine takih proizvodov, ki so kupljeni od primarnih proizvajalcev ali jih je dala na trg zadevna gospodarska družba, ali kadar je spodbuda pogojena s tem, da je delno ali v celoti prenesena na primarne proizvajalce,
+
+4. sektor premogovništva za lažje zaprtje nekonkurenčnih premogovnikov, kakor jo zajema Sklep Sveta z dne 10. decembra 2010 o državnih pomočeh za lažje zaprtje nekonkurenčnih premogovnikov št. 2010/787/EU (UL L št. 336 z dne 21. 12. 2010, str. 24).
+
+(5) Spodbude po tem členu niso dovoljene:
+
+- za dejavnosti, povezane z izvozom, ko je spodbuda neposredno vezana na izvožene količine, vzpostavitev in delovanje distribucijske mreže ali na druge tekoče izdatke, povezane z izvozno dejavnostjo,
+
+- za investitorja ali prejemnika spodbude, ki je v postopku vračanja neupravičeno prejete državne pomoči, na podlagi sklepa Evropske komisije, ki je prejeto državno pomoč iste države članice razglasila za nezakonito in nezdružljivo s skupnim trgom Skupnosti,
+
+- v primerih, ko bi se uporabi domačega blaga dajala prednost pred uporabo uvoženega blaga,
+
+- za ukrepe pomoči, ki upravičencem omejujejo možnost za izkoriščanje rezultatov raziskav, razvoja in inovacij v drugih državah članicah.
+
+(6) Spodbude po tem členu se ne dodelijo, če:
+
+1. je investicija za isti namen, ki vsebuje sestavine državnih pomoči, že sofinancirana iz drugih sredstev državnega, lokalnega ali evropskega proračuna in če skupna višina prejetih sredstev iz tega naslova presega najvišjo dovoljeno višino sofinanciranja, ki jo določajo pravila o državni pomoči,
+
+2. je investitor ali prejemnik spodbude naveden na seznamu podjetij, s katerimi državne institucije ne smejo poslovati v skladu z zakonom, ki ureja preprečevanje korupcije,
+
+3. ima investitor ali prejemnik spodbude neporavnane zapadle finančne obveznosti iz naslova obveznih dajatev in drugih denarnih nedavčnih obveznosti v Republiki Sloveniji v skladu z zakonom, ki ureja finančno upravo, ki jih pobira davčni organ, če vrednost neplačanih zapadlih obveznosti na dan oddaje vloge pa vse do sklenitve pogodbe o dodelitvi subvencije znaša 50 eurov ali več. Šteje se tudi, da investitor ali prejemnik spodbude ne izpolnjuje obveznosti iz prejšnjega stavka, če na dan oddaje vloge ni imel predloženih vseh obračunov davčnih odtegljajev za plače za obdobje zadnjega leta do datuma oddaje vloge oziroma do sklenitve pogodbe o dodelitvi subvencije,
+
+4. je investitor ali prejemnik spodbude gospodarska družba v težavah po 18. točki 2. člena [Uredbe 651/2014/EU](http://data.europa.eu/eli/reg/2014/651/oj "to EUR-Lex"); navedeno ne velja za gospodarske družbe, ki 31. decembra 2019 niso bile v težavah, vendar so v obdobju od 1. januarja 2020 do 31. decembra 2021 postale gospodarske družbe v težavah.
+
+(7) Vlada z uredbo podrobneje predpiše pogoje in določi način ugotavljanja izpolnjevanja pogojev za dodelitev spodbude za investicije v raziskave in razvoj ter inovacije.
+
+#### 4.b člen
+
+**(dodelitev spodbude v skladu z Okvirom Evropske komisije za državno pomoč za raziskave in razvoj ter inovacije)**
+
+(1) Če investicija v raziskave in razvoj ter inovacije iz drugega odstavka prejšnjega člena prispeva k:
+
+1. pospešenemu zmanjševanju emisij toplogrednih plinov iz proizvodnih in poslovnih procesov ali
+
+2. razvoju rešitev za okoljsko čistejšo mobilnost ali
+
+3. prehodu h krožnemu gospodarstvu ali
+
+4. učinkovitejši rabi virov ali
+
+5. pospešitvi digitalne preobrazbe poslovnih procesov,
+
+se spodbuda pri investitorjih, ki sodelujejo v investiciji za raziskave in razvoj ter inovacije lahko dodeli v višji intenzivnosti ali za višje vrednosti investicij v raziskave in razvoj ter inovacije, kot so določene za spodbude za investicije v raziskave in razvoj ter inovacije skladno z [Uredbo 651/2014/EU](http://data.europa.eu/eli/reg/2014/651/oj "to EUR-Lex"), če dodelitev spodbude odobri Evropska komisija.
+
+(2) Ministrstvo, pristojno za gospodarstvo (v nadaljnjem besedilu: ministrstvo), presodi, ali se shema investicij oziroma posamična investicija v raziskave in razvoj ter inovacije iz prejšnjega odstavka priglasi Evropski komisiji na podlagi naslednjih meril:
+
+- velikost prispevka sheme investicij ali posamične investicije v raziskave in razvoj ter inovacije k doseganju ciljev iz prejšnjega odstavka,
+
+- doseganje najmanj 70 % števila točk na podlagi ocenjevanja sheme investicij ali posamične investicije v raziskave in razvoj ter inovacije po merilih iz prvega odstavka 5. člena tega zakona,
+
+- verjetna upravičenost spodbud za shemo investicij ali posamične investicije v raziskave in razvoj ter inovacije glede na obrazložitev upravičenosti spodbud po merilih za dodelitev državnih pomoči skladno z Okvirom Evropske komisije za državno pomoč za raziskave in razvoj ter inovacije,
+
+- usposobljenost investitorjev za izvedbo sheme investicije v raziskave in razvoj ter inovacije.
+
+(3) Vlada podrobneje predpiše pogoje in določi način izpolnjevanja meril iz prejšnjega odstavka. Spodbuda za shemo ali posamično investicijo v raziskave in razvoj ter inovacije se dodeli po odobritvi Evropske komisije skladno z odločbo o odobritvi.
+
+#### 5. člen
+
+**(merila za dodelitev spodbud)**
+
+(1) Merila za dodelitev spodbud so usmerjena na ekonomske, okoljske, prostorske in socialne vidike za podporo visoko produktivnim, dolgoročno vzdržnim, konkurenčnim, družbeno odgovornim in trajnostnim poslovnim modelom, povečanju dodane vrednosti na zaposlenega, odgovornem ravnanju z viri, vključno s prispevkom k zelenemu prehodu in krožnemu gospodarstvu, ter upoštevajo prednostna področja, kot jih določa načrt za okrevanje in odpornost.
+
+(2) Na podlagi vrednotenja meril iz prejšnjega odstavka se določi višina spodbude ob upoštevanju najvišje možne spodbude, določene z [Uredbo 651/2014/EU](http://data.europa.eu/eli/reg/2014/651/oj "to EUR-Lex").
+
+(3) Vlada z uredbo podrobneje določi merila za dodelitev spodbud.
+
+#### 5.a člen
+
+**(hramba dokumentacije)**
+
+(1) Javna agencija, pristojna za spodbujanje investicij in internacionalizacije (v nadaljnjem besedilu: javna agencija), in ministrstvo kot dajalca spodbud vodita evidenco z informacijami in dodatno dokumentacijo, ki je potrebna za ugotovitev, ali so izpolnjeni vsi pogoji iz tega zakona ter [Uredbe 651/2014/EU](http://data.europa.eu/eli/reg/2014/651/oj "to EUR-Lex").
+
+(2) Evidence iz prejšnjega odstavka se hranijo deset let od dneva dodelitve spodbude ali od dneva zadnje dodelitve pomoči v okviru sheme pomoči.
+
+## III. STRATEŠKA INVESTICIJA
+
+#### 6. člen
+
+**(strateška investicija)**
+
+(1) Strateška investicija je investicija, ki izpolnjuje naslednje pogoje:
+
+1. da je najnižja vrednost investicije:
+
+- 40.000.000 eurov v predelovalni ali storitveni dejavnosti, ali
+
+- 20.000.000 eurov v razvojno-raziskovalni dejavnosti,
+
+2. da ustvarja in zapolni najmanj naslednje število novih delovnih mest v obdobju deset let od dneva sklenitve pogodbe o izvedbi strateške investicije, in sicer:
+
+- 200 v predelovalni ali storitveni dejavnosti, ali
+
+- 100 v razvojno-raziskovalni dejavnosti,
+
+3. da zagotavlja ohranjanje investicije iz 1. točke tega odstavka v Republiki Sloveniji v trajanju najmanj deset let od dneva sklenitve pogodbe o izvedbi strateške investicije in zagotavlja ohranjanje ustvarjenih delovnih mest najmanj pet let od dneva zaposlitve,
+
+4. da je dodana vrednost na zaposlenega v dejavnosti, v katero se strateška investicija uvršča, višja od povprečne dodane vrednosti na zaposlenega v Republiki Sloveniji,
+
+5. da je nameravana gradnja objektov za izvedbo strateške investicije določena na lokaciji, ki je skladna s prostorskim aktom, kar je razvidno iz priloženega mnenja samoupravne lokalne skupnosti,
+
+6. da ima pozitiven vpliv na regijo, v kateri bo investicija izvedena, iz ekonomskega, okoljskega, prostorskega in socialnega vidika,
+
+7. da je za investicijo izkazana ekonomska, finančna, tehnična, prostorska in tehnološka izvedljivost ter upravičenost investicije in
+
+8. da je investicija umeščena v mesta, druga urbana naselja in širša mestna območja.
+
+(2) Ministrstvo v sodelovanju z ministrstvom, pristojnim za okolje in prostor, vodi aktivnosti projektnega vodenja strateških investicij in usklajuje procese pridobivanja dovoljenj ob spremljanju v naprej določene časovnice za vsako strateško investicijo, če investitor s projektnim vodenjem soglaša.
+
+#### 7. člen
+
+**(namen razlastitve)**
+
+(1) Če strateška investicija izpolnjuje pogoje iz prejšnjega člena, se nepremičnine, določene v sklepu vlade iz 23. člena tega zakona, lahko razlastijo za namen gradnje objektov za izvedbo strateške investicije, ki pospešuje gospodarsko rast in zaposlovanje, skladen regionalni razvoj, v skladu z določbami zakona, ki ureja urejanje prostora, če ta zakon ne določa drugače.
+
+(2) Šteje se, da je javna korist za nepremičnine iz prejšnjega odstavka izkazana, če:
+
+- so nepremičnine predvidene v prostorskem izvedbenem aktu tako natančno, da jih je mogoče prikazati v zemljiškem katastru, in
+
+- investicija doseže 70 % točk pri vrednotenju meril iz prvega odstavka 5. člena tega zakona.
+
+(3) Če prostorski izvedbeni akt ni pripravljen z natančnostjo, kot jo določa prva alineja prejšnjega odstavka, se ta pogoj šteje za izpolnjen, če svet samoupravne lokalne skupnosti za konkretno nepremičnino sprejeme sklep, s katerim ugotovi, da je gradnja objekta nujno potrebna in v javno korist.
+
+(4) Razlastitveni upravičenec je samoupravna lokalna skupnost. Razlastitveni zavezanec je fizična ali pravna oseba, razen Republike Slovenije, ki ima v lasti nepremičnino, ki je predmet razlastitve.
+
+#### 8. člen
+
+**(prodaja nepremičnin in stavbna pravica)**
+
+(1) Ne glede na določbe zakona, ki ureja stvarno premoženje države in samoupravnih lokalnih skupnosti, lahko samoupravna lokalna skupnost nepremičnine, določene v sklepu vlade iz 23. člena tega zakona, nosilcu strateške investicije, ki bo izvedel strateško investicijo iz 6. člena tega zakona:
+
+- proda z neposredno pogodbo po ocenjeni vrednosti pooblaščenega cenilca, ki je imenovan na podlagi zakona, ki ureja revidiranje (v nadaljnjem besedilu: pooblaščeni cenilec),
+
+- sklene neposredno pogodbo o ustanovitvi stavbne pravice.
+
+(2) Neposredna pogodba o prodaji ali neposredna pogodba o ustanovitvi stavbne pravice mora vsebovati:
+
+- določbo o obligacijsko-pravni prepovedi odsvojitve nepremičnine za pet let z ustrezno pogodbeno kaznijo za primer kršitve,
+
+- zemljiškoknjižno dovolilo, s katerim si samoupravna lokalna skupnost ob kršitvi pogodbe izgovori odkupno pravico, na podlagi katere lahko zahteva povratno prodajo nepremičnine ali prenehanje stavbne pravice na nepremičnini.
+
+(3) V kolikor neposredna pogodba o prodaji ali neposredna pogodba o ustanovitvi stavbne pravice ne vsebuje določil iz prejšnjega odstavka, je nična.
+
+(4) Nosilec strateške investicije mora poleg plačila nepremičnine po ocenjeni vrednosti pooblaščenega cenilca povrniti samoupravni lokalni skupnosti vrednost stroškov razlastitvenega postopka.
+
+(5) Če se strateška investicija, ugotovljena v sklepu vlade iz 23. člena tega zakona, ne začne izvajati v petih letih od izdaje sklepa vlade iz 23. člena tega zakona, mora nosilec strateške investicije pod istimi pogoji in brez bremen ponuditi nepremičnino ali predlagati prenehanje stavbne pravice samoupravni lokalni skupnosti.
+
+## IV. POSTOPKI DODELITVE SPODBUD
+
+### 1. **Postopek dodelitve subvencije na podlagi javnega razpisa**
+
+#### 9. člen
+
+**(javni razpis)**
+
+(1) Subvencije se dodeljujejo na podlagi javnega razpisa, ki ga izvede javna agencija, če investicija izpolnjuje pogoje iz prvega in od tretjega do sedmega odstavka 4. člena ali pogoje iz prvega in od tretjega do šestega odstavka 4.a člena ter merila iz prvega odstavka 5. člena tega zakona.
+
+(2) Javni razpis iz prejšnjega odstavka objavi javna agencija v Uradnem listu Republike Slovenije in na svoji spletni strani, kjer objavi tudi razpisno dokumentacijo.
+
+(3) Glede vprašanj postopka, ki niso urejena s tem zakonom, se smiselno uporabljajo določbe zakona, ki ureja splošni upravni postopek, če ta zakon ne določa drugače.
+
+#### 10. člen
+
+**(vsebina javnega razpisa)**
+
+Objava javnega razpisa mora vsebovati zlasti:
+
+- ime oziroma naziv in sedež javne agencije, ki dodeljuje spodbudo,
+
+- pravno podlago za izvedbo javnega razpisa,
+
+- predmet javnega razpisa,
+
+- navedbo pogojev za dodelitev subvencije in merila za določitev višine sredstev,
+
+- višino zagotovljenih sredstev,
+
+- določitev obdobja porabe subvencije,
+
+- datum odpiranja vlog oziroma datumi odpiranja vlog, če je v javnem razpisu predvideno zaporedno dodeljevanje spodbud,
+
+- način financiranja,
+
+- način in rok za predložitev vlog,
+
+- postopek in način izbora,
+
+- minimalni multiplikator oziroma pričakovani učinek javnih sredstev,
+
+- rok, v katerem bodo morebitni prejemniki spodbude obveščeni o izidu javnega razpisa,
+
+- predvideni datum začetka in konca črpanja sredstev in
+
+- kraj, čas in osebo, pri kateri zainteresirani dvignejo razpisno dokumentacijo.
+
+#### 11. člen
+
+**(vloga za dodelitev subvencije)**
+
+(1) Investitor posreduje vlogo za dodelitev subvencije (v nadaljnjem besedilu: vloga) na javno agencijo.
+
+(2) Vloga mora vsebovati najmanj naslednje podatke:
+
+- firma, sedež in velikost investitorja in prejemnika spodbude, če je gospodarska družba, ki bo prejemnik spodbude, že vpisana v sodni register,
+
+- opis investicije, vključno s predvidenim datumom začetka in zaključka investicije,
+
+- v primeru, da investitor na območju Republike Slovenije nima registrirane gospodarske družbe v sodnem registru, opis načina izvedbe investicije s predvidenim rokom registracije gospodarske družbe v Sloveniji, ki bo prejemnik spodbude,
+
+- lokacija investicije z opisom, kateremu se priloži izsek iz veljavnega prostorskega akta samoupravne lokalne skupnosti, priloženo mnenje samoupravne lokalne skupnosti, iz katerega izhaja, da je investicija skladna z veljavnim prostorskim aktom, z opisom nameravane investicije in prikaz parcelnega stanja z oznako in navedbo k.o. parcel in morebiti stavb, kjer bo investicija izvedena ter v kolikor gre za razvrednoteno območje, se navede vir oziroma podatek, na podlagi katerega je območje opredeljeno kot razvrednoteno, razen v primeru investicij v raziskave in razvoj ter inovacije,
+
+- vrednost investicije z navedbo prispevka finančnih sredstev upravičenih stroškov z lastnimi sredstvi ali z zunanjim financiranjem v obliki, ki ni povezana z javnimi sredstvi,
+
+- število in terminski načrt ohranjanja obstoječih zaposlenih ali ustvarjanja ter ohranjanja novo ustvarjenih delovnih mest, razen v primeru investicij iz drugega odstavka 4.a člena tega zakona,
+
+- pričakovano dodano vrednost na zaposlenega, ustvarjeno z investicijo v prejemniku spodbude,
+
+- seznam ter opredelitev vrste in višine upravičenih ter neupravičenih stroškov investicije,
+
+- višino subvencije, potrebne za izvedbo investicije, navedbo javnega financiranja iz drugih virov na podlagi vloge in navedbo lastnih virov za investicijo,
+
+- predvideni datum začetka in konca morebitnega črpanja sredstev,
+
+- analizo tveganja ter analizo stroškov in koristi,
+
+- investicijski program gospodarske družbe in
+
+- pričakovani multiplikativni učinek investicije.
+
+#### 12. člen
+
+**(komisija)**
+
+(1) Vlogo iz prejšnjega člena obravnava komisija, ki jo imenuje direktor javne agencije, ki opravi strokovni pregled popolnih vlog ter jih oceni glede izpolnjevanja pogojev iz prvega in od tretjega do sedmega odstavka 4. člena ali pogojev iz prvega in od tretjega do šestega odstavka 4.a člena in meril iz prvega odstavka 5. člena tega zakona.
+
+(2) Komisija ima predsednika in najmanj dva člana iz javne agencije.
+
+(3) Predsednik in člana komisije morajo pred ocenjevanjem vloge podati pisno izjavo o interesni nepovezanosti z investitorjem in prejemnikom spodbude ter izjavo, da bodo kot zaupne varovali vse podatke, dejstva in okoliščine, s katerimi se bodo seznanili pri opravljanju nalog člana komisije.
+
+(4) Komisija zaključi delo s pripravo mnenja o dodelitvi subvencije.
+
+#### 13. člen
+
+**(odobritev subvencije)**
+
+(1) Javna agencija na podlagi mnenja komisije iz četrtega odstavka prejšnjega člena najpozneje v 60 dneh od dneva odpiranja vlog izda odločbo o dodelitvi ali zavrnitvi subvencije.
+
+(2) V upravnem sporu ni mogoče izpodbijati odločbe, s katero je bilo odločeno o pravici do dodelitve subvencije javne agencije drugim osebam, ampak le tisto odločbo ali njen del, s katerim je bilo odločeno o pravici tožnika.
+
+#### 14. člen
+
+**(pogodba o dodelitvi subvencije)**
+
+(1) Javna agencija, investitor in prejemnik spodbude na podlagi odločbe o dodelitvi subvencije iz prejšnjega člena sklenejo pogodbo o dodelitvi subvencije, ki vsebuje najmanj:
+
+- predmet pogodbe,
+
+- medsebojne pravice in obveznosti pogodbenih strank,
+
+- zavezo investitorja in prejemnika spodbude, da bo investicija izvedena vsaj v predvideni vrednosti in v roku, opredeljenem v vlogi,
+
+- zavezo investitorja in prejemnika spodbude, da bo realizirana investicija v skladu s prejšnjo alinejo ohranjena v regiji prejemnika spodbude vsaj pet let po zaključku investicije ali vsaj tri leta po zaključku investicije v primeru, ko je prejemnik spodbude mala ali srednje velika gospodarska družba, razen v primeru spodbud za investicije v raziskave in razvoj ter inovacije,
+
+- zavezo investitorja in prejemnika spodbude, da bo v primeru investicije iz prvega odstavka 4. člena tega zakona ohranil v obdobju ohranjanja investicije najmanj povprečno število zaposlenih iz obdobja zadnjih 12 mesecev pred mesecem oddaje vloge ali v primeru investicije iz prvega odstavka 4.a člena tega zakona ohranil v obdobju izvajanja investicije najmanj povprečno število zaposlenih iz obdobja zadnjih 12 mesecev pred mesecem oddaje vloge ali v primeru investicije iz drugega odstavka 4. člena tega zakona zavezo, da bodo nova delovna mesta, ustvarjena z investicijo, zapolnjena najpozneje v treh letih po zaključku investicije in ohranjena v regiji najmanj pet let po dnevu, ko je bilo delovno mesto prvič zasedeno, ali najmanj tri leta po dnevu, ko je bilo delovno mesto prvič zasedeno, v primeru ko je prejemnik spodbude mala ali srednje velika gospodarska družba,
+
+- zavezo investitorja in prejemnika spodbude, da bo dodana vrednost na zaposlenega v prejemniku spodbude dve leti po zaključku investicije višja od dodane vrednosti na zaposlenega v prejemniku spodbude v poslovnem letu pred letom oddaje vloge v primeru investicije iz prvega odstavka 4. člena tega zakona in v primeru investicije iz drugega odstavka 4. člena tega zakona višja tudi od povprečne dodane vrednosti na zaposlenega v dejavnosti, v katero se prejemnik spodbude uvršča, oziroma, v primeru investicije iz drugega odstavka 4.a člena tega zakona, zavezo, da je dodana vrednost na zaposlenega v prejemniku spodbude, ki je velika gospodarska družba, dve leti po zaključku investicije višja od dodane vrednosti na zaposlenega v gospodarski družbi v poslovnem letu pred letom oddaje vloge,
+
+- način nadzora nad namensko porabo sredstev,
+
+- pravne posledice kršitve pogodbenih obveznosti,
+
+- način poročanja o poteku investicije in
+
+- določitev skrbnika s strani javne agencije in prejemnika spodbude za spremljanje izvrševanja pogodbe.
+
+(2) Investitor ali prejemnik spodbude pogodbi o dodelitvi subvencije predloži bančno garancijo za dobro izvedbo pogodbenih obveznosti na prvi poziv ali drugo primerno zavarovanje.
+
+(3) Če investitor in prejemnik spodbude v 60 dneh po prejemu odločbe iz prejšnjega člena ne podpišeta pogodbe, se šteje, da spodbuda ni bila dodeljena.
+
+### 2. **Postopek dodelitve subvencije brez javnega razpisa**
+
+#### 15. člen
+
+**(vloga za dodelitev subvencije)**
+
+(1) Za investicije iz drugega odstavka 4. člena ali drugega odstavka 4.a člena tega zakona, ki bistveno prispevajo k razvoju slovenskega gospodarstva, se lahko dodelijo subvencije brez javnega razpisa. Investitor posreduje vlogo za dodelitev subvencije na ministrstvo.
+
+(2) Vloga iz prejšnjega odstavka mora vsebovati podatke iz drugega odstavka 11. člena tega zakona in se vloži na obrazcu, ki ga predpiše minister, pristojen za gospodarstvo (v nadaljnjem besedilu: minister).
+
+(3) Glede vprašanj postopka, ki niso urejena s tem zakonom, se smiselno uporabljajo določbe zakona, ki ureja splošni upravni postopek, če ta zakon ne določa drugače.
+
+#### 16. člen
+
+**(komisija)**
+
+(1) Vlogo iz prejšnjega člena obravnava komisija, ki jo imenuje minister, ki opravi strokovni pregled popolnih vlog ter jih oceni glede izpolnjevanja pogojev iz drugega do šestega odstavka 4. člena ali drugega do šestega odstavka 4.a člena in meril iz prvega odstavka 5. člena tega zakona.
+
+(2) Komisija ima predsednika in najmanj štiri člane. Predsednik komisije in trije člani so iz ministrstva, en član pa je predstavnik ministrstva, pristojnega za finance.
+
+(3) Predsednik in člani komisije morajo pred ocenjevanjem vloge podati pisno izjavo o interesni nepovezanosti z investitorjem in prejemnikom spodbude ter izjavo, da bodo kot zaupne varovali vse podatke, dejstva in okoliščine, s katerimi se bodo seznanili pri opravljanju nalog člana komisije.
+
+(4) Komisija zaključi delo s pripravo mnenja o dodelitvi subvencije in ga predloži ministru.
+
+#### 17. člen
+
+**(odločitev o dodelitvi subvencije)**
+
+(1) Na podlagi mnenja komisije, da investicija izpolnjuje pogoje iz drugega do šestega odstavka 4. člena ali drugega do šestega odstavka 4.a člena in merila iz prvega odstavka 5. člena tega zakona za dodelitev subvencije, ministrstvo po prostem preudarku izda odločbo o dodelitvi subvencije. Preudarek je omejen na presojo zagotovljenih proračunskih sredstev.
+
+(2) Na podlagi mnenja komisije, da investicija ne izpolnjuje pogojev in meril za dodelitev subvencije ali da ni zagotovljenih proračunskih sredstev, izda ministrstvo odločbo o zavrnitvi subvencije.
+
+(3) V upravnem sporu ni mogoče izpodbijati odločbe, s katero je bilo odločeno o pravici do dodelitve subvencije ministrstva drugim osebam, ampak le tisto odločbo ali njen del, s katerim je bilo odločeno o pravici tožnika.
+
+#### 18. člen
+
+**(sklenitev pogodbe o dodelitvi subvencije)**
+
+(1) Na podlagi odločbe ministrstva iz prvega odstavka prejšnjega člena ministrstvo pozove investitorja in prejemnika spodbude k podpisu pogodbe o dodelitvi subvencije. Ministrstvo, investitor in prejemnik spodbude sklenejo pogodbo o dodelitvi subvencije z vsebino, določeno v prvem odstavku 14. člena tega zakona.
+
+(2) Investitor ali prejemnik subvencije pogodbi o dodelitvi subvencije predloži bančno garancijo za dobro izvedbo pogodbenih obveznosti na prvi poziv ali drugo primerno zavarovanje.
+
+(3) Če investitor in prejemnik subvencije v roku, določenem v pozivu iz prvega odstavka tega člena, ne podpišeta pogodbe, se šteje, da je investitor vlogo umaknil.
+
+### 3. **Dodelitev kredita, garancije ter subvencionirane obrestne mere**
+
+#### 19. člen
+
+**(kredit, garancija ter subvencionirana obrestna mera)**
+
+(1) Kredit, garancijo ter subvencionirano obrestno mero prejemniku spodbude po tem zakonu dodeljuje SID – Slovenska izvozna in razvojna banka, d.d. Ljubljana, za investicije, ki izpolnjujejo pogoje iz prvega ali drugega odstavka 4. člena ter merila iz prvega odstavka 5. člena tega zakona.
+
+(2) Prejemnik spodbude iz prvega odstavka tega člena kredit, garancijo ali subvencionirano obrestno mero zavaruje z zavarovanjem zastavne pravice na nepremičnem ali premičnem premoženju ali z drugim primernim zavarovanjem.
+
+### 4. **Nakup nepremičnin v lasti samoupravnih lokalnih skupnosti po cenah, ki so nižje od tržnih**
+
+#### 20. člen
+
+**(nakup nepremičnin v lasti samoupravnih lokalnih skupnosti po cenah, ki so nižje od tržnih)**
+
+(1) Ne glede na določbe zakona, ki ureja ravnanje s stvarnim premoženjem države in samoupravnih lokalnih skupnosti, lahko samoupravna lokalna skupnost na podlagi neposredne pogodbe o nakupu nepremičnin po cenah, ki so nižje od tržnih (v nadaljnjem besedilu: pogodba o nakupu nepremičnin), ob izpolnjevanju pogojev iz prvega ali drugega odstavka 4. člena in meril iz prvega odstavka 5. člena tega zakona, proda nepremičnine investitorju ali prejemniku spodbude po cenah, ki so nižje od tržnih.
+
+(2) Nepremičnine, ki so predmet prodaje, morajo biti pred izvedbo postopka ocenjene. Ocenjena vrednost je s cenitvijo ugotovljena vrednost nepremičnine, ki jo oceni pooblaščeni cenilec. Ocenjena vrednost se ugotovi po vsakokratno veljavnih mednarodnih standardih ocenjevanja vrednosti, ki jih sprejema Odbor za mednarodne standarde ocenjevanja vrednosti. Ocenjena vrednost se šteje kot tržna cena.
+
+(3) Razlika med ocenjeno in prodajno vrednostjo predstavlja višino regionalne državne pomoči. Prodajno vrednost nepremičnin določi samoupravna lokalna skupnost. Prodajna vrednost nepremičnine je cena, po kateri samoupravna lokalna skupnost nepremičnino proda in je nižja od tržne cene.
+
+(4) Samoupravna lokalna skupnost pred prodajo nepremičnin določi cilje, ki jih želi s prodajo doseči, opredeli koristi ter določi merljive učinke, ki jih bo pridobila s prodajo nepremičnin, in ekonomsko utemeljenost prodaje nepremičnin po cenah, ki so nižje od tržnih.
+
+(5) Sklep o prodaji nepremičnine pod ceno, ki je nižja od tržne, sprejme svet samoupravne lokalne skupnosti.
+
+(6) Namero o sklenitvi neposredne pogodbe o nakupu nepremičnin objavi samoupravna lokalna skupnost na spletni strani najmanj 20 dni pred nameravano sklenitvijo. V primeru, da je za isto nepremičnino prejetih več vlog za nakup nepremičnin, se med zainteresiranimi investitorji izbere tistega, ki je v postopku ocenjevanja prejel najvišje število točk na podlagi meril iz prvega odstavka 5. člena tega zakona. V primeru enakega števila točk prevlada merilo višje vrednosti investicije.
+
+(7) Na dan sklenitve pogodbe cenitev nepremičnine, ki je predmet takšnega posla, ne sme biti starejša od šest mesecev.
+
+(8) Pogodba o nakupu nepremičnin med investitorjem ali prejemnikom spodbude in samoupravno lokalno skupnostjo mora vsebovati:
+
+- natančen opis nepremičnin, ki so predmet prodaje,
+
+- navedbo investitorja ali prejemnika spodbude,
+
+- navedbo, da gre za prodajo po cenah, ki so nižje od tržnih,
+
+- navedbo ocenjene vrednosti,
+
+- prodajno vrednost nepremičnin, ki so predmet prodaje,
+
+- navedbo namena prodaje,
+
+- natančen opis razvojnih namenov, zaradi katerih se nepremičnine prodajajo po cenah, ki so nižje od tržnih, z dinamiko izvajanja,
+
+- opis, kako bodo nepremičnine uporabljene,
+
+- obveznost investitorja ali prejemnika spodbude, da na zahtevo samoupravne lokalne skupnosti poroča o uporabi nepremičnin,
+
+- klavzulo, da celotne stroške sklenitve pogodbe nosi investitor ali prejemnik spodbude,
+
+- obveznost investitorja ali prejemnika spodbude, da se investicija začne izvajati v dveh letih od datuma sklenitve pogodbe o nakupu nepremičnin,
+
+- določbo o obligacijsko-pravni prepovedi odsvojitve nepremičnin vsaj za deset let z ustrezno pogodbeno kaznijo za primer kršitve,
+
+- intabulacijsko klavzulo,
+
+- prepoved kakršnekoli obremenitve nepremičnin za deset let,
+
+- zemljiškoknjižno dovolilo, s katerim si samoupravna lokalna skupnost ob kršitvi pogodbe izgovori odkupno pravico, na podlagi katere lahko zahteva povratno prodajo nepremičnin za ceno, ki ne presega vlaganja v te nepremičnine, zmanjšano za amortizacijo,
+
+- določitev skrbnika za spremljanje izvrševanja pogodbe.
+
+## V. POSTOPEK UGOTAVLJANJA IZPOLNJEVANJA POGOJEV ZA STRATEŠKO INVESTICIJO
+
+#### 21. člen
+
+**(vloga za strateško investicijo)**
+
+(1) Investitor posreduje vlogo za ugotovitev izpolnjevanja pogojev za strateško investicijo (v nadaljnjem besedilu: vloga za strateško investicijo) na ministrstvo.
+
+(2) Vloga za strateško investicijo mora poleg podatkov iz drugega odstavka 11. člena tega zakona vsebovati še:
+
+- navedbo nepremičnin z zemljiškimi parcelami, ki so potrebne za izvedbo investicije,
+
+- elaborat z utemeljitvijo javne koristi.
+
+(3) Elaborat z utemeljitvijo javne koristi mora vsebovati:
+
+- izvleček iz prostorskega izvedbenega akta,
+
+- parcelacijski načrt z mejo,
+
+- navedbo nepremičnin z zemljiškimi parcelami s površinami in podatki o njihovih lastnikih in imetnikih drugih stvarnih pravic,
+
+- rok za izvedbo strateške investicije, predvideni rok začetka gradnje objektov ali rok za prevzem razlaščene nepremičnine ter
+
+- obrazložitev javne koristi.
+
+(4) Glede vprašanj postopka, ki niso urejena s tem zakonom, se smiselno uporabljajo določbe zakona, ki ureja splošni upravni postopek, če ta zakon ne določa drugače.
+
+(5) Vloga se vloži na obrazcu, ki ga predpiše minister.
+
+#### 22. člen
+
+**(komisija za ugotovitev izpolnjevanja pogojev za strateško investicijo)**
+
+(1) Vlogo za strateško investicijo obravnava komisija, ki jo imenuje minister, ki opravi strokovni pregled popolnih vlog ter jih oceni glede izpolnjevanje pogojev za strateško investicijo iz 6. člena in meril iz prvega odstavka 5. člena tega zakona.
+
+(2) Komisija ima predsednika in najmanj štiri člane iz ministrstva.
+
+(3) Predsednik in člani komisije morajo pred ocenjevanjem vloge podati pisno izjavo o interesni nepovezanosti z investitorjem in prejemnikom spodbude ter izjavo, da bodo kot zaupne varovali vse podatke, dejstva in okoliščine, s katerimi se bodo seznanili pri opravljanju nalog člana komisije.
+
+(4) Komisija zaključi delo s pripravo mnenja o izpolnjevanju pogojev za strateško investicijo, ki ga predloži ministru.
+
+#### 23. člen
+
+**(ugotovitev izpolnjevanja pogojev za strateško investicijo)**
+
+Na podlagi mnenja komisije iz prejšnjega člena o izpolnjevanju pogojev za strateško investicijo, ministrstvo predlaga vladi sprejem sklepa o ugotovitvi izpolnjevanja pogojev za strateško investicijo, ki vsebuje:
+
+- splošne podatke o investitorju,
+
+- ugotovitev o izpolnjevanju pogojev za strateško investicijo iz prvega odstavka 6. člena tega zakona,
+
+- ugotovitev, da je strateška investicija v javnem interesu in pospešuje gospodarsko rast in zaposlovanje, skladen regionalni razvoj,
+
+- seznam nepremičnin z zemljiškimi parcelami, na katerih je predvidena gradnja v javno korist,
+
+- rok za izvedbo strateške investicije, predvideni rok začetka gradnje objektov ali rok za prevzem razlaščene nepremičnine,
+
+- vodjo in člane projektne skupine vodenja strateške investicije iz drugega odstavka 6. člena tega zakona in
+
+- časovnico pridobivanja različnih dovoljenj.
+
+#### 24. člen
+
+**(sklenitev pogodbe o izvedbi strateške investicije)**
+
+(1) Ministrstvo, investitor in nosilec strateške investicije po sprejemu sklepa vlade iz 23. člena tega zakona sklenejo pogodbo o izvedbi strateške investicije, ki vsebuje:
+
+- predmet pogodbe,
+
+- medsebojne pravice in obveznosti pogodbenih strank,
+
+- rok za izvedbo strateške investicije, predvideni rok začetka gradnje objektov ali rok za prevzem razlaščene nepremičnine,
+
+- zavezo investitorja in nosilca strateške investicije, da bo investicija izvedena vsaj v predvideni vrednosti, z ustvarjenimi predvidenimi novimi delovnimi mesti in v roku, opredeljenem v sklepu vlade iz 23. člena tega zakona,
+
+- zavezo investitorja in nosilca strateške investicije, da bo realizirana investicija v skladu s prejšnjo alinejo ohranjena v regiji nosilca strateške investicije vsaj deset let od sklenitve pogodbe,
+
+- zavezo investitorja in nosilca strateške investicije, da bodo nova delovna mesta ustvarjena in zapolnjena v desetih letih od sklenitve pogodbe o izvedbi straške investicije in ohranjena pet let od dneva zaposlitve,
+
+- zavezo investitorja in nosilca strateške investicije, da bo dodana vrednost na zaposlenega v nosilcu strateške investicije po zaključku investicije in v času ohranjanja višja od povprečne dodane vrednosti na zaposlenega v Republiki Sloveniji,
+
+- način nadzora nad izvajanjem pogodbenih obveznosti,
+
+- pravne posledice kršitve pogodbenih obveznosti,
+
+- način poročanja o poteku investicije in
+
+- določitev skrbnika s strani ministrstva in nosilca strateške investicije za spremljanje izvrševanja pogodbe.
+
+(2) Investitor ali nosilec strateške investicije pogodbi o izvedbi strateške investicije predloži bančno garancijo za dobro izvedbo pogodbenih obveznosti na prvi poziv ali drugo primerno zavarovanje.
+
+## VI. AKTIVNOSTI ZA SPODBUJANJE INVESTICIJ IN INTERNACIONALIZACIJE, REGISTER PODJETIJ Z VISOKO DODANO VREDNOSTJO IN REGISTER INOVATIVNIH ZAGONSKIH PODJETIJ
+
+#### 25. člen
+
+**(javna agencija)**
+
+Javna agencija izvaja aktivnosti za spodbujanje investicij in internacionalizacije v skladu z usmeritvami in politiko Republike Slovenije na tem področju.
+
+#### 26. člen
+
+**(aktivnosti in program spodbujanja investicij)**
+
+(1) Aktivnosti za spodbujanje investicij so:
+
+- zagotavljanje kakovostnih informacijskih, svetovalnih in drugih storitev za investitorje,
+
+- izvajanje tržnokomunikacijskih aktivnosti,
+
+- organiziranje dogodkov, ki prispevajo h krepitvi prepoznavnosti Republike Slovenije kot lokacije za investicije,
+
+- projektni pristop k vodenju investicijskih projektov,
+
+- sodelovanje z že obstoječimi investitorji v Republiki Sloveniji z namenom njihove širitve,
+
+- analiziranje konkurenčnega položaja Republike Slovenije z vidika investiranja in predlaganje ukrepov za izboljšanje,
+
+- opredelitev območij, namenjenih strateškim investicijam v prostorskih strateških aktih,
+
+- spodbujanje izvajanja ukrepov zemljiške politike za namen spodbujanja investicij in
+
+- opravljanje drugih aktivnosti, ki prispevajo k prepoznavnosti Republike Slovenije kot lokacije za investicije.
+
+(2) Vlada na predlog ministrstva sprejme petletni program spodbujanja investicij, v katerem opredeli prioritete in način izvajanja aktivnosti za spodbujanje investicij iz prejšnjega odstavka ter določi cilje, ki naj bi bili doseženi z izvajanjem teh aktivnosti.
+
+(3) V programu spodbujanja investicij se določijo tudi obseg in način financiranja ter kazalniki za spremljanje učinkovitosti spodbujanja investicij iz prvega odstavka tega člena.
+
+#### 27. člen
+
+**(aktivnosti in program spodbujanja internacionalizacije)**
+
+(1) Aktivnosti za spodbujanje internacionalizacije so:
+
+- zagotavljanje kakovostnih informacijskih, svetovalnih in drugih storitev za gospodarske družbe s sedežem v Republiki Sloveniji, ki izvažajo v tujino,
+
+- izobraževanje in usposabljanje gospodarskih družb in partnerskih organizacij agencije,
+
+- izvajanje tržnokomunikacijskih aktivnosti,
+
+- organiziranje dogodkov, ki prispevajo k večji internacionalizaciji slovenskih gospodarskih družb na tujih trgih,
+
+- aktivnosti, namenjene spodbujanju vpetosti gospodarskih družb v dobaviteljske verige,
+
+- ukrepi za izhodno internacionalizacijo gospodarskih družb in
+
+- opravljanje drugih aktivnosti, ki prispevajo k uspešnejši internacionalizaciji slovenskih gospodarskih družb.
+
+(2) Vlada na predlog ministrstva sprejme petletni program spodbujanja internacionalizacije gospodarskih družb, v katerem opredeli prioritete in način izvajanja aktivnosti za spodbujanje internacionalizacije iz prejšnjega odstavka ter določi cilje, ki naj bi bili doseženi z izvajanjem teh aktivnosti.
+
+(3) V programu spodbujanja internacionalizacije gospodarskih družb se določijo tudi obseg in način financiranja ter kazalci za spremljanje učinkovitosti spodbujanja internacionalizacije gospodarskih družb iz prvega odstavka tega člena.
+
+(4) Javna agencija za izvajanje svojih aktivnosti iz prvega odstavka tega člena iz evidenc Finančne uprave Republike Slovenije na podlagi elektronskega zaprosila največ enkrat mesečno brezplačno pridobiva naslednje podatke o davčnih zavezancih, ki opravljajo dobave blaga ali storitev v druge države:
+
+1. identifikacijsko številko za namene DDV (v primeru opravljenih dobav v druge države članice);
+
+2. kodo države članice, v katero so bile opravljene dobave blaga;
+
+3. kodo države članice, v kateri se šteje, da so bile opravljene storitve;
+
+4. vrednost dobav blaga po posamezni državi članici;
+
+5. vrednost opravljenih storitev, obdavčenih v posamezni državi članici;
+
+6. številko EORI gospodarskega subjekta;
+
+7. namembno državo (pri izvozu iz Slovenije) in državo odpreme (pri uvozu v Slovenijo);
+
+8. tarifno oznako in
+
+9. statistično vrednost blaga.
+
+#### 28. člen
+
+**(predstavništva javne agencije v tujini)**
+
+(1) Na podlagi analize ekonomske upravičenosti lahko javna agencija ob predhodnem soglasju vlade odpre ali zapre svoje predstavništvo v tujini.
+
+(2) Predstavništvo javne agencije v tujini zagotavlja informacije in svetovanje gospodarskim družbam, ki imajo sedež izven Republike Slovenije ali v Republiki Sloveniji pri njihovem delovanju v čezmejnih investicijah ter opravlja druge dejavnosti iz prvega odstavka 26. člena in prvega odstavka 27. člena tega zakona na trgih izven območja Republike Slovenije.
+
+(3) Organizacijo, upravljanje in način delovanja predstavništev javne agencije v tujini in vrste storitev, ki jih predstavništva javne agencije v tujini zaračunavajo, določi vlada z uredbo.
+
+#### 29. člen
+
+**(financiranje aktivnosti in pogodba o financiranju)**
+
+(1) Aktivnosti za spodbujanje investicij iz prvega odstavka 26. člena tega zakona in aktivnosti za spodbujanje internacionalizacije gospodarskih družb iz prvega odstavka 27. člena tega zakona se financirajo iz proračuna Republike Slovenije.
+
+(2) Financiranje agencije iz proračuna Republike Slovenije se zagotovi z letno pogodbo, ki jo skleneta ministrstvo in javna agencija.
+
+#### 30. člen
+
+**(register podjetij z visoko dodano vrednostjo)**
+
+(1) Podjetje z visoko dodano vrednostjo je gospodarska družba:
+
+- katere dodana vrednost na zaposlenega je vsaj 50 % nad slovenskim povprečjem ali katere dodana vrednost na zaposlenega je vsaj 25 % nad slovenskim povprečjem, v kolikor je hkrati letna rast števila zaposlenih vsaj 10 %,
+
+- ki zaposluje več kot 20 oseb in
+
+- katere letni prihodki znašajo najmanj 1.000.000 eurov.
+
+(2) Register podjetij z visoko dodano vrednostjo vodi Javni sklad Republike Slovenije za podjetništvo (v nadaljnjem besedilu: sklad). Zoper odločitev sklada ni pritožbe, možen je upravni spor.
+
+(3) V register podjetij z visoko dodano vrednostjo se vpiše gospodarska družba iz prvega odstavka tega člena, ki izpolnjuje naslednje pogoje:
+
+- je ustanovljena vsaj tri leta,
+
+- ni v postopku likvidacije ali stečaja,
+
+- je za dohodke iz delovnega razmerja za obdobje zadnjih šestih mesecev predlagala obračune davčnega odtegljaja in nima neporavnanih zapadlih davčnih obveznosti.
+
+(4) Pogoje iz prvega odstavka tega člena preverja sklad ob vpisu v register podjetij z visoko dodano vrednostjo ter najmanj enkrat letno. Pogoje iz prejšnjega odstavka preverja sklad ob vpisu v register podjetij z visoko dodano vrednostjo ter na začetku vsakega trimesečnega obdobja v koledarskem letu.
+
+(5) Gospodarska družba, vpisana v register podjetij z visoko dodano vrednostjo, je dolžna sklad pisno obvestiti o tem, da ne izpolnjuje več pogojev iz tretjega odstavka tega člena, v 30 dneh od nastanka dogodka.
+
+(6) Sklad izbriše gospodarsko družbo iz registra podjetij z visoko dodano vrednostjo, če ugotovi, da ne izpolnjuje več pogojev iz prvega ali tretjega odstavka tega člena.
+
+(7) Sklad podatke iz tretje alineje tretjega odstavka tega člena, ki jih potrebuje za izvajanje svojih pristojnosti v skladu s tem zakonom, brezplačno pridobiva iz evidenc Finančne uprave Republike Slovenije.
+
+(8) Minister s pravilnikom podrobneje predpiše vzpostavitev, vodenje in način javne objave registra podjetij z visoko dodano vrednostjo, podatke, ki se vodijo v registru, način, vsebino in obliko prijave vpisa ter izbrisa iz registra.
+
+#### 31. člen
+
+**(register inovativnih zagonskih podjetij)**
+
+(1) Inovativno zagonsko podjetje je neodvisna gospodarska družba, ki razvija ali trži inovativni izdelek, storitev ali poslovni model z visokim potencialom.
+
+(2) Register inovativnih zagonskih podjetij vodi sklad. Zoper odločitev sklada ni pritožbe, možen je upravni spor.
+
+(3) V register inovativnih zagonskih podjetij se vpiše gospodarska družba iz prvega odstavka tega člena, ki izpolnjuje naslednje pogoje:
+
+- je organizirana kot kapitalska družba in od njenega vpisa v Poslovni register Slovenije ni preteklo manj kot en mesec in ne več kot pet let,
+
+- je neodvisna gospodarska družba skladno s [Prilogo I k Uredbi 651/2014/EU](http://data.europa.eu/eli/reg/2014/651/anx_1/oj "to EUR-Lex") in Smernicami Evropske komisije za opredelitev malih in srednje velikih podjetij,
+
+- ni v postopku likvidacije ali stečaja,
+
+- ima za poln delovni čas zaposleno in vključeno v obvezna socialna zavarovanja na tej podlagi najmanj eno osebo,
+
+- je za dohodke iz delovnega razmerja za obdobje zadnjih šestih mesecev ali za čas poslovanja, če je ta krajši od šest mesecev, predlagala obračune davčnega odtegljaja in nima neporavnanih zapadlih davčnih obveznosti in
+
+- izkazuje inovativnost in potencial z razvojem proizvoda, storitve ali poslovnega modela, ki so novi ali znatno boljši v primerjavi z najsodobnejšimi postopki v svoji gospodarski panogi.
+
+(4) Pogoja iz druge in šeste alineje prejšnjega odstavka preverja sklad ob vpisu v register inovativnih zagonskih podjetij ter najmanj enkrat letno. Pogoje iz prve, tretje, četrte in pete alineje prejšnjega odstavka preverja sklad ob vpisu v register inovativnih zagonskih podjetij ter na začetku vsakega trimesečnega obdobja v koledarskem letu. Pri preverjanju pogoja iz šeste alineje prejšnjega odstavka, sklad lahko vključi zunanje strokovnjake.
+
+(5) Gospodarska družba, vpisana v register inovativnih zagonskih podjetij, je dolžna sklad pisno obvestiti o tem, da ne izpolnjuje več pogojev iz tretjega odstavka tega člena, v 30 dneh od nastanka dogodka.
+
+(6) Sklad izbriše gospodarsko družbo iz registra inovativnih zagonskih podjetij, če ugotovi, da ne izpolnjuje več pogojev iz tretjega odstavka tega člena.
+
+(7) Sklad podatke iz pete alineje tretjega odstavka tega člena, ki jih potrebuje za izvajanje svojih pristojnosti v skladu s tem zakonom, brezplačno pridobiva iz evidenc Finančne uprave Republike Slovenije.
+
+(8) Minister s pravilnikom podrobneje predpiše vzpostavitev, vodenje in način javne objave registra inovativnih zagonskih podjetij, podatke, ki se vodijo v registru, način, vsebino in obliko prijave vpisa ter izbrisa iz registra.
+
+## VI.a PREGLED NEPOSREDNIH TUJIH NALOŽB
+
+#### 31.a člen
+
+**(priglasitev neposredne tuje naložbe)**
+
+(1) Neposredno tujo naložbo na področju dejavnosti iz petega odstavka 31.č člena tega zakona mora tuji vlagatelj ali ciljna družba ali prevzeta družba priglasiti ministrstvu najpozneje v 15 dneh od sklenitve pravnega posla, s katerim tuji vlagatelj v gospodarski družbi s sedežem v Republiki Sloveniji neposredno ali posredno pridobi najmanj 10 % udeležbe v kapitalu ali v glasovalnih pravicah ali od objave prevzemne ponudbe. Obveznost priglasitve ne preneha, če tuji vlagatelj ali ciljna družba oziroma prevzeta družba priglasitve ne opravi v roku iz prejšnjega stavka.
+
+(2) Neposredno tujo naložbo na področju dejavnosti iz petega odstavka 31.č člena tega zakona, s katero želi tuji vlagatelj izvesti naložbo v opredmetena in neopredmetena sredstva, ki se nanašajo na vzpostavitev nove poslovne enote, s katero tuji vlagatelj v novoustanovljeni gospodarski družbi s sedežem v Republiki Sloveniji neposredno ali posredno pridobi najmanj 10 % udeležbe v kapitalu ali v glasovalnih pravicah, mora tuji vlagatelj ali novoustanovljena gospodarska družba priglasiti najpozneje v 15 dneh od vpisa ustanovitve gospodarske družbe v sodni register v Republiki Sloveniji. Obveznost priglasitve ne preneha, če tuji vlagatelj ali novoustanovljena gospodarska družba priglasitve ne opravi v roku iz prejšnjega stavka.
+
+(3) Neposredna tuja naložba na področju dejavnosti iz petega odstavka 31.č člena tega zakona se priglasi tako, da se predložijo naslednje informacije in podatki:
+
+- ime, priimek in prebivališče ali firma in sedež tujega vlagatelja in ciljne družbe ali prevzete družbe ali novoustanovljene družbe,
+
+- letni promet tujega vlagatelja in ciljne družbe ali prevzete družbe,
+
+- skupno število zaposlenih pri tujem vlagatelju in ciljni družbi ali prevzeti družbi ali novoustanovljeni družbi,
+
+- trgovalna koda vrednostnih papirjev tujega vlagatelja in ciljne družbe ali prevzete družbe ali novoustanovljene družbe, če s trgovalno kodo razpolagata,
+
+- lastniška struktura tujega vlagatelja in ciljne družbe ali prevzete družbe ali novoustanovljene družbe, vključno z informacijami o končnem vlagatelju in udeležbi v kapitalu ter glasovalnih pravicah,
+
+- vrednost in vir financiranja neposredne tuje naložbe,
+
+- proizvodi, storitve in poslovne dejavnosti tujega vlagatelja in ciljne družbe ali prevzete družbe ali novoustanovljene družbe (klasifikacija gospodarske dejavnosti SKD),
+
+- države, v katerih tuji vlagatelj in ciljna družba ali prevzeta družba opravljata pomembne poslovne dejavnosti,
+
+- datum, ko naj bi bila neposredna tuja naložba končana ali ko je bila končana,
+
+- podroben opis neposredne tuje naložbe,
+
+- opredelitev do šestega odstavka 31.č člena tega zakona,
+
+- opredelitev in predložitev dokazil, ki izkazujejo resničnost podatkov iz tega odstavka.
+
+(4) Če ciljna ali prevzeta družba ali novoustanovljena družba ne razpolagajo s podatki iz prejšnjega odstavka, v priglasitvi to jasno in utemeljeno obrazložijo.
+
+(5) Informacije iz tretjega odstavka tega člena se uporabljajo v skladu z namenom [Uredbe 2019/452/EU](http://data.europa.eu/eli/reg/2019/452/oj "to EUR-Lex") in poglavja VI.a tega zakona, ki določa postopek priglasitve in pregleda neposrednih tujih naložb ter pristojne organe za izvajanje [Uredbe 2019/452/EU](http://data.europa.eu/eli/reg/2019/452/oj "to EUR-Lex").
+
+(6) Naloge v zvezi z izvajanjem [Uredbe 2019/452/EU](http://data.europa.eu/eli/reg/2019/452/oj "to EUR-Lex") v Republiki Sloveniji kot kontaktna točka opravlja ministrstvo. Kontaktna točka skrbi za letno poročanje Evropski komisiji, izmenjavo informacij, mnenj in pripomb z Evropsko komisijo in državami članicami.
+
+#### 31.b člen
+
+**(poziv k dodatnim pojasnilom ali obrazložitvi)**
+
+Komisija za priglasitve iz prvega odstavka 31.c člena tega zakona in strokovna skupina iz prvega odstavka 31.d člena tega zakona lahko v primeru nejasnosti v okviru izvajanja [Uredbe 2019/452/EU](http://data.europa.eu/eli/reg/2019/452/oj "to EUR-Lex") tujega vlagatelja ali ciljno družbo ali prevzeto družbo ali novoustanovljeno družbo v Republiki Sloveniji v zvezi z neposredno tujo naložbo na področju dejavnosti iz petega odstavka 31.č člena tega zakona pozoveta, naj pisno ali ustno poda pojasnila ali dodatno obrazložitev ter za to predloži ustrezne dokaze v roku, ki ga določi komisija za priglasitve iz prvega odstavka 31.c člena tega zakona oziroma strokovna skupina iz prvega odstavka 31.d člena tega zakona.
+
+#### 31.c člen
+
+**(predhodni postopek pregleda)**
+
+(1) Priglasitve iz 31.a člena tega zakona obravnava komisija za priglasitve, ki jo ustanovi minister. Komisija za priglasitve ima predsednika, enega namestnika in najmanj tri člane, od katerih sta dva predstavnika javne agencije.
+
+(2) Komisija za priglasitve v predhodnem postopku najprej preizkusi, ali:
+
+- tuji vlagatelj izpolnjuje pogoje tujega vlagatelja iz trinajste alineje 2. člena tega zakona,
+
+- priglašeni pravni posel oziroma transakcija je neposredna tuja naložba iz dvanajste alineje 2. člena tega zakona,
+
+- je bila priglasitev vložena v roku, kot je določen v 31.a členu tega zakona,
+
+- se dejavnost ciljne družbe ali prevzete družbe ali novoustanovljene družbe v Republiki Sloveniji nanaša na kritične dejavnosti iz petega odstavka 31.č člena tega zakona.
+
+(3) Če komisija za priglasitve ugotovi, da ni izpolnjen pogoj iz prve ali druge ali četrte alineje prejšnjega odstavka, o tem izda mnenje.
+
+(4) Če komisija za priglasitve ugotovi, da so izpolnjeni pogoji iz prve, druge in četrte alineje drugega odstavka tega člena, v nadaljevanju predhodnega postopka vlogo vsebinsko presoja na podlagi meril iz petega in šestega odstavka 31.č člena tega zakona.
+
+(5) Če komisija za priglasitve ugotovi, da ima neposredna tuja naložba neznaten vpliv na javni red in varnost v Republiki Sloveniji oziroma ga nima, o tem izda mnenje.
+
+(6) Če komisija za priglasitve ugotovi, da se neposredna tuja naložba izvaja na področju dejavnosti iz petega odstavka 31.č člena tega zakona in da bi lahko imela vpliv na javni red ali varnost v Republiki Sloveniji, z mnenjem predlaga uvedbo postopka pregleda.
+
+(7) Ministrstvo na podlagi mnenja komisije za priglasitve iz tretjega in petega odstavka tega člena izda odločbo. Zoper odločbo ministrstva pritožba ni dovoljena, je pa dovoljen upravni spor.
+
+(8) Ministrstvo na podlagi mnenja komisije za priglasitve iz šestega odstavka tega člena izda sklep, s katerim uvede postopek pregleda. Zoper sklep iz prejšnjega stavka ni sodnega varstva.
+
+#### 31.č člen
+
+**(pregled)**
+
+(1) Pregled je postopek, v katerem ministrstvo odloča o tem, ali se neposredna tuja naložba na področju dejavnosti iz petega odstavka tega člena odobri, omejeno odobri, tako da se določijo pogoji za njeno izvedbo, ali prepove, če lahko vpliva na varnost ali javni red Republike Slovenije.
+
+(2) Strokovna skupina iz prvega odstavka 31.d člena tega zakona, ki jo po uvedbi postopka pregleda iz osmega odstavka prejšnjega člena s sklepom imenuje minister, opravi pregled posamezne tuje naložbe na področju dejavnosti iz petega odstavka tega člena in poda mnenje iz šestega odstavka 31.d člena tega zakona najpozneje v dveh letih v primerih:
+
+- iz prvega odstavka 31.a člena tega zakona od sklenitve pravnega posla, s katerim tuji vlagatelj v gospodarski družbi s sedežem v Republiki Sloveniji neposredno ali posredno pridobi najmanj 10 % udeležbe v kapitalu ali v glasovalnih pravicah ali od objave prevzemne ponudbe, in
+
+- iz drugega odstavka 31.a člena tega zakona od vpisa ustanovitve gospodarske družbe v sodni register v Republiki Sloveniji, s katero tuji vlagatelj v novoustanovljeni gospodarski družbi s sedežem v Republiki Sloveniji neposredno ali posredno pridobi najmanj 10 % udeležbe v kapitalu ali v glasovalnih pravicah.
+
+(3) Ministrstvo lahko na podlagi mnenja komisije za priglasitve uvede postopek pregleda posamezne tuje naložbe na področju dejavnosti iz petega odstavka tega člena, če v dveh letih od sklenitve pravnega posla ali od objave prevzemne ponudbe iz prve alineje drugega odstavka tega člena ali od vpisa ustanovitve gospodarske družbe v sodni register v Republiki Sloveniji iz druge alineje drugega odstavka tega člena pridobi informacije, da je tuji vlagatelj, ki je izvedel neposredno tujo naložbo v Republiki Sloveniji, vključen v dejavnosti iz petega odstavka tega člena, ki so vplivale ali bi lahko vplivale na varnost ali javni red v državi članici Evropske unije, ali se ukvarja z nezakonitimi ali kriminalnimi dejavnostmi iz šestega odstavka tega člena. Strokovna skupina opravi postopek pregleda in izda mnenje v roku dveh let od uvedbe postopka pregleda.
+
+(4) Ministrstvo lahko v primerih in v roku iz prejšnjega odstavka po uradni dolžnosti uvede postopek ponovnega pregleda tudi v primeru, če je bila že izdana odločba iz sedmega odstavka prejšnjega člena ali če je bila izdana odločba iz prvega odstavka 31.e člena tega zakona. Če ministrstvo v primeru iz prejšnjega stavka na podlagi mnenja komisije za priglasitve uvede postopek pregleda, strokovna skupina opravi postopek pregleda in izda mnenje v roku dveh let od uvedbe postopka pregleda. Če strokovna skupina ugotovi, da neposredna tuja naložba lahko vpliva na varnost ali javni red Republike Slovenije, ministrstvo že izdano odločbo iz sedmega odstavka prejšnjega člena ali prvega odstavka 31.e člena tega zakona razveljavi in z isto odločbo odloči, ali tujo neposredno naložbo omejeno odobri, tako da se določijo pogoji za njeno izvedbo, ali prepove.
+
+(5) Neposredna tuja naložba lahko vpliva na varnost ali javni red Republike Slovenije zlasti v primerih, ko ciljna družba ali prevzeta družba ali novoustanovljena družba s sedežem v Republiki Sloveniji dejansko in pretežno izvaja dejavnost na enem od naštetih kritičnih področij:
+
+- kritična infrastruktura, bodisi fizična ali virtualna, vključno z infrastrukturo na področju energetike, prometa, vode, zdravja, komunikacij, medijev, obdelave ali hrambe podatkov, letalskega in vesoljskega sektorja ter obrambno, volilno ali finančno infrastrukturo in občutljivimi objekti ter tudi zemljišči in nepremičninami, ki so bistveni za uporabo takšne infrastrukture;
+
+- kritična tehnologija in blago z dvojno rabo, vključno z umetno inteligenco, robotiko, polprevodniki, kibernetsko varnostjo, letalsko in vesoljsko ter obrambno tehnologijo, tehnologijo za shranjevanje energije, kvantno in jedrsko tehnologijo ter tudi nanotehnologijo in biotehnologijo;
+
+- dobava kritičnih virov, vključno z energijo ali surovinami, ter prehranska varnost;
+
+- dostop do občutljivih informacij, vključno z osebnimi podatki, ali sposobnost nadziranja takšnih informacij;
+
+- svoboda in pluralnost medijev ali
+
+- projekti ali programi v interesu Evropske unije, opredeljeni v [Prilogi I Uredbe 2019/452/EU](http://data.europa.eu/eli/reg/2019/452/anx_1/oj "to EUR-Lex").
+
+(6) Ministrstvo pri ugotavljanju, ali lahko neposredna tuja naložba vpliva na varnost ali javni red, upošteva zlasti, ali:
+
+- je tuji vlagatelj neposredno ali posredno pod nadzorom vlade, vključno z državnimi organi ali oboroženimi silami tretje države, tudi prek lastniške strukture ali znatnega financiranja;
+
+- je bil tuji vlagatelj že vključen v dejavnosti, ki so vplivale na varnost ali javni red v državi članici;
+
+- obstaja resno tveganje, da se tuji vlagatelj ukvarja z nezakonitimi ali kriminalnimi dejavnostmi;
+
+- je tuji vlagatelj s pravnim poslom, ki je predmet priglasitve, dosegel prevzemni prag v ciljni družbi (tretjinski delež glasovalnih pravic v tej družbi) ali je po končanem postopku uspešne prevzemne ponudbe pridobil 10-odstotni delež glasovalnih pravic v ciljni družbi ali z uspešno prevzemno ponudbo pridobil najmanj 75-odstotni delež vseh delnic ciljne družbe z glasovalno pravico;
+
+- ima tuji vlagatelj prek ciljne ali prevzete družbe ali novoustanovljene družbe na območju Republike Slovenije na področju kritičnih dejavnosti najmanj 20-odstotni tržni delež;
+
+- je tuji vlagatelj v ciljni ali prevzeti družbi s pravnim poslom, ki je predmet priglasitve, dosegel 25- ali 50-odstotno udeležbo v kapitalu ali glasovalnih pravicah.
+
+#### 31.d člen
+
+**(strokovna skupina)**
+
+(1) Pregled neposrednih tujih naložb na področju dejavnosti iz petega odstavka prejšnjega člena opravlja strokovna skupina.
+
+(2) Strokovna skupina ima najmanj tri in največ deset članov. Predsednik in dva člana se za pregled posamezne neposredne tuje naložbe imenujejo iz vrst zaposlenih na ministrstvu ter drugih državnih organov, ki delujejo na področju dejavnosti iz petega odstavka prejšnjega člena, na katerem se posamezna neposredna tuja naložba izvaja, pri čemer je najmanj en član predstavnik drugega državnega organa.
+
+(3) Strokovna skupina po potrebi pridobi tudi mnenje druge pravne osebe javnega ali zasebnega prava, ki deluje na področju dejavnosti iz petega odstavka prejšnjega člena, glede ocene vpliva neposredne tuje naložbe na javni red in varnost z vidika njihove pristojnosti.
+
+(4) Predsednik in člani strokovne skupine morajo pred začetkom posameznega pregleda neposrednih tujih naložb na področju dejavnosti iz petega odstavka prejšnjega člena podati pisno izjavo o interesni nepovezanosti s tujim vlagateljem in ciljno družbo ali prevzeto družbo ali novoustanovljeno družbo ter izjavo, da bodo varovali vse podatke, dejstva in okoliščine, s katerimi se bodo seznanili pri opravljanju nalog skupine.
+
+(5) Strokovna skupina delo konča s pripravo mnenja, s katerim ugotovi, ali neposredna tuja naložba vpliva na varnost ali javni red Republike Slovenije, in predlaga, da se neposredna tuja naložba na področju dejavnosti iz petega odstavka prejšnjega člena bodisi odobri, omejeno odobri, tako da se določijo pogoji za njeno izvedbo, ali prepove. Strokovna skupina svoje mnenje predloži ministru.
+
+#### 31.e člen
+
+**(odločitev v postopku pregleda)**
+
+(1) Na podlagi mnenja strokovne skupine iz petega odstavka prejšnjega člena ministrstvo izda odločbo o tem, ali se neposredna tuja naložba odobri, omejeno odobri, tako da se določijo pogoji za njeno izvedbo, ali prepove. Ministrstvo izda odločbo iz prejšnjega stavka v roku dveh mesecev po prejemu mnenja strokovne skupine.
+
+(2) Odločitev v postopku pregleda je omejena na to, ali neposredna tuja naložba lahko vpliva na varnost ali javni red Republike Slovenije.
+
+(3) Neposredna tuja naložba se odobri, če je vpliv na javni red in varnost v Republiki Sloveniji neznaten oziroma ga ni.
+
+(4) Pogoji za izvedbo neposredne tuje naložbe se določijo, če je ugotovljen vpliv na varnost ali javni red Republike Slovenije, vendar se vpliv z določitvijo pogojev lahko omili ali prepreči. Pogoji za izvedbo se določijo za določen čas, ki ni daljši od deset let, in so lahko zlasti:
+
+- prepoved prodaje avtorskih in sorodnih pravic v lasti ciljne družbe ali prevzete družbe ali novoustanovljene družbe fizičnim ali pravnim subjektom iz tretjih držav,
+
+- prepoved prodaje določenih opredmetenih in neopredmetenih osnovnih sredstev, pridobljenih z neposredno tujo naložbo,
+
+- prepoved poslovnega sodelovanja s pravno ali fizično osebo, ki vpliva na javni red ali varnost v kateri koli od držav članic, če je to ugotovila bodisi država članica bodisi Evropska komisija,
+
+- obveznost znižanja deleža, ki se pridobiva v ciljni družbi ali prevzeti družbi ali novoustanovljeni družbi,
+
+- zaveza, da se bodo določeni deli ciljne družbe ali prevzete družbe ali novoustanovljene družbe ohranili v Republiki Sloveniji,
+
+- obveznost premestitve določenih občutljivih dejavnosti iz ciljne družbe ali prevzete družbe ali novoustanovljene družbe v Republiki Sloveniji v drugo pravno osebo s sedežem v Republiki Sloveniji,
+
+- prepoved določenih ravnanj na trgu Republike Slovenije,
+
+- obveznost kontinuiranega opravljanja prvotne dejavnosti ciljne družbe ali prevzete družbe ali novoustanovljene družbe v Republiki Sloveniji,
+
+- obveznost zagotavljanja blaga in storitev iz prvotne dejavnosti ciljne družbe ali prevzete družbe.
+
+(5) V primeru, ko je neposredna tuja naložba dovoljena pod pogojem, da se nepremičnine, ki so povezane z neposredno tujo naložbo, ne odtujijo, se prepoved odtujitve zaznamuje v zemljiški knjigi.
+
+(6) V primeru neupoštevanja odločbe glede izrečenih pogojev za izvedbo neposredne tuje naložbe iz prvega odstavka tega člena ministrstvo z odločbo prepove neposredno tujo naložbo ter izreče ukrepe v skladu z drugim stavkom sedmega odstavka tega člena.
+
+(7) Neposredna tuja naložba se prepove, če je ugotovljen vpliv na varnost ali javni red Republike Slovenije, vendar ga z določitvijo pogojev ni mogoče omiliti ali preprečiti. V odločbi o prepovedi lahko ministrstvo tujemu vlagatelju naloži ukrepe, s katerimi se preprečijo nedopustni vplivi na varnost ali javni red, zlasti odsvojitev pridobljenih deležev.
+
+(8) Zoper odločbo ministrstva pritožba ni dovoljena, je pa dovoljen upravni spor.
+
+(9) Tuji vlagatelj ali ciljna družba ali prevzeta družba ali novoustanovljena družba mora o sprejetju ukrepov glede upoštevanja pogojev iz četrtega odstavka tega člena vsakoletno poročati ministrstvu do izteka izrečenih ukrepov.
+
+## VII. NADZOR
+
+#### 32. člen
+
+**(nadzor)**
+
+(1) Nadzor nad izvajanjem pogodb o dodelitvi subvencij iz 18. člena tega zakona, preverjanjem namenske porabe subvencij in pogodb o izvedbi strateških investicij iz 24. člena tega zakona, določb prvega, drugega, tretjega in četrtega odstavka 31.a člena tega zakona, 31.b člena tega zakona ter določb prvega in devetega odstavka 31.e člena tega zakona izvaja ministrstvo.
+
+(2) Nadzor nad izvajanjem pogodb o dodelitvi subvencij iz 14. člena tega zakona in preverjanjem namenske porabe subvencij izvaja javna agencija.
+
+(3) Ministrstvo predloži vladi letno poročilo o dodeljenih spodbudah najkasneje do 31. marca tekočega leta za preteklo leto.
+
+(4) Javna agencija in ministrstvo učinke zastavljenih ciljev pri posamezni gospodarski družbi objavita na svoji spletni strani.
+
+## VII.a KAZENSKE DOLOČBE
+
+#### 32.a člen
+
+**(prekrški v zvezi s priglasitvijo in pregledom neposrednih tujih naložb)**
+
+(1) Z globo od 100.000 do 250.000 eurov se za prekršek kaznuje pravna oseba, če pa se pravna oseba po zakonu, ki ureja gospodarske družbe, šteje za srednjo ali veliko gospodarsko družbo, pa z globo od 200.000 do 500.000 eurov, če:
+
+1. ne priglasi neposredne tuje naložbe v 15 dneh od sklenitve pravnega posla ali od objave prevzemne ponudbe, s katero tuji vlagatelj v gospodarski družbi s sedežem v Republiki Sloveniji neposredno ali posredno pridobi najmanj 10 % udeležbe v kapitalu ali v glasovalnih pravicah (prvi odstavek 31.a člena);
+
+2. ne priglasi neposredne tuje naložbe v 15 dneh od vpisa ustanovitve nove gospodarske družbe v sodni register v Republiki Sloveniji, s katero neposredno ali posredno pridobi najmanj 10 % udeležbe v kapitalu ali v glasovalnih pravicah v novoustanovljeni gospodarski družbi (drugi odstavek 31.a člena);
+
+3. ne priglasi vseh informacij o neposredni tuji naložbi v skladu s tretjim oziroma četrtim odstavkom 31.a člena tega zakona;
+
+4. komisiji za priglasitve ali strokovni skupini v roku ne pošlje dodatnih pojasnil ali obrazložitev ali ne predloži ustreznih dokazov (31.b člen);
+
+5. ne upošteva prepovedi ali pogojev za izvedbo neposredne tuje naložbe (prvi odstavek 31.e člena);
+
+6. ne poroča ministrstvu v skladu z devetim odstavkom 31.e člena tega zakona.
+
+(2) Z globo od 50.000 do 150.000 eurov se za prekršek iz prejšnjega odstavka kaznuje samostojni podjetnik posameznik ali posameznik, ki samostojno opravlja dejavnost.
+
+(3) Z globo od 2.000 do 10.000 eurov se za prekršek iz prvega odstavka tega člena kaznuje odgovorna oseba pravne osebe, odgovorna oseba samostojnega podjetnika posameznika oziroma odgovorna oseba posameznika, ki samostojno opravlja dejavnost.
+
+(4) Z globo od 1.000 do 5.000 eurov se za prekršek iz prvega odstavka tega člena kaznuje tudi posameznik.
+
+## VIII. PREHODNE IN KONČNE DOLOČBE
+
+#### 33. člen
+
+**(prenehanje veljavnosti predpisov)**
+
+(1) Z dnem uveljavitve tega zakona preneha veljati Zakon o spodbujanju tujih investicij in internacionalizacije podjetij (Uradni list RS, št. 107/06 – uradno prečiščeno besedilo, 11/11, 57/12 in 17/15), uporablja pa se do začetka uporabe tega zakona.
+
+(2) Z dnem uveljavitve tega zakona preneha veljati Uredba o finančnih spodbudah za tuje neposredne investicije (Uradni list RS, št. 62/14) in Uredba o organizaciji, upravljanju in načinu delovanja predstavništev Javne agencije Republike Slovenije za podjetništvo in tuje investicije v tujini (Uradni list RS, št. 94/06 in 41/08), ki se uporabljata do uveljavitve predpisov, izdanih na podlagi tega zakona.
+
+(3) Postopki, začeti pred začetkom uporabe tega zakona na podlagi 7.b člena Zakona o spodbujanju tujih investicij in internacionalizacije podjetij (Uradni list RS, št. 107/06 – uradno prečiščeno besedilo, 11/11, 57/12 in 17/15), se dokončajo po dosedanjih predpisih.
+
+#### 34. člen
+
+**(rok za izdajo podzakonskih predpisov)**
+
+(1) Vlada najpozneje v šestih mesecih od uveljavitve tega zakona sprejme uredbo iz sedmega odstavka 4. člena, tretjega odstavka 5. člena in tretjega odstavka 28. člena tega zakona.
+
+(2) Minister obrazce iz drugega odstavka 15. člena tega zakona in petega odstavka 21. člena tega zakona izda v šestih mesecih od uveljavitve tega zakona.
+
+(3) Minister izda pravilnik iz osmega odstavka 30. člena tega zakona in iz osmega odstavka 31. člena tega zakona v šestih mesecih od uveljavitve tega zakona.
+
+#### 35. člen
+
+**(uskladitev sklepa o ustanovitvi agencije)**
+
+(1) V Zakonu o podpornem okolju za podjetništvo (Uradni list RS, št. 102/07, 57/12, 82/13, 17/15 in 27/17) se v prvem odstavku 7. člena črta beseda »tujih«.
+
+(2) Javna agencija Republike Slovenije za spodbujanje podjetništva, internacionalizacije, tujih investicij in tehnologije z dnem uveljavitve tega zakona nadaljuje z delom na področju spodbujanja podjetništva, internacionalizacije, investicij in tehnologije v skladu s tem zakonom.
+
+(3) Vlada v šestih mesecih od uveljavitve tega zakona uskladi Sklep o ustanovitvi Javne agencije Republike Slovenije za spodbujanje podjetništva, internacionalizacije, tujih investicij in tehnologije (Uradni list RS, št. 93/15) s tem zakonom.
+
+#### 36. člen
+
+**(uveljavitev zakona)**
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije, uporabljati pa se začne 1. julija 2018.

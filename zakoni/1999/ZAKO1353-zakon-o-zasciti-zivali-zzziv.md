@@ -1,0 +1,1591 @@
+---
+title: "Zakon o zaščiti živali (ZZZiv)"
+identifier: "ZAKO1353"
+abbreviation: "ZZZiv"
+type: act
+jurisdiction: si
+language: sl
+act_kind: "Zakon"
+date: 1999-11-18
+published: 1999-12-03
+in_force_from: 1999-12-18
+last_amended: 2025-08-05
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "NPB 13 (neuradno prečiščeno besedilo)"
+citation: "Uradni list RS, št. 38/13 – uradno prečiščeno besedilo, 21/18 – ZNOrg, 92/20, 159/21, 109/23, 12/25 – odl. US in 60/25"
+adopted_by: "Državni zbor Republike Slovenije"
+eva: "1998-2311-0228"
+epa: "0759"
+sop: "1999-01-4617"
+source: "https://pisrs.si/pregledPredpisa?id=ZAKO1353"
+retrieved: 2026-10-12
+---
+
+# Zakon o zaščiti živali (ZZZiv)
+
+*Opozorilo: Neuradno prečiščeno besedilo predpisa predstavlja zgolj informativni delovni pripomoček, glede katerega organ ne jamči odškodninsko ali kako drugače.*
+
+Neuradno prečiščeno besedilo Zakona o zaščiti živali obsega:
+
+- Zakon o zaščiti živali – ZZZiv (Uradni list RS, št. 98/99 z dne 3. 12. 1999),
+
+- Zakon o spremembi in dopolnitvi zakona o zaščiti živali – ZZZiv-A (Uradni list RS, št. 126/03 z dne 18. 12. 2003),
+
+- Zakon o zaščiti živali – uradno prečiščeno besedilo – ZZZiv-UPB1 (Uradni list RS, št. 20/04 z dne 4. 3. 2004),
+
+- Zakon o društvih – ZDru-1 (Uradni list RS, št. 61/06 z dne 13. 6. 2006),
+
+- Zakon o spremembah in dopolnitvah Zakona o zaščiti živali – ZZZiv-B (Uradni list RS, št. 14/07 z dne 16. 2. 2007),
+
+- Zakon o zaščiti živali – uradno prečiščeno besedilo – ZZZiv-UPB2 (Uradni list RS, št. 43/07 z dne 18. 5. 2007),
+
+- Zakon o spremembah in dopolnitvah Zakona o zaščiti živali – ZZZiv-C (Uradni list RS, št. 23/13 z dne 18. 3. 2013),
+
+- Zakon o zaščiti živali – uradno prečiščeno besedilo – ZZZiv-UPB3 (Uradni list RS, št. 38/13 z dne 3. 5. 2013),
+
+- Zakon o nevladnih organizacijah – ZNOrg (Uradni list RS, št. 21/18 z dne 30. 3. 2018),
+
+- Zakon o spremembah in dopolnitvah Zakona o zaščiti živali – ZZZiv-D (Uradni list RS, št. 92/20 z dne 29. 6. 2020),
+
+- Zakon o spremembah in dopolnitvah Zakona o zaščiti živali – ZZZiv-E (Uradni list RS, št. 159/21 z dne 1. 10. 2021),
+
+- Zakon o spremembah in dopolnitvah Zakona o zaščiti živali – ZZZiv-F (Uradni list RS, št. 109/23 z dne 27. 10. 2023),
+
+- Odločbo o razveljavitvi šestega in sedmega odstavka 36.b člena Zakona o zaščiti živali in o ugotovitvi, da prvi do peti ter osmi in deveti odstavek 36.b člena, 36.c in 36.č člen ter tretja alineja 43. člena Zakona o zaščiti živali niso v neskladju z Ustavo (Uradni list RS, št. 12/25 z dne 26. 2. 2025),
+
+- Zakon o spremembah in dopolnitvah Zakona o zaščiti živali – ZZZiv-G (Uradni list RS, št. 60/25 z dne 5. 8. 2025).
+
+**ZAKON**
+
+**O ZAŠČITI ŽIVALI (ZZZiv)**
+
+*(neuradno prečiščeno besedilo št. 13)*
+
+## I. SPLOŠNE DOLOČBE
+
+#### 1. člen
+
+Ta zakon določa odgovornost ljudi za zaščito živali kot čutečih živih bitij, to je zaščito njihovega življenja, zdravja in dobrobiti; določa pravila za dobro ravnanje z živalmi; določa, kaj se šteje za mučenje živali in katera ravnanja oziroma posegi na živalih so prepovedani; določa pogoje, ki jih je za zaščito živali treba zagotoviti pri reji in vzreji živali, prevozu, izvajanju določenih posegov in postopkov na živalih, zakolu in usmrtitvi živali; ureja postopek, pravice in obveznosti v primerih, ko gre za zapuščene živali in živali v oskrbi; ureja nevladne organizacije, ki delujejo v javnem interesu na področju zaščite živali; ureja nadzorstvo nad izvajanjem tega zakona ter določa kazenske sankcije za kršitelje določb tega zakona.
+
+Ta zakon določa tudi ravnanje z ribami, divjadjo, lovskimi psi in službenimi živalmi državnih organov, če ni s predpisi, ki urejajo ribištvo, divjad, lovstvo in organiziranost, naloge ali pooblastila državnih organov določeno drugače.
+
+S tem zakonom se v pravni red Republike Slovenije prenašata naslednji direktivi Evropske unije:
+
+- [Direktiva Sveta 98/58/ES](http://data.europa.eu/eli/dir/1998/58/oj "to EUR-Lex") z dne 20. julija 1998 o zaščiti rejnih živali (UL L št. 221 z dne 8. 8. 1998, str. 23), zadnjič spremenjena z [Uredbo (EU) 2017/625](http://data.europa.eu/eli/reg/2017/625/oj "to EUR-Lex") Evropskega parlamenta in Sveta z dne 15. marca 2017 o izvajanju uradnega nadzora in drugih uradnih dejavnosti, da se zagotovi uporaba zakonodaje o živilih in krmi, pravil o zdravju in dobrobiti živali ter zdravju rastlin in fitofarmacevtskih sredstvih, ter o spremembi [uredb (ES) št. 999/2001](http://data.europa.eu/eli/reg/2001/999/oj "to EUR-Lex"), [(ES) št. 396/2005](http://data.europa.eu/eli/reg/2005/396/oj "to EUR-Lex"), [(ES) št. 1069/2009](http://data.europa.eu/eli/reg/2009/1069/oj "to EUR-Lex"), [(ES) št. 1107/2009](http://data.europa.eu/eli/reg/2009/1107/oj "to EUR-Lex"), [(EU) št. 1151/2012](http://data.europa.eu/eli/reg/2012/1151/oj "to EUR-Lex"), [(EU) št. 652/2014](http://data.europa.eu/eli/reg/2014/652/oj "to EUR-Lex"), [(EU) 2016/429](http://data.europa.eu/eli/reg/2016/429/oj "to EUR-Lex") in [(EU) 2016/2031](http://data.europa.eu/eli/reg/2016/2031/oj "to EUR-Lex") Evropskega parlamenta in Sveta, [uredb Sveta (ES) št. 1/2005](http://data.europa.eu/eli/reg/2005/1/oj "to EUR-Lex") in [(ES) št. 1099/2009](http://data.europa.eu/eli/reg/2009/1099/oj "to EUR-Lex") ter [direktiv Sveta 98/58/ES](http://data.europa.eu/eli/dir/1998/58/oj "to EUR-Lex"), [1999/74/ES](http://data.europa.eu/eli/dir/1999/74/oj "to EUR-Lex"), [2007/43/ES](http://data.europa.eu/eli/dir/2007/43/oj "to EUR-Lex"), [2008/119/ES](http://data.europa.eu/eli/dir/2008/119/oj "to EUR-Lex") in [2008/120/ES](http://data.europa.eu/eli/dir/2008/120/oj "to EUR-Lex") ter razveljavitvi [uredb (ES) št. 854/2004](http://data.europa.eu/eli/reg/2004/854/oj "to EUR-Lex") in [(ES) št. 882/2004](http://data.europa.eu/eli/reg/2004/882/oj "to EUR-Lex") Evropskega parlamenta in Sveta, [direktiv Sveta 89/608/EGS](http://data.europa.eu/eli/dir/1989/608/oj "to EUR-Lex"), [89/662/EGS](http://data.europa.eu/eli/dir/1989/662/oj "to EUR-Lex"), [90/425/EGS](http://data.europa.eu/eli/dir/1990/425/oj "to EUR-Lex"), [91/496/EGS](http://data.europa.eu/eli/dir/1991/496/oj "to EUR-Lex"), [96/23/ES](http://data.europa.eu/eli/dir/1996/23/oj "to EUR-Lex"), [96/93/ES](http://data.europa.eu/eli/dir/1996/93/oj "to EUR-Lex") in [97/78/ES](http://data.europa.eu/eli/dir/1997/78/oj "to EUR-Lex") ter [sklepa Sveta 92/438/EGS](http://data.europa.eu/eli/dec/1992/438/oj "to EUR-Lex") (Uredba o uradnem nadzoru) (UL L št. 95 z dne 7. 4. 2017, str. 1);
+
+- [Direktiva 2010/63/EU](http://data.europa.eu/eli/dir/2010/63/oj "to EUR-Lex") Evropskega parlamenta in Sveta z dne 22. septembra 2010 o zaščiti živali, ki se uporabljajo v znanstvene namene (UL L št. 276 z dne 20. 10. 2010, str. 33; v nadaljnjem besedilu: [Direktiva 2010/63/EU](http://data.europa.eu/eli/dir/2010/63/oj "to EUR-Lex")), zadnjič spremenjena z [Uredbo (EU) 2019/1010](http://data.europa.eu/eli/reg/2019/1010/oj "to EUR-Lex") Evropskega parlamenta in Sveta z dne 5. junija 2019 o uskladitvi obveznosti poročanja na področju zakonodaje, povezane z okoljem, ter spremembo [uredb (ES) št. 166/2006](http://data.europa.eu/eli/reg/2006/166/oj "to EUR-Lex") in [(EU) št. 995/2010](http://data.europa.eu/eli/reg/2010/995/oj "to EUR-Lex") Evropskega parlamenta in Sveta, [direktiv 2002/49/ES](http://data.europa.eu/eli/dir/2002/49/oj "to EUR-Lex"), [2004/35/ES](http://data.europa.eu/eli/dir/2004/35/oj "to EUR-Lex"), [2007/2/ES](http://data.europa.eu/eli/dir/2007/2/oj "to EUR-Lex"), [2009/147/ES](http://data.europa.eu/eli/dir/2009/147/oj "to EUR-Lex") in [2010/63/EU](http://data.europa.eu/eli/dir/2010/63/oj "to EUR-Lex") Evropskega parlamenta in Sveta, [uredb Sveta (ES) št. 338/97](http://data.europa.eu/eli/reg/1997/338/oj "to EUR-Lex") in [(ES) št. 2173/2005](http://data.europa.eu/eli/reg/2005/2173/oj "to EUR-Lex") ter [Direktive Sveta 86/278/EGS](http://data.europa.eu/eli/dir/1986/278/oj "to EUR-Lex") (UL L št. 170 z dne 25. 6. 2019, str. 115).
+
+S tem zakonom se podrobneje ureja izvajanje naslednjih Uredb Evropske unije:
+
+- [Uredbe Sveta (ES) št. 1/2005](http://data.europa.eu/eli/reg/2005/1/oj "to EUR-Lex") z dne 22. decembra 2004 o zaščiti živali med prevozom in postopki, povezanimi z njim, in o spremembi [Direktiv 64/432/EGS](http://data.europa.eu/eli/dir/1964/432/oj "to EUR-Lex") in [93/119/ES](http://data.europa.eu/eli/dir/1993/119/oj "to EUR-Lex") ter [Uredbe (ES) 1255/97](http://data.europa.eu/eli/reg/1997/1255/oj "to EUR-Lex") (UL L št. 3 z dne 5. 1. 2005, str. 1), zadnjič spremenjene z [Uredbo (EU) 2017/625](http://data.europa.eu/eli/reg/2017/625/oj "to EUR-Lex") Evropskega parlamenta in Sveta z dne 15. marca 2017 o izvajanju uradnega nadzora in drugih uradnih dejavnosti, da se zagotovi uporaba zakonodaje o živilih in krmi, pravil o zdravju in dobrobiti živali ter zdravju rastlin in fitofarmacevtskih sredstvih, ter o spremembi [uredb (ES) št. 999/2001](http://data.europa.eu/eli/reg/2001/999/oj "to EUR-Lex"), [(ES) št. 396/2005](http://data.europa.eu/eli/reg/2005/396/oj "to EUR-Lex"), [(ES) št. 1069/2009](http://data.europa.eu/eli/reg/2009/1069/oj "to EUR-Lex"), [(ES) št. 1107/2009](http://data.europa.eu/eli/reg/2009/1107/oj "to EUR-Lex"), [(EU) št. 1151/2012](http://data.europa.eu/eli/reg/2012/1151/oj "to EUR-Lex"), [(EU) št. 652/2014](http://data.europa.eu/eli/reg/2014/652/oj "to EUR-Lex"), [(EU) 2016/429](http://data.europa.eu/eli/reg/2016/429/oj "to EUR-Lex") in [(EU) 2016/2031](http://data.europa.eu/eli/reg/2016/2031/oj "to EUR-Lex") Evropskega parlamenta in Sveta, [uredb Sveta (ES) št. 1/2005](http://data.europa.eu/eli/reg/2005/1/oj "to EUR-Lex") in [(ES) št. 1099/2009](http://data.europa.eu/eli/reg/2009/1099/oj "to EUR-Lex") ter [direktiv Sveta 98/58/ES](http://data.europa.eu/eli/dir/1998/58/oj "to EUR-Lex"), [1999/74/ES](http://data.europa.eu/eli/dir/1999/74/oj "to EUR-Lex"), [2007/43/ES](http://data.europa.eu/eli/dir/2007/43/oj "to EUR-Lex"), [2008/119/ES](http://data.europa.eu/eli/dir/2008/119/oj "to EUR-Lex") in [2008/120/ES](http://data.europa.eu/eli/dir/2008/120/oj "to EUR-Lex") ter razveljavitvi [uredb (ES) št. 854/2004](http://data.europa.eu/eli/reg/2004/854/oj "to EUR-Lex") in [(ES) št. 882/2004](http://data.europa.eu/eli/reg/2004/882/oj "to EUR-Lex") Evropskega parlamenta in Sveta, [direktiv Sveta 89/608/EGS](http://data.europa.eu/eli/dir/1989/608/oj "to EUR-Lex"), [89/662/EGS](http://data.europa.eu/eli/dir/1989/662/oj "to EUR-Lex"), [90/425/EGS](http://data.europa.eu/eli/dir/1990/425/oj "to EUR-Lex"), [91/496/EGS](http://data.europa.eu/eli/dir/1991/496/oj "to EUR-Lex"), [96/23/ES](http://data.europa.eu/eli/dir/1996/23/oj "to EUR-Lex"), [96/93/ES](http://data.europa.eu/eli/dir/1996/93/oj "to EUR-Lex") in [97/78/ES](http://data.europa.eu/eli/dir/1997/78/oj "to EUR-Lex") ter [sklepa Sveta 92/438/EGS](http://data.europa.eu/eli/dec/1992/438/oj "to EUR-Lex") (UL L št. 95 z dne 7. 4. 2017, str. 1);
+
+- [Uredbe Sveta (ES) št. 1099/2009](http://data.europa.eu/eli/reg/2009/1099/oj "to EUR-Lex") z dne 24. septembra 2009 o zaščiti živali pri usmrtitvi (UL L št. 303 z dne 18. 11. 2009, str. 1), zadnjič spremenjene z [Izvedbeno uredbo Komisije (EU) 2018/723](http://data.europa.eu/eli/reg_impl/2018/723/oj "to EUR-Lex") z dne 16. maja 2018 o spremembi [prilog I](http://data.europa.eu/eli/reg/2009/1099/anx_1/oj "to EUR-Lex") in [II k Uredbi Sveta (ES) št. 1099/2009](http://data.europa.eu/eli/reg/2009/1099/anx_2/oj "to EUR-Lex") o zaščiti živali pri usmrtitvi v zvezi z odobritvijo omamljanja z nizkim zračnim tlakom (UL L št. 122 z dne 17. 5. 2018, str. 11).
+
+#### 2. člen
+
+Zaščita živali po tem zakonu je dolžnost vseh pravnih in fizičnih oseb, ki so v kakršnemkoli odnosu do živali, zlasti pa skrbnikov živali; lokalnih skupnosti in države; veterinarskih, živinorejskih, znanstveno-raziskovalnih in pedagoških zavodov; lovskih, kinoloških in drugih organizacij, ki združujejo rejce živali; društev proti mučenju živali in drugih društev, ki so se ustanovila za uveljavljanje in izvajanje deklaracije o pravicah in zaščiti živali.
+
+#### 3. člen
+
+Nihče ne sme brez utemeljenega razloga povzročiti živali trpljenja, bolezni ali smrti.
+
+#### 4. člen
+
+Mučenje živali je:
+
+- vsako ravnanje ali opustitev ravnanja, storjeno naklepno ali iz malomarnosti, ki živali povzroči hujšo poškodbo ali dalj časa trajajoče ali ponavljajoče trpljenje, ali škodi njenemu zdravju;
+
+- nepotrebna ali neprimerna usmrtitev živali.
+
+#### 5. člen
+
+V tem zakonu uporabljeni izrazi pomenijo:
+
+1. dobaviteljska organizacija laboratorijskih živali (v nadaljnjem besedilu: dobaviteljska organizacija) je fizična ali pravna oseba razen vzrejne organizacije laboratorijskih živali, ki dobavlja živali z namenom njihove uporabe v postopkih ali v znanstvenoraziskovalnem ali izobraževalnem delu na izoliranih organih, tkivih in truplih v ta namen usmrčenih živali;
+
+2. dovoljenje za projekt je odločba upravnega organa, pristojnega za veterinarstvo, o odobritvi projekta, v okviru katerega se izvajajo postopki na živalih;
+
+3. hišne živali so psi, domače mačke, sobne ptice, mali glodavci, terarijske, akvarijske in druge živali, ki so namenjene za družbo, varstvo ali pomoč človeku;
+
+4. javno mesto je javni kraj, kot je opredeljen v zakonu, ki ureja varstvo javnega reda in miru, razen površin, na katerih ni oziroma ni pričakovati večjega števila ljudi;
+
+5. javno zbiranje pomeni organiziran javni shod ali organizirano javno prireditev, kot ju opredeljuje zakon, ki ureja javna zbiranja (npr. razstave, tekmovanja in predstave);
+
+6. laboratorijske živali so živali, ki se vzrejajo z namenom njihove uporabe v postopkih ali v znanstvenoraziskovalnem ali izobraževalnem delu na izoliranih organih, tkivih in truplih v ta namen usmrčenih živali;
+
+7. motnja v obnašanju je oblika obnašanja, ki glede na pogostnost ali potek odstopa od obnašanja pripadnikov iste vrste živali v razmerah, ki jim dovoljujejo v celoti razviti vrsti značilno obnašanje;
+
+8. načelo 3R je skupek načela zamenjave uporabe živali v postopkih z metodami, ki ne zahtevajo njihove uporabe, načela uporabe čim manjšega števila živali v postopkih in načela izboljšanja pogojev reje in oskrbe živali v postopkih ter izvajanja postopkov;
+
+9. nevarne živali so živali, ki ogrožajo okolico zaradi svoje neobvladljivosti, izločajo človeku nevarne strupe oziroma kažejo napadalno vedenje do človeka;
+
+10. nezdružljive živali pri nastanitvi so živali, ki si lahko medsebojno povzročijo nezaželeno brejost, poškodbe ali smrt;
+
+11. omamljanje živali je kakršenkoli dovoljeni postopek, ki povzroči stanje neobčutljivosti, ki traja, dokler žival ni mrtva, in se ji na ta način prihrani trpljenje, ki se mu je mogoče izogniti;
+
+12. pastirski pes je pes, ki je vzgojen za namen varovanja tropa ali črede pred zvermi, je prisoten v tropu ali čredi in je za izvajanje naloge varovanja tropa ali črede kot pastirski pes vpisan v centralni register hišnih živali;
+
+13. pes pomočnik invalidov je pes, ki je šolan ali je v postopku šolanja za pomoč invalidom in spremlja invalidno osebo ali svojega trenerja;
+
+14. pes vodič slepih je pes, ki je šolan ali je v postopku šolanja za vodenje slepih in spremlja slepo ali slabovidno osebo ali svojega trenerja;
+
+15. postopek na živali pomeni postopek iz 1. točke 3. člena [Direktive 2010/63/EU](http://data.europa.eu/eli/dir/2010/63/oj "to EUR-Lex");
+
+16. prevoz živali je postopek, povezan s premeščanjem živali s prevoznim sredstvom, in traja od natovarjanja živali v kraju izvora do raztovarjanja živali v namembnem kraju;
+
+17. pristojna veterinarska organizacija je veterinarska organizacija s koncesijo za cepljenje psov proti steklini v skladu z zakonom, ki ureja veterinarstvo;
+
+18. projekt je program dela, ki ima opredeljen znanstveni cilj in vključuje posamezni postopek, serijo postopkov ali več serij postopkov na živalih;
+
+19. prostoživeče mačke so domače mačke, ki živijo v okolju neodvisno od človeka;
+
+20. prostoživeče živali so živali prosto živečih živalskih vrst, kot jih določa zakon, ki ureja ohranjanje narave;
+
+21. rejne živali so kopitarji, parkljarji, perutnina, kunci, kožuharji in druge živali, ki se vzrejajo ali redijo za proizvodnjo hrane, volne, kož, krzna ali za druge gospodarske namene;
+
+21.a reševalni pes je pes, ki je šolan za iskanje pogrešanih oseb v naravi, zasutih v ruševinah ali lavinah in za sledenje po osebni sledi, ima opravljene izpite po pravilih mednarodne organizacije za reševalne pse ali mednarodne kinološke organizacije ali je v postopku šolanja za reševalnega psa ter deluje v paru z vodnikom ali vodnikom pripravnikom reševalnega psa;
+
+22. skrbnik živali je pravna ali fizična oseba, ki odgovarja za žival, ne glede na to, ali je njen lastnik ali zanjo le skrbi. Skrbnik zapuščene živali je imetnik zavetišča oziroma občina, če ne zagotovi zavetišča;
+
+22.a službena žival državnega organa je žival, ki za državne organe izvaja naloge ali je v uporabi državnih organov v skladu s predpisi, ki urejajo delovanje državnih organov;
+
+23. snemanje pomeni postopek izdelave posnetka v komercialne namene, v katerem vodeno nastopajo živali;
+
+24. strokovnjak za dobrobit živali je oseba, ki mora imeti najmanj izobrazbo, pridobljeno po študijskem programu druge stopnje, oziroma izobrazbo, ki ustreza ravni izobrazbe, pridobljeni po študijskih programih druge stopnje, in je v skladu z zakonom, ki ureja slovensko ogrodje kvalifikacij, uvrščena na 8. raven, v vseh primerih s področja veterinarstva, medicine, biologije ali zootehnike, in je usposobljen s področja znanosti o uporabi živali v znanstvene namene;
+
+25. tehnopatije so poškodbe ali bolezenske spremembe, ki nastanejo neposredno ali posredno zaradi neustreznega bivališča, opreme ali sistema reje;
+
+26. terapevtski pes je pes, ki je skladno s standardom »Terapevtski psi SIST 1192« šolan za različne oblike pomoči in podpore v vzgojno izobraževalnih, socialno varstvenih in zdravstvenih programih;
+
+27. trpljenje živali so bolečine, strah, poškodbe, pohabljenje, degeneracija, hiranje ali obolevanje ter čezmerno in nepotrebno vznemirjanje, ki jih povzroči človek;
+
+28. ugriz je poškodba živali ali človeka, ki jo povzroči pes z zobmi, pri čemer pride do prekinitve kontinuitete kože ali sluznice;
+
+29. uporabniška organizacija je fizična ali pravna oseba, ki uporablja živali v postopkih;
+
+30. usmrtitev živali je predpisan postopek odvzema življenja živali;
+
+31. vzrejna organizacija je fizična ali pravna oseba, ki vzreja oziroma redi živali iz [Priloge 1 Direktive 2010/63/EU](http://data.europa.eu/eli/dir/2010/63/anx_1/oj "to EUR-Lex") z namenom njihove uporabe v postopkih ali za znanstvenoraziskovalno ali izobraževalno delo na izoliranih organih, tkivih in truplih v ta namen usmrčenih živali ali prednostno za ta namen vzreja druge živali, bodisi za dobiček bodisi ne;
+
+31.a začasni skrbnik zapuščene živali je polnoletna oseba, ki skrbi za zapuščeno žival kot prostovoljec na svojem domu v imenu zavetišča, v katerem je bila ta žival predhodno nameščena najmanj 180 dni (v nadaljnjem besedilu: začasni skrbnik);
+
+32. zakol živali je usmrtitev živali za prehrano ljudi;
+
+33. zapuščene živali so najdene, oddane ali odvzete hišne živali;
+
+33.a zapuščeni kopitarji so najdeni, oddani ali odvzeti kopitarji;
+
+33.b upokojeni kopitarji so kopitarji, ki so služili kot službene živali državnega organa, a zaradi starosti ali zdravstvenih razlogov niso več zmožni varno in učinkovito opravljati službenih nalog;
+
+34. zavetišče je objekt, v katerem imetnik zavetišča izvaja skrb za zapuščene živali tako, da poskrbi za pomoč, oskrbo, namestitev in oddajo zapuščenih živali;
+
+35. živali so živi vretenčarji razen človeka, ki so sposobne čutiti, saj imajo razvite sisteme za zaznavo in obdelavo bolečih dražljajev;
+
+36. živali v oskrbi so zapuščene, rejne in prostoživeče živali, ki so najdene, odvzete, ali oddane in so potrebne oskrbe ter nimajo primerne oskrbe po drugi zakonodaji;
+
+37. živali v postopkih so živali, ki so vzrejene z namenom uporabe v postopkih, vključno z larvalnimi oblikami, ki se samostojno prehranjujejo, in fetalnimi oblikami sesalcev od zadnje tretjine normalnega prenatalnega razvoja ter zgodnejše razvojne stopnje živali, če se jih pusti pri življenju po tej razvojni stopnji in bodo zaradi izvedenih postopkov občutile bolečino, trpljenje, stisko ali trajne poškodbe, potem ko dosežejo to razvojno stopnjo. Za živali v postopkih se štejejo tudi živi glavonožci, ki se uporabljajo ali so namenjeni uporabi v postopkih.
+
+#### 5.a člen
+
+Upravni organ, pristojen za veterinarstvo, vodi in vzdržuje centralni register hišnih živali za namen vodenja postopkov in odločanja v skladu s tem zakonom in zakonom, ki ureja veterinarska merila skladnosti. Pooblaščene osebe organov, občin, pooblaščenih veterinarskih organizacij, zavetišč in antirabičnih ambulant dostopajo do centralnega registra hišnih živali v obsegu, ki je potreben za opravljanje nalog po tem zakonu in zakonu, ki ureja veterinarska merila skladnosti.
+
+Centralni register hišnih živali ni javni register.
+
+Osebne podatke iz tretjega in šestega odstavka 6. člena ter tretjega odstavka 6.a člena tega zakona za vodenje in vzdrževanje centralnega registra hišnih živali ter za vodenje postopkov in odločanje v skladu s tem zakonom in zakonom, ki ureja veterinarska merila skladnosti, obdelujejo pooblaščene osebe organov, občin, pooblaščenih veterinarskih organizacij, zavetišč in antirabičnih ambulant.
+
+Upravni organ, pristojen za veterinarstvo, in pristojne veterinarske organizacije pridobijo navedene osebne podatke od lastnikov psov in lastnikov drugih hišnih živali ter za potrebe preverjanja točnosti pridobljenih podatkov tudi iz centralnega registra prebivalstva.
+
+Pristojne veterinarske organizacije lahko uporabljajo pridobljene osebne podatke za izvedbo postopkov, predpisanih s tem zakonom in z zakonom, ki ureja veterinarska merila skladnosti.
+
+Posameznik lahko uveljavlja pravico do seznanitve z lastnimi osebnimi podatki in popravka lastnih osebnih podatkov pri katerikoli pristojni veterinarski organizaciji ali upravnem organu, pristojnem za veterinarstvo. Pristojna veterinarska organizacija ob obisku lastniku ali skrbniku hišne živali na njegovo pisno zahtevo posreduje podatke iz tretjega in četrtega odstavka 6. člena ter tretjega odstavka 6.a člena tega zakona ob predhodnem preverjanju identitete. Predlog zahteve je dostopen na osrednjem spletnem mestu državne uprave.
+
+Upravni organ, pristojen za veterinarstvo, lahko pridobiva osebne podatke iz tretjega in šestega odstavka 6. člena ter tretjega odstavka 6.a člena tega zakona iz centralnega registra prebivalstva tudi z neposrednim elektronskim dostopom ali s povezavo med centralnim registrom prebivalstva in centralnim registrom hišnih živali ter jih lahko vpogleda, prepiše ali izpiše in nadalje obdeluje v postopkih v skladu s tem zakonom in zakonom, ki ureja veterinarska merila skladnosti.
+
+Osebni podatki lastnika živali se v centralnem registru hišnih živali hranijo pet let po smrti živali ali 30 let po rojstvu živali, če podatek o smrti živali ni vpisan, nato se anonimizirajo.
+
+#### 5.b člen
+
+Upravni organ, pristojen za veterinarstvo, vodi evidenco oseb, ki jim je izrečena prepoved posedovanja ali reje živali, in obdeluje naslednje podatke za namen izvajanja uradnega nadzora:
+
+- osebno ime, EMŠO in naslov prebivališča,
+
+- vrsto živali, na katero se nanaša prepoved.
+
+Uradni veterinar vnese izrečeno prepoved v evidenco iz prejšnjega odstavka na podlagi izvršljive odločbe. V primeru pravnomočne odprave ali ugotovljene nezakonitosti odločbe ali ustavitve postopka se vnos izbriše.
+
+#### 6. člen
+
+Lastnik psa zagotovi, da je pes do dopolnjenega osmega tedna starosti označen na predpisan način.
+
+Lastnik psa prijavi lastništvo psa v sedmih dneh od njegove pridobitve, lastnik psa mladiča iz lastne vzreje pa lastništvo prijavi pristojni veterinarski organizaciji najpozneje do dopolnjenega osmega tedna starosti mladiča.
+
+Lastnik psa ob prijavi iz prejšnjega odstavka sporoči, pristojna veterinarska organizacija pa vnese v centralni register hišnih živali naslednje podatke:
+
+- o psu;
+
+- o izvoru psa;
+
+- da gre za pastirskega psa;
+
+- osebno ime ali firmo, naslov prebivališča ali sedež, EMŠO ali matično številko pravne osebe ter telefonsko številko oziroma naslov elektronske pošte (v nadaljnjem besedilu: kontaktni podatki) lastnika psa oziroma za službene pse podatke o državnem organu;
+
+- osebno ime, naslov prebivališča, EMŠO in kontaktne podatke fizične osebe, ki je v pravni osebi oziroma državnem organu določena kot skrbnik psa.
+
+Lastnik psa sporoči:
+
+- pristojni veterinarski organizaciji v sedmih dneh spremembo lastništva psa, pogin ali evtanazijo psa;
+
+- pristojni veterinarski organizaciji ali zavetišču v treh dneh pobeg ali odtujitev psa;
+
+- pristojni veterinarski organizaciji status pastirskega psa.
+
+Pristojna veterinarska organizacija in zavetišče podatke iz prejšnjega odstavka vneseta v centralni register hišnih živali.
+
+Če je lastnik psa fizična oseba, se lahko v centralni register hišnih živali kot lastnik vpiše le oseba, ki je dopolnila 18 let, pri čemer se starost lastnika ugotavlja z vpogledom v osebni dokument. Če postane lastnik psa oseba, mlajša od 18 let, se v centralni register hišnih živali do njene polnoletnosti vpiše njen zakoniti zastopnik, ki je v tem času nosilec vseh pravic in obveznosti iz tega zakona.
+
+Izvor psa se za pse, skotene v Republiki Sloveniji, izkazuje s številko mikročipa ali druge označitve matere psa. Če je pes posvojen iz zavetišča, se kot izvor psa šteje zavetišče. Pri trgovanju, uvozu ali nekomercialnem premiku psa se izvor psa izkazuje s predpisanim dokumentom, ki žival spremlja.
+
+Psa, za katerega lastnik pri prijavi ne predloži podatka o izvoru, pristojna veterinarska organizacija obravnava kot psa, ki ne izpolnjuje pogojev za premike v skladu s predpisi Unije.
+
+Način označitve iz prvega odstavka tega člena in podrobnejše podatke o psu iz prve alineje tretjega odstavka tega člena, ki se vodijo v centralnem registru hišnih živali, predpiše minister, pristojen za veterinarstvo (v nadaljnjem besedilu: minister).
+
+#### 6.a člen
+
+Lastnik mačke zagotovi, da je mačka do dopolnjenega dvanajstega tedna starosti označena na predpisan način.
+
+Lastnik mačke prijavi lastništvo mačke v sedmih dneh od njene pridobitve, lastnik mačjega mladiča iz lastne vzreje pa prijavi lastništvo mladiča najpozneje do njegovega dopolnjenega dvanajstega tedna starosti pristojni veterinarski organizaciji.
+
+Lastnik mačke ob prijavi iz prejšnjega odstavka sporoči, pristojna veterinarska organizacija pa v centralni register hišnih živali vnese naslednje podatke:
+
+- o mački;
+
+- osebno ime ali firmo, naslov prebivališča ali sedež, EMŠO ali matično številko pravne osebe in kontaktne podatke lastnika mačke;
+
+- osebno ime, naslov prebivališča, EMŠO in kontaktne podatke fizične osebe, ki je pri pravni osebi določena kot skrbnik mačke.
+
+Lastnik mačke sporoči:
+
+- pristojni veterinarski organizaciji v sedmih dneh spremembo lastništva mačke, pogin ali evtanazijo mačke;
+
+- pristojni veterinarski organizaciji ali zavetišču pobeg ali odtujitev mačke.
+
+Pristojna veterinarska organizacija in zavetišče podatke iz prejšnjega odstavka vneseta v centralni register hišnih živali.
+
+Način označitve iz prvega odstavka tega člena in podrobnejše podatke o mački iz prve alineje tretjega odstavka tega člena, ki se vodijo v centralnem registru hišnih živali, predpiše minister.
+
+#### 6.c člen
+
+**6.b člen(črtan)**
+
+Fizične in pravne osebe lahko posedujejo živali živalskih vrst, ki so udomačene ali po svoji naravi niso nevarne zaradi velikosti, neobvladljivosti, ne izločajo človeku nevarnih strupov in niso zahtevne za oskrbo ter so določene na seznamu dovoljenih vrst živali.
+
+Seznam dovoljenih vrst živali določi minister v soglasju z ministrom, pristojnim za ohranjanje narave.
+
+Na seznam iz prejšnjega odstavka se lahko dodatno uvrsti živalska vrsta, za katero je mogoče dokazati:
+
+1. da ta vrsta živali ne predstavlja posebne nevarnosti za življenje ali zdravje ljudi (zaradi agresivnosti, strupenosti, velikosti, neobvladljivosti ipd.);
+
+2. da ta vrsta ne predstavlja tveganja za biodiverziteto in ohranjanje narave, ker ne obstajajo znaki, da bi se osebki, ki iz ujetništva pobegnejo v naravo, lahko prilagodili in predstavljali nevarnost za biodiverziteto oziroma nevarnost za ohranjanje narave;
+
+3. da je mogoče za živali te vrste enostavno zagotavljati dobrobit v smislu zagotavljanja ustreznih bivalnih pogojev ter oskrbe ob upoštevanju njihovih bistvenih fizioloških, etoloških in ekoloških potreb ter
+
+4. da je na voljo dovolj poljudnih podatkov (bibliografskih enot) o bivalnih pogojih in oskrbi osebkov te vrste v ujetništvu.
+
+Pravna ali fizična oseba lahko predlog za uvrstitev živalske vrste na seznam dovoljenih vrst živali, ki vsebuje strokovno utemeljitev pogojev iz 1. do 4. točke prejšnjega odstavka, vloži pri upravnem organu, pristojnem za veterinarstvo. Ta o predlogu odloči na podlagi mnenja, ki ga izda komisija za spremembo seznama dovoljenih vrst živali iz 6.d člena tega zakona. Zoper odločbo pristojnega organa pritožba ni dovoljena, dovoljen pa je upravni spor.
+
+Mnenje komisije za spremembo seznama dovoljenih vrst živali vsebuje presojo pogojev iz 1. do 4. točke tretjega odstavka tega člena in mnenje o primernosti uvrstitve vrste na seznam dovoljenih vrst živali. Če je ocena vseh pogojev pozitivna in je mnenje o primernosti uvrstitve pozitivno, upravni organ, pristojen za veterinarstvo, predlogu ugodi in ministru predlaga spremembo seznama iz drugega odstavka tega člena.
+
+Minister dopolni seznam dovoljenih vrst živali v šestih mesecih od pravnomočne odločitve upravnega organa, pristojnega za veterinarstvo.
+
+Določbe tega člena se ne uporabljajo za posedovanje in ravnanje z živalmi v postopkih in za posedovanje živali v tranzitu čez ozemlje Republike Slovenije.
+
+#### 6.č člen
+
+Živali, ki niso na seznamu iz drugega odstavka prejšnjega člena, lahko poseduje:
+
+- živalski vrt, ki izpolnjuje pogoje in je registriran v skladu s predpisi, ki urejajo ohranjanje narave;
+
+- zatočišče, ki izpolnjuje pogoje in je registrirano v skladu s predpisi o ohranjanju narave;
+
+- pravna ali fizična oseba, ki je v skladu s predpisi o ohranjanju narave registrirana kot gojitelj, zagotavlja predpisane bivalne pogoje za zadevno vrsto živali in ima veljavno dovoljenje za njihovo gojitev v skladu s predpisi o ohranjanju narave;
+
+- pravna ali fizična oseba, ki poseduje in uporablja zadevne živali v skladu s predpisi, ki urejajo divjad in lovstvo.
+
+Če žival iz prejšnjega odstavka poseduje druga pravna ali fizična oseba ali je taka žival najdena, inšpektor, pristojen za ohranjanje narave, tako žival odvzame in jo odda zatočišču, fizični ali pravni osebi iz prejšnjega odstavka ali zunaj Republike Slovenije, če to ni mogoče, pa odredi usmrtitev.
+
+Določbe tega člena se ne uporabljajo za posedovanje in ravnanje z živalmi v postopkih in za posedovanje živali v tranzitu čez ozemlje Republike Slovenije.
+
+#### 6.d člen
+
+Minister s sklepom imenuje komisijo za spremembo seznama dovoljenih vrst živali, ki jo sestavljajo najmanj trije člani. Zoper sklep o imenovanju ni pritožbe.
+
+Naloga komisije za spremembo seznama dovoljenih vrst živali je izdaja mnenja iz petega odstavka 6.c člena tega zakona o primernosti uvrstitve vrste na seznam dovoljenih vrst živali.
+
+Vse stroške v zvezi s predlogom za uvrstitev vrste na seznam dovoljenih vrst živali, vključno s stroški izdaje mnenja, nosi predlagatelj.
+
+Člani navedene komisije so upravičeni do nadomestila v višini, ki jo določi minister.
+
+Minister predpiše natančnejše pogoje za sestavo, naloge in način dela komisije za spremembo seznama dovoljenih vrst živali.
+
+#### 6.e člen
+
+Fizična ali pravna oseba, živalski vrt ali zatočišče iz prvega odstavka 6.č člena tega zakona mora za vrste, ki niso uvrščene na seznam dovoljenih vrst živali, zagotoviti označitev in prijavo živali pri ministrstvu, pristojnem za ohranjanje narave, v sedmih dneh po pridobitvi.
+
+Ob prijavi oseba iz prejšnjega odstavka zaradi namena zagotavljanja sledljivosti živali, sporoči naslednje podatke:
+
+- o vrsti, spolu in starosti živali;
+
+- osebno ime ali firmo, naslov prebivališča ali sedež, EMŠO ali matično številko pravne osebe in kontaktne podatke lastnika.
+
+## II. ZAŠČITA ŽIVALI
+
+### 1. Reja živali
+
+#### 7. člen
+
+Skrbnik živali mora živali zagotoviti:
+
+- bivališče, hrano, vodo in oskrbo na način, ki je glede na vrsto živali, pasmo, starost, stopnjo razvoja, prilagoditve in udomačitve primeren njenim fiziološkim in etološkim potrebam v skladu z ustaljenimi izkušnjami in znanstvenimi spoznanji;
+
+- svobodo gibanja, primerno živali glede na njeno vrsto, pasmo, starost, stopnjo razvoja, prilagoditve in udomačitve, ki preprečuje nepotrebno trpljenje;
+
+- dovolj prostora, če je privezana ali zaprta, glede na njene fiziološke in etološke potrebe v skladu z ustaljenimi izkušnjami in znanstvenimi spoznanji;
+
+- svetlobo, toploto, vlažnost, kroženje zraka, zračenje, koncentracijo plinov, higieno in intenzivnost hrupa v prostoru, kjer je žival, ki ustreza njeni vrsti in stopnji razvoja, prilagoditvi in udomačitvi, fiziološkim in etološkim potrebam ter predpisanim higienskim pogojem;
+
+- ločeno nastanitev nezdružljivih živali.
+
+Skrbnik živali mora preprečevati napake v reji, ki povzročajo tehnopatije in motnje v obnašanju.
+
+Če je opustitev iz prvega in drugega odstavka tega člena storjena naklepno in nastanejo posledice iz 4. člena tega zakona, se šteje, da gre za mučenje živali.
+
+#### 7.a člen
+
+Skrbniki živali in osebe, ki pri opravljanju dejavnosti, povezanih z živalmi, prihajajo z njimi v neposreden stik, morajo imeti osnovno znanje o potrebah živali glede vode, hrane, primernega okolja, o vrsti značilnega obnašanja ter o predpisih glede dobrobiti in zaščite živali (v nadaljnjem besedilu: osnovno znanje o živalih).
+
+Če skrbnik živali ustrezno skrbi za svojo žival oziroma ustrezno ravna z njo, se šteje, da ima ustrezno osnovno znanje o živali.
+
+Ne glede na prejšnji odstavek je za skrbnike rejnih živali za pridobitev osnovnega znanja o živalih obvezno usposabljanje iz četrtega odstavka tega člena, če tako določa predpis Evropske unije.
+
+Osebe, ki pri opravljanju dejavnosti, povezanih z živalmi, prihajajo z njimi v neposreden stik, osnovno znanje o živalih pridobijo na usposabljanjih, katerih vsebine pripravi Nacionalni center za dobrobit živali v okviru Nacionalnega veterinarskega inštituta pri Veterinarski fakulteti Univerze v Ljubljani (v nadaljnjem besedilu: Nacionalni center za dobrobit živali), potrdi pa upravni organ, pristojen za veterinarstvo. Udeleženci po opravljenem usposabljanju opravijo izpit in pridobijo potrdilo o opravljenem usposabljanju, ki velja deset let.
+
+Ne glede na drugi, tretji in četrti odstavek tega člena se za osebe, ki so uspešno končale izobraževanje po učnih programih, v katere so bile vključene vsebine iz prvega odstavka tega člena, na poklicnih, srednješolskih, visokošolskih strokovnih ali univerzitetnih programih izobraževanja šteje, da imajo že pridobljeno osnovno znanje o živalih, če ni s predpisom iz tretjega odstavka tega člena določeno drugače.
+
+Skrbnik živali, ki mu je s pravnomočno odločbo ugotovljena kršitev prvega odstavka prejšnjega člena in mu je odvzeta ena ali več živali zaradi zaščite njihove dobrobiti, mora za nadaljnje posedovanje živali pridobiti osnovno znanje o živalih na usposabljanju iz četrtega odstavka tega člena.
+
+Uradni veterinar lahko odredi usposabljanje iz četrtega odstavka tega člena tudi skrbniku živali, ki mu je s pravnomočno odločbo ugotovljena kršitev iz prvega ali drugega odstavka prejšnjega člena, če gre za ponavljajočo se ali dalj časa trajajočo nepravilnost.
+
+Usposabljanja iz četrtega odstavka tega člena koordinira Nacionalni center za dobrobit živali, izvajajo pa jih pravne ali fizične osebe, ki so registrirane za dejavnost izobraževanja in izpolnjujejo pogoje glede strokovne usposobljenosti predavateljev, prostorov in opreme (v nadaljnjem besedilu: izvajalci usposabljanj). Izvajalci usposabljanj predložijo program usposabljanja, ki ga potrdi Nacionalni center za dobrobit živali in o tem vodi evidence. Izvajalci usposabljanj o izvedenih usposabljanjih vodijo evidenco, ki vsebuje naslednje podatke o udeležencih usposabljanj: osebno ime, naslov prebivališča, datum rojstva, vrsto, vsebino ter datum usposabljanja in zaporedno številko potrdila o opravljenem usposabljanju.
+
+Osebni podatki iz prejšnjega odstavka se obdelujejo za vodenje in vzdrževanje evidence o izvedenih usposabljanjih, usposobljenih osebah in za odločanje v skladu s tem zakonom ter se hranijo za obdobje veljavnosti potrdila o opravljenem usposabljanju.
+
+Vsebine programov in načine izvajanja usposabljanj iz četrtega odstavka tega člena pripravi Nacionalni center za dobrobit živali in potrdi upravni organ, pristojen za veterinarstvo.
+
+Določbe tega člena se ne uporabljajo za osebe iz 20.b člena tega zakona ter za vodnike in konjenike ali skrbnike psov in konj državnih organov, ki osnovno znanje pridobijo v specialnih programih usposabljanja v državnih organih.
+
+#### 8. člen
+
+Bolne, poškodovane in onemogle živali morajo biti takoj ustrezno oskrbljene.
+
+Zagotovljena mora biti ustrezna ločena namestitev bolnih, poškodovanih ali onemoglih živali.
+
+Skrbnik živali mora zagotoviti redno preverjanje zdravstvenega stanja in dobrobiti živali, kar mora biti opravljeno tako pogosto, da se prepreči nepotrebno trpljenje živali. Stanje rejnih živali v intenzivnih rejah mora biti preverjeno vsaj enkrat dnevno, o čemer mora voditi predpisane evidence.
+
+Podrobnejše pogoje o evidencah iz prejšnjega odstavka predpiše minister.
+
+#### 9. člen
+
+Skrbnik živali mora poskrbeti, da je tehnična oprema v rejah vsaj enkrat dnevno pregledana in da so morebitne okvare odpravljene v najkrajšem času. Če to ni možno, je treba z uporabo nadomestnih metod krmljenja in napajanja ter vzdrževanja higiene zavarovati zdravje in dobro počutje živali.
+
+Če se uporablja umetno prezračevanje bivališča živali, mora biti zagotovljen rezervni sistem, ki zadošča za ohranitev zdravja in dobrega počutja živali do odprave napake na osnovnem sistemu, in alarmi sistem, ki opozarja skrbnika na okvaro v prezračevalnem sistemu. Alarmni sistem mora biti redno vzdrževan in preizkušan na predpisan način.
+
+#### 9.a člen
+
+Reja kokoši v sistemu baterijske reje je način reje, pri kateri so kokoši nameščene v kletkah, ki so razporejene v vrstah ena poleg druge oziroma ena na drugi v več ravneh.
+
+Reja kokoši v sistemih baterijske reje je na ozemlju Republike Slovenije prepovedana.
+
+#### 10. člen
+
+Hišne živali se lahko osebam, mlajšim od 18 let, prodaja, oddaja ali podarja le ob navzočnosti enega od staršev ali skrbnika.
+
+Prodajalec, zaposleni v zavetišču ali oseba, ki podarja hišno žival, sme od vsake osebe, za katero domneva, da ne izpolnjuje pogoja iz prejšnjega odstavka, zahtevati, da predhodno izkaže svojo starost z javno listino, s katero se dokazuje istovetnost oseb. Če oseba to odkloni, se ji ne sme prodati, oddati ali podariti hišne živali.
+
+Pri oglaševanju psov za namen prodaje ali drugačnega načina spremembe lastništva mora ponudnik oglasa navesti podatke o označitvi oglaševanega psa ali podatke o izvoru v skladu s sedmim odstavkom 6. člena tega zakona za mladiče, mlajše od osmih tednov. Ponudnik oglaševalskega prostora mora pri objavi oglasov preveriti, ali ponudnik oglasa navaja predpisane podatke.
+
+#### 11. člen
+
+Skrbnik hišne živali, mora z osamitvijo, kontracepcijo, sterilizacijo ali kastracijo živali preprečiti rojstvo nezaželenih živali oziroma tistih živali, katerim ne more ali noče zagotoviti oskrbe po tem zakonu.
+
+Skrbnik živali mora z ustrezno vzgojo in šolanjem oziroma z drugimi ukrepi zagotoviti, da žival ni nevarna okolici niti ne ogroža varnosti ljudi, živali ali premoženja.
+
+Skrbnik psa mora na javnem mestu zagotoviti fizično varstvo psa tako, da je pes na povodcu.
+
+Določba prejšnjega odstavka se ne uporablja za:
+
+- pse na javnih mestih, ki so s predpisom lokalne skupnosti ali s privolitvijo lastnika javnega mesta namenjena sprehajanju in druženju psov ter so ustrezno označena in ograjena tako, da je psom onemogočen pobeg;
+
+- lovske pse v času lova v skladu z zakonom, ki ureja lovstvo;
+
+- pse pomočnike invalidov;
+
+- terapevtske pse v času izvajanja pomoči oziroma podpore;
+
+- službene pse državnih organov v času izvajanja nalog ali šolanja;
+
+- reševalne pse v času izvajanja nalog, šolanja, usposabljanj ali tekmovanj.
+
+#### 11.a člen
+
+Nevaren pes je pes, ki ogroža okolico zaradi svoje neobvladljivosti ali kaže napadalno vedenje do človeka ali je ugriznil človeka oziroma žival.
+
+Ne glede na prejšnji odstavek se za nevarne pse ne štejejo:
+
+- službeni psi državnih organov, katerih ugriz je posledica izvajanja službene dolžnosti;
+
+- pastirski psi, katerih ugriz se zgodi v času varovanja črede ali tropa na označenem ograjenem pašniku;
+
+- pastirski psi, katerih ugriz se zgodi v času varovanja črede ali tropa na označenem neograjenem pašniku, kjer je čreda s pastirskim psom pod neposrednim nadzorom pastirja;
+
+- pastirski psi, katerih ugriz se zgodi v času premeščanja črede ob prisotnosti pastirja;
+
+- psi, katerih ugriz je posledica nedovoljenega vstopa osebe v objekt ali na ograjeno zemljišče, ki je na vhodu označeno z opozorilnim znakom;
+
+- psi, katerih ugriz je posledica ravnanja z njimi med veterinarskimi posegi;
+
+- psi, ki še niso dopolnili šest mesecev in so v tem obdobju ugriznili enkrat, datum skotitve psa pa je bil vnesen v centralni register hišnih živali že pred ugrizom.
+
+Uradni veterinar v primerih iz prvega odstavka tega člena v inšpekcijskem postopku izda odločbo, da je pes nevaren, in ga v centralnem registru hišnih živali označi za nevarnega. Pritožba zoper odločbo ne zadrži njene izvršitve.
+
+#### 12. člen
+
+Skrbniki živali in prevozniki živali morajo zagotoviti fizično varstvo nevarnih živali.
+
+Skrbniki nevarnih psov morajo zagotoviti fizično varstvo psov na enega izmed naslednjih načinov:
+
+- da so psi na povodcu in opremljeni z nagobčnikom,
+
+- da so zaprti v pesjaku ali objektu,
+
+- da so v ograjenem prostoru z ograjo, visoko najmanj 1,8 m, ki je na vhodu označen z opozorilnim znakom.
+
+Nevarnega psa ni dovoljeno zaupati v vodenje osebam, ki so mlajše od 16 let.
+
+#### 13. člen
+
+Psi-vodiči slepih, psi-pomočniki invalidov, reševalni in terapevtski psi imajo skupaj s svojim skrbnikom vstop na vsa javna mesta in v sredstva javnega prevoza.
+
+Psom iz prejšnjega odstavka ni treba imeti nagobčnika na javnih mestih in v sredstvih javnega prevoza.
+
+Psi iz prvega odstavka tega člena morajo ob vstopu na javna mesta in v sredstva javnega prevoza nositi oprsnico z vidno oznako, s katero izkazujejo svoj status, razen če je invalidnost spremljajoče osebe neposredno razvidna. Reševalni psi so lahko označeni tudi z značko reševalnega psa.
+
+#### 14. člen
+
+Skrbniki živali lahko oddajo živali v hotel, kjer se te živali nastanijo in oskrbujejo na stroške skrbnika živali.
+
+Imetnik hotela za živali je lahko vsaka pravna ali fizična oseba, če za to izpolnjuje predpisane pogoje.
+
+Izpolnjevanje predpisanih pogojev za začetek delovanja hotela ugotavlja upravni organ, pristojen za veterinarstvo v upravnem postopku.
+
+Imetnik hotela prevzema obveznosti skrbnika za čas nastanitve in oskrbe živali iz prvega odstavka tega člena.
+
+#### 14.a člen
+
+Živali je dovoljeno uporabljati na javnem zbiranju ali snemanju le, če jim je prihranjeno nepotrebno trpljenje in ne gre za prepovedano ravnanje iz 15. člena tega zakona ter jim je zagotovljena oskrba v skladu z etološkimi potrebami glede na vrsto živali. Uporaba živali za nastopanje in prikazovanje v cirkusih je prepovedana.
+
+Če je pričakovati, da bo zaradi dejavnosti iz prejšnjega odstavka ogrožena dobrobit živali (npr. napor, dolgotrajnost, izčrpanost), mora organizator zagotoviti prisotnost veterinarja in upoštevati njegova strokovna navodila.
+
+Podrobnejše pogoje iz prvega in drugega odstavka tega člena predpiše minister.
+
+#### 15. člen
+
+Prepovedana ravnanja so:
+
+- zbadanje ali zabadanje živali, rezanje, sekanje, stiskanje, natezanje ali zvijanje delov telesa živali, obešanje, če ne gre za strokovne posege, udarjanje, potapljanje ali drugačno dušenje živali, metanje, suvanje ali namerno povoženje živali ter spolno občevanje med človekom in živaljo, z njim izenačeno spolno ravnanje ali kakšno drugo spolno dejanje zaradi zadovoljevanja človekovih spolnih potreb;
+
+- izpostavljanje živali ognju, vročim, jedkim ali strupenim sredstvom ter drugim fizikalnim ali kemičnim učinkom v nasprotju z določbami tega zakona;
+
+- prisilno hranjenje, če to ni v zdravstvene ali v znanstveno-raziskovalne namene, puljenje perja živi perjadi, trganje rib s trnkov in druga podobna dejanja v nasprotju z določbami tega zakona;
+
+- streljanje živali ne glede na vrsto orožja oziroma strelne naprave;
+
+- obmetavanje s petardami ali drugimi pirotehničnimi sredstvi, obmetavanje s kamenjem ali drugimi predmeti, prodaja in uporaba sredstev (npr. pasti stopalk in zank), ki žival imobilizirajo tako, da je ne usmrtijo, povzročene pa so ji poškodbe in bolečina. Ne glede na prejšnji stavek je dovoljena prodaja in uporaba limanic za zatiranje škodljivih glodavcev;
+
+- organiziranje borb živali, uporaba živali za borbe, spodbujanje ter šolanje živali za borbo z drugo živaljo;
+
+- uporaba živih živali za hrano ali vabo; izjemoma je dopustna uporaba živih živali za hrano, če so pogoji približani pogojem v naravi;
+
+- preobremenjevanje živali, uporaba plemensko nezrelih živali (premladih ali spolno nezrelih živali) za razplod, onemogočanje potrebnega počitka, preskubljenje perutnine, aplikacija farmacevtskih preparatov ali drugih snovi z namenom izboljšanja športnih dosežkov (doping) ter uporaba bolne, ranjene, poškodovane ali ustrahovane živali oziroma njeno fizično izkoriščanje;
+
+- vzreja, vzgoja in šolanje na način in s pripomočki, ki živali povzročajo bolečine ali kako drugače škodijo njenemu zdravju, zlasti pa uporaba, prodaja in trženje naprav za daljinsko upravljanje ali avtomatskih naprav, ki se pritrdijo na žival in ob aktiviranju povzročijo električni šok;
+
+- preganjanje v naravnem ali urbanem okolju živečih živali razen za izvajanje veterinarskih ukrepov in za ukrepe za varovanje premoženja na način, ki živali ne povzroča nepotrebnega trpljenja;
+
+- lov na divjad v času lovopusta, lov na vodeče samice v času poleganja in dojenja mladičev ter neupravičena opustitev zasledovanja obstreljene divjadi;
+
+- namerna trajna ali začasna zapustitev živali;
+
+- krmljenje živali s snovjo, ki ji povzroča, trpljenje, poškodbe ali smrt;
+
+- izpustitev prostoživeče živali, ki je bila vzrejena s pomočjo človeka, v naravo, če ni pripravljena za preživetje v naravnem okolju;
+
+- lov divjadi z namenom gojenja v nasprotju s predpisi o lovstvu in ribištvu;
+
+- zadrževanje prostoživečih živali v neregistriranih živalskih vrtovih;
+
+- reja vretenčarjev, ki kažejo sami ali njihovi potomci dedne napake, ki povzročajo trpljenje živali; ta prepoved ne velja za rejo gensko spremenjenih organizmov v zaprtem sistemu, če reja poteka v skladu s predpisi, ki urejajo ravnanje z gensko spremenjenimi organizmi;
+
+- posegi na živalih, opravljeni v nasprotju s predpisi;
+
+- spodbujanje napadalnosti živali do človeka ali živali, razen za namen šolanja psov ali uporabe službenih policijskih in vojaških psov;
+
+- oddaja več kot enega psa letno, ki ne izhaja iz lastne vzreje, za denarno nadomestilo;
+
+- tek živali, privezane na motorno prometno sredstvo;
+
+- reja in lov na živali zgolj zaradi pridobivanja njihovih kožuhov, kož ali perja;
+
+- privezovanje psov;
+
+- nastanitev živali na premajhnem prostoru brez možnosti zadostne rekreacije glede na fiziološke in etološke potrebe živali, vključno z nastanitvijo psov v kletke v stanovanjskih prostorih v nasprotju s predpisi, ki urejajo pogoje bivanja živali;
+
+- uporaba živali kot dobitek ali nagrada na tekmovanjih, pri igrah na srečo ali na javnih prireditvah;
+
+- uporaba, prodaja in trženje pasti za lov divjadi v nasprotju s predpisi o lovstvu.
+
+Ne glede na prejšnji odstavek so dovoljena naslednja ravnanja:
+
+a) odlov živali v skladu s predpisi, ki urejajo lovstvo in ribištvo;
+
+b) odvzem živali iz narave v skladu s predpisi, ki urejajo ohranjanje narave, lovstvo in ribištvo;
+
+c) sokolarjenje v skladu s predpisi o lovstvu;
+
+č) začasno zadrževanje avtohtonih vrst prostoživečih živali v ujetništvu z namenom doselitve ali ponovne naselitve te vrste v naravno okolje;
+
+d) streljanje gojene divjadi v oborah ali uporaba strelnega orožja s prostim projektilom za namen zakola rejnih živali v skladu s predpisi Unije, ki urejajo zaščito živali pri zakolu, in predpisi Unije o posebnih higienskih pravilih za živila živalskega izvora, vendar le kadar živali ni mogoče drugače fiksirati oziroma bi to fiksiranje ogrožalo varstvo in zaščito ljudi oziroma živali;
+
+e) omama, anestezija ali usmrtitev nevarnih živali, če je to povezano z varstvom in zaščito ljudi oziroma živali;
+
+f) oddaja psa, ki ne izhaja iz lastne vzreje, za denarno nadomestilo, če gre za psa iz zavetišča ali za psa v lasti državnih organov;
+
+g) privezovanje psov zaradi zagotavljanja nadzora in fizičnega varstva na javnih mestih, zaradi oskrbe, zdravljenja ali šolanja, med vadbo v okviru tekmovanj, lova ali drugih dejavnosti, v katerih je pes udeležen, za počitek ali prenočitev na potovanju ali pri bivanju na območjih, kjer je vstop psom prepovedan.
+
+Če je ravnanje iz prvega odstavka tega člena storjeno naklepno ali iz malomarnosti in zaradi tega nastanejo posledice iz 4. člena tega zakona, se šteje, da gre za mučenje živali.
+
+### 2. Prevoz živali
+
+#### 16. člen
+
+Prevoz živali in postopki, povezani z njim, morajo potekati v skladu z Uredbo Sveta št. (ES) 1/2005 z dne 22. decembra 2004 o zaščiti živali med prevozom in postopki, povezanimi z njim, in o spremembi [Direktiv 64/432/EGS](http://data.europa.eu/eli/dir/1964/432/oj "to EUR-Lex") in [93/119/ES](http://data.europa.eu/eli/dir/1993/119/oj "to EUR-Lex") ter [Uredbe (ES) 1255/97](http://data.europa.eu/eli/reg/1997/1255/oj "to EUR-Lex") (UL L št. 3 z dne 5. 1. 2005, str. 1, z vsemi spremembami; v nadaljnjem besedilu: [Uredba 1/2005/ES](http://data.europa.eu/eli/reg/2005/1/oj "to EUR-Lex")).
+
+#### 17. člen
+
+Pri prevozih živali, ki niso urejeni z [Uredbo 1/2005/ES](http://data.europa.eu/eli/reg/2005/1/oj "to EUR-Lex"), se šteje za neustrezen prevoz živali:
+
+- prevoz živali, ki niso sposobne za prevoz (živali v predpisanem obdobju pred ali po porodu, bolne ali poškodovane živali ter novorojene živali, pri katerih popkovina ni povsem zaceljena); ta določba ne velja za bolne ali poškodovane živali in za živali, ki se prevažajo z namenom zdravljenja, če je prevoz odobril pristojni veterinarski delavec, ali zaradi znanstvenih raziskav, če je prevoz odobril pristojni veterinarski delavec ali strokovnjak za dobrobit živali iz drugega odstavka 20.a člena tega zakona;
+
+- prevoz živali v nepokritih cestnih prevoznih sredstvih, v nepokritem delu plovila ali zrakoplova, če živali niso zavarovane pred vremenskimi nevšečnostmi in razlikami v klimatskih pogojih;
+
+- prevoz živali poleti oziroma v toplih mesecih, v zaprtih prevoznih sredstvih, zabojnikih, kletkah ipd., če v času prevoza ni zagotovljeno ustrezno prezračevanje;
+
+- prevoz živali, ki so občutljive na temperaturne spremembe, če med prevozom ni zagotovljena ustrezna temperatura;
+
+- prevoz, ki povzroča živali nepotrebno trpljenje zaradi nezadostne površine, višine, nezadostnega napajanja ali krmljenja živali;
+
+- če je namestitev živali v prevoznem sredstvu taka, da so možne poškodbe ali izpadanje živali iz prevoznega sredstva;
+
+- prevoz vodnih živali, če ni zagotovljena zadostna količina vode z ustrezno temperaturo in kisikom;
+
+- prevoz panjev s čebeljimi družinami, če ni zagotovljeno ustrezno zračenje;
+
+- če se skupno z živalmi prevaža blago, ki je škodljivo za zdravje živali;
+
+- pošiljanje živali po poštnem povzetju; ta določba ne velja za čebele.
+
+Če je ravnanje iz prvega odstavka tega člena storjena naklepno in nastanejo posledice iz 4. člena tega zakona, se šteje, da gre za mučenje živali.
+
+### 3. Bolne in poškodovane živali ter izvajanje posegov na živalih
+
+#### 18. člen
+
+Skrbnik živali mora pravočasno zahtevati veterinarsko pomoč in oskrbo bolnih ali poškodovanih živali, veterinarsko pomoč pri porodih, kadar je potrebna, in ustrezno nego bolnih, poškodovanih in onemoglih živali.
+
+#### 19. člen
+
+Pri bolečih posegih na vretenčarjih je obvezna anestezija. V primerih ko z lokalno anestezijo živali ni mogoče zanesljivo preprečiti bolečine, je obvezna splošna anestezija živali.
+
+Anestezija ni potrebna, če je tako predpisano ali če po veterinarski presoji v posameznih primerih ni izvedljiva ali potrebna. Praviloma anestezija živali ni potrebna, če ni potrebna pri podobnih posegih na človeku.
+
+Izvajanje bolečih posegov na živalih brez anestezije v nasprotju s tem zakonom, ki je storjeno naklepno, se šteje za mučenje živali.
+
+#### 20. člen
+
+Prepovedano je in se šteje za mučenje živali popolno ali delno amputiranje telesnih delov in popolni ali delni odvzem ali uničenje organov ali tkiv vretenčarjev, ki je storjeno naklepno, razen če je:
+
+- poseg po veterinarski presoji potreben za ugotavljanje bolezni in za rešitev ali ozdravljenje živali;
+
+- poseg v znanstveno-raziskovalne namene v skladu s predpisi;
+
+- sterilizacija oziroma kastracija potrebna za zmanjšanje razmnoževanja živali, agresivnosti, načina reje ali preprečevanja razmnoževanja živali z dednimi hibami;
+
+- popoln ali delni odvzem organov ali tkiv potreben za transplantacijo, za vzgajanje celičnih ali tkivnih kultur ali pregled izoliranih organov, tkiv ali celic, za diagnostične namene ali pripravo gojišč v skladu s predpisi;
+
+- poseg pri rejni živali potreben, da se v reji preprečijo večje poškodbe ali obolenja;
+
+- skrajšanje enega uhlja za največ 1/4 pri mački, ki živi prosto v okolju, izvedeno zaradi označitve sterilizirane oziroma kastrirane živali pod pogojem, da je poseg opravljen pod splošno anestezijo.
+
+Prepovedani so naslednji posegi:
+
+- odstranjevanje krempljev mačkam in odstranjevanje glasilk živalim;
+
+- odstranjevanje rožnih nastavkov z uporabo jedkih snovi;
+
+- krajšanje kljunov perutnini, razen če je opravljeno z namenom, da se preprečijo večje poškodbe in obolenja v rejah;
+
+- amputacije ali kastracije z elastičnim obročkom;
+
+- kirurška kastracija pujskov brez uporabe anestezije ob posegu in analgezije pred ali med posegom ali neposredno po njem;
+
+- krajšanje uhljev živalim, razen v primerih iz šeste alinee prejšnjega odstavka, ali če je poseg po strokovnem mnenju veterinarja v korist živali in ga opravi veterinar;
+
+- krajšanje repov psom, razen če je poseg po strokovnem mnenju veterinarja v korist živali in ga opravi veterinar;
+
+- odstranjevanje analnih mešičkov belim dihurjem, razen če je poseg po strokovnem mnenju veterinarja v korist živali in ga opravi veterinar.
+
+### 4. Postopki na živalih in delo na izoliranih tkivih, organih in truplih predhodno usmrčenih živali
+
+#### 20.a člen
+
+Vzrejne organizacije, dobaviteljske organizacije in uporabniške organizacije mora pred začetkom opravljanja dejavnosti odobriti upravni organ, pristojen za veterinarstvo.
+
+Organizacije iz prejšnjega odstavka se odobrijo, če izpolnjujejo predpisane pogoje glede prostorov, opreme, tehničnih pripomočkov, kadrov, zagotavljanja zdravstvenega varstva živali v postopkih, odstranjevanja živalskih stranskih proizvodov ter strokovne podpore za zaščito, dobrobit živali v postopkih in veterinarsko oskrbo. Upravni organ, pristojen za veterinarstvo, vodi evidenco odobrenih organizacij z naslednjimi podatki: ime in naslov odobrene organizacije, osebno ime strokovnjaka za dobrobit živali, vrste živali, številka in datum odločbe o odobritvi.
+
+Odobrena organizacija imenuje komisijo za dobrobit živali, ki jo sestavljata strokovnjak za dobrobit živali in njegov namestnik, v uporabniški organizaciji pa tudi oseba, ki načrtuje ter vodi postopke in projekte. Komisija za dobrobit živali svetuje v zvezi z dobrobitjo, nabavo, oskrbo in uporabo živali ter uporabo načela 3R. Nasvete in sprejete odločitve vodi v pisni obliki in jih hrani pet let.
+
+Odobrene organizacije morajo zagotavljati ustrezno oskrbo in nastanitev živali v postopkih, predpisano označevanje in identifikacijo živali v postopkih ter vodenje predpisanih evidenc in poročanje upravnemu organu, pristojnemu za veterinarstvo.
+
+Če se pri izvajanju nadzorstva ugotovi, da odobrena organizacija ne izpolnjuje več predpisanih pogojev iz drugega in tretjega odstavka tega člena oziroma če krši obveznosti iz prejšnjega odstavka, ji uradni veterinar odredi ukrepe in rok za odpravo nepravilnosti. Če ugotovljene nepravilnosti ogrožajo dobrobit živali v postopkih, uradni veterinar organizaciji do odprave nepravilnosti prepove opravljanje dejavnosti iz prvega odstavka tega člena. Če odobrena organizacija v določenem roku ne izvede odrejenih ukrepov, se odobritev odvzame in se organizacijo izbriše iz evidence iz drugega odstavka tega člena.
+
+V času prepovedi opravljanja dejavnosti in v primeru odvzema odobritve mora organizacija iz prvega odstavka tega člena na lastne stroške zagotoviti, da ni ogrožena dobrobit živali v postopkih.
+
+Podrobnejše pogoje za izvajanje tega člena predpiše minister v soglasju z ministri, pristojnimi za znanost, visoko šolstvo in okolje.
+
+#### 20.b člen
+
+Osebe, ki v odobrenih organizacijah opravljajo naloge oskrbe ali usmrtitve živali, izvajajo postopke na živalih, načrtujejo postopke in vodijo projekte, ter osebe, ki skrbijo za dobrobit živali, morajo biti ustrezno izobražene in usposobljene.
+
+Usposabljanje oseb iz prejšnjega odstavka obsega teoretični in praktični del ter pisno preverjanje znanja. Upravni organ, pristojen za veterinarstvo, vodi evidenco o opravljenem pisnem preverjanju znanja z naslednjimi podatki o udeležencih usposabljanja: osebno ime, naslov prebivališča, datum rojstva, stopnja izobrazbe, vrsta in vsebina usposabljanja ter datum usposabljanja in zaporedna številka potrdila.
+
+Usposabljanje iz tega člena izvajajo pravne ali fizične osebe, ki so registrirane za dejavnost izobraževanja in izpolnjujejo pogoje glede strokovne usposobljenosti predavateljev, glede prostorov in opreme ter predložijo program usposabljanja, ki ga odobri upravni organ, pristojen za veterinarstvo. O izvedenih usposabljanjih vodijo evidenco, ki vsebuje naslednje podatke o udeležencih usposabljanj: osebno ime, naslov prebivališča, datum rojstva, stopnjo izobrazbe, vrsto in vsebino usposabljanja ter datum usposabljanja in zaporedno številko potrdila o opravljenem usposabljanju.
+
+Strokovnjak za dobrobit živali v organizaciji vodi evidenco o vseh usposobljenih osebah, ki delajo z živalmi v postopkih, z naslednjimi podatki: osebno ime, stopnja izobrazbe, datum usposabljanja in zaporedna številka izdanega potrdila o opravljenem usposabljanju.
+
+Podrobnejše pogoje glede usposabljanj, predavateljev, vsebine programa usposabljanja ter vodenja evidenc o udeležencih usposabljanj in usposobljenih osebah, evidenc o izvedenih usposabljanjih in opravljenih izpitih predpiše minister.
+
+Osebni podatki iz drugega, tretjega in četrtega odstavka tega člena se obdelujejo za vodenje in vzdrževanje evidence o izvedenih usposabljanjih, usposobljenih osebah ter za odločanje v skladu s tem zakonom in se hranijo pet let po izvedenem usposabljanju.
+
+#### 21. člen
+
+Postopki na živalih se lahko izvajajo le v uporabniški organizaciji, ki je odobrena v skladu z 20.a členom tega zakona, in v okviru projekta, za katerega je bilo izdano dovoljenje za projekt.
+
+Upravni organ, pristojen za veterinarstvo, odloči o odobritvi projekta po pridobitvi ocene etične komisije iz 23. člena tega zakona o utemeljenosti in obsegu predlaganega projekta. Na podlagi odločitve o odobritvi izda dovoljenje za projekt, v katerem se navedejo uporabniška organizacija in sedež, oseba, odgovorna za izvajanje projekta v skladu z izdanim dovoljenjem za projekt, lokacije, na katerih se bo projekt izvajal, pogoji, pod katerimi je dovoljeno izvesti predlagane postopke, in morebitna zahteva za retrospektivno oceno projekta. Projekt se odobri za omejen čas glede na namen projekta in najdlje za pet let.
+
+Za večkratne generične projekte, ki jih izvaja ista uporabniška organizacija in se izvajajo za izpolnitev predpisanih zahtev, proizvodnjo ali diagnostične namene po uveljavljenih metodah, se izda skupno dovoljenje za projekt.
+
+Ne glede na zakon, ki ureja splošni upravni postopek, se lahko rok za izdajo dovoljenja za projekt za zapletene ali večdisciplinarne projekte podaljša za petnajst delovnih dni, o čemer upravni organ, pristojen za veterinarstvo, pred iztekom roka obvesti vlagatelja.
+
+Za vsako spremembo projekta, ki bi lahko negativno vplivala na dobrobit živali, je potrebna sprememba ali podaljšanje dovoljenja za projekt, ki se izvede po postopku iz drugega odstavka tega člena.
+
+Dovoljenje za projekt se odvzame, če uporabniška organizacija projekt izvaja v nasprotju z izdanim dovoljenjem za projekt in to ogroža dobrobit živali. Če ugotovljene nepravilnosti ne ogrožajo dobrobiti živali, upravni organ, pristojen za veterinarstvo, uporabniški organizaciji odredi ukrepe in rok za odpravo nepravilnosti. Če uporabniška organizacija v odrejenem roku ne odpravi nepravilnosti, se ji dovoljenje za projekt odvzame, pri čemer odvzem ne sme neugodno vplivati na dobrobit živali, ki se uporabljajo ali so se nameravale uporabiti v postopkih v okviru projekta. Vodja projekta mora poskrbeti za dobrobit teh živali. Uporabniška organizacija lahko ponovno zaprosi za dovoljenje za projekt po treh mesecih od izvršljivosti odločbe o odvzemu dovoljenja za projekt.
+
+Podrobnejšo vsebino ocene iz drugega odstavka tega člena ter pogoje za spremembo, podaljšanje ali odvzem dovoljenja za projekt predpiše minister v soglasju z ministri, pristojnimi za znanost, visoko šolstvo in okolje.
+
+#### 21.a člen
+
+Postopke na živalih je dovoljeno izvajati le za naslednje namene:
+
+a) temeljne raziskave;
+
+b) translacijske ali uporabne raziskave s katerimkoli od naslednjih ciljev:
+
+- odvračanje, preprečevanje, diagnosticiranje ali zdravljenje bolezni, slabega zdravstvenega stanja, drugih bolezenskih sprememb ali njihovih učinkov pri človeku, živalih ali rastlinah,
+
+- ocena, odkrivanje, uravnavanje ali spreminjanje fizioloških stanj pri človeku, živalih ali rastlinah,
+
+- dobrobit živali in izboljšanje proizvodnih pogojev za živali iz vzreje za kmetijske namene;
+
+c) razvoj, izdelava ali preizkušanje kakovosti, učinkovitosti in varnosti zdravil, živil in krme ter drugih snovi ali izdelkov za doseganje cilja iz prejšnje točke;
+
+č) zaščita naravnega okolja zaradi varovanja zdravja ali dobrobiti ljudi ali živali;
+
+d) raziskave, usmerjene v ohranjanje živalskih vrst;
+
+e) visokošolsko izobraževanje v skladu z drugim odstavkom 22. člena tega zakona in usposabljanje za pridobitev, ohranjanje ali izboljšanje strokovnega poklicnega znanja;
+
+f) sodnomedicinske raziskave.
+
+Za postopek na živali se ne štejejo neeksperimentalne kmetijske prakse, neeksperimentalne klinične veterinarske prakse, veterinarska klinična preizkušanja, potrebna za izdajo dovoljenja za promet z zdravilom za uporabo v veterinarski medicini, prakse, ki se izvajajo za namene priznane reje živali, in prakse, ki se izvajajo predvsem za namene identifikacije živali.
+
+Za odobritev projekta mora postopek na živalih izpolnjevati naslednje splošne pogoje:
+
+a) izvaja se v okviru projekta;
+
+b) izvaja se v odobreni uporabniški organizaciji, razen če upravni organ, pristojen za veterinarstvo, dovoli odstopanje na podlagi znanstvene utemeljitve;
+
+c) izvaja se pod splošno ali lokalno anestezijo živali v postopkih, razen če je to neprimerno glede na namen postopka in se uporablja analgezija ali druga ustrezna metoda za zagotovitev, da sta trpljenje in stiska živali v postopkih čim manjša;
+
+č) izvaja se na laboratorijskih živalih, ki izvirajo iz odobrene vzrejne organizacije, razen če upravni organ, pristojen za veterinarstvo, dovoli odstopanje na podlagi znanstvene utemeljitve;
+
+d) upošteva se načelo 3R;
+
+e) za izvajanje postopka, oskrbo živali v postopkih ter usmrtitev živali v postopkih je na kraju samem na voljo dovolj osebja, ki je ustrezno izobraženo in usposobljeno;
+
+f) odobrena uporabniška organizacija zagotovi ustrezne naprave in opremo za učinkovito ter nemoteno izvajanje postopkov.
+
+Postopek na živali ni dovoljen:
+
+a) če povzroča hudo trpljenje ali stisko, ki sta dolgotrajna in ju ni mogoče olajšati;
+
+b) če se priznava druga znanstveno zadovoljiva metoda ali preizkusna strategija, ki ne zahteva uporabe živih živali;
+
+c) za preizkušanje bojnih sredstev, kozmetičnih preparatov, tobačnih ali alkoholnih izdelkov;
+
+č) brez anestezije, če se uporabljajo sredstva za hromljenje mišic.
+
+Na živalih ogroženih vrst, na primatih, razen človeka, na živalih, odvzetih iz naravnega okolja, in na zapuščenih živalih se postopki lahko izvajajo le v skladu s predpisanimi pogoji.
+
+Uporabniške organizacije pri načrtovanju projektov upoštevajo podatke iz drugih držav članic Evropske unije, pridobljene s postopki, izvedenimi v skladu s predpisi Evropske unije. Podvajanje tovrstnih postopkov se dovoli le izjemoma, če je treba zaščititi javno zdravje, varnost ali okolje. Podvajanje se ne dovoli, če poskusna metoda ali strategija dokazano ne prinaša novih spoznanj.
+
+Uporabniška organizacija mora:
+
+a) postopke izvajati v skladu z izdanim dovoljenjem za projekt;
+
+b) zagotoviti, da se žival po končanem postopku ustrezno zdravi ali usmrti, če je to potrebno zaradi dobrobiti živali;
+
+c) v največji mogoči meri preprečiti pogin živali kot končen rezultat postopka na živali in ga nadomestiti s predčasno usmrtitvijo živali;
+
+č) zagotoviti, da se žival, ki je že bila uporabljena v enem ali več postopkih, uporabi v novem postopku le ob upoštevanju predpisanih pogojev, zlasti glede težavnosti preteklih postopkov in novega postopka ter zdravstvenega stanja živali.
+
+Upravni organ, pristojen za veterinarstvo, na spletni strani objavi netehnične povzetke izvedenih projektov, ob upoštevanju varovanja intelektualne lastnine in zaupnih podatkov.
+
+Izvajanje postopkov na živalih brez dovoljenja za projekt ali v nasprotju s sedmim odstavkom tega člena, ki je storjeno naklepno, se šteje za mučenje živali.
+
+#### 22. člen
+
+Prepovedani so postopki na živalih z razvitim živčnim sistemom za zaznavanje bolečin v izobraževalne namene.
+
+Ne glede na določbe prejšnjega odstavka lahko upravni organ, pristojen za veterinarstvo, z odločbo v upravnem postopku dovoli postopke iz prejšnjega odstavka, če se izvajajo v visokošolskih zavodih po predpisih, ki urejajo visoko šolstvo, ali raziskovalnih organizacijah po predpisih, ki urejajo raziskovalno dejavnost (v nadaljnjem besedilu: izvajalec), in so nujni za pridobitev znanj, ki jih pri svojem delu potrebujejo zdravniki pri posegih na ljudeh ali veterinarji pri posegih na živalih, in če ciljev postopkov ni mogoče doseči s pomočjo drugih učnih pripomočkov (film, slika, modeli, preparati ipd.).
+
+#### 22.a člen
+
+Znanstvenoraziskovalno ali izobraževalno delo na izoliranih organih, tkivih in truplih v ta namen usmrčenih živali lahko opravljajo izvajalci del na živalskih tkivih, če so odobreni pri upravnem organu, pristojnem za veterinarstvo.
+
+Izvajalci del na živalskih tkivih se odobrijo, če izpolnjujejo predpisane pogoje glede prostorov, opreme in tehničnih pripomočkov, izobrazbe in usposobljenosti kadrov ter odstranjevanja živalskih stranskih proizvodov. Upravni organ, pristojen za veterinarstvo, vodi evidenco odobrenih izvajalcev del na živalskih tkivih z naslednjimi podatki: ime in naslov izvajalca del na živalskih tkivih, osebno ime strokovnjaka za dobrobit živali, vrste živali, številka in datum odločbe o odobritvi. Ta evidenca je sestavni del evidence iz drugega odstavka 20.a člena tega zakona.
+
+Za izvajanje del iz tega člena je dovoljena le uporaba laboratorijskih glodavcev. Upravni organ, pristojen za veterinarstvo, lahko na vlogo izvajalca del na živalskih tkivih na podlagi znanstvene utemeljitve in v skladu z mnenjem etične komisije iz 23. člena tega zakona dovoli uporabo drugih živalskih vrst.
+
+Ne glede na prejšnji odstavek je v izobraževalne namene uporaba živali zaščitenih in ogroženih živalskih vrst, odvzetih iz narave, za delo na izoliranih tkivih, organih in truplih v ta namen usmrčenih živali prepovedana.
+
+Če se pri izvajanju nadzorstva ugotovi, da izvajalec del na živalskih tkivih ne izpolnjuje več pogojev iz drugega odstavka tega člena, če pri nastanitvi, oskrbi ali usmrtitvi živali ne ravna na predpisan način ali če izvaja dela v nasprotju s priglasitvijo iz šestega odstavka tega člena, mu uradni veterinar odredi ukrepe in rok za odpravo nepravilnosti. Če ugotovljene nepravilnosti ogrožajo dobrobit živali, uradni veterinar izvajalcu del na živalskih tkivih prepove opravljanje del na izoliranih organih, tkivih in truplih do odprave nepravilnosti. Če izvajalec ne izvede odrejenih ukrepov ali če krši četrti odstavek, se odobritev odvzame. Izvajalec lahko ponovno vloži vlogo za odobritev po treh mesecih od izvršljivosti odločbe o odvzemu odobritve.
+
+Za izvajanje znanstvenoraziskovalnega ali izobraževalnega dela na izoliranih organih, tkivih in truplih v ta namen usmrčenih živali mora odobreni izvajalec predhodno priglasiti upravnemu organu, pristojnemu za veterinarstvo, predvideno vrsto in število živali, njihov izvor ter namen uporabe.
+
+Ne glede na prvi odstavek tega člena lahko upravni organ, pristojen za veterinarstvo, dovoli delo na izoliranih organih, tkivih in truplih v ta namen usmrčenih živali tudi izvajalcu, ki ni odobren, če gre za enkratno znanstvenoraziskovalno ali izobraževalno delo in če izvajalec del na živalskih tkivih zagotovi predpisan način usmrtitve ter odstranjevanja živalskih stranskih proizvodov. Upravni organ, pristojen za veterinarstvo, izda dovoljenje na podlagi vloge izvajalca.
+
+Za organizacije, odobrene v skladu z drugim odstavkom 20.a člena tega zakona, se šteje, da so odobrene tudi kot izvajalci del na živalskih tkivih.
+
+Podrobnejše pogoje za izvajanje tega člena predpiše minister v soglasju z ministri, pristojnimi za znanost, visoko šolstvo in okolje.
+
+#### 23. člen
+
+Minister v soglasju z ministri, pristojnimi za znanost, visoko šolstvo in okolje, ustanovi etično komisijo za postopke na živalih.
+
+Naloge etične komisije so:
+
+- izdajanje ocene iz drugega odstavka 21. člena tega zakona o utemeljenosti in obsegu predlaganega projekta;
+
+- izdajanje mnenja iz tretjega odstavka prejšnjega člena o znanstveni utemeljenosti odstopa od uporabe laboratorijskih živali za delo na izoliranih organih, tkivih in truplih;
+
+- sprejemanje načelnih mnenj v zadevah, povezanih s pridobivanjem, vzrejo, nastanitvijo, oskrbo in uporabo živali v postopkih, za katere je bilo izdano dovoljenje za projekt, ter zagotavljanje izmenjave najboljših praks;
+
+- izmenjava podatkov o delovanju komisij za dobrobit živali pri organizacijah iz 20.a člena tega zakona in ocenah projektov ter dobrih praksah v zvezi s postopki na živalih znotraj Evropske unije;
+
+- druge naloge v zvezi s postopki na živalih in delom na izoliranih organih, tkivih in truplih živali na zahtevo upravnega organa, pristojnega za veterinarstvo.
+
+Stroške priprave ocene iz prve alinee prejšnjega odstavka in mnenja iz druge alinee prejšnjega odstavka nosi predlagatelj.
+
+Člani etične komisije za postopke na živalih so upravičeni do nadomestila v skladu s predpisi, ki urejajo povračila sejnin.
+
+Sredstva za izplačilo nadomestil iz prejšnjega odstavka zagotovi ministrstvo, pristojno za veterinarstvo.
+
+Minister v soglasju z ministri, pristojnimi za znanost, visoko šolstvo in okolje, izda predpis o natančnejših pogojih za sestavo, naloge in način dela etične komisije za postopke na živalih.
+
+#### 24. člen
+
+Postopek za izdajo dovoljenja za postopke na živalih, higiensko-tehnični, organizacijski in kadrovski pogoji, nega in oskrba ter veterinarska oskrba teh živali, evidenca in poročanje o postopkih na živalih, o posegih in terapiji v izobraževalne namene morajo biti v skladu s predpisanimi pogoji.
+
+Upravni organ, pristojen za veterinarstvo, vodi na podlagi prejetih vlog za odobritev projektov in letnih poročil o uporabi živali v postopkih statistično evidenco. Sklepni statistični podatki o številu in vrstah uporabljenih živali ter namenu uporabe, vključno s podatki o težavnostni stopnji posameznih postopkov, so javni. Dokumentacija o projektih se hrani pet let.
+
+### 5. Zakol živali
+
+#### 25. člen
+
+Zakol se izvaja v skladu z [Uredbo Sveta (ES) št. 1099/2009](http://data.europa.eu/eli/reg/2009/1099/oj "to EUR-Lex").
+
+Ne glede na četrti odstavek 4. člena [Uredbe 1099/09/ES](http://data.europa.eu/eli/reg/2009/1099/oj "to EUR-Lex") mora biti omamljenje živali izvedeno tudi pri obrednem zakolu, razen če gre za zakol perutnine, kuncev in zajcev izven klavnice za zasebno domačo porabo.
+
+Zakol živali, ki ni urejen z [Uredbo 1099/2009/ES](http://data.europa.eu/eli/reg/2009/1099/oj "to EUR-Lex"), je dovoljeno izvesti le po postopkih, po katerih je žival usmrčena v trenutku, oziroma z ustrezno predhodno omamo.
+
+### 6. Usmrtitev živali
+
+#### 26. člen
+
+Usmrtitev živali je dovoljena, če:
+
+1. je takšen ukrep odrejen zaradi diagnostičnih preiskav ali preprečevanja ter zatiranja določenih bolezni živali in zoonoz;
+
+2. je iz drugih zdravstvenih razlogov prepovedan zakol bolne ali poškodovane živali;
+
+3. iz veterinarske presoje izhaja, da je žival v agoniji, neozdravljivo bolna, ima poškodbo večje stopnje ali nepopravljivo motnjo v obnašanju, ki ji povzroča trpljenje;
+
+4. je žival dosegla tako starost, da ji odpovedujejo osnovne življenjske funkcije;
+
+5. je to potrebno zaradi ohranjanja naravnega ravnovesja v skladu z zakonom, ki ureja ohranjanje narave;
+
+6. je izvedena zaradi deratizacije škodljivih glodavcev;
+
+7. gre za nevarno žival ali nevarnega psa in nevarnosti ni mogoče drugače preprečiti;
+
+8. gre za žival, ki povzroča občutno škodo in tega ni mogoče drugače preprečiti;
+
+9. gre za nevarnega psa, s katerim ni bilo opravljeno predpisano šolanje iz 26.c člena tega zakona ali to šolanje ni bilo uspešno opravljeno;
+
+10. uradni veterinar na podlagi prijave lastnika psa ugotovi, da je pes neobvladljiv in kaže ponavljajoče znake napadalnega vedenja do ljudi, prijavitelj pa to verjetno izkaže;
+
+11. tako odredi uradni veterinar zaradi zaščite ljudi oziroma živali;
+
+12. rejna žival ni primerna za nadaljnjo rejo in ni namenjena za zakol;
+
+13. je vzrejena ali rejena za namene uporabe v postopkih, vendar zaradi narave postopka ni primerna za uporabo v tem ali nadaljnjih postopkih in se zato šteje za odvečno laboratorijsko žival, ali če je tak ukrep potreben zaradi zaščite dobrobiti živali v postopkih;
+
+14. je izvedena zaradi zakola živali;
+
+15. je izvedena v skladu s predpisi, ki urejajo lovstvo in ribištvo;
+
+16. je izvedena zaradi odstranjevanja odvečnih enodnevnih piščancev in zarodkov v jajcih;
+
+17. je potrebna za znanstvenoraziskovalno ali izobraževalno delo na izoliranih organih, tkivih in truplih v ta namen usmrčenih živali;
+
+18. je v skladu z izdanim dovoljenjem za projekt iz 21. člena tega zakona;
+
+19. je izvedena za potrebe naravoslovnih muzejev;
+
+20. je izvedena v skladu s 26.b členom tega zakona;
+
+21. gre za odvzete ali najdene živali iz 6.b in 6.č člena tega zakona, za katere ni mogoče zagotoviti bivanja in namestitve pod predpisanimi pogoji.
+
+Usmrtitev živali, ki se redijo ali gojijo za proizvodnjo volne ali drugih proizvodov, ter usmrtitev živali za namen depopulacije se izvede v skladu z [Uredbo 1099/2009/ES](http://data.europa.eu/eli/reg/2009/1099/oj "to EUR-Lex").
+
+Usmrtitev živali, ki ni urejena z [Uredbo 1099/2009/ES](http://data.europa.eu/eli/reg/2009/1099/oj "to EUR-Lex"), se izvede po postopkih, po katerih je žival usmrčena v trenutku, oziroma z ustrezno predhodno omamo.
+
+Usmrtitev živali, ki je naklepno storjena v nasprotju s prvim odstavkom tega člena se šteje za nepotrebno usmrtitev iz 4. člena tega zakona, če pa je usmrtitev naklepno izvedena v nasprotju z drugim ali tretjim odstavkom tega člena, se šteje za neprimerno usmrtitev iz 4. člena tega zakona.
+
+### 7. Ugrizi psov in šolanje psov
+
+#### 26.a člen
+
+Zdravnik, ki obravnava poškodbo človeka zaradi ugriza psa, mora osebo napotiti v antirabično ambulanto skladno s predpisi, ki urejajo nalezljive bolezni, pri čemer mora v primeru smrti človeka ali posebno hude telesne poškodbe pisno obvestiti območni urad upravnega organa, pristojnega za veterinarstvo, v roku sedmih dni od obravnave smrti oziroma posebno hude telesne poškodbe in mu posredovati osebno ime ter naslov poškodovane oziroma umrle osebe zaradi izvedbe postopkov iz prvega in tretjega odstavka 26.b člena tega zakona.
+
+Antirabična ambulanta mora vnesti podatke o ugrizu psa v centralni register hišnih živali, pozvati skrbnika psa, da se s psom zglasi v pristojni veterinarski organizaciji zaradi preveritve suma na steklino in o ugrizu psa obvestiti pristojni območni urad upravnega organa, pristojnega za veterinarstvo.
+
+Pristojna veterinarska organizacija mora podatke o opravljenih pregledih na steklino iz prejšnjega odstavka vnesti v centralni register hišnih živali in o rezultatih teh pregledov obvestiti antirabično ambulanto. Če antirabična ambulanta ne prejme podatka o opravljenih pregledih na steklino v roku petnajstih dni od ugriza psa, mora o tem obvestiti območni urad upravnega organa, pristojnega za veterinarstvo.
+
+Pristojna veterinarska organizacija, ki obravnava poškodbo živali zaradi ugriza psa, mora podatke o ugrizih psov v roku treh delovnih dni vnesti v centralni register hišnih živali.
+
+O ugrizih psov morajo policija in druge osebe iz 42. člena tega zakona, ki dogodek obravnavajo, v roku 24 ur obvestiti območni urad upravnega organa, pristojnega za veterinarstvo, ki podatke o ugrizih psov vnese v centralni register hišnih živali.
+
+#### 26.b člen
+
+Če je pes z ugrizom povzročil ali bil soudeležen pri povzročitvi smrti človeka ali suma posebno hude telesne poškodbe, uradni veterinar zaradi odvrnitve splošne nevarnosti in opazovanja na steklino z ustno odločbo odvzame psa in odredi skrbniku takojšnjo namestitev psa v izolatorij pristojne veterinarske organizacije za obdobje do izključitve suma na steklino.
+
+Če skrbnik psa pri izvedbi ukrepov iz prejšnjega odstavka ne sodeluje, se namestitev psa v izolatorij na njegove stroške odredi zavetišču.
+
+Uradni veterinar odredi usmrtitev psa:
+
+- če je z ugrizom povzročil ali bil soudeležen pri povzročitvi smrti človeka;
+
+- če je iz obvestila iz prvega odstavka prejšnjega člena razvidno, da je pes z ugrizom povzročil ali bil soudeležen pri povzročitvi posebno hude telesne poškodbe.
+
+Usmrtitev iz prejšnjega odstavka se ne sme opraviti pred zaključkom pregledov psa na steklino.
+
+Uradni veterinar lahko za izvedbo odrejenih ukrepov iz tega člena zahteva pomoč policije, zavetišča ali pristojne veterinarske organizacije.
+
+Če je na kraj dogodka iz prvega odstavka tega člena prva prišla policija, mora poleg izvajanja ukrepov v skladu s svojimi pooblastili glede odvrnitve splošne nevarnosti o dogodku nemudoma obvestiti uradnega veterinarja.
+
+Če se sum posebno hude telesne poškodbe ne potrdi z obvestilom iz prvega odstavka prejšnjega člena, se psa vrne skrbniku, ki mora omogočiti dokončanje pregledov na steklino.
+
+Skrbniku psa, ki je povzročil smrt ali posebno hudo telesno poškodbo človeka, upravni organ, pristojen za veterinarstvo, prepove gojitev, posedovanje in vodenje psov, če je že pred tem posedoval psa, ki je povzročil smrt ali posebno hudo telesno poškodbo.
+
+Pritožba zoper odločbe iz tega člena je dovoljena v roku osmih dni od vročitve odločbe.
+
+Stroški, nastali zaradi ukrepov iz tega člena, bremenijo skrbnika živali.
+
+#### 26.c člen
+
+Šolanje psov po tem zakonu je obvezno:
+
+- če nevaren pes z ugrizom povzroči poškodbo, pa ne gre za posebno hudo telesno poškodbo. Šolanje psa je treba izvesti najpozneje do dopolnjenega drugega leta starosti psa, če je pes že star dve leti pa v roku šestih mesecev od ugriza psa;
+
+- za psa, ki živi ali bo živel v istem okolju kot lastnik, katerega pes je bil usmrčen v skladu s tretjim odstavkom prejšnjega člena. Šolanje psa je treba izvesti najpozneje do dopolnjenega drugega leta starosti psa, če je pes že star dve leti pa v roku šestih mesecev od usmrtitve prejšnjega psa oziroma nabave novega psa.
+
+Šolanje iz prejšnjega odstavka mora biti opravljeno ob udeležbi lastnika psa po programu, ki ga potrdi upravni organ, pristojen za veterinarstvo, na podlagi mnenja strokovne komisije. Program mora vsebovati navedbo izvajalca oziroma izvajalcev šolanja in dokazila o njihovih izkušnjah s področja poznavanja vedenja, vzreje oziroma šolanja psov. Strokovno komisijo imenuje generalni direktor upravnega organa, pristojnega za veterinarstvo, in jo sestavljajo strokovnjak s področja poznavanja vedenja, vzreje oziroma šolanja psov, uradni veterinar in veterinar pristojne veterinarske organizacije.
+
+Uspešnost opravljenega šolanja psa preveri komisija, ki jo imenuje nosilec programa šolanja iz prejšnjega odstavka in mora biti sestavljena iz strokovnjakov s področja poznavanja vedenja, vzreje oziroma šolanja psov, njena sestava pa mora biti navedena v programu šolanja. Lastnik psa je dolžan dokazilo o uspešno opravljenem šolanju predložiti pristojni veterinarski organizaciji, ki ta podatek vnese v centralni register hišnih živali.
+
+## III. SKRB ZA ZAPUŠČENE ŽIVALI
+
+#### 27. člen
+
+Zapuščenim živalim se zagotovi pomoč, oskrba in namestitev v zavetišču.
+
+Zagotovitev zavetišča je lokalna zadeva javnega pomena, ki se izvaja kot javna služba, pri čemer mora biti na vsakih začetih 800 registriranih psov v občini v zavetišču zagotovljeno najmanj eno namestitveno mesto za pse in dve namestitveni mesti za mačke.
+
+Ne glede na prejšnji odstavek se v občinah z manj kot 400 registriranimi psi javna služba izvaja tako, da je zagotovljeno najmanj eno namestitveno mesto za zapuščeno žival ne glede na vrsto živali.
+
+Občina sporoči do 31. marca tekočega leta za preteklo leto upravnemu organu, pristojnemu za veterinarstvo, seznam zavetišč, ki zanjo izvajajo javno službo iz prvega odstavka tega člena.
+
+Imetnik zavetišča je lahko občina oziroma vsaka fizična ali pravna oseba, ki izpolnjuje predpisane pogoje.
+
+Izpolnjevanje predpisanih pogojev za začetek delovanja zavetišča ugotavlja upravni organ, pristojen za veterinarstvo, v upravnem postopku.
+
+Ne glede na določbe tega zakona lahko za izvajanje javne službe pomoči, oskrbe in namestitve zapuščenih ali upokojenih kopitarjev ministrstvo, pristojno za veterinarstvo, podeli koncesijo nevladni organizaciji, ki deluje v javnem interesu na področju zaščite živali in ima sklenjeno pogodbo za izvajanje dejavnosti iz 34. člena tega zakona.
+
+Javna služba iz prejšnjega odstavka obsega:
+
+- prevzem, namestitev in oskrbo zapuščenih ali upokojenih kopitarjev,
+
+- zagotavljanje nujne veterinarske pomoči in oskrbe,
+
+- iskanje skrbnikov,
+
+- sodelovanje z inšpekcijskimi organi in drugimi pristojnimi službami.
+
+Koncesija se podeli z odločbo na podlagi javnega razpisa. Podeli se za obdobje desetih let z možnostjo podaljšanja.
+
+Ministrstvo nadzira izvajanje javne službe, skladnost s koncesijsko pogodbo ter spoštovanje predpisov s področja zaščite živali.
+
+Stroški izvajanja javne službe iz tega člena se krijejo iz proračuna Republike Slovenije v skladu s pogodbo o koncesiji.
+
+Minister predpiše podrobnejše pogoje za podelitev in izvajanje koncesije, vključno z višino nadomestila, načinom poročanja, kadrovskimi pogoji, nastanitvenimi zmogljivostmi ter drugimi obveznostmi koncesionarja.
+
+#### 27.a člen
+
+Občina je pristojna za zapuščene živali na območju, kjer so živali najdene ali odvzete, razen za odvzete hišne živali v tranzitu, za katere uradni veterinar odredi namestitev v zavetišče s prostimi zmogljivostmi na stroške kršitelja.
+
+Če občina ne zagotavlja javne službe v skladu z drugim ali tretjim odstavkom prejšnjega člena, uradni veterinar odredi namestitev zapuščene živali v zavetišče s prostimi zmogljivostmi na stroške občine do oddaje živali drugemu zainteresiranemu skrbniku ali do smrti živali.
+
+Če občina zagotavlja predpisano število mest v zavetišču, vendar število zapuščenih živali v občini presega prosto število mest v zavetišču, uradni veterinar odredi namestitev zapuščene živali na stroške občine v zavetišče s prostimi zmogljivostmi do sprostitve mest v zavetišču, ki opravlja javno službo za občino, v skladu s 1. točko drugega odstavka 31. člena tega zakona.
+
+Če občina zagotavlja predpisano število mest v zavetišču, vendar to zavetišče ne more sprejeti živali, ker so njegove zmogljivosti zasedene zaradi nameščenih odvzetih živali iz druge občine ali živali, odvzetih v tranzitu, krije stroške namestitve in oskrbe Republika Slovenija do sprostitve mest v zavetišču, ki opravlja javno službo za občino.
+
+#### 28. člen
+
+Imetnik zavetišča opravlja naslednje naloge:
+
+- sprejema prijave o zapuščenih živalih;
+
+- zagotavlja potrebno veterinarsko pomoč zapuščenim živalim;
+
+- zagotavlja ulov, prevoz, namestitev in oskrbo zapuščenih živali v zavetišču;
+
+- skrbi za iskanje skrbnikov teh živali oziroma prodajo ali oddajo živali novim skrbnikom;
+
+- zagotavlja označevanje in registracijo zapuščenih živali v skladu s predpisi.
+
+Imetnik zavetišča se šteje za skrbnika zapuščenih živali, dokler so te v zavetišču.
+
+Imetnik zavetišča pri opravljanju svojih nalog sodeluje s pristojno veterinarsko službo in občinskimi redarji zlasti za namen ugotavljanja lastništva zapuščenih živali.
+
+Imetnik zavetišča najmanj dvakrat letno poroča o opravljenih nalogah iz prvega odstavka tega člena lokalni skupnosti, za katero izvaja javno službo iz prejšnjega člena, ter enkrat letno upravnemu organu, pristojnemu za veterinarstvo.
+
+Zaposleni v zavetišču imajo dostop do centralnega registra hišnih živali. Osebni podatki, do katerih lahko dostopajo, so osebno ime, naslov in telefonska številka lastnika psa. Podatke iz prejšnjega stavka lahko obdelujejo izključno za namen ugotavljanja lastnika zapuščene živali in za vnašanje podatkov iz četrtega odstavka 6. člena tega zakona.
+
+Zaposleni v zavetišču za potrebe vodenja evidenc obdelujejo naslednje osebne podatke:
+
+- v evidenci o pogrešanih živalih: osebno ime, naslov stalnega ali začasnega bivališča in telefonsko številko oziroma naslov elektronske pošte lastnika. Osebne podatke iz prejšnjega stavka se lahko obdeluje izključno za namen obveščanja lastnika o najdbi pogrešane živali. Podatke se hrani pet let po prejemu obvestila o pogrešani živali;
+
+- v evidenci o prejetih prijavah zapuščenih živali: osebno ime, naslov stalnega ali začasnega bivališča, telefonsko številko prijavitelja. Osebne podatke iz prejšnjega stavka se lahko obdeluje izključno za namen preprečevanja zlorab in lažnih prijav. Podatke se hrani pet let po prejemu prijave;
+
+- v evidenci o sprejemu živali: osebno ime, naslov stalnega ali začasnega bivališča, telefonsko številko ali naslov elektronske pošte najditelja oziroma lastnika, ki žival predaja zavetišču, ter izjavo o prenosu lastninske pravice živali. Osebne podatke iz prejšnjega stavka se lahko obdeluje izključno za namen omejevanja zdravstvenih tveganj zaradi prenosa morebitnih zoonoz in drugih obolenj zaradi stika z okuženo živaljo in preprečevanja zlorab. Podatke se hrani pet let po vrnitvi, oddaji, poginu ali evtanaziji živali;
+
+- v evidenci o vrnitvi živali njihovim skrbnikom, oddaji živali novim skrbnikom oziroma vrnitvi v okolje: osebno ime, naslov stalnega ali začasnega bivališča, telefonsko številko ali naslov elektronske pošte skrbnika ali novega skrbnika. Osebne podatke iz prejšnjega stavka se lahko obdeluje izključno za namen omejevanja zdravstvenih tveganj zaradi prenosa morebitnih zoonoz in drugih obolenj zaradi stika z okuženo živaljo. Podatke se hrani pet let po vrnitvi, oddaji, poginu ali evtanaziji živali.
+
+#### 29. člen
+
+Kdor izgubi žival ali kdor najde zapuščeno žival, o tem obvesti zavetišče oziroma pristojno veterinarsko organizacijo.
+
+Zavetišče po najdbi označene zapuščene živali preveri lastništvo v centralnem registru hišnih živali in v 24 urah obvesti lastnika najdene živali na kontaktne podatke, ki so navedeni v centralnem registru hišnih živali.
+
+#### 30. člen
+
+Skrbnik najdene hišne živali ima pravico zahtevati vrnitev živali. Če tega ne stori v roku 8 dni od dneva, ko je bila nameščena v zavetišče, lahko imetnik zavetišča žival odda tudi drugemu zainteresiranemu skrbniku, ki se zaveže, da bo za žival ustrezno skrbel.
+
+#### 30.a člen
+
+Imetnik zavetišča ne sme pogojevati oddaje zapuščene živali z dodatnimi ali drugačnimi pogoji, kot so določeni za posedovanje hišnih živali v skladu s predpisi, ki urejajo zaščito hišnih živali, razen če je to utemeljeno zaradi zdravstvenih ali vedenjskih posebnosti živali, ki se oddaja.
+
+Imetnik zavetišča ni upravičen do povrnitve nadaljnjih stroškov oskrbe, če oddajo zapuščene živali pogojuje v nasprotju s prejšnjim odstavkom.
+
+Imetnik zavetišča lahko namesti zapuščene živali v oskrbo začasnemu skrbniku po 180 dneh od namestitve v zavetišče, če skupno število živali na istem bivališču začasnega skrbnika ne presega pet odraslih hišnih živali. Imetnik zavetišča pred namestitvijo in v času oskrbe zapuščene živali preverja predpisane pogoje za posedovanje tovrstne hišne živali ter zagotavlja redne objave in druge načine iskanja trajne posvojitve.
+
+Ne glede na določbe tega zakona imetnik zavetišča za oskrbo iz prejšnjega odstavka zagotavlja sredstva, povezana z oskrbo, v dogovoru z začasnim skrbnikom.
+
+Imetnik zavetišča ni upravičen do povrnitve stroškov oskrbe po 180 dneh od namestitve pri začasnem skrbniku, če imetnik zavetišča zapuščene živali v tem času ne odda ali je začasni skrbnik ne vrne v zavetišče.
+
+#### 30.b člen
+
+Stroški za oskrbo živali v zavetišču obsegajo stroške odlova, prevoza, namestitve, sterilizacije ali kastracije, označitve, registracije, dnevne in veterinarske oskrbe, vključno s stroški za mladiče, če se ti skotijo v času namestitve v zavetišču.
+
+Stroški dnevne oskrbe zapuščene živali v zavetišču so stroški neposredne oskrbe zapuščenih živali za hrano, vodo, obratovalne stroške (kot so na primer elektrika, voda, energija za ogrevanje, odvoz odpadkov) in stroške dela.
+
+Stroški veterinarske oskrbe zapuščene živali v zavetišču so stroški za plačilo opravljene storitve v skladu s cenikom veterinarske organizacije, ob upoštevanju priznanih stroškov nujne, obvezne in potrebne veterinarske oskrbe v skladu s smernicami, ki jih določi upravni organ, pristojen za veterinarstvo.
+
+Podaljšana oskrba je dnevna in veterinarska oskrba zapuščene živali v zavetišču po 60 dneh od namestitve zapuščene živali v zavetišče.
+
+Ceno podaljšane dnevne oskrbe iz drugega odstavka tega člena določi minister na podlagi izračuna stroškov dnevne oskrbe zapuščene živali.
+
+#### 31. člen
+
+Ne glede na 27.a člen tega zakona stroške, povezane z zapuščeno živaljo, plača dotedanji skrbnik živali:
+
+1. če je bila njegova žival najdena:
+
+- do vrnitve ali
+
+- do oddaje drugemu zainteresiranemu skrbniku, če se dotedanji skrbnik ne odzove na pisni poziv imetnika zavetišča v skladu s 30. členom tega zakona, vendar ne dlje kot 60 dni;
+
+2. če mu je bila žival odvzeta:
+
+- do oddaje drugemu zainteresiranemu skrbniku, vendar ne dlje kot 60 dni. Če žival ni oddana drugemu zainteresiranemu skrbniku v navedenem roku, se plačujejo nadaljnji stroški v skladu z drugim in tretjim odstavkom tega člena;
+
+3. če je svojo žival trajno oddal v zavetišče:
+
+- do oddaje drugemu zainteresiranemu skrbniku, vendar ne več kot znaša strošek 60-dnevne oskrbe živali. Če žival ni oddana drugemu zainteresiranemu skrbniku v navedenem roku, se plačujejo nadaljnji stroški v skladu z 2. točko drugega odstavka in tretjim odstavkom tega člena.
+
+Če skrbnik zapuščene živali ni znan, plača stroške:
+
+1. občina za obdobje do 60 dni,
+
+2. Republika Slovenija za nadaljnje obdobje 120 dni, če imetnik zavetišča zapuščene živali ne odda v 60 dneh.
+
+Republika Slovenija po preteku 180 dni od namestitve živali v zavetišče krije 35 % stroškov dnevne in veterinarske oskrbe. V preostalem delu stroški bremenijo imetnika zavetišča, ne glede na to, ali je žival nameščena pri začasnem skrbniku ali v zavetišču.
+
+Ne glede na 27.a člen tega zakona in prejšnji odstavek imetnik zavetišča ni upravičen do plačila oskrbe po 180 dneh, če ne izvaja javne službe za občino v skladu s 27. členom tega zakona, razen v primeru odvzete živali ali namestitve živali, ko je občina zagotovila javno službo v skladu s 27. členom tega zakona, a je njeno zavetišče polno in je treba žival namestiti v drugo zavetišče.
+
+Stroške, povezane z zapuščenim ali upokojenim kopitarjem, plača dotedanji skrbnik kopitarja:
+
+1. če je bil njegov kopitar najden:
+
+- do dneva vrnitve ali
+
+- do oddaje drugemu zainteresiranemu skrbniku, če se dotedanji skrbnik ne odzove na pisni poziv koncesionarja iz 27. člena tega zakona, vendar ne dlje kot 60 dni;
+
+2. če mu je bil kopitar odvzet:
+
+- do dneva oddaje drugemu zainteresiranemu skrbniku, vendar ne dlje kot 60 dni.
+
+Če skrbnik zapuščenega kopitarja ni znan, plača stroške za obdobje do oddaje drugemu zainteresiranemu skrbniku, vendar ne dlje kot 60 dni, Republika Slovenija.
+
+#### 31.a člen
+
+Občina lahko zagotavlja financiranje ali sofinanciranje izvajanja kastracij, sterilizacij in označevanja hišnih živali ter drugih ukrepov za zagotavljanje varnega okolja občanom v zvezi z zapuščenimi živalmi in za spodbujanje odgovornega lastništva hišnih živali. Financiranje sterilizacije in kastracije je pogojeno z izpolnitvijo obveznosti lastnika, da zagotovi registracijo hišnih živali.
+
+#### 32. člen
+
+Zapuščenim bolnim in poškodovanim živalim mora veterinar nuditi potrebno nujno veterinarsko pomoč.
+
+Neozdravljivo bolnim ali poškodovanim, težko prizadetim in poginjajočim zapuščenim živalim mora veterinar zagotoviti takojšnjo usmrtitev.
+
+#### 32.a člen
+
+Zavetišče zdrave, sterilizirane ali kastrirane ter označene prostoživeče mačke vrne v okolje v 14 dneh po namestitvi v zavetišče, če jih ni mogoče oddati.
+
+Podrobnejše pogoje ravnanja s prostoživečimi mačkami v zavetišču določi minister.
+
+#### 33. člen
+
+Imetnik zavetišča ali investitor pridobi sredstva za vzpostavitev zavetišča ali razširitev zmogljivosti zavetišča iz naslednjih virov:
+
+- proračuna lokalne samoupravne skupnosti;
+
+- proračuna Republike Slovenije za gradbena dela in opremo, vendar največ do višine 50 % njihove dejanske vrednosti, na podlagi javnega razpisa ministrstva v okviru razpoložljivih sredstev, če je naložba v skladu s predpisi, ki urejajo pogoje za zavetišča;
+
+- drugih virov (darila, donacije ipd.).
+
+Imetnik zavetišča pridobiva sredstva za delovanje zavetišča iz naslednjih virov:
+
+- iz proračuna lokalne samoupravne skupnosti;
+
+- iz proračuna Republike Slovenije, če gre za društvo, ki deluje v javnem interesu;
+
+- iz plačila stroškov v zvezi z zapuščenimi živalmi;
+
+- iz drugih virov.
+
+## III.a PREHODNI HLEVI
+
+#### 33.a člen
+
+Za začasno ali trajno odvzete rejne živali se pomoč, oskrba in namestitev zagotovijo v prehodnem hlevu.
+
+Naloge prehodnega hleva opravlja nevladna organizacija, ki deluje v javnem interesu, ali kmetijsko gospodarstvo, ki izpolnjuje predpisane pogoje za nastanitev odvzetih živali, ali zbirni center, ki je odobren pri pristojnem organu za veterinarstvo.
+
+Nevladna organizacija ali kmetijsko gospodarstvo, ki izpolnjuje predpisane pogoje, sklene pogodbo s pristojnim upravnim organom, pristojnim za veterinarstvo.
+
+Minister predpiše podrobnejše pogoje glede bivalnih pogojev, nastanitve in oskrbe živali, opreme, zagotavljanja varstva živali in z namestitvijo in oskrbo povezanih stroškov.
+
+## IV. NEVLADNE ORGANIZACIJE, KI DELUJEJO V JAVNEM INTERESU NA PODROČJU ZAŠČITE ŽIVALI
+
+#### 34. člen
+
+Društvo, ki deluje na področju zaščite živali, mora za pridobitev statusa nevladne organizacije v javnem interesu poleg splošnih pogojev po zakonu, ki ureja status nevladne organizacije v javnem interesu, izpolnjevati tudi naslednje posebne pogoje:
+
+- društvo ima več kot 30 članov;
+
+- delovanje društva je v skladu s cilji tega zakona, kar izkaže s sprejetim statutom društva;
+
+- udeležba predpisanega deleža članstva na usposabljanju s področja vedenja in dobrobiti živali ter predpisov o zaščiti živali po programu, ki ga potrdi minister.
+
+Dejavnosti v javnem interesu, ki jih opravljajo društva iz prejšnjega odstavka, so:
+
+- spodbujanje odgovornega lastništva živali;
+
+- svetovanje skrbnikom živali;
+
+- organiziranje usposabljanj na področju dobrobiti živali;
+
+- sodelovanje z zavetišči za zapuščene živali;
+
+- opozarjanje skrbnikov živali na nepravilnosti in nezakonitosti v zvezi z zaščito živali.
+
+Podrobnejše kriterije za pridobitev statusa nevladne organizacije v javnem interesu na področju zaščite živali, predpiše minister.
+
+#### 35. člen
+
+Ministrstvo, pristojno za veterinarstvo (v nadaljnjem besedilu: ministrstvo) podeli društvu, ki izpolnjuje pogoje iz prejšnjega člena, status nevladne organizacije v javnem interesu na področju zaščite živali, z odločbo.
+
+Društvu, ki deluje v javnem interesu, lahko ministrstvo iz proračuna Republike Slovenije oziroma lokalna samoupravna skupnost iz svojega proračuna, na podlagi pogodbe dodeli sredstva za opravljanje dejavnosti, ki so v javnem interesu.
+
+Ministrstvo preverja izpolnjevanje pogojev za pridobitev statusa društva, ki deluje v javnem interesu, vsakih pet let. **(prenehal veljati)**
+
+Društvu, ki ne izpolnjuje več predpisanih pogojev, se ukine status društva, ki deluje v javnem interesu, z odločbo ministra.
+
+#### 36.a člen
+
+**36. člen(črtan)**
+
+Statusa nevladne organizacije v javnem interesu na področju zaščite živali lahko poleg društev pridobijo tudi druge nevladne organizacije v skladu z zakonom, ki ureja status nevladne organizacije v javnem interesu, in ob uporabi določbe tega zakona, ki veljajo za društva.
+
+#### 36.b člen
+
+Upravni organ, pristojen za veterinarstvo, nevladnim organizacijam iz 34. člena tega zakona v okviru prostovoljnega udejstvovanja omogoči izvajanje nalog svetovanja skrbnikom živali, osveščanja in opozarjanja na nepravilnosti v zvezi z živalmi ter sodelovanje z nadzornimi organi v primeru ugotovljenih nepravilnosti, tako da imenuje kvalificirane prijavitelje nepravilnega ravnanja z živalmi (v nadaljnjem besedilu: prijavitelj).
+
+Za izvajanje pete alineje drugega odstavka 34. člena tega zakona lahko prijavitelj v sodelovanju z uradnim veterinarjem, tudi z njegovo navzočnostjo, pri skrbniku živali, pri katerem zazna nepravilno ravnanje ali kršitve obveznosti iz tega zakona, fotografira nepravilnosti, ga pozove k pravilnemu ravnanju in v primeru neodzivnosti ali nadaljevanja kršitev poda prijavo v reševanje upravnemu organu, pristojnemu za veterinarstvo.
+
+Prijavitelj lahko nepravilnosti fotografira le v primeru suma povzročanja nepotrebnega trpljenja živali ob navzočnosti uradnega veterinarja na način, da ne stopi na zasebno zemljišče skrbnika živali ter na način, da so na fotografijah zajete samo živali in ne osebe. Fotografiranje se sme izvesti iz javnega kraja, z zasebnega zemljišča pa le, če to dovoli lastnik ali posestnik tega zemljišča. Fotografije hrani v skladu z zakonom, ki ureja varstvo osebnih podatkov. Nadzor nad varstvom osebnih podatkov se izvaja v skladu z določbami zakona, ki ureja varstvo osebnih podatkov.
+
+Uradni veterinar lahko uporabi zbrane dokaze in izjave prijavitelja v inšpekcijskem postopku.
+
+V primeru suma mučenja živali, ko je ogroženo življenje živali, prijavitelj nemudoma obvesti pristojni organ za veterinarstvo, ki v 48 urah oziroma drugi delovni dan po preteku roka obvesti prijavitelja o ugotovitvah.
+
+Prijavitelj lahko v primeru nestrinjanja z ugotovitvami pristojnega organa za veterinarstvo zahteva ponovno presojo ugotovitev, ki jo izvede tričlanska komisija upravnega organa za veterinarstvo, določena izmed uradnih veterinarjev in predstavnika Centra za dobrobit živali v okviru Nacionalnega veterinarskega inštituta ter pravnika, ki je v komisijo imenovan s strani ministra za pravosodje. **(razveljavljen)**
+
+Zoper odločitev komisije ni pritožbe. **(razveljavljen)**
+
+Če upravni organ, pristojen za veterinarstvo, ugotovi, da prijavitelj krši obseg pristojnih nalog ali je pri opravljanju nalog prekoračil pooblastila, mu imenovanje in izkaznico prekliče za obdobje enega leta. V primeru ponovne kršitve, storjene v obdobju petih let od prejšnje kršitve, upravni organ imenovanje in izkaznico trajno prekliče.
+
+Zoper odločbo o preklicu ni pritožbe, dovoljen je upravni spor.
+
+#### 36.c člen
+
+Prijavitelj je lahko vsaka polnoletna oseba, ki je državljan Republike Slovenije in izpolnjuje dodatne pogoje:
+
+- ima najmanj srednješolsko izobrazbo,
+
+- je najmanj tri leta aktiven član nevladne organizacije, ki deluje v javnem interesu na področju zaščite živali,
+
+- ima opravljeno predhodno usposabljanje iz drugega odstavka 36.č člena tega zakona oziroma obnovitveno usposabljanje iz tretjega odstavka 36.č člena tega zakona,
+
+- je opravil izpit za prijavitelja in
+
+- je predložil potrdilo o nekaznovanosti za kazniva dejanja, ki se preganjajo po uradni dolžnosti.
+
+Izpit za prijavitelja kandidat opravlja pred komisijo, ki jo imenuje direktor upravnega organa, pristojnega za veterinarstvo. Komisijo sestavljajo predstavnik upravnega organa, pristojnega za veterinarstvo, predstavnik Nacionalnega centra za dobrobit živali in predstavnik nevladnih organizacij, ki delujejo v javnem interesu na področju zaščite živali.
+
+Za predstavnika nevladne organizacije je lahko imenovan član društva, ki ima opravljeno usposabljanje v skladu s pravilnikom, ki ureja podrobnejše kriterije za pridobitev statusa društva ali organizacije, ki na področju zaščite živali deluje v javnem interesu. Nevladne organizacije upravnemu organu, pristojnemu za veterinarstvo, predlagajo po eno osebo v seznam članov komisije. Predstavnik nevladne organizacije, ki sodeluje v posamezni komisiji, ni hkrati član nevladne organizacije, iz katere prihaja kandidat.
+
+Kandidat, ki je uspešno opravil izpit, na podlagi pisne vloge, ki ji priloži dokazila o izpolnjevanju pogojev iz prvega odstavka tega člena, z imenovanjem pridobi izkaznico, ki jo izda upravni organ, pristojen za veterinarstvo. Izkaznica velja pet let. Po preteku mora prijavitelj za ponovno imenovanje opraviti usposabljanje iz tretjega odstavka 36.č člena tega zakona in izpit iz četrte alineje prvega odstavka tega člena.
+
+Upravni organ o imenovanih prijaviteljih in izdanih izkaznicah upravlja evidenco, v kateri se obdelujejo osebno ime, datum pridobitve imenovanja in naziv nevladne organizacije, katere član je prijavitelj, ter zaporedno številko izdane izkaznice.
+
+Vsebino in način opravljanja izpita ter obliko in vsebino izkaznice predpiše minister.
+
+#### 36.č člen
+
+Usposabljanje za pristop k izpitu za prijavitelja izvaja Nacionalni center za dobrobit živali, ko je prijavljenih najmanj pet kandidatov.
+
+Usposabljanje obsega najmanj 40 ur vsebin s področja biologije, fiziologije, obnašanja in zdravstvenega varstva živali ter predpisov, ki urejajo zaščito živali, in predpisov, ki urejajo postopke inšpekcijskega nadzora in prekrškovne postopke.
+
+Obnovitveno usposabljanje obsega najmanj deset ur vsebin iz prejšnjega odstavka tega člena.
+
+Program in ceno usposabljanja, ki vključuje tudi opravljanje izpita, potrdi upravni organ, pristojen za veterinarstvo.
+
+Nacionalni center za dobrobit živali o izvedenih usposabljanjih upravlja evidenco, v kateri se obdelujejo naslednji podatki o udeležencih usposabljanj: osebno ime, naslov prebivališča, datum rojstva, vrsto in vsebino usposabljanja ter datum usposabljanja in zaporedno številko potrdila o opravljenem usposabljanju.
+
+## V. NAGRADE IN PRIZNANJA
+
+#### 37. člen
+
+**(črtano)**
+
+**(črtan)**
+
+## VI. STROKOVNI SVET ZA ZAŠČITO ŽIVALI
+
+#### 38. člen
+
+Pri ministrstvu se ustanovi strokovni svet za zaščito živali, sestavljen iz priznanih strokovnjakov veterinarske, medicinske, biološke, farmacevtske in zootehnične stroke ter predstavnikov društev, ki delujejo v javnem interesu na področju zaščite živali. Število članov ter sestavo strokovnega sveta določi minister.
+
+Strokovni svet za zaščito živali:
+
+- spremlja stanje in znanstvena spoznanja na področju zaščite živali ter predlaga aktivnosti;
+
+- daje mnenja in predloge pri pripravi predpisov o zaščiti živali ter druga mnenja in predloge na zahtevo upravnega organa, pristojnega za veterinarstvo;
+
+- daje mnenja in predloge v drugih zadevah, za katere ga zaprosijo državni organi.
+
+Strokovni svet za zaščito živali lahko zaprosi za mnenje tudi druge strokovnjake.
+
+Člani strokovnega sveta za zaščito živali so upravičeni do nadomestila za opravljanje nalog iz prejšnjega odstavka, ki ga določi minister.
+
+Sredstva za izplačilo nadomestil iz prejšnjega odstavka zagotovi ministrstvo v skladu s predpisi.
+
+## VII. PRISTOJNOSTI DRŽAVNIH ORGANOV
+
+#### 39. člen
+
+Minister izda natančnejše predpise za izvajanje tega zakona, s katerimi določi:
+
+- način omamljanja, zakola ali usmrtitve živali;
+
+- pogoje, ki jih morajo izpolnjevati zavetišča za zapuščene živali in hoteli za živali, ter veterinarsko-sanitarni red v njih;
+
+- podrobnejša merila in postopek za pridobitev in prenehanja statusa društev, ki na področju zaščite živali delujejo v javnem interesu, ter podrobnejšo vsebino in način vodenja evidence o teh društvih;
+
+- o strokovnem svetu za zaščito živali, številu njegovih članov, sestavi in delu.
+
+Minister izdaja tudi druge podzakonske predpise, potrebne za izvajanje tega zakona in predpisov Skupnosti, ki se nanašajo na vsebino tega zakona.
+
+#### 40. člen
+
+Minister izda v soglasju z ministri, pristojnimi za posamezna področja, natančnejše predpise za izvajanje tega zakona, s katerimi določi:
+
+- pogoje za bivanje in rejo rejnih in gojitev hišnih živali ter živali v prodajalnah, na razstavah in tekmovanjih;
+
+- pogoje in način prevoza živali.
+
+#### 41. člen
+
+Minister izda v soglasju z ministrom, pristojnim za znanost in tehnologijo, in ministrom, pristojnim za okolje in prostor, predpis o natančnejših pogojih za izdajo dovoljenj za opravljanje postopkov na živalih, postopku, dokumentaciji, evidenci, poročilih in o etični komisiji, ter o obveznostih strokovne osebe za zaščito živali, kadrovskih in drugih pogojih za izvajanje postopkov ter postopku z živalmi po končanem postopku.
+
+#### 41.a člen
+
+Vlada določi prekrške za kršitve uredb Evropske unije s področja tega zakona v skladu z zakonom, ki ureja prekrške, in druge vsebine iz uredb Evropske unije, ki se nanašajo na ta zakon.
+
+## VIII. NADZORSTVO
+
+#### 42. člen
+
+Nadzorstvo nad izvajanjem tega zakona in na njegovi podlagi izdanih predpisov neposredno opravljajo uradni veterinarji, kmetijski, lovski, ribiški inšpektorji ter inšpektorji, pristojni za ohranjanje narave (v nadaljnjem besedilu: pristojni inšpektor), vsak v okviru svojih pooblastil in pristojnosti.
+
+Nadzorstvo nad izvajanjem določb drugega odstavka 11. člena, 12. člena ter prve, druge, četrte, pete, šeste, devete in enaindvajsete alinee 15. člena tega zakona poleg oseb iz prejšnjega odstavka opravlja tudi policija.
+
+Občinski redarji lahko v okviru svojih pristojnosti in nalog iz zakona, ki ureja občinsko redarstvo preverijo izpolnjevanje obveznosti lastnika psa iz prvega odstavka 6. člena tega zakona.
+
+Nadzorstvo nad izvajanjem določbe tretjega odstavka 11. člena tega zakona opravljajo policisti in občinski redarji.
+
+#### 42.a člen
+
+Za nadzor zaščite živali direktor upravnega organa, pristojnega za veterinarstvo, oblikuje posebno enoto uradnih veterinarjev, za katere imenovanje mora podati soglasje pristojni minister v enem mesecu od imenovanja članov. Posebna enota opravlja preglede, nadzoruje pogoje nastanitev in izvaja ukrepe na celotnem ozemlju Republike Slovenije.
+
+Posebna enota uradnih veterinarjev deluje v okviru inšpekcije, pristojne za zaščito živali.
+
+Naloge posebne enote uradnih veterinarjev izhajajo iz četrtega odstavka 85. člena Zakona o veterinarskih merilih in skladnostih (Uradni list RS, št. 93/05, 90/12 – ZdZPVHVVR, 23/13 – ZZZiv-C, 40/14 – ZIN-B in 22/18) ter zajemajo:
+
+1. ukrepanje ob kršitvah, ki se nanašajo na večje število živali;
+
+2. ukrepanje v primeru prometnih nesreč, v katerih je udeleženo večje število živali;
+
+3. opravljanje drugih nalog in aktivnosti po pooblastilu direktorja upravnega organa.
+
+Za nadzor zaščite živali se zagotavlja stalna pripravljenost.
+
+#### 43. člen
+
+Pri inšpekcijskem nadzorstvu ima pristojni inšpektor, poleg pravic in dolžnosti, ki jih ima po drugih predpisih, še te pravice in dolžnosti:
+
+- ugotoviti identiteto skrbnika živali v primeru suma kršitve določb tega zakona ter kršitev po potrebi tudi fotografirati oziroma posneti, in pravico brez predhodnega obvestila ter brez dovoljenja pravne in fizične osebe vstopiti v poslovne ali proizvodne prostore, ter vozila, kjer se nahajajo živali ali obstaja sum, da se nahajajo. Če mora inšpektor pri opravljanju nadzorstva pregledati stanovanjske prostore, pa pravna ali fizična oseba temu nasprotuje ali ni dosegljiva, si mora za pregled teh prostorov pridobiti odredbo pristojnega sodišča;
+
+- opravljati redne preglede vseh objektov, kjer se redi, goji ali se opravlja promet z živalmi, prireditve, razstave in trgovine z živalmi ter zavetišč in hotelov za živali;
+
+- začasno ali trajno odvzeti žival in prepovedati stike dosedanjemu skrbniku živali, če je to potrebno za zaščito živali v primeru kršitve določb tega zakona. Če je treba odvzeti posamezno žival, se lahko glede na okoliščine in stopnjo ogrožanja dobrobiti ali ravnanje in zmožnosti skrbnika živali odvzamejo tudi druge živali, da se prepreči ponavljanje kršitev;
+
+- začasno odvzeti žival, ki ogroža varnost ljudi, živali ali premoženja ali v primeru ponavljajoče kršitve trajno odvzeti takšno žival;
+
+- odrediti oskrbo za odvzete rejne živali na domu skrbnika živali ali pri drugem skrbniku živali, če to ni možno ali lastnika ni mogoče ugotoviti, živali odvzeti in takoj prodati ali namestiti v prehodni hlev in najpozneje v 30 dneh od odvzema prodati nevladni organizaciji, ki deluje v javnem interesu, ali kmetijskemu gospodarstvu. Če se trajno odvzeta žival v 30 dneh ne proda, uradni veterinar odloči, ali se namestitev živali v prehodnem hlevu podaljša ali se žival usmrti. Iz kupnine od prodane živali se pokrijejo stroški postopka, morebitna razlika pa se nameni za izvajanje nalog skrbi za živali iz 33. člena tega zakona ali za dejavnost oskrbe trajno odvzetih rejnih živali iz 33.a člena tega zakona;
+
+- odrediti namestitev odvzete hišne živali, razen za živali prosto živečih vrst, v zavetišče, ki lahko trajno odvzeto žival takoj odda primernemu skrbniku. Za začasno ali trajno odvzete živali prosto živečih vrst uradni veterinar odredi začasno oskrbo v zatočišču za živali prosto živečih vrst v skladu s predpisi, ki urejajo ohranjanje narave. Če je bila žival oddana novemu skrbniku, je v primeru pravnomočno odpravljene ali ugotovitve nezakonitosti odločbe o odvzemu živali dosedanji skrbnik živali upravičen do odškodnine, ki jo uveljavlja pred pristojnim sodiščem;
+
+- odrediti odpravo nepravilnosti pri izvajanju tega zakona;
+
+- odrediti usposabljanje v skladu s šestim ali sedmim odstavkom 7.a člena tega zakona;
+
+- odrediti šolanje psa v skladu 26.c členom tega zakona;
+
+- odrediti usmrtitev ali zakol živali na stroške skrbnika, če gre po mnenju veterinarja za neodpravljive bolečine ali poškodbe, ali če gre za nevarno žival, ali če gre za nevarnega psa, s katerim ni bilo opravljeno predpisano šolanje iz 26.c člena tega zakona ali to šolanje ni bilo uspešno opravljeno;
+
+- prepovedati rejo ali posedovanje vseh ali določene vrste živali, če ugotovi, da je skrbnik ponovno kršil obveznosti iz tega zakona in s tem povzročal živali bolečine in trpljenje, da se prepreči ponavljanje kršitev v prihodnosti;
+
+- prepovedati natovarjanje in prevoz živali, če niso izpolnjeni predpisani pogoji;
+
+- prepovedati izvajanje posegov, ki niso dovoljeni oziroma se izvajajo v nasprotju z določbami tega zakona;
+
+- odrediti ustavitev postopkov oziroma prepovedati izvajanje postopkov na živalih, ki se izvajajo v nasprotju z določbami tega zakona ali če pomanjkljivosti niso odpravljene v določenem roku;
+
+- prepovedati zakol živali, če ni zagotovljeno predpisano omamljanje in zakol živali;
+
+- prepovedati opravljanje dejavnosti imetniku zavetišča, če ne izpolnjuje več predpisanih pogojev;
+
+- odrediti plačilo stroškov v zvezi z zapuščeno živaljo skrbniku ali imetniku zavetišča oziroma občini, če ni zagotovila zavetišča;
+
+- odrediti plačilo stroškov oskrbe v zavetišče nameščene zapuščene živali na stroške imetnika zavetišča do odprave nepravilnosti v primeru pogojevanja oddaje živali v nasprotju s 30.a členom tega zakona;
+
+- odrediti imetniku zavetišča namestitev in oskrbo psa, ki ogroža okolico, če skrbnik ne odvrne splošne nevarnosti ali ni znan ali dosegljiv;
+
+- odrediti imetniku zavetišča ulov, prevoz, namestitev in oskrbo zapuščene živali;
+
+- prepovedati uporabo živali na javnem zbiranju ali snemanju zaradi zaščite dobrobiti živali;
+
+- za izvajanje nadzora zaščite živali v klavnicah pri razkladanju, pri nameščanju živali v začasne hleve, pri dogonu na klavno linijo, med fazo omamljanja in med zakolom, odrediti izvajalcu dejavnosti na njegove stroške videonadzor ravnanja z živalmi, ki je na vpogled uradnemu veterinarju, v primeru suma storitve kaznivega dejanja tudi organom pregona. O odrejenem videonadzoru izvajalec dejavnosti obvesti zaposlene v skladu s predpisi, ki urejajo varstvo osebnih podatkov. Posnetki ne predstavljajo informacije javnega značaja. Hrambo posnetkov se odredi za obdobje največ enega leta;
+
+- izvesti prodajo rejne živali, če lastnik rejne živali umre in ni zainteresiranega skrbnika. Če prodaje ni mogoče takoj izvesti, uradni veterinar odredi oskrbo pri drugem skrbniku živali, ki je upravičen do povračila stroškov oskrbe za obdobje do 30 dni, ali namestitev v prehodnem hlevu za obdobje do 30 dni. Upravni organ, pristojen za veterinarstvo, nastale stroške, ki jih založi iz proračunskih sredstev, pobota iz kupnine, sicer pa stroške ali preostanek kupnine prijavi v zapuščinsko maso;
+
+- odvzeti živali kršitelju, ki je tujec in nedovoljeno prevaža hišne živali, ki ne izpolnjujejo pogojev za premike v skladu s predpisi Evropske unije ter zaradi zavarovanja plačila zaseči vozilo ne glede na to, ali je vozilo last kršitelja ali ne, dokler kršitelj ne plača globe in stroškov namestitve živali v zavetišču. Če okoliščine kažejo na nevarnost, da bo kršitelj pobegnil ali oviral postopek, uradni veterinar izvede postopek s pomočjo policije. Če kršitelj stroškov ne plača v 30 dneh, upravni organ, pristojen za veterinarstvo, zaseženo vozilo proda v skladu z določbami zakona, ki ureja stvarno premoženje, in iz kupnine poplača stroške postopka. V primeru pravnomočno odpravljene odločbe ali ugotovitve nezakonitosti odločbe o zasegu vozila je kršitelj upravičen do povrnitve kupnine za prodano zaseženo vozilo.
+
+#### 43.a člen
+
+Območni uradi upravnega organa, pristojnega za veterinarstvo, opravljajo upravne in nadzorne naloge ter odločajo v postopkih na zahtevo strank v skladu s tem zakonom.
+
+V primeru ukrepov iz tretje do šeste, desete do petnajste, devetnajste do enaindvajsete, triindvajsete in štiriindvajsete alineje prvega odstavka prejšnjega člena predlog za odlog izvršitve odločbe ni dopusten.
+
+#### 44. člen
+
+Policisti ter pooblaščene osebe carinske službe v primeru prevoza in pošiljk živali brez ustreznih dokumentov ali v nasprotju z določbami 12. člena tega zakona ali v primeru mučenja živali, zadržijo živali oziroma pošiljko, osebe in prevozno sredstvo ter o tem takoj obvestijo pristojnega inšpektorja.
+
+Zadržanje oziroma omejitev gibanja iz prejšnjega odstavka lahko traja največ dve uri.
+
+## IX. KAZENSKE DOLOČBE
+
+#### 45. člen
+
+Z globo od 2.400 do 84.000 eurov se kaznuje pravna oseba, samostojni podjetnik posameznik ali posameznik, ki samostojno opravlja dejavnost, ki:
+
+1. redi kokoši v sistemu baterijske reje (drugi odstavek 9.a člena);
+
+2. kot skrbnik ali prevoznik živali ne zagotovi fizičnega varstva nevarne živali (prvi odstavek 12. člena);
+
+3. kot skrbnik ne zagotovi fizičnega varstva nevarnega psa v skladu z drugim odstavkom 12. člena tega zakona;
+
+4. na javno mesto oziroma v sredstva javnega prevoza ne pusti psa vodiča slepih oziroma psa pomočnika invalidov skupaj z njegovim skrbnikom (prvi odstavek 13. člena);
+
+5. stori katero od ravnanj iz prve do šestindvajsete alineje prvega odstavka 15. člena tega zakona;
+
+6. neustrezno prevaža živali (prvi odstavek 17. člena);
+
+7. opravi boleč poseg na vretenčarju brez anestezije (prvi odstavek 19. člena);
+
+8. ravna v nasprotju z drugim odstavkom 20. člena tega zakona;
+
+9. brez odobritve opravlja dejavnosti vzrejne, dobaviteljske ali uporabniške organizacije (prvi odstavek 20.a člena);
+
+10. ravna v nasprotju s četrtim ali šestim odstavkom 20.a člena tega zakona;
+
+11. izvaja postopek na živali brez dovoljenja iz prvega odstavka 21. člena tega zakona;
+
+12. izvaja postopek na živali v nasprotju s sedmim odstavkom 21.a člena tega zakona;
+
+13. izvaja postopek v izobraževalne namene v nasprotju s prvim odstavkom 22. člena tega zakona;
+
+14. ravna v nasprotju z drugim ali tretjim odstavkom 25. člena tega zakona;
+
+15. usmrti žival v nasprotju s prvim ali tretjim odstavkom 26. člena tega zakona;
+
+16. opravlja dejavnost zavetišča, ne da bi za to izpolnjeval predpisane pogoje (peti odstavek 27. člena);
+
+17. ravna v nasprotju s prvim, tretjim ali petim odstavkom 28. člena tega zakona;
+
+18. ravna v nasprotju s šestim odstavkom 31. člena tega zakona;
+
+19. odda zapuščeno žival začasnemu skrbniku v nasprotju s tretjim odstavkom 30.a člena tega zakona.
+
+Z globo od 1.600 do 4.100 eurov se za prekršek iz prejšnjega odstavka kaznuje tudi odgovorna oseba pravne osebe ali odgovorna oseba samostojnega podjetnika posameznika ali odgovorna oseba posameznika, ki samostojno opravlja dejavnost.
+
+Z globo od 1.000 do 1.600 eurov se kaznuje posameznik, ki stori prekršek iz prvega odstavka tega člena.
+
+#### 46. člen
+
+Z globo od 1.600 do 42.000 eurov se kaznuje pravna oseba, samostojni podjetnik posameznik ali posameznik, ki samostojno opravlja dejavnost, ki:
+
+1. takoj ne oskrbi bolnih, poškodovanih in onemoglih živali (prvi odstavek 8. člena);
+
+2. ravna v nasprotju s tretjim odstavkom 8. člena tega zakona;
+
+3. kot skrbnik ravna v nasprotju s prvim odstavkom 9. člena tega zakona;
+
+4. ne zagotovi rezervnega sistema prezračevanja v skladu z drugim odstavkom 9. člena tega zakona;
+
+5. zaupa v vodenje nevarnega psa osebi, ki je mlajša od 16 let (tretji odstavek 12. člena);
+
+6. opravlja dejavnost hotela za živali, ne da bi za to izpolnjeval predpisane pogoje (drugi odstavek 14. člena);
+
+7. kot skrbnik omogoči uporabo živali na javnem zbiranju ali snemanju v nasprotju s prvim odstavkom 14.a člena tega zakona;
+
+8. uporabi žival na javnem zbiranju, snemanju ali v cirkusu ali v cirkusu podobni prireditvi v nasprotju s prvim odstavkom 14.a člena tega zakona;
+
+9. ravna v nasprotju z drugim odstavkom 14.a člena tega zakona;
+
+10. pravočasno ne zahteva veterinarske pomoči in oskrbe bolnih ali poškodovanih živali, veterinarske pomoči pri porodih, kadar je potrebna, ali ne zagotovi ustrezne nege bolnih, poškodovanih in onemoglih živali (18. člen);
+
+11. opravlja znanstvenoraziskovalno ali izobraževalno delo na izoliranih organih, tkivih ali truplih v ta namen usmrčenih živali v nasprotju s prvim odstavkom 22.a člena tega zakona;
+
+12. za dela na izoliranih organih, tkivih ali truplih v ta namen usmrčenih živali uporabi žival druge živalske vrste brez dovoljenja upravnega organa, pristojnega za veterinarstvo (tretji odstavek 22.a člena);
+
+13. v izobraževalne namene izvaja dela na izoliranih organih, tkivih ali truplih v ta namen usmrčenih živali zaščitenih ali ogroženih vrst, odvzetih iz narave (četrti odstavek 22.a člena);
+
+14. ravna v nasprotju s šestim odstavkom 22.a člena tega zakona;
+
+15. ravna v nasprotju s prvim, drugim, tretjim ali četrtim odstavkom 26.a člena tega zakona;
+
+16. goji, poseduje ali vodi psa kljub prepovedi iz osmega odstavka 26.b člena tega zakona;
+
+17. ne zagotovi šolanja psa v skladu s prvim odstavkom 26.c člena tega zakona;
+
+18. izvaja obvezno šolanje psov iz prvega odstavka 26.c člena tega zakona po programu, ki ni potrjen v skladu z drugim odstavkom 26.c člena tega zakona.
+
+Z globo od 800 do 2.000 eurov se za prekršek iz prejšnjega odstavka kaznuje tudi odgovorna oseba pravne osebe ali odgovorna oseba samostojnega podjetnika posameznika ali odgovorna oseba posameznika, ki samostojno opravlja dejavnost.
+
+Z globo od 800 do 1.400 eurov se kaznuje posameznik, ki stori prekršek iz prvega odstavka tega člena.
+
+#### 46.a člen
+
+Z globo od 800 do 33.000 eurov se kaznuje pravna oseba ali samostojni podjetnik posameznik ali posameznik, ki samostojno opravlja dejavnost, ki:
+
+1. kot lastnik psa ne zagotovi označitve psa v skladu s prvim odstavkom 6. člena tega zakona;
+
+2. kot lastnik psa ne prijavi lastništva psa v predpisanem roku v skladu z drugim odstavkom 6. člena tega zakona;
+
+3. kot lastnik psa ne posreduje predpisanih podatkov ob prijavi psa v skladu s tretjim odstavkom 6. člena tega zakona;
+
+4. kot pristojna veterinarska organizacija ne vnese predpisanih podatkov ob prijavi psa v skladu s tretjim odstavkom 6. člena tega zakona;
+
+5. kot lastnik psa ne javi spremembe lastništva, pogina ali evtanazije psa, odtujitve ali pobega psa v skladu s četrtim odstavkom 6. člena tega zakona;
+
+6. kot pristojna veterinarska organizacija ali zavetišče ne vnese podatkov iz četrtega odstavka 6. člena tega zakona v centralni register hišnih živali (peti odstavek 6. člena zakona);
+
+7. kot lastnik mačke ne zagotovi označitve mačke v skladu s prvim odstavkom 6.a člena tega zakona;
+
+8. kot lastnik mačke ne prijavi lastništva mačke v predpisanem roku v skladu z drugim odstavkom 6.a člena tega zakona;
+
+9. kot pristojna veterinarska organizacija ne vnese predpisanih podatkov ob prijavi mačke v skladu s tretjim odstavkom 6.a člena tega zakona;
+
+10. poseduje žival v nasprotju s 6.č členom tega zakona;
+
+11. ne zagotovi označitve in prijave živali v skladu s 6.e členom tega zakona;
+
+12. kot skrbnik ne zagotovi katerega od pogojev iz prvega odstavka 7. člena tega zakona;
+
+13. kot skrbnik ne zagotavlja postopkov za preprečevanje napak v reji, ki povzročajo tehnopatije in motnje v obnašanju (drugi odstavek 7. člena zakona);
+
+14. kot oseba, ki pri opravljanju dejavnosti, povezanih z živalmi, prihaja z njimi v neposreden stik, ne pridobi osnovnega znanja o živalih na usposabljanju iz četrtega odstavka 7.a člena tega zakona;
+
+15. kot izvajalec usposabljanja iz četrtega odstavka 7.a člena tega zakona nima potrjenega programa usposabljanja (osmi odstavek 7.a člena zakona);
+
+16. kot izvajalec usposabljanja iz četrtega odstavka 7.a člena tega zakona ne vodi evidence v skladu osmim odstavkom 7.a člena tega zakona;
+
+17. ne zagotovi ločene namestitve bolnih, poškodovanih ali onemoglih živali (drugi odstavek 8. člena zakona);
+
+18. proda, odda ali podari hišno žival v nasprotju s prvim ali drugim odstavkom 10. člena tega zakona ali če oglašuje pse za namen prodaje ali drugačnega načina spremembe lastništva v nasprotju s tretjim odstavkom 10. člena tega zakona;
+
+19. kot skrbnik ne zagotovi osamitve, kontracepcije, sterilizacije ali kastracije živali v skladu s prvim odstavkom 11. člena tega zakona;
+
+20. kot skrbnik ne zagotovi ustrezne vzgoje in šolanja oziroma drugih ukrepov in je žival nevarna okolici (drugi odstavek 11. člena zakona);
+
+21. kot skrbnik na javnem mestu ne zagotovi fizičnega varstva psa tako, da je ta na povodcu (tretji odstavek 11. člena zakona);
+
+22. ravna v nasprotju s prvim odstavkom 20.b člena tega zakona;
+
+23. kot izvajalec usposabljanja izvaja usposabljanja v nasprotju s tretjim odstavkom 20.b člena tega zakona;
+
+24. kot imetnik zavetišča ne poroča najmanj dvakrat letno o opravljenih nalogah lokalni skupnosti, za katero izvaja javno službo, ter enkrat letno upravnemu organu, pristojnemu za veterinarstvo (četrti odstavek 28. člena zakona).
+
+Z globo od 800 do 10.000 eurov se kaznuje odgovorna oseba občine, če občina ne zagotavlja oskrbe zapuščenih živali v skladu s 27. členom tega zakona.
+
+Z globo od 400 do 1.600 eurov se za prekršek iz prvega odstavka tega člena kaznuje tudi odgovorna oseba pravne osebe ali odgovorna oseba samostojnega podjetnika posameznika ali odgovorna oseba posameznika, ki samostojno opravlja dejavnost.
+
+Z globo od 600 do 1.200 eurov se kaznuje posameznik, ki stori prekršek iz prvega odstavka tega člena.
+
+#### 46.b člen
+
+Za prekrške iz tega zakona se sme v hitrem postopku izreči globa tudi v znesku, ki je višji od najnižje predpisane globe, določene s tem zakonom.
+
+## X. PREHODNE IN KONČNE DOLOČBE
+
+#### 47. člen
+
+Minister izda izvršilne predpise iz 39., 40. in 41. člena tega zakona v šestih mesecih po uveljavitvi tega zakona.
+
+#### 48. člen
+
+Sredstva iz druge alinee prvega odstavka 33. člena tega zakona lahko imetnik zavetišča uveljavlja v 5 letih od uveljavitve tega zakona.
+
+#### 49. člen
+
+Obstoječi objekti in oprema za rejo živali morajo izpolniti pogoje, predpisane s tem zakonom in predpisi, izdanimi na njegovi podlagi, najpozneje v desetih letih od uveljavitve tega zakona.
+
+#### 50. člen
+
+Do uveljavitve izvršilnih predpisov iz tega zakona se še uporabljata:
+
+- Pravilnik o ukrepih za zaščito živali pred mučenjem pri izvajanju zdravstvenega varstva živali (Uradni list SRS, št. 40/85);
+
+- Navodilo o pogojih za izdajo dovoljenja za poskus na živalih v znanstveno-raziskovalne namene (Uradni list SRS, št. 40/85 in 22/87).
+
+#### 51. člen
+
+Z uveljavitvijo tega zakona prenehajo veljati:
+
+- Zakon o zdravstvenem varstvu živali (Uradni list SRS, št. 37/85);
+
+- drugi odstavek 158. člena Zakona o veterinarstvu (Uradni list RS, št. 82/94, 21/95 in 16/96);
+
+- 6. in 7. točka 11. člena Zakona o prekrških zoper javni red in mir (Uradni list SRS, št. 16/74 in 42/86);
+
+- drugi stavek 11. člena Zakona o postopku z najdenimi stvarmi (Uradni list SRS, št. 31/76);
+
+- Pravilnik o kriterijih za podelitev statusa društva, ki deluje v javnem interesu na področju kmetijstva, gozdarstva, lovstva, ribištva, veterinarstva ali prehrane (Uradni list RS, št. 52/98 in 60/98) v delu, ki se nanaša na društva s področja zaščite živali, kolikor je v nasprotju s tem zakonom.
+
+#### 52. člen
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.

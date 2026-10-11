@@ -1,0 +1,165 @@
+---
+title: "Zakon o zagotavljanju socialne varnosti slovenskim državljanom, ki so upravičeni do pokojnin iz republik nekdanje SFRJ (ZZSV)"
+identifier: "ZAKO873"
+abbreviation: "ZZSV"
+type: act
+jurisdiction: si
+language: sl
+act_kind: "Zakon"
+date: 1992-09-16
+published: 1992-09-21
+in_force_from: 1992-09-22
+last_amended: 2023-08-02
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "NPB 5 (neuradno prečiščeno besedilo)"
+citation: "Uradni list RS, št. 16/07 – uradno prečiščeno besedilo in 84/23 – ZDOsk-1"
+adopted_by: "Državni zbor Republike Slovenije"
+sop: "1992-01-2111"
+source: "https://pisrs.si/pregledPredpisa?id=ZAKO873"
+retrieved: 2026-10-12
+---
+
+# Zakon o zagotavljanju socialne varnosti slovenskim državljanom, ki so upravičeni do pokojnin iz republik nekdanje SFRJ (ZZSV)
+
+*Opozorilo: Neuradno prečiščeno besedilo predpisa predstavlja zgolj informativni delovni pripomoček, glede katerega organ ne jamči odškodninsko ali kako drugače.*
+
+Neuradno prečiščeno besedilo Zakona o zagotavljanju socialne varnosti slovenskim državljanom, ki so upravičeni do pokojnin iz republik nekdanje SFRJ obsega:
+
+- Zakon o zagotavljanju socialne varnosti slovenskim državljanom, ki so upravičeni do pokojnin iz republik nekdanje SFRJ (Uradni list RS, št. 45/92 z dne 21. 9. 1992),
+
+- Zakon o dopolnitvi zakona o zagotavljanju socialne varnosti slovenskim državljanom, ki so upravičeni do pokojnin iz republik nekdanje SFRJ – ZZSV-A (Uradni list RS, št. 18/01 z dne 14. 3. 2001),
+
+- Zakon o usklajevanju transferjev posameznikom in gospodinjstvom v Republiki Sloveniji – ZUTPG (Uradni list RS, št. 114/06 z dne 9. 11. 2006),
+
+- Zakon o dopolnitvi Zakona o zagotavljanju socialne varnosti slovenskim državljanom, ki so upravičeni do pokojnin iz republik nekdanje SFRJ – ZZSV-B (Uradni list RS, št. 129/06 z dne 12. 12. 2006),
+
+- Zakon o zagotavljanju socialne varnosti slovenskim državljanom, ki so upravičeni do pokojnin iz republik nekdanje SFRJ – uradno prečiščeno besedilo – ZZSV-UPB1 (Uradni list RS, št. 16/07 z dne 23. 2. 2007),
+
+- Zakon o dolgotrajni oskrbi – ZDOsk-1 (Uradni list RS, št. 84/23 z dne 2. 8. 2023).
+
+**ZAKON**
+
+**o zagotavljanju socialne varnosti slovenskim državljanom, ki so upravičeni do pokojnin iz republik nekdanje SFRJ**
+
+*(neuradno prečiščeno besedilo št. 5)*
+
+## 1. člen
+
+Državljan Republike Slovenije s stalnim prebivališčem v Republiki Sloveniji, ki je uveljavil pravico do pokojnine v kateri od republik nekdanje SFRJ (v nadaljnjem besedilu: upravičenec), ima pravico do dodatka k pokojnini po tem zakonu (v nadaljnjem besedilu: dodatek).
+
+## 2. člen
+
+Dodatek se odmeri od osnove, ki se določi v znesku pokojnine, ki je upravičencu šla za september 1991, in poračuna v slovenske tolarje v razmerju 1:1.
+
+## 3. člen
+
+Dodatek se odmeri v višini razlike med usklajenim zneskom osnove in tolarsko protivrednostjo zneska pokojnine, ki jo je upravičencu dolžan izplačati nosilec zavarovanja iz katere od drugih republik nekdanje SFRJ za tekoči mesec.
+
+## 4. člen
+
+V primeru, da nosilec zavarovanja iz katere od republik nekdanje SFRJ upravičencu ne nakaže pokojnine za določen mesec, se mu dodatek odmeri v višini osnove.
+
+V primeru iz prejšnjega odstavka je upravičenec v osmih dneh po prejemu dolžan zavodu povrniti znesek pokojnine, ki mu jo za navedeni mesec naknadno nakaže nosilec zavarovanja iz druge republike nekdanje SFRJ.
+
+## 4.a člen
+
+Upravičencu, ki je pridobil pravico do pokojnine pri nosilcu obveznega pokojninskega in invalidskega zavarovanja v kateri od držav, ki so nastale na ozemlju nekdanje SFRJ, v obdobju od 1. 10. 1991 dalje, se dodatek odmeri od osnove v višini pokojnine, ki bi se mu odmerila po predpisih o pokojninskem in invalidskem zavarovanju glede na dopolnjeno pokojninsko dobo od najnižje pokojninske osnove.
+
+## 4.b člen
+
+**([**delno se preneha uporabljati**](http://www.uradni-list.si/1/objava.jsp?urlurid=20232570#145.%20člen))**
+
+Upravičenec, ki je pridobil pravico do pokojnine v kateri od drugih držav na območju nekdanje SFRJ, ki poleg pokojnine ne izplačuje dodatka za pomoč in postrežbo ter letnega dodatka tistim, ki imajo stalno prebivališče v Republiki Sloveniji, ima pravico do dodatka za pomoč in postrežbo ter letnega dodatka pod pogoji in v višini, kot je določena za uživalce pokojnin, ki so bile uveljavljene pri slovenskem nosilcu zavarovanja.
+
+## 5. člen
+
+Dodatek odmeri in izplačuje Zavod za pokojninsko in invalidsko zavarovanje Slovenije (v nadaljnjem besedilu: zavod).
+
+Pravica do dodatka se pridobi na podlagi zahtevka, ki ga upravičenec vloži pri zavodu.
+
+Zahtevku mora upravičenec priložiti kopijo odločbe o priznanju pravice do pokojnine in dokazilo o državljanstvu.
+
+Stalno prebivališče upravičenec dokazuje z osebno izkaznico.
+
+## 6. člen
+
+Pravica do dodatka gre upravičencu od 1. avgusta 1992 dalje, če vloži zahtevo v šestih mesecih po uveljavitvi tega zakona, sicer pa od prvega naslednjega dne po vložitvi zahteve.
+
+## 7. člen
+
+Sredstva za izplačevanje dodatkov se zagotavljajo iz proračuna Republike Slovenije. Vlada Republike Slovenije sklene z zavodom pogodbo o obračunavanju in plačevanju obveznosti iz tega zakona.
+
+---
+
+Zakon o zagotavljanju socialne varnosti slovenskim državljanom, ki so upravičeni do pokojnin iz republik nekdanje SFRJ (Uradni list RS, št. [**45/92**](http://www.uradni-list.si/1/objava.jsp?urlid=199245&stevilka=2111)) vsebuje naslednjo končno določbo:
+
+**»8. člen**
+
+Ta zakon začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.«.
+
+---
+
+Zakon o dopolnitvi zakona o zagotavljanju socialne varnosti slovenskim državljanom, ki so upravičeni do pokojnin iz republik nekdanje SFRJ – ZZSV-A (Uradni list RS, št. [**18/01**](http://www.uradni-list.si/1/objava.jsp?urlid=200118&stevilka=1063)) vsebuje naslednjo končno določbo:
+
+»2. člen
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.«.
+
+---
+
+Zakon o usklajevanju transferjev posameznikom in gospodinjstvom v Republiki Sloveniji – ZUTPG (Uradni list RS, št. [**114/06**](http://www.uradni-list.si/1/objava.jsp?urlid=2006114&stevilka=4833)) vsebuje naslednjo končno določbo:
+
+»10. člen
+
+Ta zakon začne veljati 1. januarja 2007.«.
+
+---
+
+Zakon o dopolnitvi Zakona o zagotavljanju socialne varnosti slovenskim državljanom, ki so upravičeni do pokojnin iz republik nekdanje SFRJ – ZZSV-B (Uradni list RS, št. [**129/06**](http://www.uradni-list.si/1/objava.jsp?urlid=2006129&stevilka=5431)) vsebuje naslednjo prehodno in končno določbo:
+
+»2. člen
+
+Pravica do dodatka za pomoč in postrežbo iz 4.b člena zakona gre upravičencu od uveljavitve tega zakona, če vloži zahtevo v šestih mesecih po uveljavitvi tega zakona, sicer pa od prvega naslednjega dne po vložitvi zahteve.
+
+Pravica do letnega dodatka iz 4.b člena zakona gre upravičencu od začetka prvega koledarskega leta po uveljavitvi tega zakona.
+
+3\. člen
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.«.
+
+---
+
+Zakon o dolgotrajni oskrbi – ZDOsk-1 (Uradni list RS, št. [**84/23**](http://www.uradni-list.si/1/objava.jsp?urlurid=20232570)) v zvezi z delnim prenehanjem uporabe 4.b člena zakona določa:
+
+»V Zakonu o zagotavljanju socialne varnosti slovenskim državljanom, ki so upravičeni do pokojnin iz republik nekdanje SFRJ (Uradni list RS, št. 16/07 – uradno prečiščeno besedilo) se s 1. decembrom 2025 preneha uporabljati 4.b člen v delu, ki se nanaša na dodatek za pomoč in postrežbo.«;
+
+ter vsebuje naslednjo končno določbo:
+
+»152. člen
+
+**(začetek veljavnosti in uporabe)**
+
+(1) Ta zakon začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.
+
+(2) Prva in druga alineja 1. točke prvega odstavka 10. člena, drugi odstavek 15. člena, tretja alineja 22. člena in 25. člen tega zakona se začnejo uporabljati 1. decembra 2025.
+
+(3) Četrta alineja 1. točke prvega odstavka 10. člena, 18., 19., 20., 21. člen, prva, druga in četrta alineja 22. člena, 23., 24., 26., 27., 28., 29., 30. člen in četrti odstavek 59. člena tega zakona, ki urejajo pravico do oskrbovalca družinskega člana, se začnejo uporabljati 1. januarja 2024.
+
+(4) Tretja alineja 1. točke prvega odstavka 10. člena in tretji odstavek 15. člena tega zakona se začnejo uporabljati 1. julija 2025.
+
+(5) 2. točka prvega odstavka 10. člena in 17. člen se začneta uporabljati 1. decembra 2025.
+
+(6) 32. člen tega zakona se za upravičence do posamezne oblike DO začne uporabljati z začetkom uporabe, ki je določen za posamezno obliko DO po tem zakonu, razen v primeru, ko uporabnik uporablja pravico do oskrbovalca družinskega člana iz 18. člena tega zakona, se pravica iz 32. člena tega zakona začne uporabljati 1. julija 2025.
+
+(7) 33. člen tega zakona se za upravičence začne uporabljati z začetkom uporabe, ki je določen za posamezno obliko DO v tretjem, četrtem in petem odstavku tega člena, razen:
+
+- v primeru, ko uporabnik uporablja pravico do oskrbovalca družinskega člana iz 18. člena tega zakona, se pravica iz 33. člena tega zakona začne uporabljati 1. julija 2025 in
+
+- v primeru iz petega odstavka 33. člena tega zakona, ko se pravica začne uporabljati 1. julija 2025.
+
+(8) 34. člen tega zakona se začne uporabljati 1. decembra 2025.
+
+(9) 84., 85. in 86. člen tega zakona, ki urejajo naloge ZZZS, se začnejo uporabljati 1. januarja 2024.
+
+(10) 88. člen tega zakona, ki ureja vstopne točke na CSD na področju DO, se začne uporabljati 1. januarja 2025.«.

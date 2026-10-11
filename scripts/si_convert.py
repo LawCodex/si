@@ -4,6 +4,7 @@
 Usage: python si_convert.py [--raw DIR] [--out REPO_DIR] [--retrieved YYYY-MM-DD]
 """
 import argparse
+import base64
 import datetime
 import glob
 import html
@@ -132,7 +133,41 @@ def escape_para_start(s):
     return s
 
 
-def render(items):
+DATA_IMG = re.compile(r'src="data:image/([a-zA-Z0-9.+-]+);base64,([^"]+)"')
+
+
+class ImageSaver:
+    """Writes inline base64 images to slike/<cat>/[<year>/]<id>/<n>.<ext> and returns relative links."""
+
+    def __init__(self, out, md_dir, rel_dir):
+        self.out, self.md_dir, self.rel_dir, self.n = out, md_dir, rel_dir, 0
+
+    def __call__(self, v):
+        if "data:image" not in v:
+            return v
+
+        def sub(m):
+            ext = {"jpeg": "jpg", "svg+xml": "svg", "x-wmf": "wmf"}.get(m.group(1).lower(), m.group(1).lower())
+            try:
+                data = base64.b64decode(m.group(2))
+            except Exception:  # noqa
+                return 'src=""'
+            self.n += 1
+            d = os.path.join(self.out, self.rel_dir)
+            os.makedirs(d, exist_ok=True)
+            fp = os.path.join(d, f"{self.n}.{ext}")
+            with open(fp, "wb") as f:
+                f.write(data)
+            WRITTEN_IMG.add(os.path.relpath(fp, self.out))
+            return 'src="' + os.path.relpath(fp, self.md_dir).replace(os.sep, "/") + '"'
+
+        return DATA_IMG.sub(sub, v)
+
+
+WRITTEN_IMG = set()
+
+
+def render(items, imgsub=lambda v: v):
     present = {x.get("struktura") for x in items}
     levels, lvl = {}, 2
     for d in DIVISIONS:
@@ -156,7 +191,7 @@ def render(items):
 
     for x in items:
         st = (x.get("struktura") or "").strip()
-        v = x.get("vsebina") or ""
+        v = imgsub(x.get("vsebina") or "")
         if not v.strip():
             continue
         if "<hr" in v and plain(v) == "":
@@ -296,12 +331,13 @@ def convert(raw, out, retrieved):
             if not items:
                 missing.append((cat, pid, title, "empty text"))
                 continue
-            body = render(items)
             pub = ev.get("objavljeno") or item.get("datumObjave")
             year = (pub or ev.get("sprejeto") or "0000")[:4]
             slug = slugify(title)
             fname = f"{pid}-{slug}.md"
             d = os.path.join(out, cat, year) if cat in BY_YEAR else os.path.join(out, cat)
+            imgdir = os.path.join("slike", cat, year, pid) if cat in BY_YEAR else os.path.join("slike", cat, pid)
+            body = render(items, ImageSaver(out, d, imgdir))
             os.makedirs(d, exist_ok=True)
             path = os.path.join(d, fname)
             semafor = ((ev.get("semafor") or {}).get("naziv")) or ""
@@ -346,6 +382,9 @@ def convert(raw, out, retrieved):
         for p in glob.glob(os.path.join(out, cat, "**", "*.md"), recursive=True):
             if os.path.relpath(p, out) not in written:
                 os.remove(p)
+    for p in glob.glob(os.path.join(out, "slike", "**", "*.*"), recursive=True):
+        if os.path.relpath(p, out) not in WRITTEN_IMG:
+            os.remove(p)
     with open(os.path.join(raw, "missing.tsv"), "w", encoding="utf-8") as f:
         for row in missing:
             f.write("\t".join(str(c) for c in row) + "\n")

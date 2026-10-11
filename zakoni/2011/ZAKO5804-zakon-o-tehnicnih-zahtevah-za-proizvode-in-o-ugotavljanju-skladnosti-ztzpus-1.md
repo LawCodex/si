@@ -1,0 +1,637 @@
+---
+title: "Zakon o tehničnih zahtevah za proizvode in o ugotavljanju skladnosti (ZTZPUS-1)"
+identifier: "ZAKO5804"
+abbreviation: "ZTZPUS-1"
+type: act
+jurisdiction: si
+language: sl
+act_kind: "Zakon"
+date: 2011-03-01
+published: 2011-03-11
+in_force_from: 2011-03-26
+last_amended: 2023-03-07
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "NPB 1 (neuradno prečiščeno besedilo)"
+citation: "Uradni list RS, št. 17/11 in 29/23"
+adopted_by: "Državni zbor Republike Slovenije"
+eva: "2010-2111-0001"
+epa: "1482-V"
+sop: "2011-01-0691"
+source: "https://pisrs.si/pregledPredpisa?id=ZAKO5804"
+retrieved: 2026-10-12
+---
+
+# Zakon o tehničnih zahtevah za proizvode in o ugotavljanju skladnosti (ZTZPUS-1)
+
+*Opozorilo: Neuradno prečiščeno besedilo predpisa predstavlja zgolj informativni delovni pripomoček, glede katerega organ ne jamči odškodninsko ali kako drugače.*
+
+Neuradno prečiščeno besedilo Zakona o tehničnih zahtevah za proizvode in o ugotavljanju skladnosti obsega:
+
+- Zakon o tehničnih zahtevah za proizvode in o ugotavljanju skladnosti – ZTZPUS-1 (Uradni list RS, št. 17/11 z dne 11. 3. 2011),
+
+- Zakon o spremembah in dopolnitvah Zakona o tehničnih zahtevah za proizvode in o ugotavljanju skladnosti – ZTZPUS-1A (Uradni list RS, št. 29/23 z dne 7. 3. 2023).
+
+**ZAKON**
+
+**O TEHNIČNIH ZAHTEVAH ZA PROIZVODE IN O UGOTAVLJANJU SKLADNOSTI (ZTZPUS-1)**
+
+*(neuradno prečiščeno besedilo št. 1)*
+
+## I. SPLOŠNE DOLOČBE
+
+### 1. člen
+
+**(vsebina zakona)**
+
+(1) Ta zakon ureja pogoje dajanja proizvodov na trg, dostopnosti na trgu in varne uporabe, tehnične zahteve za proizvode, postopke ugotavljanja skladnosti, zahteve in postopek določitve organov, ki sodelujejo v postopkih ugotavljanja skladnosti (v nadaljnjem besedilu: organi za ugotavljanje skladnosti), in listine, ki morajo biti priložene ob dostopnosti na trgu oziroma ob začetku uporabe.
+
+(2) S tem zakonom se določajo pristojni inšpekcijski organi in kazenske določbe za izvajanje:
+
+1. [Uredbe (ES) št. 765/2008](http://data.europa.eu/eli/reg/2008/765/oj "to EUR-Lex") Evropskega parlamenta in Sveta z dne 9. julija 2008 o določitvi zahtev za akreditacijo in razveljavitvi [Uredbe (EGS) št. 339/93](http://data.europa.eu/eli/reg/1993/339/oj "to EUR-Lex") (UL L št. 218 z dne 13. 8. 2008, str. 30), zadnjič spremenjene z [Uredbo (EU) 2019/1020](http://data.europa.eu/eli/reg/2019/1020/oj "to EUR-Lex") Evropskega parlamenta in Sveta z dne 20. junija 2019 o nadzoru trga in skladnosti proizvodov ter spremembi [Direktive 2004/42/ES](http://data.europa.eu/eli/dir/2004/42/oj "to EUR-Lex") in [uredb (ES) št. 765/2008](http://data.europa.eu/eli/reg/2008/765/oj "to EUR-Lex") in [(EU) št. 305/2011](http://data.europa.eu/eli/reg/2011/305/oj "to EUR-Lex") (UL L št. 169 z dne 25. 6. 2019, str. 1), (v nadaljnjem besedilu: [Uredba 765/2008/ES](http://data.europa.eu/eli/reg/2008/765/oj "to EUR-Lex"));
+
+2. [Uredbe (EU) 2019/515](http://data.europa.eu/eli/reg/2019/515/oj "to EUR-Lex") Evropskega parlamenta in Sveta z dne 19. marca 2019 o vzajemnem priznavanju blaga, ki se zakonito trži v drugi državi članici in o razveljavitvi [Uredbe (ES) št. 764/2008](http://data.europa.eu/eli/reg/2008/764/oj "to EUR-Lex") (UL L št. 91 z dne 29. 3. 2019, str. 1; v nadaljnjem besedilu: [Uredba 2019/515/EU](http://data.europa.eu/eli/reg/2019/515/oj "to EUR-Lex")); in
+
+3. [Uredbe (EU) 2019/1020](http://data.europa.eu/eli/reg/2019/1020/oj "to EUR-Lex") Evropskega parlamenta in Sveta z dne 20. junija 2019 o nadzoru trga in skladnosti proizvodov ter spremembi [Direktive 2004/42/ES](http://data.europa.eu/eli/dir/2004/42/oj "to EUR-Lex") in [uredb (ES) št. 765/2008](http://data.europa.eu/eli/reg/2008/765/oj "to EUR-Lex") in [(EU) št. 305/2011](http://data.europa.eu/eli/reg/2011/305/oj "to EUR-Lex") (UL L št. 169 z dne 25. 6. 2019, str. 1), zadnjič popravljene s Popravkom (UL L št. 297 z dne 17. 11. 2022, str. 86), (v nadaljnjem besedilu: [Uredba 2019/1020/EU](http://data.europa.eu/eli/reg/2019/1020/oj "to EUR-Lex")).
+
+### 2. člen
+
+**(izjeme glede uporabe tega zakona)**
+
+(1) Ta zakon se ne uporablja za proizvode, ki so urejeni s posebnimi zakoni.
+
+(2) Ne glede na prejšnji odstavek, se določbe 9. do 14. člena tega zakona uporabljajo za proizvode, ki so urejeni s posebnim zakonom, če posebni zakon ne ureja drugače zahtev za organe za ugotavljanje skladnosti in postopkov za njihovo določitev, preklic in priglasitev.
+
+### 3. člen
+
+**(pogoji za dajanje proizvodov na trg, v uporabo ali njihovo dostopnost na trgu)**
+
+Proizvodi so lahko dani na trg ali dostopni na trgu ali dani v uporabo le, če so skladni s tehničnimi zahtevami, če je bila njihova skladnost ugotovljena po predpisanem postopku, če so označeni s predpisanimi oznakami o skladnosti in če izpolnjujejo druge pogoje, določene s tem zakonom.
+
+### 4. člen
+
+**(pomen izrazov)**
+
+Izrazi, uporabljeni v tem zakonu, pomenijo:
+
+1. »akreditacija« je potrditev nacionalnega akreditacijskega organa, da organ za ugotavljanje skladnosti izpolnjuje zahteve, določene s harmoniziranimi standardi, in vse dodatne zahteve, določene v sektorskih shemah za opravljanje posebne dejavnosti ugotavljanja skladnosti;
+
+2. »dajanje na trg« pomeni, da je proizvod prvič dostopen na trgu Evropske unije;
+
+3. »distributer« je fizična ali pravna oseba v dobavni verigi, ki ni proizvajalec ali uvoznik in ki omogoči dostopnost proizvoda na trgu;
+
+4. »dostopnost na trgu« je odplačna ali neodplačna dobava proizvoda za distribucijo, porabo ali uporabo na trgu Evropske unije v okviru gospodarske dejavnosti;
+
+5. »gospodarski subjekt« je proizvajalec, pooblaščeni zastopnik, uvoznik, distributer, ponudnik storitev odpremnih skladišč ali druga fizična ali pravna oseba, ki mora izpolnjevati obveznosti v zvezi s proizvodnjo proizvodov, omogočanjem njihove dostopnosti na trgu ali dajanjem v uporabo v skladu z ustrezno usklajevalno zakonodajo Evropske unije;
+
+6. »harmonizirani standard« je standard, ki ga je sprejel eden od evropskih organov za standardizacijo iz [priloge I k Uredbi (EU) št. 1025/2012](http://data.europa.eu/eli/reg/2012/1025/anx_1/oj "to EUR-Lex") Evropskega parlamenta in Sveta z dne 25. oktobra 2012 o evropski standardizaciji, spremembi [direktiv Sveta 89/686/EGS](http://data.europa.eu/eli/dir/1989/686/oj "to EUR-Lex") in [93/15/EGS](http://data.europa.eu/eli/dir/1993/15/oj "to EUR-Lex") ter [direktiv 94/9/ES](http://data.europa.eu/eli/dir/1994/9/oj "to EUR-Lex"), [94/25/ES](http://data.europa.eu/eli/dir/1994/25/oj "to EUR-Lex"), [95/16/ES](http://data.europa.eu/eli/dir/1995/16/oj "to EUR-Lex"), [97/23/ES](http://data.europa.eu/eli/dir/1997/23/oj "to EUR-Lex"), [98/34/ES](http://data.europa.eu/eli/dir/1998/34/oj "to EUR-Lex"), [2004/22/ES](http://data.europa.eu/eli/dir/2004/22/oj "to EUR-Lex"), [2007/23/ES](http://data.europa.eu/eli/dir/2007/23/oj "to EUR-Lex"), [2009/23/ES](http://data.europa.eu/eli/dir/2009/23/oj "to EUR-Lex") in [2009/105/ES](http://data.europa.eu/eli/dir/2009/105/oj "to EUR-Lex") Evropskega parlamenta in Sveta ter razveljavitvi [Sklepa Sveta 87/95/EGS](http://data.europa.eu/eli/dec/1987/95/oj "to EUR-Lex") in [Sklepa št. 1673/2006/ES](http://data.europa.eu/eli/dec/2006/1673/oj "to EUR-Lex") Evropskega parlamenta in Sveta (UL L št. 316 z dne 14. 11. 2012, str. 12), zadnjič spremenjeni z [Direktivo (EU) 2015/1535](http://data.europa.eu/eli/dir/2015/1535/oj "to EUR-Lex") Evropskega parlamenta in Sveta z dne 9. septembra 2015 o določitvi postopka za zbiranje informacij na področju tehničnih predpisov in pravil za storitve informacijske družbe (UL L št. 241 z dne 17. 9. 2015, str. 1; v nadaljnjem besedilu: [Direktiva 2015/1535/EU](http://data.europa.eu/eli/dir/2015/1535/oj "to EUR-Lex"));
+
+7. »izjava EU o skladnosti« je dokument, ki ga izda proizvajalec in v njem navede, da proizvod izpolnjuje zahteve iz zakona in predpisov, izdanih na njegovi podlagi – izjava EU o skladnosti mora vsebovati najmanj prvine, opredeljene v predpisih na podlagi tega zakona;
+
+8. »končni uporabnik« je fizična ali pravna oseba, ki prebiva ali ima sedež v Evropski uniji, ki ji je bil proizvod dostopen kot potrošniku, izven okvira izvajanja kakršnih koli trgovskih, poslovnih, obrtnih ali poklicnih dejavnosti ali kot poklicnemu končnemu uporabniku v okviru njegovih gospodarskih ali strokovnih dejavnosti;
+
+9. »korektivni ukrep« je ukrep gospodarskega subjekta, da se odpravi neskladnost, kadar to zahteva inšpekcijski organ ali na lastno pobudo gospodarskega subjekta;
+
+10. »nacionalni akreditacijski organ« je organ, določen z zakonom, ki ureja ustanovitev, organizacijo in delovanje javnega zavoda, ki opravlja naloge nacionalne akreditacijske službe;
+
+11. »odpoklic« je ukrep za vrnitev proizvoda, ki je že dostopen končnemu uporabniku;
+
+12. »organ za ugotavljanje skladnosti« je pravna oseba, samostojni podjetnik posameznik ali posameznik, ki samostojno opravlja dejavnost in je z odločbo določen za izvajanje dejavnosti ugotavljanja skladnosti, vključno s kalibracijo, preizkušanjem, certificiranjem in kontrolo;
+
+13. »oznaka CE« je oznaka, s katero proizvajalec izjavlja, da je proizvod skladen z veljavnimi zahtevami iz usklajevalne zakonodaje Evropske unije, ki določa njeno namestitev;
+
+14. »ponudnik storitev informacijske družbe« je ponudnik storitev, kakor so opredeljene v točki (b) prvega odstavka 1. člena [Direktive 2015/1535/EU](http://data.europa.eu/eli/dir/2015/1535/oj "to EUR-Lex");
+
+15. »ponudnik storitev odpremnih skladišč« je fizična ali pravna oseba, ki v okviru poslovne dejavnosti ponuja vsaj dve od naslednjih storitev: skladiščenje, pakiranje, naslavljanje ali odprema, ne da bi bila lastnica zadevnih proizvodov, pri čemer so izvzete poštne storitve, kakor so opredeljene v 1. točki 2. člena [Direktive 97/67/ES](http://data.europa.eu/eli/dir/1997/67/oj "to EUR-Lex") Evropskega parlamenta in Sveta z dne 15. decembra 1997 o skupnih pravilih za razvoj notranjega trga poštnih storitev v Skupnosti in za izboljšanje kakovosti storitve (UL L št. 15 z dne 21. 1. 1998, str. 14), zadnjič spremenjene z [Direktivo 2008/6/ES](http://data.europa.eu/eli/dir/2008/6/oj "to EUR-Lex") Evropskega parlamenta in Sveta z dne 20. februarja 2008 o spremembi [Direktive 97/67/ES](http://data.europa.eu/eli/dir/1997/67/oj "to EUR-Lex") glede popolnega oblikovanja notranjega trga poštnih storitev v Skupnosti (UL L št. 52 z dne 27. 2. 2008, str. 3), storitve dostave paketov, kakor so opredeljene v 2. točki 2. člena [Uredbe (EU) 2018/644](http://data.europa.eu/eli/reg/2018/644/oj "to EUR-Lex") Evropskega parlamenta in Sveta z dne 18. aprila 2018 o storitvah čezmejne dostave paketov (UL L št. 112 z dne 2. 5. 2018, str. 19), in vse druge poštne storitve ali storitve tovornega prometa;
+
+16. »pooblaščeni zastopnik« je fizična ali pravna oseba s sedežem v Evropski uniji, ki jo je proizvajalec pisno pooblastil, da v njegovem imenu izvaja določene naloge, povezane z obveznostmi proizvajalca, v skladu z ustrezno usklajevalno zakonodajo Evropske unije ali v skladu z zahtevami iz tega zakona;
+
+17. »priglašeni organ« je organ za ugotavljanje skladnosti, ki izvaja postopke ugotavljanja skladnosti, izpolnjuje predpisane zahteve, kot je določeno v usklajevalni zakonodaji Evropske unije in je določen ter priglašen Evropski komisiji v skladu s tem zakonom ali predpisi države članice Evropske unije, v kateri ima sedež;
+
+18. »proizvajalec« je fizična ali pravna oseba, ki proizvod izdeluje ali za katero se tak proizvod načrtuje ali izdeluje in ki ga trži pod svojim imenom ali blagovno znamko;
+
+19. »proizvod, ki pomeni resno tveganje« je proizvod, ki pomeni tveganje, za katerega se na podlagi ocene tveganja in ob upoštevanju običajne in predvidljive uporabe proizvoda šteje, da je zaradi kombinacije verjetnosti, da se pojavi nevarnost, ki povzroča škodo, in stopnje resnosti te škode potrebno hitro ukrepanje inšpekcijskih organov, vključno s primeri, kadar učinki tveganja niso neposredni;
+
+20. »proizvod, ki pomeni tveganje« je proizvod, ki bi lahko negativno vplival na zdravje in varnost oseb na splošno, zdravje in varnost pri delu, varstvo potrošnikov, okolje, javno varnost in druge javne interese v meri, ki presega tisto, kar velja za razumno in sprejemljivo glede na njegov predvideni namen ali pod običajnimi ali razumno predvidljivimi pogoji uporabe zadevnega proizvoda, vključno s trajanjem uporabe in, kadar je to ustrezno, začetkom njegove uporabe, namestitvijo in zahtevami glede vzdrževanja;
+
+21. »proizvod« je proizvod, proizveden v proizvodnem procesu, razen hrane, krme, živih rastlin in živali, proizvodov človeškega izvora ter rastlinskih in živalskih proizvodov, ki so neposredno povezani z njihovo prihodnjo reprodukcijo;
+
+22. »resno tveganje« je tveganje, za katerega se na podlagi ocene tveganja in ob upoštevanju običajne in predvidljive uporabe proizvoda šteje, da je zaradi kombinacije verjetnosti, da se pojavi nevarnost, ki povzroča škodo, in stopnje resnosti te škode potrebno hitro ukrepanje inšpekcijskih organov, vključno s primeri, kadar učinki tveganja niso neposredni;
+
+23. »spletni vmesnik« je programska oprema, vključno s spletnim mestom, njegovim delom ali aplikacijo, ki jo upravlja gospodarski subjekt ali se upravlja v njegovem imenu in služi temu, da končnim uporabnikom omogoča dostop do proizvodov gospodarskega subjekta;
+
+24. »tveganje« je kombinacija verjetnosti, da se pojavi nevarnost, ki povzroča škodo, in stopnje resnosti te škode;
+
+25. »ugotavljanje skladnosti« je ugotavljanje izpolnjevanja posebnih zahtev glede proizvoda, postopka, storitve, sistema, osebe ali organa;
+
+26. »umik« je ukrep za preprečitev dostopnosti proizvoda iz dobavne verige na trgu;
+
+27. »usklajevalna zakonodaja Evropske unije« je zakonodaja Evropske unije, ki usklajuje pogoje za trženje proizvodov;
+
+28. »uvoznik« je fizična ali pravna oseba s sedežem v Evropski uniji, ki da proizvod iz tretje države na trg Evropske unije;
+
+29. »varna uporaba« je uporaba proizvoda pri končnem uporabniku v skladu s predpisanimi zahtevami, vključno s preverjanjem in zagotavljanjem varnosti delovanja, vzdrževanjem proizvoda in reševanjem.
+
+## II. TEHNIČNE ZAHTEVE ZA PROIZVODE
+
+### 5. člen
+
+**(zahteve za proizvode)**
+
+Minister oziroma ministrica, pristojna za posamezno vrsto proizvodov v skladu z zakoni o delovnem področju ministrstev (v nadaljnjem besedilu: pristojni minister), izda predpis, s katerim podrobneje predpiše tehnične zahteve za proizvode, postopke ugotavljanja skladnosti, vključno z rednimi in izrednimi pregledi proizvodov v uporabi, zahteve za označevanje proizvodov, zagotavljanje varnosti delovanja, vključno z varnostjo delovanja, razvoja in uporabe na področju umetne inteligence, interneta stvari in robotike, vzdrževanje proizvoda in reševanje (v nadaljnjem besedilu: predpis), kadar je to nujno zaradi zaščite javnega interesa, ki se izkazuje kot:
+
+- zagotovitev varnosti,
+
+- varovanje življenja in zdravja ljudi, živali in rastlin,
+
+- varstvo potrošnikov in drugih uporabnikov,
+
+- varstvo okolja,
+
+- varstvo premoženja,
+
+- dostopnost proizvodov invalidom.
+
+### 6. člen
+
+**(domneva o skladnosti)**
+
+(1) S predpisom se lahko določi, da se domneva, da je proizvod skladen z zahtevami iz predpisa, če proizvod ustreza zahtevam iz harmoniziranih standardov.
+
+(2) Ministrstvo, pristojno za posamezno vrsto proizvodov v skladu s predpisi o delovnem področju ministrstev (v nadaljnjem besedilu: pristojno ministrstvo), objavi seznam harmoniziranih standardov iz prejšnjega odstavka na svojih spletnih straneh.
+
+## III. OBVEZNOSTI GOSPODARSKIH SUBJEKTOV IN SKLADNOST PROIZVODOV
+
+### 7. člen
+
+**(obveznosti gospodarskih subjektov)**
+
+(1) Gospodarski subjekt mora, glede na svojo vlogo v dobavni verigi, za proizvode, preden so dani na trg ali dostopni na trgu:
+
+- izdelati ali zagotoviti razpoložljivost tehnične dokumentacije v predpisanem obsegu, obliki in rokih,
+
+- zagotoviti izvedbo postopkov ugotavljanja skladnosti s predpisanimi tehničnimi zahtevami,
+
+- zagotoviti ustrezno izjavo EU o skladnosti,
+
+- zagotoviti označitev proizvoda s predpisanimi oznakami skladnosti,
+
+- zagotoviti predpisane spremne listine in oznake.
+
+(2) Gospodarski subjekt mora, glede na svojo vlogo v dobavni verigi, za proizvode, ki so dostopni na trgu ali so v uporabi:
+
+- preverjati in zagotavljati skladnost s predpisanimi tehničnimi zahtevami,
+
+- izvajati korektivne ukrepe za zagotavljanje skladnosti in če je potrebno umakniti ali odpoklicati proizvod,
+
+- voditi evidence neskladnih proizvodov in sprejetih ukrepov,
+
+- obveščati ustrezen gospodarski subjekt in pristojni inšpekcijski organ o proizvodu, ki pomeni tveganje, in o sprejetih ukrepih,
+
+- sodelovati s pristojnimi inšpekcijskimi organi pri vseh dejavnostih, katerih cilj je odpraviti tveganja.
+
+(3) Gospodarski subjekt mora, glede na svojo vlogo v dobavni verigi, zagotavljati trajno izpolnjevanje zahtev za proizvode.
+
+(4) Gospodarski subjekt mora na zahtevo pristojnega inšpekcijskega organa za obdobje, določeno v predpisu, zagotoviti identifikacijske podatke o vsakem gospodarskem subjektu, ki mu je dobavil proizvod in kateremu je dobavil proizvod.
+
+(5) Proizvodov, ki niso skladni s predpisanimi tehničnimi zahtevami in za katere ni predpisana označitev z oznakami skladnosti, ni dovoljeno označiti z njimi. Prav tako ni dovoljeno proizvodov označiti z drugimi oznakami, ki so predpisanim oznakam skladnosti toliko podobni, da bi lahko ustvarili zmedo na trgu ali zavedli potrošnike.
+
+(6) Podrobnejše obveznosti posameznih gospodarskih subjektov se določijo v predpisih iz 5. člena tega zakona.
+
+### 7.a člen
+
+**(obveznosti lastnika in skrbnika proizvoda)**
+
+(1) Lastnik in skrbnik proizvoda morata za zagotavljanje varne uporabe proizvoda zagotoviti periodično preverjanje in varnost delovanja, vzdrževanje proizvoda in reševanje.
+
+(2) Podrobnejše zahteve za izpolnjevanje obveznosti iz prejšnjega odstavka se določijo v predpisih iz 5. člena tega zakona.
+
+### 8. člen
+
+**(postopki ugotavljanja skladnosti)**
+
+(1) Postopki ugotavljanja skladnosti se določijo v predpisih ali posredno v harmoniziranih standardih.
+
+(2) Zahtevnost predpisanih postopkov ugotavljanja skladnosti mora biti odvisna od tehnične zahtevnosti proizvodov in ocene mogoče nevarnosti, povezane z njihovo uporabo.
+
+(3) Ob upoštevanju meril iz prejšnjega odstavka se s predpisom določi postopek, več postopkov ali ustrezna kombinacija različnih postopkov ugotavljanja skladnosti, kot so:
+
+- proizvajalčevo samostojno ugotavljanje skladnosti proizvoda pod določenimi pogoji,
+
+- ugotavljanje skladnosti proizvoda, ki ga organ za ugotavljanje skladnosti izvaja na enem vzorcu ali na statistično izbranem vzorcu iz proizvodnega procesa,
+
+- proizvajalčevo vodenje sistema zagotavljanja kakovosti proizvodnega procesa,
+
+- ugotavljanje primernosti in izvajanje nadzora proizvajalčevega sistema kakovosti proizvodnega procesa, ki ga izvaja organ za ugotavljanje skladnosti.
+
+## IV. ORGANI ZA UGOTAVLJANJE SKLADNOSTI
+
+### 9. člen
+
+**(zahteve za organe za ugotavljanje skladnosti)**
+
+(1) Organ za ugotavljanje skladnosti mora glede na vrsto in obseg postopkov ugotavljanja skladnosti izpolnjevati zahteve predpisa iz 5. člena tega zakona in harmoniziranih standardov. Pri tem mora izpolnjevati najmanj naslednje zahteve:
+
+- razpolagati mora s strokovno usposobljenim osebjem in potrebno opremo,
+
+- v postopku ugotavljanja skladnosti mora zagotoviti neodvisnost in nepristranskost do organizacije ali proizvoda, ki ga ocenjuje,
+
+- zagotoviti mora zaupnost podatkov,
+
+- imeti mora zavarovanje odgovornosti za opravljeno delo, razen v primeru, ko je odgovornost zavarovana s strani države na podlagi zakona,
+
+- izpolnjevati mora druge pogoje, ki zagotavljajo ustrezno opravljanje predpisanih nalog ugotavljanja skladnosti.
+
+(2) Šteje se, da je organ za ugotavljanje skladnosti usposobljen za izpolnjevanje zahtev iz prejšnjega odstavka, predpisa iz 5. člena tega zakona in harmoniziranih standardov, če predloži akreditacijsko listino za določeno vrsto in obseg postopkov.
+
+### 10. člen
+
+**(vloga za določitev organa za ugotavljanje skladnosti)**
+
+Vloga za določitev organa za ugotavljanje skladnosti se vloži na pristojno ministrstvo.
+
+### 11. člen
+
+**(komisija za ocenjevanje)**
+
+(1) Pristojni minister imenuje za vsak predpis komisijo za ocenjevanje vlog iz prejšnjega člena (v nadaljnjem besedilu: komisija).
+
+(2) Komisijo sestavljajo predsednik in dva člana. Predsednik in en član komisije sta predstavnika pristojnega ministrstva, tretji član pa je predstavnik nacionalnega akreditacijskega organa Republike Slovenije.
+
+(3) Komisija predloži ministru mnenje o vložnikovi usposobljenosti za izpolnjevanje zahtev iz 9. člena tega zakona.
+
+### 12. člen
+
+**(odločba o določitvi organa za ugotavljanje skladnosti)**
+
+(1) Pristojni minister izda na podlagi mnenja komisije iz prvega odstavka prejšnjega člena odločbo o določitvi organa za ugotavljanje skladnosti.
+
+(2) Veljavnost odločbe iz prejšnjega odstavka je lahko časovno omejena ali pa velja do preklica.
+
+(3) Pristojno ministrstvo vodi na svojih spletnih straneh evidenco organov za ugotavljanje skladnosti, ki vsebuje najmanj naziv organa za ugotavljanje skladnosti ter predpis, na podlagi katerega je bil določen.
+
+### 13. člen
+
+**(spremljanje trajnega izpolnjevanja zahtev za določitev in preklic)**
+
+(1) Organ, določen za ugotavljanje skladnosti, mora:
+
+- trajno izpolnjevati zahteve iz 9. člena tega zakona,
+
+- dokumentirati vse postopke ugotavljanja skladnosti, za katere je določen,
+
+- hraniti vse zapise opravljenih delovnih nalog in njihovih rezultatov najmanj deset let,
+
+- nemudoma obvestiti pristojno ministrstvo o vseh spremembah, ki bi lahko vplivale na njegovo usposobljenost, obseg nalog ugotavljanja skladnosti iz odločbe ali na izpolnjevanje zahtev za določitev.
+
+(2) Komisija lahko pri organu za ugotavljanje skladnosti opravi pregled, če obstaja dvom o pravilnosti njegovega delovanja.
+
+(3) Če se pri pregledu ugotovi, da organ za ugotavljanje skladnosti ne izpolnjuje vseh zahtev za določitev iz 9. člena tega zakona, pristojni minister na predlog komisije izda odločbo, s katero naloži ukrepe in rok za odpravo nepravilnosti.
+
+(4) Pristojni minister izda odločbo o preklicu, pristojno ministrstvo pa izbriše organ za ugotavljanje skladnosti iz evidence, če:
+
+- organ za ugotavljanje skladnosti ne odpravi ugotovljenih nepravilnosti v določenem roku,
+
+- komisija ugotovi nepravilnosti, ki jih ni mogoče odpraviti,
+
+- organ za ugotavljanje skladnosti obvesti ministra, pristojnega za predpis, da ne želi več opravljati nalog v okviru odločbe.
+
+### 14. člen
+
+**(priglasitev organa za ugotavljanje skladnosti Evropski komisiji in državam članicam Evropske unije)**
+
+(1) Pristojno ministrstvo na podlagi zahteve organa za ugotavljanje skladnosti obvesti Evropsko komisijo in države članice Evropske unije o določitvi, spremembah v zvezi z določitvijo in preklicu določitve organa za ugotavljanje skladnosti, skupaj s podatki o nalogah ugotavljanja skladnosti, za katere je organ določen.
+
+(2) Organ za ugotavljanje skladnosti lahko začne opravljati naloge priglašenega organa po pridobitvi identifikacijske številke, ki jo izda Evropska komisija.
+
+## V. NADZOR
+
+### 15. člen
+
+**(inšpekcijski nadzor)**
+
+(1) Izvajanje določb tega zakona in na njegovi podlagi izdanih predpisov, [Uredbe 765/2008/ES](http://data.europa.eu/eli/reg/2008/765/oj "to EUR-Lex"), [Uredbe 2019/515/EU](http://data.europa.eu/eli/reg/2019/515/oj "to EUR-Lex"), [Uredbe 2019/1020/EU](http://data.europa.eu/eli/reg/2019/1020/oj "to EUR-Lex") in uredbe, ki ureja izvajanje [Uredbe 2019/1020/EU](http://data.europa.eu/eli/reg/2019/1020/oj "to EUR-Lex"), nadzorujejo inšpekcijski organi, pristojni za posamezno vrsto proizvodov, v skladu s predpisi, ki določajo pristojnosti in naloge pristojnih inšpekcijskih organov.
+
+(2) Pristojni inšpektorji oziroma inšpektorice (v nadaljnjem besedilu: inšpektorji) imajo na podlagi tega zakona pooblastila, da:
+
+a) od gospodarskih subjektov zahtevajo predložitev pomembnih dokumentov, tehnične dokumentacije, tehničnih specifikacij, podatkov ali informacij v zvezi s skladnostjo in tehničnimi vidiki proizvoda, vključno z dostopom do vdelane programske opreme, če je takšen dostop potreben za oceno skladnosti proizvoda, v kakršni koli obliki ali formatu in neodvisno od nosilca ali mesta, na katerem so dokumenti, tehnična specifikacija, podatki ali informacije shranjeni, ter izdelavo ali pridobitvijo njihove kopije;
+
+b) od gospodarskih subjektov zahtevajo predložitev pomembnih informacij o dobavni verigi, distribucijskem omrežju, količini proizvodov na trgu in drugih modelih proizvodov z enakimi tehničnimi lastnostmi, kot jih ima zadevni proizvod, kadar je to potrebno zaradi skladnosti z veljavnimi predpisi;
+
+c) od gospodarskih subjektov zahtevajo predložitev pomembnih informacij, potrebnih za dokazovanje lastništva spletnih mest, kadar se te informacije nanašajo na zadevo, ki se preiskuje;
+
+č) nenajavljeno izvedejo preverjanje na kraju samem in fizične preglede proizvodov;
+
+d) pridobijo vzorce proizvodov, vključno pod skrivno identiteto, z namenom, da jih pregledajo in odkrijejo ter pridobijo dokaze o njihovi neskladnosti;
+
+e) vstopijo v katero koli prevozno sredstvo, ki ga gospodarski subjekt uporablja za svoje trgovske, poslovne, obrtne ali poklicne dejavnosti, da se odkrije neskladnost in pridobijo dokazi;
+
+f) izvedejo ustrezne preglede in preizkuse proizvodov, potrebne za ugotavljanje njihove skladnosti s predpisi, tudi potem, ko so bili ti dostopni na trgu, bili dani na trg ali se uporabljajo.
+
+(3) Pristojni inšpektorji v primeru kršitev zakona ali drugega predpisa odredijo naslednje ukrepe:
+
+a) prepovejo ali omejijo dajanje neskladnih proizvodov na trg, njihovo dostopnost na trgu ali odredijo njihov umik ali odpoklic neskladnih proizvodov s trga;
+
+b) prepovejo uporabo neskladnih proizvodov, omejijo njihovo uporabo ali odredijo prenehanje njihove uporabe;
+
+c) odredijo uničenje neskladnih proizvodov, če je to nujno za zavarovanje življenja in zdravja ljudi, živali in rastlin, okolja ali premoženja;
+
+č) začasno prepovejo dajanje proizvodov na trg, njihovo dostopnost na trgu ali njihovo uporabo do ustrezne označitve proizvodov ali do predložitve dokazil o skladnosti proizvodov;
+
+d) v času, ki je potreben za preglede in preizkuse, začasno prepovejo dajanje proizvodov na trg, njihovo dostopnost na trgu, ponudbo dobave ali razstavljanje proizvodov, takoj ko nastane utemeljen sum, da so ti proizvodi neskladni s predpisi;
+
+e) prepovejo uporabo listin o skladnosti za neskladne proizvode;
+
+f) zahtevajo, da se proizvodi označijo v skladu s predpisi, ali odredijo odstranitev nedovoljenih oznak;
+
+g) odredijo odpravo ugotovljenih neskladnosti;
+
+h) kadar ni drugega učinkovitega načina, s katerim bi odpravili resno tveganje, ki ga predstavlja proizvod, po postopku, določenem z zakonom, ki ureja elektronsko poslovanje na trgu, zahtevajo odstranitev vsebine, ki se nanaša na zadevne proizvode, s spletnega vmesnika ali zahtevajo prikaz izrecnega opozorila o neskladnosti proizvoda za končne uporabnike, ko dostopajo do spletnega vmesnika.
+
+(4) Pristojni inšpektorji lahko odredijo ukrepe gospodarskemu subjektu ali drugi fizični ali pravni osebi, kadar je to potrebno za zagotovitev izpolnjevanja zahtev iz 3. člena tega zakona glede skladnosti proizvodov.
+
+(5) Če pristojni inšpekcijski organ ne razpolaga s potrebnim strokovnim znanjem ali opremo za izvedbo potrebnega pregleda ali preskusa iz druge alineje drugega odstavka tega člena, izvedbo takih posameznih dejanj v okviru inšpekcijskega nadzora poveri usposobljeni instituciji.
+
+### 16. člen
+
+**(ukrepi v zvezi s formalno neskladnostjo)**
+
+(1) Če pristojni inšpektor ugotovi katero od naslednjih neskladnosti, od gospodarskega subjekta zahteva, da jo odpravi:
+
+- oznake skladnosti niso nameščene ali niso nameščene v skladu s predpisanimi zahtevami,
+
+- izjava EU o skladnosti ni bila izdelana ali ni bila izdelana v skladu s predpisanimi zahtevami,
+
+- tehnična dokumentacija ni na voljo ali ni popolna.
+
+(2) Če gospodarski subjekt neskladnosti iz prejšnjega odstavka ne odpravi, sprejme pristojni inšpekcijski organ vse primerne ukrepe za omejevanje ali prepoved omogočanja dostopnosti proizvoda na trgu ali pa zagotovi umik ali odpoklic proizvoda s trga.
+
+### 17. člen
+
+**(stroški nadzora)**
+
+(1) Za preglede in preizkuse proizvodov, potrebne za ugotavljanje njihove skladnosti, pristojni inšpektor brezplačno odvzame ustrezen vzorec proizvoda. O odvzemu vzorca se sestavi zapisnik.
+
+(2) Stroške, ki nastanejo v zvezi z inšpekcijskim postopkom, krije gospodarski subjekt, ki je omogočil dostopnost proizvoda na trgu ali dal na trg ali v uporabo proizvod, ki ni v skladu z določbami tega zakona.
+
+(3) Če gospodarski subjekt pred končanim inšpekcijskim postopkom sam prostovoljno umakne ali odpokliče proizvod s trga ali uporabe, krije stroške inšpekcijskega postopka, ki nastanejo do umika ali odpoklica proizvoda.
+
+## VI. KAZENSKE DOLOČBE
+
+### 18. člen
+
+**(prekrški)**
+
+(1) Z globo od 3.000 do 40.000 eurov se za prekršek kaznuje pravna oseba ki v zvezi z opravljanjem dejavnosti kot proizvajalec, uvoznik ali pooblaščeni zastopnik v Republiki Sloveniji:
+
+- da na trg ali v uporabo ali omogoči dostopnost proizvodov na trgu, ki niso skladni s predpisanimi tehničnimi zahtevami ali njihova skladnost ni bila ugotovljena po predpisanem postopku ali niso označeni v skladu s predpisi (3. člen),
+
+- v nasprotju s prvim odstavkom 7. člena tega zakona ne izdela ali ne zagotovi razpoložljivosti tehnične dokumentacije v predpisanem obsegu, obliki in rokih ali ne zagotovi izvedbe postopkov ugotavljanja skladnosti s predpisanimi tehničnimi zahtevami ali ne zagotovi ustrezne izjave EU o skladnosti ali ne zagotovi označitve proizvodov s predpisanim oznakami skladnosti ali ne zagotovi predpisanih spremnih listin in oznak,
+
+- v nasprotju z drugim odstavkom 7. člena tega zakona ne preverja in ne zagotavlja skladnosti proizvodov s predpisanimi tehničnimi zahtevami ali ne izvaja korektivnih ukrepov za zagotavljanje skladnosti ali če je to potrebno ne umakne ali odpokliče proizvoda ali ne vodi evidenc neskladnih proizvodov in sprejetih ukrepov ali ne obvešča o proizvodu, ki pomeni tveganje, in o sprejetih ukrepih ustreznega gospodarskega subjekta in pristojnega inšpekcijskega organa ali ne sodeluje s pristojnimi inšpekcijskimi organi pri vseh dejavnostih, katerih cilj je odpraviti tveganja,
+
+- v nasprotju s četrtim odstavkom 7. člena tega zakona na zahtevo pristojnega inšpekcijskega organa ne zagotovi identifikacijskih podatkov gospodarskih subjektov,
+
+- v nasprotju s petim odstavkom 7. člena tega zakona označi proizvode, ki niso skladni s predpisanimi tehničnimi zahtevami ali proizvode za katere ni predpisana označitev z oznakami skladnosti ali označi proizvode z oznakami skladnosti ali drugimi oznakami, ki so predpisanim oznakam skladnosti toliko podobni, da bi lahko ustvarili zmedo na trgu ali zavedli potrošnike,
+
+- proizvode označi v nasprotju s splošnimi pravili za oznako CE, navedenimi v 30. členu [uredbe (ES) št. 765/2008](http://data.europa.eu/eli/reg/2008/765/oj "to EUR-Lex"),
+
+- ravna v nasprotju z obveznostmi iz tretjega odstavka 4. člena [Uredbe 2019/1020/EU](http://data.europa.eu/eli/reg/2019/1020/oj "to EUR-Lex"),
+
+- na proizvodu ali na njegovi embalaži, paketu ali priloženem dokumentu ne navede imena, registriranega trgovskega imena ali registrirane blagovne znamke in kontaktnih podatkov, vključno s poštnim naslovom gospodarskega subjekta (četrti odstavek 4. člena [Uredbe 2019/1020/EU](http://data.europa.eu/eli/reg/2019/1020/oj "to EUR-Lex")),
+
+- pristojnemu organu za nadzor trga ne predloži izvoda pooblastila v jeziku Evropske unije, ki ga določi ta organ (drugi odstavek 5. člena [Uredbe 2019/1020/EU](http://data.europa.eu/eli/reg/2019/1020/oj "to EUR-Lex")), ali
+
+- skladno s prvim odstavkom 7. člena [Uredbe 2019/1020/EU](http://data.europa.eu/eli/reg/2019/1020/oj "to EUR-Lex") ne sodeluje z organi za nadzor trga pri ukrepih, s katerimi bi lahko odpravili ali zmanjšali tveganja, ki jih pomenijo proizvodi, katerih dostopnost na trgu so omogočili ti gospodarski subjekti.
+
+(2) Z globo od 2.000 do 15.000 eurov se za prekršek kaznuje samostojni podjetnik posameznik ali posameznik, ki samostojno opravlja dejavnost, ki v zvezi z opravljanjem dejavnosti kot proizvajalec, uvoznik ali pooblaščeni zastopnik v Republiki Sloveniji stori prekršek iz prejšnjega odstavka.
+
+(3) Z globo od 1.200 do 4.000 eurov se za prekršek kaznuje tudi odgovorna oseba pravne osebe, odgovorna oseba samostojnega podjetnika posameznika oziroma posameznika, ki samostojno opravlja dejavnost, ki v zvezi z opravljanjem dejavnosti kot proizvajalec, uvoznik ali pooblaščeni zastopnik v Republiki Sloveniji stori prekršek iz prvega odstavka tega člena.
+
+(4) Z globo od 1.200 do 3.000 eurov se za prekršek kaznuje pravna oseba, ki v zvezi z opravljanjem dejavnosti kot distributer, ponudnik storitev odpremnih skladišč ali uporabnik proizvoda stori prekršek iz prvega odstavka tega člena.
+
+(5) Z globo 800 do 3.000 eurov se za prekršek kaznuje samostojni podjetnik posameznik ali posameznik, ki samostojno opravlja dejavnost, ki v zvezi z opravljanjem dejavnosti kot distributer, ponudnik storitev odpremnih skladišč ali uporabnik proizvoda stori prekršek iz prvega odstavka tega člena.
+
+(6) Z globo od 200 do 400 eurov se za prekršek kaznuje tudi odgovorna oseba pravne osebe, odgovorna oseba samostojnega podjetnika posameznika oziroma posameznika, ki samostojno opravlja dejavnost, ki v zvezi z opravljanjem dejavnosti distributerja, ponudnika storitev odpremnih skladišč ali uporabnika proizvoda stori prekršek iz prvega odstavka tega člena.
+
+(7) Z globo od 3.000 do 40.000 eurov se za prekršek kaznuje pravna oseba, ki v zvezi z opravljanjem dejavnosti ponudnika storitev informacijske družbe skladno z drugim odstavkom 7. člena [Uredbe 2019/1020/EU](http://data.europa.eu/eli/reg/2019/1020/oj "to EUR-Lex") ne sodeluje z organi za nadzor trga na njihovo zahtevo ali ne sodeluje v posebnih primerih, da bi podprla ukrepe, ki se sprejmejo za odpravo ali, če to ni mogoče, zmanjšanje tveganj, ki jih pomeni proizvod, ki se ali se je prek njenih storitev ponujal za prodajo prek spleta.
+
+(8) Z globo od 2.000 do 15.000 eurov se za prekršek kaznuje samostojni podjetnik posameznik ali posameznik, ki samostojno opravlja dejavnost, ki v zvezi z opravljanjem dejavnosti ponudnika storitev informacijske družbe stori prekršek iz prejšnjega odstavka.
+
+(9) Z globo od 1.200 do 4.000 eurov se za prekršek kaznuje tudi odgovorna oseba pravne osebe, odgovorna oseba samostojnega podjetnika posameznika oziroma posameznika, ki samostojno opravlja dejavnost, ki v zvezi z opravljanjem dejavnosti ponudnika storitev informacijske družbe stori prekršek iz sedmega odstavka tega člena.
+
+### 18.a člen
+
+**(prekrški glede preverjanja in zagotavljanja varnosti delovanja, vzdrževanja proizvoda in reševanja)**
+
+(1) Z globo od 800 do 3.000 eurov se za prekršek kaznujeta lastnik in skrbnik proizvoda – pravni osebi, če ne upoštevata zahtev glede preverjanja in zagotavljanja varnosti delovanja, vzdrževanja proizvoda in reševanja v obsegu in na način, ki je potreben za zagotovitev zaščite javnega interesa (prvi odstavek 7.a člena).
+
+(2) Z globo od 600 do 2.000 eurov se za prekršek kaznujeta lastnik in skrbnik proizvoda – samostojni podjetnik posameznik ali posameznik, ki samostojno opravlja dejavnost, ki storita prekršek iz prejšnjega odstavka.
+
+(3) Z globo od 400 do 1.500 eurov se za prekršek kaznuje tudi odgovorna oseba pravne osebe, odgovorna oseba samostojnega podjetnika posameznika oziroma posameznika, ki samostojno opravlja dejavnost, ter odgovorna oseba v državnem organu ali v samoupravni lokalni skupnosti, ki stori prekršek iz prvega odstavka tega člena.
+
+(4) Z globo od 200 do 600 eurov se za prekršek kaznuje lastnik proizvoda – posameznik, ki stori prekršek iz prvega odstavka tega člena.
+
+### 19. člen
+
+**(višina globe v hitrem postopku)**
+
+Za prekrške iz tega zakona se sme v hitrem postopku izreči globa tudi v znesku, ki je višji od najnižje predpisane globe, določene s tem zakonom.
+
+---
+
+Zakon o tehničnih zahtevah za proizvode in o ugotavljanju skladnosti – ZTZPUS-1 (Uradni list RS, št. [17/11](http://www.uradni-list.si/1/objava.jsp?urlurid=2011691)) vsebuje naslednje prehodne in končne določbe:
+
+**»VII. PREHODNE IN KONČNE DOLOČBE**
+
+**20. člen**
+
+**(razveljavitev predpisov)**
+
+(1) Z dnem uveljavitve tega zakona preneha veljati Zakon o tehničnih zahtevah za proizvode in o ugotavljanju skladnosti (Uradni list RS, št. 59/99, 31/2000 popr., 54/2000 ZKme in 73/04).
+
+(2) Z dnem uveljavitve tega zakona prenehajo veljati naslednji podzakonski predpisi:
+
+- Uredba o načinu določanja organov za ugotavljanje skladnosti (Uradni list RS, št. 24/2000),
+
+- Pravilnik o čaju, gorčici, jedilni soli, pecilnem prašku, prašku za puding in vanilijevem sladkorju (Uradni list RS, št. 56/99, 2/2000, 12/03, 12/03, 48/03 in 70/03),
+
+- Odredba o pogojih kakovosti, o postopkih ter metodah jemanja vzorcev in o analitskih metodah za kmetijske in živilske proizvode (Uradni list RS, št. 17/96, 48/99, 6/01 in 26/03),
+
+- Navodilo za izdajanje in prenašanje atestov o ustreznosti, ki se nanašajo na proizvode iz tujine, in o priznavanju poročil o preskusih, izdanih v tujini (Uradni list RS, št. 21/94),
+
+- Spisek izdanih dovoljenj (atestov) za telekomunikacijsko opremo v letu 1992 (Uradni list RS, št. 9/93),
+
+- Spisek izdanih dovoljenj (atestov) za telekomunikacijsko opremo v prvem trimesečju leta 1993 (Uradni list RS, št. 20/93),
+
+- Spisek izdanih dovoljenj (atestov) za telekomunikacijsko opremo v drugem trimesečju leta 1993 (Uradni list RS, št. 37/93),
+
+- Spisek izdanih dovoljenj (atestov) za telekomunikacijsko opremo v tretjem trimesečju leta 1993 (Uradni list RS, št. 59/93),
+
+- Spisek izdanih dovoljenj (atestov) za telekomunikacijsko opremo v četrtem trimesečju leta 1993 (Uradni list RS, št. 2/94),
+
+- Spisek izdanih dovoljenj (atestov) za telekomunikacijsko opremo v prvem trimesečju leta 1994 (Uradni list RS, št. 20/94),
+
+- Spisek izdanih dovoljenj (atestov) za telekomunikacijsko opremo v drugem in tretjem trimesečju leta 1994 (Uradni list RS, št. 68/94),
+
+- Spisek izdanih dovoljenj (atestov) za telekomunikacijsko opremo v četrtem trimesečju leta 1994 (Uradni list RS, št. 8/95) in
+
+- Spisek izdanih dovoljenj (atestov) za telekomunikacijsko opremo v prvih štirih mesecih leta 1995 (Uradni list RS, št. 28/95).
+
+**21. člen**
+
+**(podaljšanje veljavnosti predpisov)**
+
+(1) Od uveljavitve tega zakona še naprej veljajo naslednji predpisi, kot predpisi, izdani na podlagi 5. člena tega zakona:
+
+- Pravilnik o varnosti strojev (Uradni list RS, št. 75/08 in 66/10),
+
+- Pravilnik o varnosti igrač (Uradni list RS, št. 62/03, 35/04, 47/07 in 24/10),
+
+- Pravilnik o minimalnih sanitarno zdravstvenih pogojih za opravljanje dejavnosti higienske nege in drugih podobnih dejavnosti (Uradni list RS, št. 104/09),
+
+- Pravilnik o radijski opremi in telekomunikacijski terminalski opremi (Uradni list RS, št. 17/09),
+
+- Pravilnik o označevanju materialov, ki se uporabljajo za glavne sestavne dele obutve, namenjene prodaji potrošnikom (Uradni list RS, št. 26/2000, 96/03, 21/04 in 55/09),
+
+- Pravilnik o metodah kvantitativne analize dvokomponentnih mešanic tekstilnih vlaken (Uradni list RS, št. 7/2000, 42/04, 138/06, 12/08 in 76/10),
+
+- Pravilnik o navajanju surovinske sestave in o tekstilnih imenih (Uradni list RS, št. 109/99, 92/02, 34/04, 36/05, 2/07, 4/08 in 76/10),
+
+- Pravilnik o proizvodih iz kristalnega stekla (Uradni list RS, št. 110/07),
+
+- Pravilnik o pomorski opremi (Uradni list RS, št. 24/07, 23/09 in 78/09),
+
+- Pravilnik o varnosti dvigal (Uradni list RS, št. 83/07),
+
+- Pravilnik o aerosolnih razpršilnikih (Uradni list RS, št. 96/09),
+
+- Pravilnik o osebni varovalni opremi (Uradni list RS, št. 29/05 in 23/06),
+
+- Pravilnik o pregledovanju in preskušanju opreme pod tlakom (Uradni list RS, št. 92/08),
+
+- Pravilnik o emisiji hrupa strojev, ki se uporabljajo na prostem (Uradni list RS, št. 106/02, 50/05 in 49/06),
+
+- Pravilnik o emisiji plinastih onesnaževal in delcev iz motorjev z notranjim zgorevanjem, namenjenih za vgradnjo v necestne premične stroje (Uradni list RS, št. 85/03, 22/05, 92/05 in 95/07),
+
+- Pravilnik o emisiji hrupa gospodinjskih strojev (Uradni list RS, št. 13/01 in 43/05),
+
+- Pravilnik o zahtevah za energijsko učinkovitost električnih gospodinjskih hladilnikov in zamrzovalnikov ter njihovih kombinacij (Uradni list RS, št. 107/01, 16/02 in 40/07),
+
+- Pravilnik o elektromagnetni združljivosti (EMC) (Uradni list RS, št. 132/06),
+
+- Pravilnik o električni opremi, ki je namenjena za uporabo znotraj določenih napetostnih mej (Uradni list RS, št. 27/04),
+
+- Pravilnik o protieksplozijski zaščiti (Uradni list RS, št. 102/2000, 91/02, 16/08 in 1/11),
+
+- Pravilnik o tlačni opremi (Uradni list RS, št. 15/02, 47/02, 54/03, 114/03 in 138/06),
+
+- Pravilnik o premični tlačni opremi (Uradni list RS, št. 18/04 in 138/06),
+
+- Pravilnik o plinskih napravah (Uradni list RS, št. 105/2000, 28/02 in 60/03),
+
+- Pravilnik o zahtevanih izkoristkih za nove toplovodne ogrevalne kotle na tekoče ali plinasto gorivo (Uradni list RS, št. 107/01, 20/02 in 63/07),
+
+- Pravilnik o jeklenih plinskih jeklenkah iz celega (Uradni list RS, št. 73/02 in 18/04),
+
+- Pravilnik o plinskih jeklenkah iz nelegiranega aluminija ali aluminijevih zlitin iz celega (Uradni list RS, št. 73/02 in 18/04),
+
+- Pravilnik o varjenih plinskih jeklenkah iz nelegiranega jekla (Uradni list RS, št. 73/02 in 18/04),
+
+- Pravilnik o rekreacijskih plovilih (Uradni list RS, št. 42/05),
+
+- Pravilnik o merjenju in razvrščanju gozdnih lesnih proizvodov (Uradni list RS, št. 72/03),
+
+- Odredba o enostavnih tlačnih posodah (Uradni list RS, št. 11/02 in 138/06),
+
+- Odredba o metodah kvantitativne analize trikomponentnih mešanic tekstilnih vlaken (Uradni list RS, št. 7/2000 in 42/04),
+
+- Odredba o seznamu standardov, katerih uporaba ustvari domnevo o skladnosti proizvodov z zahtevami Pravilnika o elektromagnetni združljivosti (Uradni list RS, št. 3/10, 13/10 popr. in 104/10),
+
+- Odredba o seznamu standardov, katerih uporaba ustvari domnevo o skladnosti proizvoda z zahtevami Pravilnika o električni opremi, ki je namenjena za uporabo znotraj določenih napetostnih mej (Uradni list RS, št. 6/10),
+
+- Odredba o seznamu standardov, ki prevzemajo evropske standarde v skladu s Pravilnikom o varnosti igrač (Uradni list RS, št. 25/10),
+
+- Odredba o seznamu standardov, katerih uporaba ustvari domnevo o skladnosti dvigal z zahtevami Pravilnika o varnosti dvigal (Uradni list RS, št. 29/10),
+
+- Odredba o seznamu standardov, katerih uporaba ustvari domnevo o skladnosti proizvodov, ki se uporabljajo v domnevno eksplozivnih atmosferah, z zahtevami iz pravilnika o protieksplozijski zaščiti (Uradni list RS, št. 48/10),
+
+- Odredba o seznamu standardov, katerih uporaba ustvari domnevo o skladnosti proizvoda z zahtevami Pravilnika o osebni varovalni opremi (Uradni list RS, št. 54/10),
+
+- Odredba o seznamu standardov, katerih uporaba ustvari domnevo o skladnosti rekreacijskih plovil z zahtevami Pravilnika o rekreacijskih plovilih (Uradni list RS, št. 94/10),
+
+- Odredba o seznamu standardov, katerih uporaba ustvari domnevo o skladnosti proizvodov z zahtevami Pravilnika o radijski in telekomunikacijski terminalski opremi (Uradni list RS, št. 1/11).
+
+(2) Do izdaje novega predpisa na podlagi tega zakona se še naprej uporablja Pravilnik o prvih meritvah in obratovalnem monitoringu za vire elektromagnetnega sevanja ter o pogojih za njegovo izvajanje (Uradni list RS, št. 70/96).
+
+**22. člen**
+
+**(prenehanje uporabe predpisov)**
+
+Z dnem uveljavitve tega zakona se prenehajo uporabljati:
+
+- Pravilnik o tehničnih normativih in pogojih za projektiranje in gradnjo železniških predorov (Uradni list SFRJ, št. 55/73),
+
+- Pravilnik o kakovosti kurilnih olj (Uradni list SFRJ, št. 49/83 in 36/90),
+
+- Pravilnik o tehničnih normativih za naprave, v katerih se nanašajo in sušijo premazna sredstva (Uradni list SFRJ, št. 57/85),
+
+- Pravilnik o kakovosti neosvinčenega motornega bencina (Uradni list SFRJ, št. 13/86),
+
+- Pravilnik o natančnejši vsebini tehničnega navodila, ki mora biti priloženo napravam s področja radiokomunikacij, avdio in video tehnike in napravam, ki se priključujejo nanje (Uradni list SFRJ, št. 28/89),
+
+- Pravilnik o kakovosti aditivov za živilske izdelke (Uradni list SFRJ, št. 39/89 in 22/90 popr.),
+
+- Pravilnik o kakovosti goriva za reaktivne motorje (Uradni list SFRJ, št. 24/82 in 84/89),
+
+- Pravilnik o tehničnih normativih za dela pri čiščenju in razmaščevanju opreme za kisik (Uradni list SFRJ, št. 74/90),
+
+- Pravilnik o obveznem atestiranju proizvodov, ki povzročajo radiofrekvenčne motnje, in o pogojih, ki jih morajo izpolnjevati podjetja in druge pravne osebe, pooblaščeni za atestiranje teh proizvodov (Uradni list SFRJ, št. 30/91),
+
+- Odredba o načinu mletja pšenice (Uradni list SFRJ, št. 62/82, 10/83 in 50/87 odločba US),
+
+- Odredba o obveznem atestiranju kotalnih ležajev (Uradni list SFRJ, št. 62/83, 85/87 in 37/88),
+
+- Odredba o obveznem atestiranju sistema za zračenje zaklonišč in dvonamenskih objektov (Uradni list SFRJ, št. 61/87),
+
+- Odredba o pakiranju in deklariranju detergenta za ročno pomivanje posode (Uradni list SFRJ, št. 34/90),
+
+- Seznam organizacij združenega dela, pooblaščenih za atestiranje jeklenih vrvi za splošne namene (Uradni list SFRJ, št. 3/85),
+
+- Seznam organizacij združenega dela, ki so pooblaščene za atestiranje verig in sestavnih delov verig (Uradni list SFRJ, št. 11/85),
+
+- Seznam organizacij združenega dela, pooblaščenih za atestiranje čelad gasilcev (Uradni list SFRJ, št. 53/87),
+
+- Seznam organizacij, pooblaščenih za atestiranje dvigal na električni pogon za navpični prevoz oseb in tovora (Uradni list SFRJ, št. 31/91).
+
+**23. člen**
+
+**(uveljavitev zakona)**
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.«.
+
+---
+
+Zakon o spremembah in dopolnitvah Zakona o tehničnih zahtevah za proizvode in o ugotavljanju skladnosti – ZTZPUS-1A (Uradni list RS, št. [29/23](http://www.uradni-list.si/1/objava.jsp?urlurid=2023616)) vsebuje naslednjo prehodno in končno določbo:
+
+**»PREHODNA IN KONČNA DOLOČBA**
+
+**11. člen**
+
+**(ukrep, povezan s spletnimi vmesniki)**
+
+(1) Do ureditve postopka zahtevati odstranitev vsebine, ki se nanaša na zadevne proizvode, s spletnega vmesnika ali zahtevati prikaz izrecnega opozorila o neskladnosti proizvoda za končne uporabnike, ko dostopajo do spletnega vmesnika, iz točke h) novega tretjega odstavka 15. člena zakona (v nadaljnjem besedilu: ukrep, povezan s spletnimi vmesniki) v zakonu, ki ureja elektronsko poslovanje na trgu, sodišče, kadar ni drugega učinkovitega načina za odpravo resnega tveganja, ki ga predstavlja proizvod, v skladu s tem členom na predlog pristojnega inšpektorja odredi ponudniku storitev informacijske družbe ukrep, povezan s spletnimi vmesniki.
+
+(2) O ukrepu, povezanem s spletnimi vmesniki, odloči Upravno sodišče Republike Slovenije v 15 dneh od prejema predloga pristojnega inšpektorja.
+
+(3) Predlog pristojnega inšpektorja mora ob upoštevanju načela sorazmernosti in učinkovitosti in načel iz zakona, ki ureja elektronsko poslovanje na trgu, ter v okviru tehničnih možnosti vsebovati obseg in način izvršitve predlaganega ukrepa, povezanega s spletnimi vmesniki.
+
+(4) Ukrep, povezan s spletnimi vmesniki, se lahko odredi in izvaja le v obsegu, nujno potrebnem za odpravo resnega tveganja, ki ga predstavlja proizvod, in na način, ki je najmanj obremenjujoč za ponudnika storitev informacijske družbe.
+
+(5) Zoper odločbo iz drugega odstavka tega člena lahko ponudnik storitev informacijske družbe ali gospodarski subjekt, ki mu je odrejen ukrep, povezan s spletnimi vmesniki, v treh dneh vloži pritožbo, o kateri Vrhovno sodišče Republike Slovenije odloči najpozneje v 15 dneh po prejemu pritožbe.
+
+**12. člen**
+
+**(začetek veljavnosti)**
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.«.

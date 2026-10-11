@@ -1,0 +1,724 @@
+---
+title: "Zakon o državnem svetu (ZDSve)"
+identifier: "ZAKO229"
+abbreviation: "ZDSve"
+type: act
+jurisdiction: si
+language: sl
+act_kind: "Zakon"
+date: 1992-09-10
+published: 1992-09-12
+in_force_from: 1992-09-27
+last_amended: 2025-07-29
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "NPB 9 (neuradno prečiščeno besedilo)"
+citation: "Uradni list RS, št. 100/05 – uradno prečiščeno besedilo, 95/09 – odl. US, 21/13 – ZFDO-F, 81/18 – odl. US, 16/23, 12/24 – ZVDZ-E in 57/25 – ZF"
+adopted_by: "Državni zbor Republike Slovenije"
+epa: "0568"
+sop: "1992-01-2069"
+source: "https://pisrs.si/pregledPredpisa?id=ZAKO229"
+retrieved: 2026-10-12
+---
+
+# Zakon o državnem svetu (ZDSve)
+
+*Opozorilo: Neuradno prečiščeno besedilo predpisa predstavlja zgolj informativni delovni pripomoček, glede katerega organ ne jamči odškodninsko ali kako drugače.*
+
+Neuradno prečiščeno besedilo Zakona o državnem svetu obsega:
+
+- Zakon o državnem svetu - ZDSve (Uradni list RS, št. 44/92 z dne 12. 9. 1992),
+
+- Odločbo o delni razveljavitvi zakona o volitvah v državni zbor, zakona o državnem svetu, zakona o volitvah predsednika republike in zakona o lokalnih volitvah (Uradni list RS, št. 73/03 z dne 29. 7. 2003),
+
+- Zakon o dopolnitvah Zakona o državnem svetu – ZDSve-A (Uradni list RS, št. 76/05 z dne 12. 8. 2005),
+
+- Zakon o državnem svetu – uradno prečiščeno besedilo – ZDSve-UPB1 (Uradni list RS, št. 100/05 z dne 10. 11. 2005),
+
+- Odločbo o delni razveljavitvi drugega odstavka 43. člena Zakona o Državnem svetu in drugega stavka 3. člena Zakona o dopolnitvah Zakona o Državnem svetu (Uradni list RS, št. 95/09 z dne 24. 11. 2009),
+
+- Zakon o dopolnitvi Zakona o funkcionarjih v državnih organih – ZFDO-F (Uradni list RS, št. 21/13 z dne 13. 3. 2013),
+
+- Odločbo o ugotovitvi, da je 50. člen Zakona o Državnem svetu v neskladju z Ustavo in zavrnitvi pritožb zoper sklep Državnega sveta (Uradni list RS, št. 81/18 z dne 14. 12. 2018),
+
+- Zakon o spremembah in dopolnitvah Zakona o državnem svetu – ZDSve-B (Uradni list RS, št. 16/23 z dne 7. 2. 2023),
+
+- Zakon o spremembah in dopolnitvah Zakona o volitvah v državni zbor – ZVDZ-E (Uradni list RS, št. 12/24 z dne 9. 2. 2024),
+
+- Zakon o funkcionarjih – ZF (Uradni list RS, št. 57/25 z dne 29. 7. 2025).
+
+**ZAKON**
+
+**o državnem svetu (ZDSve)**
+
+*(neuradno prečiščeno besedilo št. 9)*
+
+## Prvi del VOLITVE V DRŽAVNI SVET
+
+### I. SPLOŠNE DOLOČBE
+
+###### 1. člen
+
+Člane državnega sveta kot zastopstva nosilcev socialnih, gospodarskih, poklicnih in lokalnih interesov volijo interesne organizacije oziroma lokalne skupnosti po volilnih telesih, ki jih sestavljajo izvoljeni predstavniki interesnih organizacij oziroma lokalnih skupnosti.
+
+###### 2. člen
+
+Pravico voliti in biti voljen za člana državnega sveta ima državljan Republike Slovenije, ki je na dan glasovanja že dopolnil osemnajst let starosti.
+
+Ob pogojih iz prejšnjega odstavka imajo pravico voliti in biti voljeni:
+
+- za člane državnega sveta – predstavnike delodajalcev, predstavnike delojemalcev, predstavnike kmetov, obrtnikov in samostojnih poklicev oziroma predstavnike negospodarskih dejavnosti osebe, ki v Sloveniji opravljajo ustrezno dejavnost oziroma so v delovnem razmerju,
+
+- za člane državnega sveta – predstavnike lokalnih interesov osebe, ki imajo stalno prebivališče v volilni enoti.
+
+Pravico voliti člane državnega sveta – predstavnike delodajalcev, predstavnike delojemalcev, predstavnike kmetov, obrtnikov in samostojnih poklicev oziroma predstavnike negospodarskih dejavnosti imajo ob pogojih, ki veljajo za državljane Slovenije, tudi tujci, ki v Sloveniji opravljajo ustrezno dejavnost oziroma so v delovnem razmerju.
+
+###### 3. člen
+
+Splošne volitve se opravijo najprej dva meseca in najkasneje petnajst dni pred iztekom petletne mandatne dobe državnega sveta, ki se računa od dneva njegove prve seje.
+
+Če bi se mandatna doba državnega sveta iztekla med vojnim ali izrednim stanjem, se podaljša za čas trajanja takega stanja in še za šest mesecev po prenehanju vojnega ali izrednega stanja. V tem primeru se splošne volitve opravijo najprej dva meseca in najkasneje petnajst dni pred iztekom podaljšane mandatne dobe.
+
+Mandat prejšnjega državnega sveta preneha s prvo sejo novega državnega sveta. Za prvo sejo novega državnega sveta se šteje seja, na kateri se državni svet seznani z izidom volitev v državni svet, pod pogojem, da je v aktu iz 22.a člena tega zakona ugotovljena izvolitev več kot polovice članov državnega sveta.
+
+###### 4. člen
+
+Nadomestne volitve se opravijo, če članu državnega sveta preneha mandat pred iztekom mandatne dobe državnega sveta, razen če je do izteka mandatne dobe državnega sveta preostalo manj kot šest mesecev. Nadomestne volitve se opravijo najkasneje petinsedemdeset dni po prenehanju mandata člana državnega sveta.
+
+###### 5. člen
+
+Volitve v državni svet razpiše predsednik državnega zbora.
+
+Splošne volitve razpiše najprej sto osemdeset dni in najkasneje sto petintrideset dni pred iztekom petletne oziroma podaljšane mandatne dobe državnega sveta. Od dneva razpisa volitev do dneva glasovanja ne sme preteči več kot sto dvajset dni in ne manj kot devetdeset dni.
+
+Nadomestne volitve razpiše najkasneje petnajst dni po prenehanju mandata člana državnega sveta, razen v primerih iz šeste, sedme in osme alineje prvega odstavka 63. člena tega zakona. Od dneva razpisa volitev do dneva glasovanja ne sme preteči več kot šestdeset dni in ne manj kot štirideset dni.
+
+###### 6. člen
+
+V aktu o razpisu volitev se določi dan razpisa volitev in dan glasovanja.
+
+Dan glasovanja na splošnih volitvah je lahko različen za volitve predstavnikov različnih interesnih skupin, vendar mora biti določen za volitve vseh članov državnega sveta v istem tednu.
+
+Z dnem, ki je določen kot dan razpisa volitev, začnejo teči roki za volilna opravila.
+
+Akt o razpisu volitev se objavi v Uradnem listu Republike Slovenije.
+
+###### 7. člen
+
+Volitve v državni svet vodijo in izvajajo volilni organi, imenovani po zakonu o volitvah v državni zbor, kolikor ni s tem zakonom drugače določeno.
+
+###### 8. člen
+
+Ponovne volitve se opravijo, če državna volilna komisija na podlagi osmega odstavka 42.b člena tega zakona delno ali v celoti razveljavi volitve.
+
+Ponovne volitve se opravijo tudi, če Vrhovno sodišče Republike Slovenije (v nadaljnjem besedilu vrhovno sodišče) na podlagi prvega odstavka 42.h člena tega zakona delno ali v celoti razveljavi volitve.
+
+Ponovne volitve na podlagi obstoječih kandidatur se opravijo najkasneje v petnajstih dneh, ponovne volitve na podlagi novih kandidatur pa najkasneje v šestdesetih dneh od dneva razpisa volitev.
+
+Ponovne volitve razpiše državna volilna komisija.
+
+###### 9. člen
+
+Stroški za izvedbo volitev se zagotovijo v proračunu Republike Slovenije, razen stroškov za delo organov interesnih organizacij in lokalnih skupnosti v zvezi z volitvami, ki jih krijejo te organizacije in lokalne skupnosti same.
+
+###### 10. člen
+
+Glede vprašanj, ki s tem zakonom niso posebej urejena, se smiselno uporabljajo določbe zakona o volitvah v državni zbor.
+
+### II. VOLILNI POSTOPKI
+
+#### 1. Skupne določbe
+
+###### 11. člen
+
+Volilna telesa za volitve članov državnega sveta sestavljajo:
+
+- člani predstavniškega organa interesne organizacije oziroma lokalne skupnosti, kadar se člani državnega sveta volijo v posamezni interesni organizaciji oziroma lokalni skupnosti,
+
+- izvoljeni predstavniki interesnih organizacij oziroma lokalnih skupnosti, kadar se člani državnega sveta volijo v dveh ali več interesnih organizacijah oziroma lokalnih skupnostih.
+
+###### 12. člen
+
+Za izvedbo volitev članov državnega sveta v interesnih organizacijah skrbi državna volilna komisija.
+
+Za izvedbo volitev članov državnega sveta v lokalnih skupnostih skrbijo volilne komisije volilnih enot in državna volilna komisija.
+
+###### 13. člen
+
+Volitve v volilnem telesu vodi volilni odbor.
+
+Volilni odbor sestavljajo predsednik in dva člana ter njihovi namestniki.
+
+Predsednik in člani volilnega odbora ter njihovi namestniki so lahko samo osebe, ki imajo volilno pravico, in ne smejo biti kandidati za člane državnega sveta.
+
+###### 14. člen
+
+Interesne organizacije oziroma lokalne skupnosti izvolijo svoje predstavnike v volilno telo v skladu s svojimi pravili.
+
+Seznam izvoljenih predstavnikov v volilno telo predložijo interesne organizacije oziroma lokalne skupnosti pristojni volilni komisiji najkasneje štirideset dni pred dnem glasovanja.
+
+Poleg seznama izvoljenih predstavnikov v volilno telo iz prejšnjega odstavka interesne organizacije oziroma lokalne skupnosti pristojni volilni komisiji predložijo tudi pravila iz prvega odstavka tega člena, zapisnik o postopku izbire predstavnikov in ostala dokazila na podlagi zakona.
+
+###### 14.a člen
+
+Ko pristojna volilna komisija prejme seznam izvoljenih predstavnikov v volilno telo, takoj preizkusi, ali je pravočasno vložen in ali je določen v skladu s tem zakonom ter s pravili iz prvega odstavka 14. člena tega zakona.
+
+Če pristojna volilna komisija ugotovi, da je seznam izvoljenih predstavnikov v volilno telo vložen prepozno, ga zavrne.
+
+Če pristojna volilna komisija ugotovi formalne pomanjkljivosti seznama izvoljenih predstavnikov v volilno telo, od interesne organizacije oziroma lokalne skupnosti, ki je predložila seznam, takoj zahteva, da v treh dneh pomanjkljivosti odpravi. Če formalne pomanjkljivosti niso pravočasno odpravljene, pristojna volilna komisija seznam izvoljenih predstavnikov v volilno telo zavrne.
+
+Če pristojna volilna komisija ugotovi, da seznam izvoljenih predstavnikov ni v skladu s tem zakonom ali pravili iz prvega odstavka 14. člena tega zakona in ne gre za formalno pomanjkljivost iz prejšnjega odstavka, ga zavrne.
+
+Pristojna volilna komisija v primerih iz tretjega in četrtega odstavka tega člena seznam izvoljenih predstavnikov v volilno telo zavrne v celoti ali samo glede posameznih izvoljenih predstavnikov v volilno telo.
+
+Seznam izvoljenih predstavnikov v volilno telo, ki je pravočasno vložen in določen v skladu s tem zakonom ter pravili iz prvega odstavka 14. člena tega zakona, pristojna volilna komisija potrdi. Potrjen seznam se objavi najkasneje petnajst dni pred dnem glasovanja. Za objavo skrbi državna volilna komisija.
+
+###### 14.b člen
+
+Odločbo o potrditvi oziroma zavrnitvi seznama izvoljenih predstavnikov v volilno telo izda pristojna volilna komisija najkasneje trideset dni pred dnem glasovanja. Odločba se vroči interesni organizaciji oziroma lokalni skupnosti, ki je predložila seznam izvoljenih predstavnikov v volilno telo v skladu z zakonom, ki ureja pravdni postopek. Vročitev velja za opravljeno z dnem, ko naslovnik prevzame odločbo. Če odločbe ne prevzame v treh dneh od dneva elektronske odpreme oziroma od poskusa vročitve v fizični obliki, velja vročitev za opravljeno s potekom tega roka.
+
+Odločba o potrditvi oziroma zavrnitvi seznama izvoljenih predstavnikov v volilno telo vsebuje smiselno enake sestavine kot odločba, ki se izda v upravnem postopku v skladu z zakonom, ki ureja splošni upravni postopek. Obrazložitev odločbe vsebuje razloge, zaradi katerih je posamezni interesni organizaciji oziroma lokalni skupnosti pripadlo določeno število predstavnikov v volilnem telesu. Obrazložitev odločbe o zavrnitvi seznama izvoljenih predstavnikov v volilno telo vsebuje tudi razloge, zaradi katerih je pristojna volilna komisija zavrnila izvolitev posameznega predstavnika v volilno telo.
+
+###### 15. člen
+
+Kandidate za člane državnega sveta določijo interesne organizacije oziroma lokalne skupnosti v skladu s svojimi pravili.
+
+Kandidature z osebnimi podatki in pisnimi soglasji kandidatov predložijo interesne organizacije oziroma lokalne skupnosti pristojni volilni komisiji najkasneje štirideset dni pred dnem glasovanja.
+
+Poleg kandidature za člana državnega sveta iz prejšnjega odstavka predložijo interesne organizacije oziroma lokalne skupnosti pristojni volilni komisiji tudi pravila iz prvega odstavka tega člena, zapisnik o postopku izbire kandidata in ostala dokazila na podlagi zakona.
+
+###### 15.a člen
+
+Ko pristojna volilna komisija prejme kandidaturo ali listo kandidatov za člana državnega sveta, takoj preizkusi, ali je pravočasno vložena in ali je določena v skladu s tem zakonom ter s pravili iz prvega odstavka 15. člena tega zakona.
+
+Če pristojna volilna komisija ugotovi, da je kandidatura ali lista kandidatov za člana državnega sveta vložena prepozno, jo zavrne.
+
+Če pristojna volilna komisija ugotovi formalne pomanjkljivosti kandidature ali liste kandidatov za člana državnega sveta, od interesne organizacije oziroma lokalne skupnosti, ki je predložila kandidaturo, takoj zahteva, da v treh dneh pomanjkljivosti odpravi. Če formalne pomanjkljivosti niso pravočasno odpravljene, pristojna volilna komisija kandidaturo ali listo kandidatov za člana državnega sveta zavrne.
+
+Če pristojna volilna komisija ugotovi, da kandidatura ali lista kandidatov za člana državnega sveta ni v skladu s tem zakonom ali pravili iz prvega odstavka 15. člena tega zakona in ne gre za formalno pomanjkljivost iz prejšnjega odstavka, jo zavrne.
+
+Pristojna volilna komisija v primerih iz drugega, tretjega in četrtega odstavka listo kandidatov zavrne v celoti ali samo glede posameznih kandidatur.
+
+Kandidaturo ali listo kandidatov za člana državnega sveta, ki je pravočasno vložena in določena v skladu s tem zakonom ter pravili iz prvega odstavka 15. člena tega zakona, pristojna volilna komisija potrdi. Seznam potrjenih kandidatur se objavi najkasneje petnajst dni pred dnem glasovanja. Za objavo skrbi državna volilna komisija.
+
+###### 15.b člen
+
+Odločbo o potrditvi oziroma o zavrnitvi kandidature ali liste kandidatov za člana državnega sveta izda pristojna volilna komisija najkasneje trideset dni pred dnem glasovanja. Odločba se vroči kandidatu in interesni organizaciji oziroma lokalni skupnosti, ki je predložila kandidaturo ali listo kandidatov za člana državnega sveta v skladu z zakonom, ki ureja pravdni postopek. Vročitev velja za opravljeno z dnem, ko naslovnik prevzame odločbo. Če odločbe ne prevzame v treh dneh od dneva elektronske odpreme oziroma od poskusa vročitve v fizični obliki, velja vročitev za opravljeno s potekom tega roka.
+
+Odločba o potrditvi oziroma zavrnitvi kandidature ali liste kandidatov za člana državnega sveta vsebuje smiselno enake sestavine kot odločba, ki se izda v upravnem postopku v skladu z zakonom, ki ureja splošni upravni postopek. Obrazložitev odločbe vsebuje razloge, zaradi katerih je posamezni interesni organizaciji oziroma lokalni skupnosti pripadlo določeno število kandidatur za člane državnega sveta. Obrazložitev odločbe o zavrnitvi kandidature ali liste kandidatov vsebuje tudi razloge, zaradi katerih je pristojna volilna komisija zavrnila kandidaturo posameznega kandidata za člana državnega sveta.
+
+###### 16. člen
+
+Pristojna volilna komisija sestavi na podlagi potrjenih kandidatur seznam kandidatov po abecednem redu priimkov kandidatov, začenši s črko, ki se določi z žrebom.
+
+Če člane državnega sveta voli volilno telo, ki ga sestavljajo člani predstavniškega organa interesne organizacije oziroma lokalne skupnosti, pošlje pristojna volilna komisija seznam kandidatov predsedniku predstavniškega organa interesne organizacije oziroma lokalne skupnosti najkasneje petnajst dni pred dnem glasovanja.
+
+###### 17. člen
+
+Člane državnega sveta voli volilno telo na volilnem zboru na podlagi seznama potrjenih kandidatur.
+
+Volitve se opravijo, če je na volilnem zboru navzoča večina vseh članov volilnega telesa.
+
+Če volilni zbor ni sklepčen, se nov volilni zbor skliče v nadaljnjih sedmih dneh. Na novem volilnem zboru se volitve opravijo ne glede na število navzočih članov volilnega telesa.
+
+###### 18. člen
+
+Volilni zbor volilnega telesa, ki ga sestavljajo člani predstavniškega organa interesne organizacije oziroma lokalne skupnosti, skliče predsednik predstavniškega organa najkasneje deset dni pred dnem glasovanja. Vabilu priloži seznam kandidatov.
+
+Volilni zbor volilnega telesa, ki ga sestavljajo izvoljeni predstavniki interesnih organizacij oziroma lokalnih skupnosti, skliče predsednik pristojne volilne komisije najkasneje petnajst dni pred dnem glasovanja in o tem obvesti interesne organizacije oziroma predstavniške organe lokalnih skupnosti.
+
+Vabilu oziroma obvestilu priloži seznam izvoljenih predstavnikov v volilnem telesu in seznam kandidatov.
+
+###### 19. člen
+
+Na volilnem zboru se izvoli volilni odbor, ki vodi volitve v volilnem telesu.
+
+###### 20. člen
+
+Glasuje se tajno z glasovnicami. Vrstni red kandidatov na glasovnici je enak vrstnemu redu na seznamu kandidatov.
+
+Vsak član volilnega telesa lahko glasuje največ za toliko kandidatov, kolikor članov državnega sveta se voli v volilnem telesu.
+
+###### 21. člen
+
+Za člane državnega sveta so izvoljeni tisti kandidati, ki so dobili največ glasov.
+
+Če je dvoje ali več kandidatov dobilo enako število glasov, odloči o izvolitvi med njimi žreb, ki ga opravi volilni odbor.
+
+###### 22. člen
+
+Zapisnik o volitvah pošlje volilni odbor skupaj z drugim volilnim gradivom pristojni volilni komisiji.
+
+###### 22.a člen
+
+Državna volilna komisija sprejme akt o izidu volitev v državni svet in ga objavi v Uradnem listu Republike Slovenije.
+
+###### 23. člen
+
+Državna volilna komisija izda izvoljenim kandidatom potrdilo o izvolitvi.
+
+#### 2. Volitve predstavnikov delodajalcev
+
+###### 24. člen
+
+Štiri člane državnega sveta – predstavnike delodajalcev volijo gospodarske zbornice in združenja delodajalcev, ki so organizirana za območje države.
+
+Člane državnega sveta voli volilno telo, ki ga sestavljajo izvoljeni predstavniki gospodarskih zbornic in združenj delodajalcev.
+
+Vsaka gospodarska zbornica in vsako združenje delodajalcev izvoli v volilno telo po enega predstavnika na vsakih dopolnjenih deset tisoč delavcev, zaposlenih pri članih gospodarske zbornice oziroma združenja delodajalcev.
+
+###### 25. člen
+
+Seznam izvoljenih predstavnikov v volilno telo predložijo gospodarske zbornice in združenja delodajalcev v roku iz 14. člena tega zakona državni volilni komisiji. Seznamu priložijo dokazilo o vpisu v register, pravila zbornice oziroma združenja in podatke o številu delavcev, zaposlenih pri članih zbornice oziroma združenja.
+
+#### 3. Volitve predstavnikov delojemalcev
+
+###### 26. člen
+
+Štiri člane državnega sveta – predstavnike delojemalcev volijo reprezentativni sindikati za območje države.
+
+Člane državnega sveta voli volilno telo, ki ga sestavljajo izvoljeni predstavniki reprezentativnih sindikatov.
+
+Reprezentativna zveza oziroma konfederacija sindikatov izvoli v volilno telo toliko predstavnikov, kolikor je v njej združenih reprezentativnih sindikatov, Posamezni reprezentativni sindikat, ki ni združen v zvezo ali konfederacijo, izvoli v volilno telo enega predstavnika.
+
+Poleg predstavnikov iz prejšnjega odstavka izvoli zveza, konfederacija in posamezni sindikat še po enega predstavnika na vsakih dopolnjenih deset tisoč članov.
+
+###### 27. člen
+
+Seznam izvoljenih predstavnikov v volilno telo predložijo reprezentativni sindikati v roku iz 14. člena tega zakona državni volilni komisiji. Seznamu priložijo odločbo o reprezentativnosti sindikata, pravila in podatke o številu članov.
+
+#### 4. Volitve predstavnikov kmetov, obrtnikov in samostojnih poklicev
+
+###### 28. člen
+
+Štiri člane državnega sveta – predstavnike kmetov, obrtnikov in samostojnih poklicev volijo:
+
+- dva predstavnika kmetov volijo poklicne organizacije kmetov, organizirane za območje države,
+
+- enega predstavnika obrtnikov volijo poklicne organizacije obrtnikov, organizirane za območje države,
+
+- enega predstavnika samostojnih poklicev volijo poklicne organizacije drugih samostojnih poklicev, organizirane za območje države.
+
+###### 29. člen
+
+Za poklicne organizacije v smislu prejšnjega člena se štejejo:
+
+- zbornice, združenja, društva, zveze in druge poklicne organizacije kmetov, obrtnikov in drugih samostojnih poklicev, organizirane za območje države,
+
+- sekcije samostojnih poklicev v drugih poklicnih zbornicah, združenjih, društvih, zvezah in drugih poklicnih organizacijah, organizirane za območje države.
+
+###### 30. člen
+
+Dva člana državnega sveta – predstavnika kmetov voli volilno telo, ki ga sestavljajo izvoljeni predstavniki poklicnih organizacij kmetov.
+
+Vsaka poklicna organizacija kmetov izvoli v volilno telo po enega predstavnika ne glede na število članov in po enega predstavnika na vsakih dopolnjenih tisoč članov.
+
+###### 31. člen
+
+Člana državnega sveta – predstavnika obrtnikov voli volilno telo, ki ga sestavljajo izvoljeni predstavniki poklicnih organizacij obrtnikov.
+
+Vsaka poklicna organizacija obrtnikov izvoli v volilno telo po enega predstavnika ne glede na število članov in po enega predstavnika na vsakih dopolnjenih petsto članov.
+
+###### 32. člen
+
+Člana državnega sveta – predstavnika samostojnih poklicev voli volilno telo, ki ga sestavljajo izvoljeni predstavniki organizacij samostojnih poklicev, organiziranih za območje države.
+
+Vsaka organizacija samostojnih poklicev izvoli v volilno telo po enega predstavnika ne glede na število članov in po enega predstavnika na vsakih dopolnjenih sto članov.
+
+###### 33. člen
+
+Seznam izvoljenih predstavnikov v volilnem telesu predložijo poklicne organizacije v roku iz 14. člena tega zakona državni volilni komisiji. Seznamu priložijo dokazilo o vpisu v register, pravila organizacije in podatke o številu članov.
+
+#### 5. Volitve predstavnikov negospodarskih dejavnosti
+
+###### 34. člen
+
+Šest članov državnega sveta – predstavnikov negospodarskih dejavnosti volijo:
+
+- enega predstavnika univerz, visokih in višjih šol volijo univerze, visoke in višje šole,
+
+- enega predstavnika za področje vzgoje in izobraževanja volijo poklicne organizacije pedagoških delavcev,
+
+- enega predstavnika za področje raziskovalne dejavnosti volijo poklicne organizacije raziskovalcev,
+
+- enega predstavnika za področje kulture in športa volijo poklicne organizacije kulturnih in športnih delavcev,
+
+- enega predstavnika za področje zdravstva volijo poklicne organizacije zdravstvenih delavcev in zdravstvenih sodelavcev,
+
+- enega predstavnika za področje socialnega varstva volijo poklicne organizacije strokovnih delavcev na področju socialnega varstva.
+
+Za poklicne organizacije v smislu druge do šeste alinee prejšnjega odstavka se štejejo poklicne zbornice, združenja, društva, zveze in druge poklicne organizacije, organizirane za območje države.
+
+##### a) Volitve predstavnika univerz, visokih in višjih šol
+
+###### 35. člen
+
+Člana državnega sveta – predstavnika univerz, visokih in višjih šol voli volilno telo, ki ga sestavljajo izvoljeni predstavniki univerz, visokih in višjih šol.
+
+Vsaka univerza ter visoka oziroma višja šola izvoli v volilno telo po enega predstavnika.
+
+##### b) Volitve drugih predstavnikov negospodarskih dejavnosti
+
+###### 36. člen
+
+Druge predstavnike negospodarskih dejavnosti v državnem svetu volijo volilna telesa, ki jih sestavljajo izvoljeni predstavniki ustreznih poklicnih organizacij.
+
+Poklicne organizacije izvolijo v ustrezno volilno telo vsaka po enega predstavnika ne glede na število članov in po enega predstavnika na vsakih dopolnjenih sto članov.
+
+###### 37. člen
+
+Seznam izvoljenih predstavnikov v volilno telo predložijo poklicne organizacije v roku iz 14. člena tega zakona državni volilni komisiji. Seznamu priložijo dokazilo o vpisu v register, pravila organizacije in podatke o številu članov.
+
+#### 6. Volitve predstavnikov lokalnih interesov
+
+###### 38. člen
+
+Dvaindvajset članov državnega sveta – predstavnikov lokalnih interesov izvolijo lokalne skupnosti.
+
+Za volitve predstavnikov lokalnih interesov se oblikuje največ dvaindvajset volilnih enot. Volilna enota se oblikuje za območje ene ali več lokalnih skupnosti. Volilne enote določi zakon.
+
+###### 39. člen
+
+Za volitve članov državnega sveta se v vsaki volilni enoti oblikuje volilno telo, ki ga sestavljajo:
+
+- člani predstavniškega organa lokalne skupnosti, če se člani državnega sveta volijo v volilni enoti, ki obsega območje ene lokalne skupnosti,
+
+- izvoljeni predstavniki lokalnih skupnosti, če se člani državnega sveta volijo v volilni enoti, ki obsega območje dveh ali več lokalnih skupnosti.
+
+###### 40. člen
+
+Predstavnike lokalnih skupnosti v volilnem telesu iz druge alinee prejšnjega člena izvolijo predstavniški organi lokalnih skupnosti.
+
+Vsaka lokalna skupnost izvoli v volilno telo po enega predstavnika ne glede na število prebivalcev in po enega predstavnika na vsakih dopolnjenih pet tisoč prebivalcev.
+
+Seznam izvoljenih predstavnikov v volilno telo predložijo predstavniški organi lokalnih skupnosti v roku iz 14. člena tega zakona volilni komisiji volilne enote.
+
+###### 41. člen
+
+Kandidate za člane državnega sveta določijo predstavniški organi lokalnih skupnosti.
+
+Kadar se člani državnega sveta volijo v dveh ali več lokalnih skupnostih, vsaka lokalna skupnost lahko določi največ toliko kandidatov, kolikor članov državnega sveta se voli v volilni enoti.
+
+###### 42. člen
+
+Volilni odbor pošlje zapisnik o volitvah skupaj z drugim volilnim materialom volilni komisiji volilne enote.
+
+Volilna komisija volilne enote pošlje državni volilni komisiji poročilo o izidu volitev v volilni enoti.
+
+### III. VARSTVO VOLILNE PRAVICE
+
+###### 42.a člen
+
+Pristojna volilna komisija delno ali v celoti odpravi odločbo, s katero je v postopku potrjevanja seznama izvoljenih predstavnikov v volilno telo zavrnila seznam izvoljenih predstavnikov v volilno telo, in izda novo odločbo, s katero potrdi seznam izvoljenih predstavnikov v volilno telo, če sama do roka za objavo potrjenega seznama izvoljenih predstavnikov v volilno telo ugotovi, da je seznam vložen pravočasno in določen v skladu s tem zakonom ter pravili iz prvega odstavka 14. člena tega zakona.
+
+Pristojna volilna komisija delno ali v celoti odpravi odločbo, s katero je v postopku potrjevanja kandidatur za člana državnega sveta zavrnila kandidaturo ali listo kandidatov, in izda novo odločbo, s katero potrdi kandidaturo ali listo kandidatov za člana državnega sveta, če sama do roka za objavo seznama potrjenih kandidatur ugotovi, da je kandidatura ali lista kandidatov pravočasno vložena in določena v skladu s tem zakonom ter pravili iz prvega odstavka 15. člena tega zakona.
+
+###### 42.b člen
+
+Vsak izvoljen predstavnik v istem volilnem telesu, vsak, ki je kandidiral za člana državnega sveta v istem volilnem telesu, vsaka interesna organizacija ali lokalna skupnost, ki je predlagala seznam izvoljenih predstavnikov, kandidate ali listo kandidatov v isto volilno telo, ali vsak drug volivec, ki je sodeloval ali bi mogel sodelovati v postopkih iz prvega odstavka 14. člena ali prvega odstavka 15. člena tega zakona, lahko v osmih dneh po izvedbi volitev vloži ugovor pri državni volilni komisiji.
+
+Ugovor iz prejšnjega odstavka se lahko vloži zoper naslednje nepravilnosti: odločbo pristojne volilne komisije iz prvega odstavka 14.b člena, odločbo pristojne volilne komisije iz prvega odstavka 15.b člena, odločbo pristojne volilne komisije iz 42.a člena in zaradi nepravilnosti pri izvajanju volilnih opravil volilnih organov na volitvah.
+
+Ugovora iz prvega odstavka tega člena ni mogoče vložiti zaradi nepravilnosti, ki so nastale pri delu državne volilne komisije, nepravilnosti, ki so po svoji naravi v temeljih prizadele poštenost volilnega postopka, ter v primeru, ko je državna volilna komisija pristojna volilna komisija.
+
+Zatrjevane nepravilnosti v ugovoru morajo biti natančno in konkretno opisane. Če se v ugovoru zatrjuje, da je prišlo do nepravilnosti, ki so ali bi lahko privedle do drugačne razdelitve mandatov, mora biti v ugovoru opisan tudi vpliv nepravilnosti na razdelitev mandatov. Če je ugovor nepopoln ali nerazumljiv, državna volilna komisija vlagatelja takoj pozove, da ugovor v treh dneh dopolni oziroma popravi. Vročitev poziva se opravi v skladu z zakonom, ki ureja pravdni postopek. Če vlagatelj ugovora poziva ne prevzame v treh dneh od dneva elektronske odpreme oziroma od poskusa vročitve v fizični obliki, velja vročitev za opravljeno s potekom tega roka. Če vlagatelj ugovora v danem roku ne dopolni oziroma popravi, se ugovor zavrže.
+
+Če državna volilna komisija izve za nepravilnosti iz drugega odstavka na drug način, kot je določeno v drugem odstavku, po uradni dolžnosti ugotovi obstoj teh nepravilnosti.
+
+Državna volilna komisija se do zatrjevanih nepravilnosti iz ugovorov in do nepravilnosti, ugotovljenih po uradni dolžnosti, opredeli v aktu iz 22.a člena tega zakona, v katerem navede tudi ugovore, ki so bili zavrženi. Pri tem navede osebno ime in kraj prebivališča vlagatelja ugovora in opredelitev do nepravilnosti iz ugovorov, ki so bili obravnavani, in do nepravilnosti, ugotovljenih po uradni dolžnosti, vključno z načinom njihove odprave. Šteje se, da je z objavo akta iz 22.a člena tega zakona v Uradnem listu Republike Slovenije opravljena vročitev odločitve državne volilne komisije vlagateljem ugovora iz tega člena.
+
+Če državna volilna komisija na podlagi ugovora ali po uradni dolžnosti ugotovi obstoj nepravilnosti iz drugega odstavka tega člena, jih odpravi oziroma njihovo odpravo zahteva od volilnih organov. Volilni organi morajo nepravilnosti odpraviti nemudoma oziroma najkasneje v treh dneh od prejema zahteve. Če je volilni organ napačno ugotovil izid volitev, lahko državna volilna komisija sama ugotovi izid volitev.
+
+Če nepravilnosti iz drugega odstavka tega člena ni mogoče odpraviti, so pa takšne, da so ali bi lahko privedle do drugačne razdelitve mandatov, državna volilna komisija s sklepom delno ali v celoti razveljavi volitve, na katerih je prišlo do nepravilnosti, odredi in določi datum ponovnih volitev, upoštevajoč s tem zakonom določene roke za izvedbo volitev. Sklep se objavi v Uradnem listu Republike Slovenije.
+
+Zoper sklep državne volilne komisije iz prejšnjega odstavka je mogoče vložiti tožbo v skladu s tretjim odstavkom 42.c člena tega zakona.
+
+###### 42.c člen
+
+Vlagatelj ugovora iz prvega odstavka 42.b člena tega zakona lahko v petnajstih dneh po objavi akta iz 22.a člena tega zakona v Uradnem listu Republike Slovenije vloži tožbo na vrhovno sodišče. Tožbo lahko vloži zaradi nepravilnosti iz drugega odstavka 42.b člena tega zakona, ki jih državna volilna komisija ni ugotovila ali niso bile odpravljene.
+
+Ne glede na prejšnji odstavek lahko v petnajstih dneh po objavi akta iz 22.a člena tega zakona zaradi nepravilnosti iz drugega odstavka 42.b člena tega zakona vloži tožbo na vrhovno sodišče tudi upravičenec za vložitev ugovora iz prvega odstavka 42.b člena tega zakona, ki v tožbi izkaže, da je za nepravilnosti, ki bi jih bilo mogoče uveljavljati v ugovoru iz 42.b člena tega zakona, izvedel šele po izteku roka za vložitev ugovora in da zanje pred iztekom roka za vložitev ugovora ni mogel vedeti.
+
+Vsak izvoljen predstavnik v istem volilnem telesu, vsak, ki je kandidiral za člana državnega sveta v istem volilnem telesu, vsaka interesna organizacija ali lokalna skupnost, ki je predlagala seznam izvoljenih predstavnikov, kandidate ali listo kandidatov v isto volilno telo, ali vsak drug volivec, ki je sodeloval ali bi mogel sodelovati v postopkih iz prvega odstavka 14. člena ali prvega odstavka 15. člena tega zakona, lahko v petnajstih dneh po objavi sklepa državne volilne komisije o razveljavitvi volitev iz osmega odstavka 42.b člena tega zakona v Uradnem listu Republike Slovenije vloži tožbo na vrhovno sodišče. Tožba se lahko vloži zaradi kršitev tega zakona ali zaradi napačne ugotovitve dejanskega stanja. Tožba zadrži izvršitev sklepa državne volilne komisije o razveljavitvi volitev iz osmega odstavka 42.b člena tega zakona.
+
+Vsak izvoljen predstavnik v istem volilnem telesu, vsak, ki je kandidiral za člana državnega sveta v istem volilnem telesu, vsaka interesna organizacija ali lokalna skupnost, ki je predlagala seznam izvoljenih predstavnikov, kandidate ali listo kandidatov v isto volilno telo, ali vsak drug volivec, ki je sodeloval ali bi mogel sodelovati v postopkih iz prvega odstavka 14. člena ali prvega odstavka 15. člena tega zakona, lahko v petnajstih dneh po objavi akta iz 22.a člena tega zakona vloži tožbo na vrhovno sodišče zaradi nepravilnosti, ki so nastale pri delu državne volilne komisije, nepravilnosti, ki so po svoji naravi v temeljih prizadele poštenost volilnega postopka, niso pa nastale pri izvajanju opravil volilnih organov pri volitvah, ter zoper odločbo državne volilne komisije kot pristojne volilne komisije iz prvega odstavka 14.b člena, prvega odstavka 15.b člena in 42.a člena tega zakona.
+
+###### 42.č člen
+
+V postopku pred vrhovnim sodiščem lahko stranka opravlja procesna dejanja samo po pooblaščencu, ki je odvetnik ali odvetniška družba, razen če je stranka sama odvetnik, Republika Slovenija oziroma državni organ pa samo po višjem državnem odvetniku.
+
+Če tožba ni vložena po pooblaščencu, ki je oseba iz prejšnjega stavka, vrhovno sodišče ravna v skladu z 42.f členom tega zakona, preostalih vlog, ki niso vložene po pooblaščencu, ki je oseba iz prejšnjega odstavka, pa ne upošteva.
+
+Tožba se vroči tudi članu državnega sveta, katerega izvolitev se s tožbo izpodbija. Član državnega sveta lahko v petnajstih dneh od vročitve tožbe vrhovnemu sodišču po pooblaščencu iz prvega odstavka tega člena pošlje izjavo, da želi sodelovati v postopku. Ta izjava vsebuje tudi opredelitev do tožbenih navedb. V tem primeru ima v postopku položaj stranke.
+
+Rok za odgovor na tožbo je petnajst dni.
+
+Ob vročitvi tožbe vrhovno sodišče opozori toženo stranko in člana državnega sveta, katerega izvolitev se s tožbo izpodbija, da lahko odgovori na tožbo oziroma pošlje izjavo vrhovnemu sodišču o vstopu v postopek v 15 dneh od vročitve tožbe, o obveznosti opravljanja procesnih dejanj po pooblaščencu iz prvega odstavka 42.č člena tega zakona in o pravnih posledicah kršitve te določbe (drugi odstavek 42.č člena), o obveznosti vlaganja vlog v elektronski obliki v skladu z drugim odstavkom 42.d člena tega zakona in o pravnih posledicah kršitve te določbe (tretji odstavek 42.d člena) ter o obveznosti vročanja vlog neposredno med pooblaščenci strank v skladu s četrtim odstavkom 42.d člena tega zakona in o pravnih posledicah kršitve te določbe (četrti odstavek 42.d člena).
+
+Vsa dejstva in dokaze mora tožeča stranka navesti oziroma predlagati v tožbi oziroma tožena stranka v odgovoru na tožbo, član državnega sveta iz tretjega odstavka tega člena pa v opredelitvi iz tretjega odstavka tega člena.
+
+Ne glede na prejšnji odstavek se lahko nova dejstva in dokazi navajajo do konca naroka za glavno obravnavo, vendar le, če jih stranke brez svoje krivde niso mogle navesti v tožbi oziroma v odgovoru na tožbo oziroma v opredelitvi iz tretjega odstavka tega člena ali če njihova dopustitev po presoji sodišča ne bi zavlekla reševanja spora.
+
+###### 42.d člen
+
+Tožba se vloži v elektronski obliki pri vrhovnem sodišču, vrhovno sodišče pa jo strankam v postopku vroči v fizični obliki.
+
+Vloge strank se vlagajo in sodna pisanja vročajo v elektronski obliki v skladu z zakonom, ki ureja pravdni postopek, če ta zakon ne določa drugače.
+
+Če tožba ni vložena v elektronski obliki, vrhovno sodišče ravna v skladu z 42.f členom tega zakona, če preostale vloge niso vložene v elektronski obliki, pa jih ne upošteva.
+
+Vloge se, razen v primeru iz prvega odstavka tega člena, vročajo neposredno med pooblaščenci strank v postopku. Če vloge niso vročene neposredno med pooblaščenci strank v postopku, jih vrhovno sodišče ne upošteva.
+
+Vročitev vlog strank in sodnih pisanj velja za opravljeno z dnem, ko naslovnik prevzame elektronsko ali fizično pisanje. Če vloge oziroma pisanja ne prevzame v treh dneh od dneva elektronske odpreme oziroma od poskusa vročitve v fizični obliki, velja vročitev za opravljeno s potekom tega roka.
+
+Vrhovno sodišče takoj obvesti državni svet o vloženi tožbi in mu pošlje vse akte, s katerimi se postopek konča.
+
+###### 42.e člen
+
+Vrhovno sodišče odloča v senatu treh sodnikov.
+
+Odločanje vrhovnega sodišča v skladu s tem zakonom je nujna zadeva.
+
+Vrhovno sodišče odloči o tožbi po izvedeni glavni obravnavi najkasneje v 30 dneh od prejema odgovora na tožbo ali izteka roka za odgovor na tožbo.
+
+Če ni v tem zakonu drugače določeno, vrhovno sodišče odloča ob smiselni uporabi zakona, ki ureja upravni spor.
+
+###### 42.f člen
+
+Vrhovno sodišče tožbo s sklepom zavrže, če:
+
+- je vložena prepozno ali prezgodaj,
+
+- je nepopolna ali nerazumljiva,
+
+- je ne vloži upravičena oseba,
+
+- ni vložena po pooblaščencu, ki je oseba iz prvega odstavka 42.č člena tega zakona,
+
+- ni vložena v elektronski obliki v skladu s prvim odstavkom 42.d člena tega zakona,
+
+- tožnik ob vložitvi tožbe ne izkaže, da je v tožbi zatrjevane nepravilnosti, ki bi jih bilo mogoče uveljavljati v ugovoru iz 42.b člena tega zakona, neuspešno uveljavljal že v ugovoru pred državno volilno komisijo, razen v primeru iz drugega odstavka 42.c člena tega zakona.
+
+Pred zavrženjem tožbe, razen v primeru iz prve in tretje alineje prejšnjega odstavka, vrhovno sodišče zahteva od tožnika, naj v treh dneh od vročitve zahteve odpravi pomanjkljivosti, ki so razlog za zavrženje tožbe.
+
+Vrhovno sodišče zahtevo iz prejšnjega odstavka vroči tožniku v elektronski obliki, če to glede na naravo pomanjkljivosti ni mogoče, pa mu jo vroči v fizični obliki. Vročanje se opravi v skladu z 42.d členom tega zakona.
+
+###### 42.g člen
+
+Če vrhovno sodišče ne ugotovi nepravilnosti v volilnem postopku ali če ugotovi, da tožba iz tretjega odstavka 42.c člena tega zakona ni utemeljena, ali če ugotovi nepravilnosti, ki niso privedle ali niso mogle privesti do drugačne razdelitve mandatov, ali nepravilnosti, ki po svoji naravi niso v temeljih prizadele poštenosti volilnega postopka, tožbo zavrne.
+
+###### 42.h člen
+
+Če vrhovno sodišče ugotovi nepravilnosti v volilnem postopku, ki so ali bi lahko privedle do drugačne razdelitve mandatov, ali nepravilnosti, ki so po svoji naravi v temeljih prizadele poštenost volilnega postopka, tožbi ugodi, delno ali v celoti odpravi akt iz 22.a člena tega zakona, delno ali v celoti razveljavi volitve in odredi ponovne volitve.
+
+Če vrhovno sodišče ugotovi nepravilnosti v volilnem postopku, ki so ali bi lahko privedle do drugačne razdelitve mandatov, in jih je mogoče odpraviti s sprejetjem novega akta iz 22.a člena tega zakona, vrhovno sodišče tožbi ugodi, delno ali v celoti odpravi akt iz 22.a člena tega zakona in državni volilni komisiji naloži sprejetje novega akta iz 22.a člena tega zakona skladno z odločbo vrhovnega sodišča.
+
+Če vrhovno sodišče ugotovi, da je tožba iz tretjega odstavka 42.c člena tega zakona utemeljena, tožbi ugodi, delno ali v celoti odpravi sklep iz osmega odstavka 42.b člena tega zakona in državni volilni komisiji naloži sprejetje akta iz 22.a člena tega zakona skladno z odločbo vrhovnega sodišča.
+
+###### 42.i člen
+
+Zoper odločitve vrhovnega sodišča v skladu s tem poglavjem ni pritožbe in izrednega pravnega sredstva.
+
+## Drugi del ORGANIZACIJA DRŽAVNEGA SVETA
+
+### I. SPLOŠNE DOLOČBE
+
+###### 43. člen
+
+Državni svet ima predsednika in podpredsednika, ki ju izvoli z večino glasov vseh članov.
+
+Funkcija podpredsednika je častna in se opravlja nepoklicno.
+
+###### 44. člen
+
+Predsednik predstavlja državni svet, pripravlja, sklicuje in vodi seje državnega sveta ter usklajuje delo državnega sveta z delom državnega zbora.
+
+Podpredsednik pomaga predsedniku pri pripravljanju in vodenju sej ter ga nadomešča v primeru zadržanosti.
+
+###### 45. člen
+
+Državni svet ima mandatno-imunitetno komisijo.
+
+Mandatno-imunitetno komisijo sestavljajo predsednik in štirje člani, ki se izvolijo izmed predstavnikov interesnih skupin.
+
+Državni svet ima lahko druga stalna in občasna delovna telesa.
+
+Sestava in naloge delovnih teles se določijo s poslovnikom ali s posebnim sklepom. V sestavi delovnih teles so ustrezno zastopani predstavniki interesnih skupin.
+
+###### 46. člen
+
+Državni svet ima sekretarja, ki ga imenuje svet.
+
+Sekretar vodi službo državnega sveta.
+
+###### 47. člen
+
+Državni svet ima svoj pečat.
+
+Pečat je okrogle oblike. V sredini ima grb Republike Slovenije, okrog grba pa napis "Državni svet Republike Slovenije".
+
+Pečat hrani sekretar državnega sveta.
+
+### II. KONSTITUIRANJE DRŽAVNEGA SVETA
+
+###### 48. člen
+
+Prvo sejo državnega sveta skliče predsednik državnega zbora.
+
+Prvo sejo državnega sveta vodi do izvolitve predsednika državnega sveta njegov najstarejši član.
+
+###### 49. člen
+
+###### 50. člen
+
+**(črtan)**
+
+Državni svet se na prvi seji po volitvah, ki se opravi najkasneje v 14 dneh po objavi akta iz 22.a člena tega zakona v Uradnem listu Republike Slovenije, seznani z izidom volitev v državni svet.
+
+Državni svet se konstituira na prvi seji po volitvah pod pogojem, da je v aktu iz 22.a člena tega zakona ugotovljena izvolitev več kot polovice članov državnega sveta.
+
+###### 51. člen
+
+Na prvi seji državni svet izvoli predsednika in imenuje sekretarja državnega sveta. Na prvi seji se praviloma izvoli tudi podpredsednika državnega sveta.
+
+### III. DELO DRŽAVNEGA SVETA
+
+###### 52. člen
+
+Delo državnega sveta in njegovih delovnih teles je javno.
+
+Javnost se lahko omeji ali izključi samo, če tako zaradi splošnih koristi odloči državni svet oziroma njegovo delovno telo.
+
+###### 53. člen
+
+Predsednik sklicuje seje državnega sveta na lastno pobudo ali po sklepu sveta, na zahtevo delovnega telesa sveta, na zahtevo predstavnikov ene ali več interesnih skupin ali na zahtevo petine članov državnega sveta.
+
+Predsednik skliče sejo državnega sveta tudi v primeru, kadar mora državni svet na zahtevo državnega zbora izreči mnenje o posamezni zadevi.
+
+###### 54. člen
+
+Predsednik državnega zbora obvešča predsednika državnega sveta o sejah državnega zbora in mu pošilja vsa gradiva o zadevah, ki so na dnevnem redu seje državnega zbora.
+
+Predsednik državnega zbora obvesti predsednika državnega sveta o sprejemu zakona in mu pošlje besedilo sprejetega zakona, preden pošlje zakon v razglasitev predsedniku republike.
+
+###### 55. člen
+
+Predsednik državnega sveta obvešča predsednika državnega zbora o predlogih, mnenjih in zahtevah, ki jih je sprejel državni svet o zadevah iz pristojnosti državnega zbora, in mu pošilja te predloge, mnenja in zahteve v skladu s poslovnikom državnega zbora.
+
+Zahtevo državnega sveta, da državni zbor pred razglasitvijo zakona o njem še enkrat odloča, pošlje predsednik državnega sveta predsedniku državnega zbora najkasneje v sedmih dneh od sprejetja zakona.
+
+###### 56. člen
+
+Državni svet in njegova delovna telesa imajo pravico zahtevati od državnih organov pojasnila in podatke v zvezi z zadevami, ki jih obravnavajo.
+
+Državni svet in njegova delovna telesa sodelujejo z delovnimi telesi državnega zbora in jim dajejo mnenja o zadevah iz njihove pristojnosti.
+
+### IV. PRAVICE IN DOLŽNOSTI ČLANOV DRŽAVNEGA SVETA
+
+###### 57. člen
+
+Član državnega sveta ima pravico in dolžnost, da se udeležuje sej sveta in njegovih delovnih teles, katerih član je, ter sodeluje pri njihovem delu in odločanju.
+
+Član državnega sveta, ki ne more priti na sejo sveta oziroma njegovega delovnega telesa, katerega član je, mora o tem pravočasno obvestiti predsednika sveta oziroma predsednika delovnega telesa.
+
+###### 58. člen
+
+Vsak član državnega sveta ima pravico predlagati državnemu svetu obravnavo vsakega vprašanja iz njegove pristojnosti in dajati pobude za predloge, mnenja oziroma zahteve, ki jih sprejema državni svet o zadevah iz pristojnosti državnega zbora.
+
+###### 59. člen
+
+Član državnega sveta je dolžan varovati podatke zaupne narave.
+
+###### 60. člen
+
+Član državnega sveta uživa imuniteto.
+
+Član državnega sveta ni kazensko odgovoren za mnenje ali glas, ki ga je izrekel na sejah državnega sveta ali njegovih delovnih teles.
+
+Član državnega sveta ne sme biti priprt niti se zoper njega, če se sklicuje na imuniteto, ne sme začeti kazenski postopek brez dovoljenja državnega sveta, razen če je bil zaloten pri kaznivem dejanju, za katero je predpisana kazen zapora nad pet let.
+
+O zahtevi pristojnega državnega organa za dovoljenje iz prejšnjega odstavka odloči državni svet na predlog mandatno-imunitetne komisije najkasneje v 30 dneh od dneva vložitve zahteve.
+
+Državni svet lahko prizna imuniteto tudi članu državnega sveta, ki se nanjo ni skliceval ali ki je bil zaloten pri kaznivem dejanju iz tretjega odstavka tega člena.
+
+###### 61. člen
+
+Član državnega sveta ne sme biti hkrati poslanec državnega zbora niti ne sme opravljati druge funkcije v državnih organih.
+
+###### 62. člen
+
+Funkcija člana državnega sveta je častna in se opravlja nepoklicno.
+
+Podpredsednik in člani Državnega sveta imajo pravico do plačila za opravljanje funkcije ter do povračila stroškov, ki jih imajo v zvezi z opravljanjem funkcije.
+
+Višina plačila za opravljanje funkcije podpredsednika in člana državnega sveta lahko znaša mesečno največ tretjino osnovne plače predsednika državnega sveta.
+
+Višino plačila za opravljanje funkcije ter povračila in višino stroškov za podpredsednika in člana državnega sveta določi državni svet z aktom, v katerem določi tudi pogoje, ob katerih jim izplačila pripadajo.
+
+###### 63. člen
+
+Članu državnega sveta preneha mandat:
+
+- če izgubi volilno pravico,
+
+- če postane trajno nezmožen za opravljanje funkcije,
+
+- če je s pravnomočno sodbo obsojen na nepogojno kazen zapora, daljšo od šest mesecev,
+
+- če nastopi funkcijo, ki je nezdružljiva s funkcijo člana državnega sveta,
+
+- če odstopi,
+
+- če vrhovno sodišče z odločbo iz prvega odstavka 42.h člena tega zakona v celoti razveljavi volitve, na katerih je bil član državnega sveta izvoljen,
+
+- če vrhovno sodišče z odločbo iz prvega odstavka 42.h člena tega zakona delno razveljavi volitve, na katerih je bil član državnega sveta izvoljen, v delu glede njegove izvolitve,
+
+- če državna volilna komisija na podlagi odločbe vrhovnega sodišča iz drugega odstavka 42.h člena tega zakona sprejme nov akt iz 22.a člena tega zakona,
+
+- v drugih primerih, ki jih določa zakon.
+
+Članu državnega sveta preneha mandat z dnem, ko državni svet ugotovi, da so nastali razlogi iz prejšnjega odstavka.
+
+Članu državnega sveta ne preneha mandat v primeru iz tretje alinee prvega odstavka tega člena, če državni svet sklene, da lahko opravlja funkcijo.
+
+Če v primerih iz šeste in sedme alineje prvega odstavka tega člena vrhovno sodišče istočasno razveljavi volitve, na katerih je bila izvoljena več kot polovica članov državnega sveta, članom državnega sveta, ki so bili izvoljeni na razveljavljenih volitvah, mandat preneha s prvo sejo državnega sveta po opravljenih ponovnih volitvah.
+
+## Tretji del PREHODNE IN KONČNE DOLOČBE
+
+#### 1. Posebne določbe za prve volitve članov državnega sveta
+
+##### a) Volitve predstavnikov delojemalcev
+
+###### 64. člen
+
+Štiri člane državnega sveta – predstavnike delojemalcev volijo sindikati, zveze oziroma konfederacije sindikatov, organizirane za območje države.
+
+Seznamu izvoljenih predstavnikov v volilno telo priložijo sindikati, zveze oziroma konfederacije sindikatov iz prejšnjega odstavka pravila in podatke o številu članov.
+
+##### b) Volitve predstavnikov kmetov
+
+###### 65. člen
+
+Dva člana državnega sveta – predstavnika kmetov volita Zadružna zveza Slovenije in Slovenska kmečka zveza.
+
+Vsaka organizacija iz prejšnjega odstavka voli enega člana državnega sveta po volilnem telesu, ki ga sestavljajo člani predstavniškega organa organizacije.
+
+##### c) Volitve predstavnikov lokalnih interesov
+
+###### 66. člen
+
+Člane državnega sveta – predstavnike lokalnih interesov volijo volivci v volilnih enotah na neposrednih volitvah s tajnim glasovanjem.
+
+Kandidate za člane državnega sveta – predstavnike lokalnih interesov lahko določijo skupščine občin v volilni enoti, politične stranke, organizirane v volilni enoti, in volivci v volilni enoti. Za politične stranke in volivce se v postopku kandidiranja ustrezno uporabljajo določbe zakona o volitvah v državni zbor, razen drugega odstavka 43. člena.
+
+##### č) Razpis volitev in sklic prve seje državnega sveta
+
+###### 67. člen
+
+Prve volitve državnega sveta razpiše predsednik Skupščine Republike Slovenije, ki skliče tudi prvo sejo na teh volitvah izvoljenega državnega sveta.
+
+#### 2. Končna določba
+
+###### 68. člen
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.

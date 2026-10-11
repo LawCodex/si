@@ -71,23 +71,52 @@ def save_json(path, obj):
     os.replace(tmp, path)
 
 
+def _page_all(cat, body, label):
+    cursor, items = "*", []
+    while True:
+        r = req("POST", f"{API}/filter/filter", params={"cursorMark": cursor}, json=body)
+        d = (r or {}).get("data")
+        if d is None:
+            raise RuntimeError(f"filter failed for {label} at {len(items)}: {(r or {}).get('error')}")
+        items.extend(d["seznam"] or [])
+        nxt = d.get("nextCursorMark")
+        if not d["seznam"] or not nxt or nxt == cursor or len(items) >= d["numOfAllResultsForIndex"]:
+            return items, d
+        cursor = nxt
+
+
+def _count(body):
+    r = req("POST", f"{API}/filter/filter", params={"cursorMark": "*"}, json=body)
+    return r["data"]
+
+
 def list_category(raw, cat, code):
+    """The API refuses to page past 1000 hits, so large categories are listed year by year
+    (by publication date, "Datum objave")."""
     path = os.path.join(raw, "list", f"{cat}.json")
     if os.path.exists(path):
         return json.load(open(path, encoding="utf-8"))
-    body = {"nazivZbirke": ["Register predpisov"], "vrstaAkta": {"osnovniBrezNovele": True},
+    base = {"nazivZbirke": ["Register predpisov"], "vrstaAkta": {"osnovniBrezNovele": True},
             "kategorizacijaAkta": [code]}
-    cursor, items, total = "*", [], None
-    while True:
-        d = req("POST", f"{API}/filter/filter", params={"cursorMark": cursor}, json=body)["data"]
-        total = d["numOfAllResultsForIndex"]
-        items.extend(d["seznam"] or [])
-        nxt = d.get("nextCursorMark")
-        print(f"  {cat}: {len(items)}/{total}", flush=True)
-        if not d["seznam"] or not nxt or nxt == cursor:
-            break
-        cursor = nxt
-    # de-duplicate by external id
+    first = _count(base)
+    total = first["numOfAllResultsForIndex"]
+    items = []
+    if total <= 1000:
+        items, _ = _page_all(cat, base, cat)
+    else:
+        facets = first.get("letoObjaveFacet") or []
+        print(f"  {cat}: {total} hits, {sum(f['count'] for f in facets)} in year facets", flush=True)
+        for f in sorted(facets, key=lambda f: f["value"]):
+            y = f["value"]
+            ranges = [(f"{y}-01-01", f"{y}-12-31")] if f["count"] <= 1000 else \
+                [(f"{y}-{m:02d}-01", f"{y}-{m:02d}-{[31,29,31,30,31,30,31,31,30,31,30,31][m-1]:02d}") for m in range(1, 13)]
+            for a, b in ranges:
+                body = dict(base, datumi={"datumTip": "Datum objave",
+                                          "datumValue": {"startDate": a + "T00:00:00.000Z",
+                                                         "endDate": b + "T23:59:59.000Z"}})
+                got, _ = _page_all(cat, body, f"{cat} {a}")
+                items.extend(got)
+            print(f"  {cat}: {y}: {f['count']} (total so far {len(items)})", flush=True)
     seen, out = set(), []
     for x in items:
         if x["zunanjiId"] not in seen:

@@ -1,0 +1,166 @@
+---
+title: "Zakon o posebnih pravicah žrtev v vojni za Slovenijo 1991 (ZPPZV91)"
+identifier: "ZAKO1090"
+abbreviation: "ZPPZV91"
+type: act
+jurisdiction: si
+language: sl
+act_kind: "Zakon"
+date: 1997-07-25
+published: 1997-08-08
+in_force_from: 1997-08-23
+last_amended: 2022-12-27
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "NPB 4 (neuradno prečiščeno besedilo)"
+citation: "Uradni list RS, št. 49/97, 114/06 – ZUTPG, 159/21, 43/22 in 163/22"
+adopted_by: "Državni zbor Republike Slovenije"
+epa: "0181-II"
+sop: "1997-01-2570"
+source: "https://pisrs.si/pregledPredpisa?id=ZAKO1090"
+retrieved: 2026-10-12
+---
+
+# Zakon o posebnih pravicah žrtev v vojni za Slovenijo 1991 (ZPPZV91)
+
+*Opozorilo: Neuradno prečiščeno besedilo predpisa predstavlja zgolj informativni delovni pripomoček, glede katerega organ ne jamči odškodninsko ali kako drugače.*
+
+Neuradno prečiščeno besedilo Zakona o posebnih pravicah žrtev v vojni za Slovenijo 1991 obsega:
+
+- Zakon o posebnih pravicah žrtev v vojni za Slovenijo 1991 – ZPPZV91 (Uradni list RS, št. 49/97 z dne 8. 8. 1997),
+
+- Zakon o usklajevanju transferjev posameznikom in gospodinjstvom v Republiki Sloveniji – ZUTPG (Uradni list RS, št. 114/06 z dne 9. 11. 2006),
+
+- Zakon o spremembah in dopolnitvah Zakona o posebnih pravicah žrtev v vojni za Slovenijo 1991 – ZPPZV91-A (Uradni list RS, št. 159/21 z dne 1. 10. 2021),
+
+- Zakon o spremembah in dopolnitvah Zakona o posebnih pravicah žrtev v vojni za Slovenijo 1991 – ZPPZV91-B (Uradni list RS, št. 43/22 z dne 25. 3. 2022),
+
+- Zakon o dopolnitvah Zakona o posebnih pravicah žrtev v vojni za Slovenijo 1991 – ZPPZV91-C (Uradni list RS, št. 163/22 z dne 27. 12. 2022).
+
+**ZAKON**
+
+**O POSEBNIH PRAVICAH ŽRTEV V VOJNI ZA SLOVENIJO 1991 (ZPPZV91)**
+
+*(neuradno prečiščeno besedilo št. 4)*
+
+### 1. člen
+
+Ta zakon določa posebne pravice, ki jih zagotavlja Republika Slovenija osebam, ki so v vojni za Slovenijo 1991 kot pripadniki Teritorialne obrambe Republike Slovenije ali organov za notranje zadeve postali invalidi ter jim je na tej podlagi priznan status vojaškega vojnega invalida (v nadaljnjem besedilu: vojaški vojni invalidi) in njihovim družinskim članom ter družinskim članom civilnih oseb, ki so umrle, bile ubite ali pogrešane zaradi nasilnih dejanj ali prisilnih ukrepov JLA ali organov za notranje zadeve dotedanje SFRJ v času od 24. maja 1991 do 18. oktobra 1991 in so imele v tem času stalno prebivališče na območju današnje Republike Slovenije (v nadaljnjem besedilu: civilne žrtve).
+
+Za posebne pravice iz prejšnjega odstavka se štejejo:
+
+- doživljenjska mesečna renta (v nadaljnjem besedilu: renta),
+
+- odškodnina po posebnem zakonu, ki ureja poplačilo vojne odškodnine (v nadaljnjem besedilu: odškodnina),
+
+- štipendija in druge pravice iz tretjega odstavka 2. člena tega zakona, ki pripadajo otrokom oseb padlih v vojni za Slovenijo 1991 ali umrlih za posledicami poškodb, dobljenih v tej vojni (v nadaljnjem besedilu: otroci padlih),
+
+- pavšalna odškodnina po tem zakonu (v nadaljnjem besedilu: pavšalna odškodnina).
+
+### 2. člen
+
+Upravičenci do rente so vojaški vojni invalidi, ki so utrpeli poškodbe v vojni za Slovenijo 1991 in jim je odstotek invalidnosti ugotovljen trajno.
+
+Upravičenci do odškodnine so zakonski in zunajzakonski partnerji padlih, ki niso sklenili nove zakonske zveze oziroma zunajzakonske skupnosti ter starši padlih. Vsaj tri leta trajajoča življenjska skupnost, ki je po predpisih o zakonski zvezi in družinskih razmerjih izenačena z zakonsko zvezo, ima po tem zakonu enake pravne posledice kot zakonska zveza. Če je oseba s statusom upravičenca do odškodnine umrla, pripada njenim dedičem prvega dednega reda po predpisih, ki urejajo dedovanje, pavšalna odškodnina.
+
+Upravičenci do štipendije in prednosti pri sprejemu v dijaški oziroma študentski dom ter pravice do kritja stroškov šolske malice so otroci padlih, ki se redno šolajo oziroma imajo status študenta, vendar najdalj do 27. leta starosti.
+
+Upravičenci do pavšalne odškodnine so tudi otroci padlih, ne glede na njihovo starost v času smrti starša.
+
+Upravičenci do pavšalne odškodnine so tudi družinski člani civilnih žrtev. Med družinske člane civilnih žrtev se štejejo otroci, ne glede na njihovo starost v času smrti starša, starši in zakonci oziroma zunajzakonski partnerji, ki niso sklenili nove zakonske zveze oziroma zunajzakonske skupnosti. Vsaj tri leta trajajoča življenjska skupnost, ki je po predpisih o zakonski zvezi in družinskih razmerjih izenačena z zakonsko zvezo, ima po tem zakonu enake pravne posledice kot zakonska zveza. Če je oseba s statusom upravičenca do odškodnine umrla, pripada pavšalna odškodnina njenim dedičem prvega dednega reda po predpisih, ki urejajo dedovanje.
+
+### 3. člen
+
+Osnova za odmero rente je enaka trikratnemu najvišjemu znesku doživljenjske mesečne rente za obdobje trajanja nasilnega dejanja od 6. aprila 1941 do 15. maja 1945 po zakonu o žrtvah vojnega nasilja (Uradni list RS, št. 63/95, 8/96 in 44/96).
+
+Renta se vojaškemu vojnemu invalidu odmeri v odstotku od osnove, ki je enak odstotku priznane invalidnosti.
+
+### 3.a člen
+
+Osebe iz drugega odstavka 2. člena tega zakona in starši civilnih žrtev ter zakonci civilnih žrtev oziroma zunajzakonski partnerji civilnih žrtev, ki niso sklenili nove zakonske zveze oziroma zunajzakonske skupnosti imajo pravico do pavšalne odškodnine v višini 50.000 eurov.
+
+Osebe iz četrtega odstavka 2. člena tega zakona in otroci civilnih žrtev imajo pravico do pavšalne odškodnine v višini 100.000 eurov.
+
+Osebi iz drugega in četrtega odstavka 2. člena tega zakona se pavšalna odškodnina iz prvega in drugega odstavka tega člena zmanjša za morebitno že prejeto odškodnino, prejeto na podlagi tega ali drugega zakona oziroma iz naslova izvensodne poravnave, pri čemer se v pavšalno odškodnino ne všteva štipendija iz 4. člena tega zakona.
+
+Osebi iz petega odstavka 2. člena tega zakona se pavšalna odškodnina iz prvega in drugega odstavka tega člena zmanjša za morebitno že prejeto odškodnino, prejeto na podlagi drugega zakona oziroma iz naslova izvensodne poravnave.
+
+Ne glede na zakon, ki ureja dohodnino, se od pavšalne odškodnine po tem zakonu ne plača dohodnina.
+
+### 4. člen
+
+Osebe iz tretjega odstavka 2. člena tega zakona imajo pravico do štipendije v višini razlike med osnovo, ki znaša 100% najvišje možne kadrovske štipendije po predpisih Vlade Republike Slovenije o štipendiranju (v nadaljnjem besedilu: osnova) za otroke padlih, ki se šolajo v osnovni šoli, 110% za dijake srednjih šol in 120% za študente in kadrovsko štipendijo, ki se otrokom padlih zagotavlja po drugih predpisih.
+
+Štipendija, določena na način iz prejšnjega odstavka se poveča za 40%, če prejemnik štipendije med šolanjem prebiva izven kraja stalnega bivališča.
+
+Osebe iz prvega odstavka tega člena imajo prednost pri sprejemu v dijaški oziroma študentski dom in pravico do kritja stroškov šolske malice oziroma ob nakupu bonov za študentsko prehrano po posebnem podzakonskem aktu.
+
+### 5. člen
+
+Denarna sredstva za izplačilo rent, pavšalnih odškodnin, štipendij in drugih pravic otrok padlih se zagotavljajo v državnem proračunu.
+
+### 6. člen
+
+### 7. člen
+
+**([**prenehal veljati**](http://www.uradni-list.si/1/objava.jsp?urlurid=20064833))**
+
+O pravici do rente in pravici do pavšalne odškodnine po tem zakonu odloči v postopku po predpisih o vojnih invalidih upravna enota, pristojna za vojne invalide, na prvi stopnji oziroma ministrstvo, pristojno za vojne invalide, v pritožbenem postopku.
+
+### 8. člen
+
+Štipendija po tem zakonu otroku padlega se ne upošteva pri ugotavljanju pravice in višine družinskega dodatka po zakonu o vojnih invalidih (Uradni list RS, št. 63/95 in 19/97).
+
+---
+
+Zakon o posebnih pravicah žrtev v vojni za Slovenijo 1991 – ZPPZV91 (Uradni list RS, št. [**49/97**](http://www.uradni-list.si/1/objava.jsp?urlurid=19972570)) vsebuje naslednjo končno določbo:
+
+**»9. člen**
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.«.
+
+---
+
+Zakon o usklajevanju transferjev posameznikom in gospodinjstvom v Republiki Sloveniji – ZUTPG (Uradni list RS, št. [**114/06**](http://www.uradni-list.si/1/objava.jsp?urlurid=20064833)) vsebuje naslednjo končno določbo:
+
+»10. člen
+
+Ta zakon začne veljati 1. januarja 2007.«.
+
+---
+
+Zakon o spremembah in dopolnitvah Zakona o posebnih pravicah žrtev v vojni za Slovenijo 1991 – ZPPZV91-A (Uradni list RS, št. [**159/21**](http://www.uradni-list.si/1/objava.jsp?urlurid=20212991)) vsebuje naslednji končni določbi:
+
+**»KONČNI DOLOČBI**
+
+6\. člen
+
+Zahtevo za priznanje pavšalne odškodnine na podlagi zakona lahko vložijo upravičenci iz drugega in četrtega odstavka 2. člena zakona najpozneje v šestih mesecih od uveljavitve tega zakona.
+
+7\. člen
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.«.
+
+---
+
+Zakon o spremembah in dopolnitvah Zakona o posebnih pravicah žrtev v vojni za Slovenijo 1991 – ZPPZV91-B (Uradni list RS, št. [**43/22**](http://www.uradni-list.si/1/objava.jsp?urlurid=2022833)) vsebuje naslednjo prehodno in končno določbo:
+
+**»PREHODNA IN KONČNA DOLOČBA**
+
+4\. člen
+
+Zahtevo za priznanje pavšalne odškodnine na podlagi zakona lahko vložijo upravičenci iz novega petega odstavka 2. člena zakona v šestih mesecih od uveljavitve tega zakona.
+
+5\. člen
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.«.
+
+---
+
+Zakon o dopolnitvah Zakona o posebnih pravicah žrtev v vojni za Slovenijo 1991 – ZPPZV91-C (Uradni list RS, št. [**163/22**](http://www.uradni-list.si/1/objava.jsp?urlurid=20224190)) vsebuje naslednjo prehodno in končno določbo:
+
+**»PREHODNA IN KONČNA DOLOČBA**
+
+2\. člen
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije in se uporablja za davčna leta, ki se začnejo od vključno 1. januarja 2021.«.

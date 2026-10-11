@@ -1,0 +1,337 @@
+---
+title: "Zakon o deviznem poslovanju (ZDP-2)"
+identifier: "ZAKO4849"
+abbreviation: "ZDP-2"
+type: act
+jurisdiction: si
+language: sl
+act_kind: "Zakon"
+date: 2008-02-01
+published: 2008-02-15
+in_force_from: 2008-03-01
+last_amended: 2022-11-21
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "NPB 3 (neuradno prečiščeno besedilo)"
+citation: "Uradni list RS, št. 16/08, 85/09, 109/12 in 145/22 – ZPPDFT-2A"
+adopted_by: "Državni zbor Republike Slovenije"
+eva: "2006-1611-0104"
+epa: "1602-IV"
+sop: "2008-01-0486"
+source: "https://pisrs.si/pregledPredpisa?id=ZAKO4849"
+retrieved: 2026-10-12
+---
+
+# Zakon o deviznem poslovanju (ZDP-2)
+
+*Opozorilo: Neuradno prečiščeno besedilo predpisa predstavlja zgolj informativni delovni pripomoček, glede katerega organ ne jamči odškodninsko ali kako drugače.*
+
+Neuradno prečiščeno besedilo Zakona o deviznem poslovanju obsega:
+
+- Zakon o deviznem poslovanju – ZDP-2 (Uradni list RS, št. 16/08 z dne 15. 2. 2008),
+
+- Zakon o spremembah in dopolnitvah Zakona o deviznem poslovanju – ZDP-2A (Uradni list RS, št. 85/09 z dne 30. 10. 2009),
+
+- Zakon o spremembah in dopolnitvah Zakona o deviznem poslovanju – ZDP-2B (Uradni list RS, št. 109/12 z dne 31. 12. 2012),
+
+- Zakon o spremembah in dopolnitvah Zakona o preprečevanju pranja denarja in financiranja terorizma – ZPPDFT-2A (Uradni list RS, št. 145/22 z dne 21. 11. 2022).
+
+**ZAKON**
+
+**o deviznem poslovanju (ZDP-2)**
+
+*(neuradno prečiščeno besedilo št. 3)*
+
+## I. POGLAVJE SPLOŠNE DOLOČBE
+
+#### 1. člen
+
+**(vsebina zakona)**
+
+(1) Ta zakon ureja:
+
+1. menjalniško poslovanje;
+
+2. določitev nadzornih in prekrškovnih organov po tem zakonu.
+
+(2) **([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=20223606#21.%20člen))**
+
+#### 2. člen
+
+#### 3. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=20223606#21.%20člen))**
+
+**(gotovina, pristojni organ in posredovanje podatkov)**
+
+(1) V tem zakonu gotovina pomeni:
+
+- prenosljive instrumente, ki se glasijo na prinosnika, vključno z denarnimi instrumenti, ki se glasijo na prinosnika, kot so potovalni čeki, prenosljive instrumente (vključno s čeki, zadolžnicami in denarnimi nakazili), ki so izdani na prinosnika, indosirani brez omejitev, izdani v korist fiktivnega prejemnika ali v drugih oblikah, ki dopuščajo prenos naslova ob predaji, ter nepopolne instrumente (vključno s čeki, zadolžnicami in denarnimi nakazili), ki so sicer podpisani, vendar brez navedbe imena prejemnika plačila in
+
+- gotovino (bankovci in kovanci, ki so v obtoku kot plačilno sredstvo).
+
+(2) **([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=20223606#21.%20člen))**
+
+(3) **([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=20223606#21.%20člen))**
+
+(4) **([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=20223606#21.%20člen))**
+
+#### 4. člen
+
+**(tuja gotovina)**
+
+Tuja gotovina so bankovci in kovanci v tuji valuti, ki jih je izdala centralna banka ali država.
+
+#### 5. člen
+
+**(menjalniški posli)**
+
+Menjalniški posli so nakup in prodaja tuje gotovine in nakup čekov, ki se glasijo in so unovčljivi v tujem denarju.
+
+#### 6. člen
+
+**(menjalec in kvalificirani lastnik menjalca)**
+
+(1) Menjalec oziroma menjalka (v nadaljnjem besedilu: menjalec) je:
+
+- pravna oseba,
+
+- samostojni podjetnik posameznik in
+
+- posameznik, ki samostojno opravlja dejavnost,
+
+ki opravlja menjalniške posle na podlagi dovoljenja Banke Slovenije.
+
+(2) Kvalificirani lastnik oziroma kvalificirana lastnica (v nadaljnjem besedilu: kvalificirani lastnik) menjalca po tem zakonu je fizična ali pravna oseba, ki je posredno ali neposredno imetnik oziroma imetnica (v nadaljnjem besedilu: imetnik) najmanj 10% poslovnega deleža, delnic ali drugih pravic v določeni pravni osebi, na podlagi katerih imetnik pridobi najmanj 10% delež glasovalnih pravic ali najmanj 10% delež v kapitalu te pravne osebe ali delež glasovalnih pravic ali delež v kapitalu te pravne osebe, ki je manjši od 10%, vendar mu že ta omogoča izvajanje pomembnega vpliva na upravljanje te pravne osebe.
+
+(3) Odgovorna oseba menjalca po tem zakonu je oseba, ki jo določi menjalec in je odgovorna za upravljanje in zakonitost menjalniškega poslovanja pri njem.
+
+## II. POGLAVJE TRG IN TEČAJ TUJEGA DENARJA
+
+#### 7. člen
+
+#### 8. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=20223606#21.%20člen))**
+
+**(način opravljanja menjalniških poslov)**
+
+(1) Menjalniške posle lahko opravljajo menjalci ter banke in hranilnice, ki v skladu z zakonom, ki ureja bančništvo, opravljajo storitve trgovanja s tujimi plačilnimi sredstvi, vključno z menjalniškimi posli.
+
+(2) Menjalec je dolžan ves čas trajanja veljavnosti dovoljenja Banke Slovenije:
+
+- za vsako menjalno mesto zagotavljati poslovni prostor, ki omogoča nemoteno opravljanje menjalniških poslov in nadzor;
+
+- zagotoviti, da so delavci, ki opravljajo menjalniške posle, ustrezno usposobljeni in
+
+- zagotoviti računalniško tehnologijo, potrebno za opravljanje menjalniških poslov.
+
+(3) Menjalec oziroma banka in hranilnica iz prvega odstavka tega člena je dolžan:
+
+- Banki Slovenije omogočati izvajanje nadzora v skladu s tem zakonom;
+
+- Banki Slovenije sporočati spremembe podatkov v zvezi z odgovornimi osebami in kvalificiranimi lastniki;
+
+- poročati Banki Slovenije o opravljanju menjalniških poslov;
+
+- opravljati menjalniške posle izključno na menjalnem mestu, za katerega je pridobil nalepko Banke Slovenije;
+
+- na menjalnem mestu prodajati samo veljavno in nepoškodovano gotovino;
+
+- na blagajniškem mestu imeti gotovino, namenjeno za menjalniško poslovanje, in ločeno od ostalih poslov voditi blagajno ter ustrezno voditi blagajniški dnevnik menjalnega mesta in
+
+- Banki Slovenije sporočati podatke o številu zaposlenih, ki opravljajo menjalniške posle.
+
+(4) V primeru statusnih sprememb, ki imajo za posledico dodelitev nove matične številke, je menjalec dolžan pridobiti novo dovoljenje.
+
+(5) O vseh spremembah, ki vplivajo na statusni ustroj ali poslovanje menjalca, je menjalec dolžan Banko Slovenije obvestiti v roku desetih delovnih dni po nastali spremembi.
+
+(6) Banka Slovenije predpiše pogoje in način opravljanja menjalniških poslov iz drugega in tretjega odstavka tega člena, podrobnejšo vsebino dokumentacije, ki jo je treba priložiti zahtevi za izdajo dovoljenja, ter obseg in način poročanja.
+
+#### 9. člen
+
+**(izdaja dovoljenja za opravljanje menjalniških poslov)**
+
+(1) Banka Slovenije ne izda dovoljenja:
+
+1. če je bil kvalificirani lastnik menjalca pravnomočno obsojen zaradi kaznivega dejanja, storjenega z naklepom, ki se preganja po uradni dolžnosti, ali zaradi enega od naslednjih kaznivih dejanj, storjenih iz malomarnosti: prikrivanja (221. člen Kazenskega zakonika, Uradni list RS, št. 95/04 – uradno prečiščeno besedilo; v nadaljnjem besedilu: KZ), izdaje in neupravičene pridobitve poslovne tajnosti (241. člen KZ), pranja denarja (252. člen KZ), izdaje uradne tajnosti (266. člen KZ) ali izdaje državne tajnosti (359. člen KZ), in kazen še ni bila izbrisana;
+
+2. če je bila odgovorna oseba menjalca pravnomočno obsojena zaradi katerega kaznivega dejanja, navedenega v prejšnji točki, in kazen še ni bila izbrisana;
+
+3. če iz podatkov, s katerimi razpolaga, izhaja, da bi dejavnost in posli, ki jih kvalificirani lastnik menjalca ali odgovorna oseba menjalca opravlja, oziroma dejanja, ki jih je storil, lahko vplivala na zakonitost poslovanja menjalca;
+
+4. če niso izpolnjeni pogoji iz drugega odstavka 8. člena tega zakona.
+
+(2) Podatke o predhodni nekaznovanosti iz prejšnjega odstavka Banka Slovenije pridobi iz kazenske evidence.
+
+(3) Banka Slovenije lahko podatke, potrebne za presojo, ali obstajajo okoliščine iz 3. točke prvega odstavka tega člena, pridobi od pristojnih državnih organov.
+
+#### 10. člen
+
+**(odvzem dovoljenja za opravljanje menjalniških poslov)**
+
+Banka Slovenije odvzame dovoljenje za opravljanje menjalniških poslov:
+
+1. če je bilo dovoljenje pridobljeno z navajanjem neresničnih podatkov;
+
+2. če menjalec opravlja menjalniške posle v nasprotju z drugim, tretjim, četrtim in petim odstavkom 8. člena tega zakona;
+
+3. če niso več izpolnjeni pogoji iz 9. člena tega zakona.
+
+#### 10.a člen
+
+**(prenehanje dovoljenja za opravljanje menjalniških poslov)**
+
+(1) Dovoljenje za opravljanje menjalniških poslov preneha:
+
+1. če menjalec ne začne opravljati menjalniških poslov v treh mesecih od izdaje dovoljenja;
+
+2. če menjalec preneha opravljati menjalniške posle za več kot eno leto ali Banko Slovenije pisno obvesti o prenehanju opravljanja menjalniških poslov ali
+
+3. če je menjalec prenehal obstajati ali se je zoper njega začel postopek zaradi insolventnosti ali postopek prisilnega prenehanja v skladu z zakonom, ki ureja finančno poslovanje, postopke zaradi insolventnosti in prisilno prenehanje.
+
+(2) Ob razlogu iz prvega odstavka tega člena Banka Slovenije izda odločbo, s katero ugotovi, da je dovoljenje prenehalo.
+
+(3) Menjalec ne sme več sklepati novih poslov v zvezi z opravljanjem menjalniških poslov:
+
+1. v primeru iz 1. in 2. točke prvega odstavka tega člena: od naslednjega dne po poteku roka oziroma naslednji dan po prejemu pisnega obvestila o prenehanju opravljanja menjalniških poslov;
+
+2. v primeru iz 3. točke prvega odstavka tega člena: z dnem prenehanja obstoja oziroma od dneva, ko je objavljen oklic o začetku postopka prisilne poravnave, stečajnega postopka ali postopka prisilne likvidacije.
+
+## III. POGLAVJE NADZOR
+
+### 3.1 Splošne določbe
+
+#### 11. člen
+
+**(nadzorna organa)**
+
+Nadzorna organa, ki v okviru svojih pristojnosti opravljata nadzor nad skladnostjo poslovanja s tem zakonom, sta Banka Slovenije in Carinska Uprava Republike Slovenije.
+
+#### 12. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=20223606#21.%20člen))**
+
+### 3.2 Nadzor Banke Slovenije
+
+#### 13. člen
+
+**(nadzor Banke Slovenije)**
+
+(1) Nadzor nad menjalniškim poslovanjem oseb iz prvega odstavka 8. člena tega zakona opravlja Banka Slovenije.
+
+(2) Za postopke odločanja v posamičnih zadevah in izvajanje nadzora po tem zakonu se smiselno uporabljajo določbe zakona, ki ureja bančništvo.
+
+### 3.3 Nadzor in ukrepi carinskega organa
+
+#### 14. člen
+
+#### 15. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=20223606#21.%20člen))**
+
+**(črtan)**
+
+## IV. POGLAVJE DOLOČBE O PREKRŠKIH
+
+#### 16. člen
+
+**(kršitve)**
+
+(1) Z globo od 2.100 do 42.000 eurov se za prekršek kaznuje pravna oseba, z globo od 820 do 16.400 eurov samostojni podjetnik posameznik oziroma posameznik, ki samostojno opravlja dejavnost, z globo od 500 do 5.000 eurov pa posameznik, če:
+
+1. **([prenehala veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=20223606#21.%20člen))**
+
+2. opravlja menjalniške posle v nasprotju s pogoji iz 8. člena tega zakona;
+
+3. **([prenehala veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=20223606#21.%20člen))**
+
+4. opravlja menjalniške posle brez dovoljenja Banke Slovenije.
+
+(2) Z globo od 820 do 4.100 eurov se kaznuje za prekršek iz prejšnjega odstavka tudi odgovorna oseba pravne osebe, odgovorna oseba samostojnega podjetnika posameznika oziroma odgovorna oseba posameznika, ki samostojno opravlja dejavnost, oziroma odgovorna oseba državnega organa ali samoupravne lokalne skupnosti.
+
+(3) V hitrem postopku o prekršku se sme storilcu prekrška iz prejšnjih odstavkov izreči globa tudi v znesku, ki je višji od najnižje predpisane ravni, če je globa predpisana v razponu.
+
+#### 17. člen
+
+**([prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=20223606#21.%20člen))**
+
+---
+
+Zakon o deviznem poslovanju – ZDP-2 (Uradni list RS, št. [16/08](http://www.uradni-list.si/1/objava.jsp?urlid=200816&stevilka=486)) vsebuje naslednje prehodne in končne določbe:
+
+**»V. POGLAVJE PREHODNE IN KONČNE DOLOČBE**
+
+**18. člen**
+
+**(razveljavitev predpisov)**
+
+(1) Z dnem uveljavitve tega zakona prenehajo veljati Zakon o deviznem poslovanju (Uradni list RS, št. 23/99 in 76/03) in naslednji predpisi, izdani na njegovi podlagi:
+
+1. Sklep o pogojih za odpiranje in vodenje računov nerezidentov (Uradni list RS, št. 42/04),
+
+2. Sklep o obveznosti poročanja o poslovanju s tujino (Uradni list RS, št. 92/03 in 56/04),
+
+3. Sklep o spremembi in dopolnitvi navodila za izvajanje sklepa o obveznosti poročanja o poslovanju s tujino (Uradni list RS, št. 64/04),
+
+4. Sklep o kriterijih in načinu ugotavljanja namena vzpostavitve trajnih ekonomskih povezav in pridobitve učinkovitega vpliva na upravljanje gospodarske družbe ali drugega gospodarskega subjekta (Uradni list RS, št. 50/99),
+
+5. Sklep o postopkih za odpiranje deviznih računov rezidentov pri pooblaščenih bankah (Uradni list RS, št. 42/04),
+
+6. Sklep o pogojih in načinu opravljanja plačilnega prometa s tujino (Uradni list RS, št. 56/04),
+
+7. Sklep o pogojih in načinu, pod katerimi smejo rezidenti pri poslovanju z nerezidenti plačilo sprejeti ali opraviti v tuji gotovini (Uradni list RS, št. 97/06),
+
+8. Navodilo za izvajanje sklepa o obveznosti poročanja o poslovanju s tujino (Uradni list RS, št. 102/03, 135/03, 64/04, 9/05, 20/06 in 128/06) ter
+
+9. Navodilo o poročanju o poslih z vrednostnimi papirji (Uradni list RS, št. 102/03).
+
+(2) Podzakonski akti iz 2., 3., 8. in 9. točke prejšnjega odstavka se uporabljajo do uveljavitve novih, kolikor niso v nasprotju s tem zakonom.
+
+**19. člen**
+
+**(začetek veljavnosti)**
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.«.
+
+---
+
+Zakon o spremembah in dopolnitvah Zakona o deviznem poslovanju – ZDP-2A (Uradni list RS, št. [85/09](http://www.uradni-list.si/1/objava.jsp?urlid=200985&stevilka=3789)) vsebuje naslednjo prehodno in končno določbo:
+
+**»PREHODNA IN KONČNA DOLOČBA**
+
+13\. člen
+
+Z dnem uveljavitve tega zakona preneha veljati Pravilnik o medsebojnem obveščanju organov nadzora (Uradni list RS, št. 54/99).
+
+14\. člen
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.«.
+
+---
+
+Zakon o spremembah in dopolnitvah Zakona o deviznem poslovanju – ZDP-2B (Uradni list RS, št. [109/12](http://www.uradni-list.si/1/objava.jsp?urlid=2012109&stevilka=4316)) vsebuje naslednje prehodne in končne določbe:
+
+**»PREHODNE IN KONČNE DOLOČBE**
+
+9\. člen
+
+Devizna sredstva, za katera je o odvzemu pred prevzemom pristojnosti carinskega organa odločal drug nadzorni organ in je pravica za vračilo sredstev, ki so na podračunu številka 01700-0007380075 – Carinska uprava Republike Slovenije – Začasno zasežena sredstva po ZDP, odprtem pri Banki Slovenije, in na podračunu številka 01100-6000020102 – Ministrstvo za finance, Davčna uprava Republike Slovenije – Zasežena sredstva po ZDP, odprtem pri Upravi za javna plačila, zastarala v skladu z zakonom, ki ureja davčni postopek, se v osmih dneh po uveljavitvi tega zakona prenesejo v državni proračun.
+
+10\. člen
+
+Banka Slovenije v treh mesecih od uveljavitve tega zakona uskladi predpis iz 8. člena zakona z določbami tega zakona.
+
+11\. člen
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.«.
+
+---
+
+Zakon o spremembah in dopolnitvah Zakona o preprečevanju pranja denarja in financiranja terorizma – ZPPDFT-2A (Uradni list RS, št. [145/22](http://www.uradni-list.si/1/objava.jsp?urlurid=20223606)) vsebuje naslednjo končno določbo:
+
+»22. člen
+
+**(začetek veljavnosti)**
+
+Ta zakon začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.«.

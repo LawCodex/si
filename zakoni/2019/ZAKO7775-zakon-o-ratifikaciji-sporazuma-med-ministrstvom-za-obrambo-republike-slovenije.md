@@ -1,0 +1,244 @@
+---
+title: "Zakon o ratifikaciji Sporazuma med Ministrstvom za obrambo Republike Slovenije in Ministrstvom za obrambo Gruzije o sodelovanju na obrambnem področju (BGESOP)"
+identifier: "ZAKO7775"
+abbreviation: "BGESOP"
+type: ratification_act
+jurisdiction: si
+language: sl
+act_kind: "Zakon"
+date: 2018-12-20
+published: 2019-01-04
+in_force_from: 2019-01-19
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "Osnovni (izvirno besedilo)"
+citation: "Uradni list RS – Mednarodne pogodbe, št. 1/19"
+adopted_by: "Državni zbor Republike Slovenije"
+eva: "2017-1811-0112"
+epa: "2191-VII"
+sop: "2019-02-0005"
+source: "https://pisrs.si/pregledPredpisa?id=ZAKO7775"
+retrieved: 2026-10-12
+---
+
+# Zakon o ratifikaciji Sporazuma med Ministrstvom za obrambo Republike Slovenije in Ministrstvom za obrambo Gruzije o sodelovanju na obrambnem področju (BGESOP)
+
+**Z A K O N**
+
+**O RATIFIKACIJI SPORAZUMA MED MINISTRSTVOM ZA OBRAMBO REPUBLIKE SLOVENIJE IN MINISTRSTVOM ZA OBRAMBO GRUZIJE O SODELOVANJU NA OBRAMBNEM PODROČJU (BGESOP)**
+
+## 1. člen
+
+Ratificira se Sporazum med Ministrstvom za obrambo Republike Slovenije in Ministrstvom za obrambo Gruzije o sodelovanju na obrambnem področju, sklenjen v Batumiju 11. oktobra 2017.
+
+## 2. člen
+
+Sporazum se v izvirniku v slovenskem jeziku glasi:1
+
+1Besedilo sporazuma v gruzijskem in angleškem jeziku je na vpogled v Sektorju za mednarodno pravo Ministrstva za zunanje zadeve.
+
+**S P O R A Z U M**
+
+**MED MINISTRSTVOM ZA OBRAMBO REPUBLIKE SLOVENIJE IN MINISTRSTVOM ZA OBRAMBO GRUZIJE O SODELOVANJU NA OBRAMBNEM PODROČJU**
+
+Ministrstvo za obrambo Republike Slovenije in Ministrstvo za obrambo Gruzije, v nadaljevanju pogodbenika, sta se,
+
+- ob upoštevanju potrebe po prispevanju h krepitvi miru, zaupanja in stabilnosti ter k razvoju odnosov med državami v Evropi in svetu kot celoti ter v duhu Ustanovne listine Združenih narodov, Helsinške sklepne listine, Pariške listine za novo Evropo in Sporazuma med državami pogodbenicami Severnoatlantskega pakta in drugimi državami, ki sodelujejo v Partnerstvu za mir, glede statusa njihovih sil (v nadaljevanju PzM SOFA) ter dodatnega in nadaljnjega dodatnega protokola k PzM SOFA,
+
+- ob pozitivnem ocenjevanju procesa vključevanja v svetu, ki odraža prizadevanja za medsebojne koristi in sodelovanje na podlagi spoštovanja in zaupanja,
+
+- ob upoštevanju odgovornosti, ki izhajajo iz mednarodnih sporazumov o krepitvi varnosti, stabilnosti in miru,
+
+- z namenom dolgoročnega načrtovanja in določitve področij sodelovanja med pogodbenikoma,
+
+- ob prepričanju, da razvoj dvostranskih stikov prispeva k širitvi odnosov med državama,
+
+dogovorila:
+
+## 1. člen
+
+**Namen sporazuma**
+
+Namen sporazuma je zagotoviti okvir za sodelovanje med pogodbenikoma na obrambnem področju, v mejah pristojnosti, določenih v njunem notranjem pravu.
+
+## 2. člen
+
+**Status sporazuma**
+
+1. Pogodbenika svoje obveznosti, določene v sporazumu, izpolnjujeta na podlagi načela enakosti in vzajemnosti.
+
+2. Pogodbenika izvajata določbe sporazuma skladno z veljavnimi mednarodnimi pogodbami in notranjim pravom njunih držav.
+
+## 3. člen
+
+**Področja sodelovanja**
+
+1. Pogodbenika sodelujeta na naslednjih področjih skladno z notranjim pravom njunih držav in v okviru njunih pristojnosti:
+
+obrambna in varnostna politika,
+
+vojaške ekonomske in tehnične dejavnosti,
+
+izobraževanje in usposabljanje vojaškega in civilnega osebja,
+
+družbene, športne in kulturne dejavnosti,
+
+obrambna zakonodaja,
+
+obrambna industrija,
+
+znanstvene raziskave na področju obrambe,
+
+vojaška medicina,
+
+vojaška geografija,
+
+ukrepi za graditev zaupanja in varnosti,
+
+nadzor nad oboroževanjem in razoroževanje,
+
+skupno sodelovanje v dejavnostih PzM Nata,
+
+humanitarne operacije in operacije v podporo miru,
+
+obrambna logistika,
+
+vprašanja okoljske varnosti,
+
+počitniške, družbene, kulturne in športne dejavnosti,
+
+vojaškozgodovinska, novinarska in muzejska dejavnost ter
+
+druga področja skupnega interesa.
+
+2. Področja, navedena v sporazumu, se lahko razširijo ali omejijo na podlagi pisnega soglasja obeh pogodbenikov.
+
+3. Pogodbenika lahko za izpolnjevanje določb sporazuma in izvajanje sodelovanja na področjih, navedenih v prvem odstavku tega člena, skleneta izvedbene dogovore.
+
+## 4. člen
+
+**Oblike sodelovanja**
+
+Sodelovanje med pogodbenikoma poteka v naslednjih oblikah:
+
+uradni obiski in delovna srečanja,
+
+izmenjava izkušenj in posvetovanja,
+
+izmenjava udeležencev pri projektih usposabljanja ter tečajih za pridobitev usposobljenosti,
+
+sodelovanje na vajah,
+
+udeležba na konferencah, simpozijih, seminarjih, tečajih in delavnicah, ki jih organizirata pogodbenika,
+
+izmenjava informacij, ki so v interesu obeh pogodbenikov,
+
+koncerti, razstave, festivali in drugi kulturni dogodki.
+
+## 5. člen
+
+**Pravni status osebja**
+
+Status osebja ureja Sporazum med državami pogodbenicami Severnoatlantskega pakta in drugimi državami, ki sodelujejo v Partnerstvu za mir, glede statusa njihovih sil, podpisan 19. junija 1995 v Bruslju, vključno z dodatnim in nadaljnjim dodatnim protokolom k PzM SOFA.
+
+## 6. člen
+
+**Letno načrtovanje**
+
+Pogodbenika lahko na podlagi sporazuma sprejmeta letne načrte dvostranskega obrambnega sodelovanja, tako da:
+
+1. vsako leto do 15. oktobra uskladita letni načrt dvostranskega obrambnega sodelovanja,
+
+2. letni načrt dvostranskega obrambnega sodelovanja vključuje področje dejavnosti, njeno obliko, kraj in čas izvedbe, pristojne organe, število oseb in druge pomembne podatke, povezane z organizacijo in izvedbo dejavnosti,
+
+3. po uskladitvi pooblaščena predstavnika pogodbenikov podpišeta letni načrt dvostranskega obrambnega sodelovanja do 15. decembra v letu pred letom, na katerega se načrt nanaša.
+
+## 7. člen
+
+**Finančni vidiki**
+
+1. Pogodbenika krijeta stroške izvajanja sporazuma in sodelovanja na podlagi vzajemnosti.
+
+2. Pogodbenik pošiljatelj krije potne stroške, stroške plač, nezgodno in zdravstveno zavarovanje, stroške zdravljenja, če jih ne krije zdravstveno zavarovanje, stroške vrnitve bolnih pripadnikov v domovino in vse druge dodatke, do katerih so pripadniki upravičeni po predpisih pogodbenika.
+
+3. Pogodbenik sprejemnik poravna stroške namestitve, prehrane, notranjega prevoza od dogovorjene vstopne točke na svojem ozemlju ter stroške drugih načrtovanih dejavnosti.
+
+4. Pogodbenik sprejemnik zagotovi nujno medicinsko pomoč.
+
+5. Drugi finančni stroški, ki nastanejo med izvajanjem sporazuma, se uredijo s posebnim izvedbenim dogovorom.
+
+6. Splošno načelo vzajemnosti se ne uporablja za skupine, večje od 10 oseb. Postopki financiranja takšnih skupin se določijo za vsak primer posebej na podlagi dogovora med pogodbenikoma.
+
+7. Udeležba vojaškega osebja na tečajih, finančni in zdravstveni vidiki ter podrobni izvedbeni dogovori za posebne oblike sodelovanja se urejajo z ustreznimi dopolnilnimi sporazumi, ki jih skleneta pogodbenika skladno z njunimi veljavnimi predpisi.
+
+8. Če eden od pogodbenikov pošlje delegacijo izven dogovorjenega okvira sporazuma, ta pogodbenik krije vse nastale stroške.
+
+## 8. člen
+
+**Varovanje tajnih podatkov**
+
+1. Pogodbenika zagotovita varovanje tajnih podatkov, ki se izmenjajo ali ustvarijo v procesu sodelovanja v okviru sporazuma, skladno z notranjim pravom njunih držav.
+
+2. Pogodbenika se strinjata, da so naslednje stopnje tajnosti enakovredne in ustrezajo stopnjam tajnosti, ki jih določa notranje pravo, veljavno v njunih državah:
+
+| RepublikaSlovenija | Gruzija | Ustreznicav angleščini |
+|---|---|---|
+| STROGOTAJNO | განსაკუთრებული მნიშვნელობის | TOP SECRET |
+| TAJNO | სრულიად საიდუმლო | SECRET |
+| ZAUPNO | საიდუმლო | CONFIDENTIAL |
+| INTERNO | შეზღუდული სარგებლობისათვის | RESTRICTED |
+
+3. Tajni podatki, prejeti skladno s sporazumom, se označijo z enakovredno stopnjo tajnosti, ki ustreza stopnji tajnosti, ki jo je določil pogodbenik izvora. Pogodbenika zagotovita enako raven varovanja tajnih podatkov, kot se zagotovi nacionalnim tajnim podatkom z enakovredno stopnjo tajnosti.
+
+4. Pogodbenika tajne podatke posredujeta tretji strani le na podlagi predhodnega pisnega soglasja pogodbenika izvora.
+
+5. Pogodbenika zagotovita, da se kljub prenehanju veljavnosti sporazuma vsi tajni podatki še naprej varujejo, dokler pogodbenik izvora pogodbenika prejemnika ne odveže obveznosti.
+
+6. Ko se sklene dvostranski sporazum o obojestranskem varovanju tajnih podatkov, njegove določbe veljajo za varovanje tajnih podatkov, prejetih skladno s tem sporazumom.
+
+## 9. člen
+
+**Spori**
+
+Spori v zvezi z razlago ali izvajanjem sporazuma se rešujejo izključno s pogajanji in/ali posvetovanji med pogodbenikoma po diplomatski poti.
+
+## 10. člen
+
+**Končne določbe**
+
+1. Sporazum začne veljati na dan prejema zadnjega obvestila, s katerim se pogodbenika v pisni obliki obvestita, da so izpolnjeni predpisani notranjepravni postopki za začetek njegove veljavnosti.
+
+2. Sporazum se lahko spremeni na podlagi pisnega soglasja pogodbenikov. Takšne spremembe so sestavni del sporazuma in začnejo veljati skladno s prvim odstavkom tega člena.
+
+3. Sporazum se sklene za 5-letno obdobje in se samodejno podaljša za naslednjih 5 let, razen če kateri od pogodbenikov najmanj 6 mesecev vnaprej drugega pogodbenika pisno obvesti o svoji nameri, da sporazum odpove. V takem primeru sporazum preneha veljati 6 mesecev po datumu, ko drugi pogodbenik prejme obvestilo o odpovedi.
+
+4. Pogodbenik lahko sporazum odpove tudi pred potekom 5-letnega obdobja, tako da drugega pogodbenika pisno obvesti o odpovedi. V takem primeru sporazum preneha veljati 6 mesecev po datumu, ko drugi pogodbenik prejme obvestilo o odpovedi.
+
+5. Prenehanje veljavnosti ne vpliva na izpolnjevanje obveznosti, ki so bile prevzete v okviru sporazuma.
+
+Podpisano v Batumiju 11. oktobra 2017 v dveh izvodih v slovenskem, gruzijskem in angleškem jeziku, pri čemer so vsa besedila enako verodostojna. Ob razlikah pri razlagi sporazuma prevlada besedilo v angleškem jeziku.
+
+| Za Ministrstvo za obramboRepublike SlovenijeMiloš Bizjak l.r. | Za Ministrstvo za obramboGruzijeLela Chikovani l.r. |
+|---|---|
+
+## 3. člen
+
+Za izvajanje sporazuma skrbi ministrstvo, pristojno za obrambo.
+
+## 4. člen
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije – Mednarodne pogodbe.
+
+Št. 200-10/17-13/13
+
+Ljubljana, dne 20. decembra 2018
+
+EPA 2191-VII
+
+Državni zbor
+
+Republike Slovenije
+
+Branko Simonovič l.r.
+
+podpredsednik

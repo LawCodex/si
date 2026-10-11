@@ -1,0 +1,154 @@
+---
+title: "Zakon o posebnem davku na določene prejemke (ZPDDP)"
+identifier: "ZAKO310"
+abbreviation: "ZPDDP"
+type: act
+jurisdiction: si
+language: sl
+act_kind: "Zakon"
+date: 1993-12-22
+published: 1993-12-31
+in_force_from: 1994-01-15
+last_amended: 1996-02-29
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "NPB 3 (neuradno prečiščeno besedilo)"
+citation: "Uradni list RS, št. 72/93, 22/94, 45/95 in 12/96"
+adopted_by: "Državni zbor Republike Slovenije"
+epa: "0386"
+sop: "1993-01-2632"
+source: "https://pisrs.si/pregledPredpisa?id=ZAKO310"
+retrieved: 2026-10-12
+---
+
+# Zakon o posebnem davku na določene prejemke (ZPDDP)
+
+*Opozorilo: Neuradno prečiščeno besedilo predpisa predstavlja zgolj informativni delovni pripomoček, glede katerega organ ne jamči odškodninsko ali kako drugače.*
+
+Neuradno prečiščeno besedilo Zakona o posebnem davku na določene prejemke obsega:
+
+- Zakon o posebnem davku na določene prejemke (Uradni list RS, št. 72/93 z dne 31. 12. 1993),
+
+- Zakon o spremembah in dopolnitvah zakona o posebnem davku na določene prejemke (Uradni list RS, št. 22/94 z dne 28. 4. 1994),
+
+- Zakon o dopolnitvi zakona o posebnem davku na določene prejemke (Uradni list RS, št. 45/95 z dne 4. 8. 1995),
+
+- Zakon o dopolnitvi zakona o posebnem davku na določene prejemke – ZPDDP-C (Uradni list RS, št. 12/96 z dne 29. 2. 1996).
+
+**ZAKON**
+
+**O POSEBNEM DAVKU NA DOLOČENE PREJEMKE**
+
+*(neuradno prečiščeno besedilo št. 3)*
+
+## 1. člen
+
+S tem zakonom se uvaja obveznost plačevanja posebnega davka na določene prejemke, izplačane fizični osebi.
+
+## 2. člen
+
+Davek plačujejo pravne osebe in zasebniki, ki opravljajo dejavnost in izplačujejo s tem zakonom določene prejemke.
+
+## 3. člen
+
+Osnova za obračun in plačilo davka je vsako posamezno bruto izplačilo fizični osebi za opravljeno storitev na podlagi pogodbe o delu po zakonu o delovnih razmerjih in zakonu o obligacijskih razmerjih.
+
+V bruto izplačilo iz prejšnjega odstavka se vštevajo tudi vsa povračila stroškov, ki jih je fizična oseba prejela v zvezi z opravljanjem storitve.
+
+Za opravljeno storitev po prvem odstavku tega člena se ne šteje:
+
+- izplačilo fizični osebi, ki opravlja funkcijo na podlagi imenovanja državnega ali drugega organa v skladu z zakonom oziroma drugim aktom,
+
+- izplačilo fizični osebi, ki opravi storitev na podlagi napotitve upravnega organa v skladu z zakonom,
+
+- izplačilo fizični osebi na podlagi napotitve oziroma poziva na določeno opravilo s strani državnega ali drugega organa,
+
+- izplačilo nagrad in povračil stroškov fizični osebi, ki prostovoljno oziroma na podlagi vabila ali poziva sodeluje v prostovoljnih, ljubiteljskih, humanitarnih, invalidskih, izobraževalnih, zdravstvenih, kulturnih, športnih, raziskovalnih dejavnostih ter v dejavnostih društev in njihovih zvez, zaradi uresničevanja ciljev oziroma namenov, zaradi katerih so društva ustanovljena, ne pa v okviru opravljanja gospodarskih dejavnosti po 10. členu zakona o društvih (Uradni list SRS, št. 37/74 in 42/86), ter v sindikalnih in strankarskih dejavnostih, pod pogojem, da izplačila nagrad ne presegajo 150.000 tolarjev letno, povračilo stroškov v zvezi z opravljanjem storitve pa ne presega višine, ki je določena s predpisom vlade.
+
+Za izplačilo za opravljeno storitev po tem zakonu se ne štejejo plačila za uporabo avtorskega dela na podlagi avtorskih pogodb po zakonu o avtorski pravici.
+
+Podrobnejše izvajanje tega zakona predpiše minister, pristojen za finance.
+
+## 4. člen
+
+Davek se ne plačuje od izplačil za začasno ali občasno opravljanje dela učencev in študentov, prejetih preko študentskih ali mladinskih organizacij, ki opravljajo dejavnost posredovanja dela na podlagi pogodbe o koncesiji, v skladu s predpisi na področju zaposlovanja.
+
+Davek se ne plačuje od izplačil za občasno ali začasno nego oziroma pomoč invalidom, ki jih fizičnim osebam izplačujejo invalidske organizacije.
+
+Davek se ne plačuje od izplačil za spravilo pridelkov v okviru sezonskih del na področju hmeljarstva, sadjarstva in vinogradništva, ki jih fizičnim osebam izplačujejo pravne osebe ali zasebniki, registrirani za opravljanje navedenih dejavnosti.
+
+Mnenje o tem, ali gre za spravilo pridelkov v okviru sezonskih del na področju hmeljarstva, sadjarstva in vinogradništva, da minister, pristojen za kmetijstvo.
+
+Davek se ne plačuje od izplačil pri sezonskem tradicionalnem izlovu cipljev in drugih rib, ki se pojavijo hkrati z njimi, ki jih fizičnim osebam izplačuje koncesionar, registriran za opravljanje navedene dejavnosti.
+
+## 5. člen
+
+Davek se plačuje po stopnji 25%.
+
+## 6. člen
+
+Davek se obračunava in plačuje najpozneje v treh dneh po izplačilu.
+
+## 7. člen
+
+Davek je prihodek proračuna Republike Slovenije.
+
+## 8. člen
+
+Pri pravnih osebah se glede kontrole, postopkov in izterjave davka uporabljajo predpisi o službi družbenega knjigovodstva.
+
+Pri zasebnikih, ki opravljajo dejavnost, se glede izterjave davka uporabljajo določbe zakona o davkih občanov o prisilni izterjavi davka.
+
+## 9. člen
+
+Do uveljavitve predpisov o novi organiziranosti davčne službe opravljata nadzor nad obračunavanjem in plačevanjem davka po tem zakonu Služba družbenega knjigovodstva v Republiki Sloveniji in Republiška uprava za javne prihodke v skladu s posebnimi predpisi.
+
+## 10. člen
+
+## 11. člen
+
+**(črtan)**
+
+Z denarno kaznijo najmanj 100.000 tolarjev se kaznuje za prekršek izplačevalec s tem zakonom določenih prejemkov:
+
+- če davka ne obračuna in plača, če davka ne obračuna in plača v določenem roku ali davek obračuna in plača nepravilno (6. člen);
+
+- če je plačilo fizični osebi izvršeno kot plačilo za uporabo avtorskega dela, ki se ne more šteti kot avtorsko delo po zakonu o avtorski pravici (četrti odstavek 3. člena);
+
+- če je plačilo fizični osebi izvršeno kot plačilo za začasno ali občasno opravljanje dela učenca oziroma študenta, prejeto preko študentske ali mladinske organizacije, ki opravlja dejavnost posredovanja dela na podlagi pogodbe o koncesiji v skladu s predpisi na področju zaposlovanja, četudi fizična oseba nima statusa učenca oziroma študenta (4. člen);
+
+- če je plačilo fizični osebi izvršeno kot plačilo, določeno v tretjem odstavku 3. člena tega zakona, četudi fizična oseba ne opravi funkcije ali storitev po tretjem odstavku 3. člena tega zakona.
+
+Z denarno kaznijo najmanj 10.000 tolarjev se kaznuje tudi odgovorna oseba izplačevalca s tem zakonom določenih prejemkov, ki stori prekršek iz prejšnjega odstavka.
+
+---
+
+Zakon o posebnem davku na določene prejemke (Uradni list RS, št. [**72/93**](http://www.uradni-list.si/1/objava.jsp?urlid=199372&stevilka=2632)) vsebuje naslednjo končno določbo:
+
+**»12. člen**
+
+Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.«.
+
+---
+
+Zakon spremembah in dopolnitvah zakona o posebnem davku na določene prejemke (Uradni list RS, št. [**22/94**](http://www.uradni-list.si/1/objava.jsp?urlid=199422&stevilka=954)) vsebuje naslednjo končno določbo:
+
+»5. člen
+
+Ta zakon začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.«.
+
+---
+
+Zakon dopolnitvi zakona o posebnem davku na določene prejemke (Uradni list RS, št. [**45/95**](http://www.uradni-list.si/1/objava.jsp?urlid=199545&stevilka=2162)) vsebuje naslednjo končno določbo:
+
+»2. člen
+
+Ta zakon začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.«.
+
+---
+
+Zakon dopolnitvi zakona o posebnem davku na določene prejemke – ZPDDP-C (Uradni list RS, št. [**12/96**](http://www.uradni-list.si/1/objava.jsp?urlid=199612&stevilka=573)) vsebuje naslednjo končno določbo:
+
+»2. člen
+
+Ta zakon začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.«.

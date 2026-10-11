@@ -1,0 +1,103 @@
+---
+title: "Uredba o ratifikaciji sporazuma med Republiko Slovenijo in Republiko Belorusijo o vzpostavitvi diplomatskih odnosov"
+identifier: "URED1822"
+type: decree
+jurisdiction: si
+language: sl
+act_kind: "Uredba"
+date: 1992-10-01
+published: 1992-10-23
+in_force_from: 1992-10-24
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "Osnovni (izvirno besedilo)"
+citation: "Uradni list RS – Mednarodne pogodbe, št. 14/92"
+adopted_by: "Vlada Republike Slovenije"
+sop: "1992-02-0077"
+source: "https://pisrs.si/pregledPredpisa?id=URED1822"
+retrieved: 2026-10-12
+---
+
+# Uredba o ratifikaciji sporazuma med Republiko Slovenijo in Republiko Belorusijo o vzpostavitvi diplomatskih odnosov
+
+Na podlagi tretjega odstavka 63. člena zakona o zunanjih zadevah (Uradni list RS, št. 1/91-I) izdaja Vlada Republike Slovenije
+
+**UREDBO**
+
+**o ratifikaciji sporazuma med Republiko Slovenijo in Republiko Belorusijo o vzpostavitvi diplomatskih odnosov**
+
+## 1. člen
+
+Ratificira se sporazum med Republiko Slovenijo in Republiko Belorusijo o vzpostavitvi diplomatskih odnosov, podpisan v Minsku 23. julija 1992.
+
+## 2. člen
+
+Sporazum se v izvirniku v slovenskem in angleškem\* jeziku glasi:
+
+**SPORAZUM**
+
+**med Republiko Slovenijo in Republiko Belorusijo o vzpostavitvi diplomatskih odnosov**
+
+Republika Slovenija in Republika Belorusija sta se, v želji okrepiti in razvijati odnose med dvema državama v skladu s cilji in načeli Ustanovne listine Združenih narodov in načeli Sklepne listine Konference o varnosti in sodelovanju v Evropi, sporazumeli o naslednjem:
+
+## 1. člen
+
+Republika Slovenija in Republika Belorusija bosta vzpostavili diplomatske odnose z dnem, ko ta sporazum stopi v veljavo in bosta izmenjali diplomatske predstavnike brž ko bo to mogoče.
+
+## 2. člen
+
+Podpisnici tega sporazuma soglašata, da se bosta v diplomatskih odnosih ravnali po določbah Dunajske konvencije o diplomatskih in odnosih z dne 18. aprila 1961.
+
+## 3. člen
+
+Podpisnici tega sporazuma soglašata, da se bosta v konzularnih odnosih ravnali po določbah Dunajske konvencije o konzularnih odnosih z dne 24. aprila 1963.
+
+## 4. člen
+
+Ta sporazum stopi v veljavo z dnem podpisa.
+
+Ta sporazum je podpisan v slovenskem, Beloruskem in angleškem jeziku, pri čemer so vsi izvodi enako veljavni.
+
+Minsk, dne 23. julija 1992.
+
+Za Republiko Slovenijo dr. Dimitrij Rupel l. r. Za Republiko Belorusijo Pjotr K. Kravčenko l. r.
+
+**AGREEMENT**
+
+**between the Republic of Slovenia and the Republic of Belarus regarding the establishment of diplomatic relations**
+
+The Republic of Slovenia and the Republic of Belarus, guided by a desire to strengthen and develop relations between the two countries in accordance with the purposes and principles of the Charter of the United Nations and the principles of the Final Act of the Conference on Security and Cooperation in Europe, have agreed as follows:
+
+**Article 1**
+
+The Republic of Slovenia and the Republic of Belarus will establish diplomatic relations with each other on the day this Agreement enters into force and will exchange diplomatic representatives as soon as possible.
+
+**Article 2**
+
+The Parties to this Agreement agree that the provisions of Vienna Convention on Diplomatic Relations of 18 April 1961 shall apply to diplomatic relations between them.
+
+**Article 3**
+
+The Parties to this Agreement agree that the provisions of Vienna Convention on Consular Relations of 24 April 1963 shall apply to consular relations between them.
+
+**Article 4**
+
+This Agreement enters into force upon signature. This Agreement is signed in the Slovene. Belarusian and English languages, all texts being equally authentic.
+
+Minsk, July 23, 1992
+
+For the Republic of Slovenia Dr. Dimitrij Rupel (s) For the Republic of Belarus Pjotr K. Kravčenko, (s)
+
+## 3. člen
+
+Ta uredba prične veljati naslednji dan po objavi v Uradnem listu Republike Slovenije – Mednarodne pogodbe.
+
+Št. 900-04/92-54/1-8
+
+Ljubljana, dne 1. oktobra 1992.
+
+**Vlada Republike Slovenije**
+
+dr. Janez Drnovšek l. r. Predsednik
+
+\* Izvirnik v beloruskem jeziku je na vpogled v Službi za mednarodnopravne zadeve Ministrstva za zunanje zadeve.

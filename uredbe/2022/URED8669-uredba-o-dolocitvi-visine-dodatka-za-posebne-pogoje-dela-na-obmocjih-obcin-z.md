@@ -1,0 +1,94 @@
+---
+title: "Uredba o določitvi višine dodatka za posebne pogoje dela na območjih občin z nižjo razvitostjo"
+identifier: "URED8669"
+type: decree
+jurisdiction: si
+language: sl
+act_kind: "Uredba"
+date: 2022-10-13
+published: 2022-10-14
+in_force_from: 2022-10-15
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "Osnovni (izvirno besedilo)"
+citation: "Uradni list RS, št. 132/22"
+adopted_by: "Vlada Republike Slovenije"
+eva: "2022-2711-0106"
+sop: "2022-01-3200"
+source: "https://pisrs.si/pregledPredpisa?id=URED8669"
+retrieved: 2026-10-12
+---
+
+# Uredba o določitvi višine dodatka za posebne pogoje dela na območjih občin z nižjo razvitostjo
+
+Na podlagi četrtega odstavka 16. člena Zakona o nujnih ukrepih za zagotovitev stabilnosti zdravstvenega sistema (Uradni list RS, št. 100/22) Vlada Republike Slovenije izdaja
+
+**UREDBO**
+
+**o določitvi višine dodatka za posebne pogoje dela na območjih občin z nižjo razvitostjo**
+
+### 1. člen
+
+**(vsebina)**
+
+Ta uredba določa:
+
+- višino dodatka za posebne pogoje dela na območjih občin z nižjo razvitostjo,
+
+- način vlaganja zahtevkov, obvezna dokazila in roke za vložitev zahtevkov za dodatek iz prejšnje alineje za zdravnike, ki opravljajo zdravniško službo na primarni ravni zdravstvene dejavnosti v mreži javne zdravstvene službe na območjih občin z nižjo razvitostjo (v nadaljnjem besedilu: zdravnik),
+
+- poročanje.
+
+### 2. člen
+
+**(višina dodatka)**
+
+Višina dodatka za posebne pogoje dela na območjih občin z nižjo razvitostjo se določi glede na število opredeljenih pacientov na posameznega zdravnika, in sicer z upoštevanjem meril, določenih v Prilogi, ki je sestavni del te uredbe.
+
+### 3. člen
+
+**(odločanje o višini dodatka)**
+
+Višino dodatka iz prejšnjega člena ob upoštevanju meril iz Priloge te uredbe s sklepom določi izvajalec zdravstvene dejavnosti (v nadaljnjem besedilu: izvajalec).
+
+### 4. člen
+
+**(način in rok vlaganja zahtevkov)**
+
+(1) Izvajalec zahtevke za izplačilo za financiranje dodatka na podlagi četrtega odstavka 16. člena Zakona o nujnih ukrepih za zagotovitev stabilnosti zdravstvenega sistema (Uradni list RS, št. 100/22; v nadaljnjem besedilu: zakon) vloži na ministrstvo, pristojno za zdravje (v nadaljnjem besedilu: ministrstvo), preko UJP-net v elektronski obliki (e-Račun).
+
+(2) Izvajalec na zahtevku za izplačilo dodatka za posebne pogoje dela na območjih občin z nižjo razvitostjo prikaže obseg sredstev po posameznih mesecih in skupaj.
+
+(3) Izvajalec zahtevek za izplačilo sredstev iz proračuna Republike Slovenije vloži pri ministrstvu do 20. v mesecu za pretekli mesec. Sredstva se izvajalcu izplačajo najpozneje do zadnjega dne meseca, ki sledi mesecu, v katerem je bil popolni zahtevek posredovan. Če je zahtevek izstavljen po roku iz prvega stavka tega odstavka, se obravnava in izplača skupaj z zahtevkom naslednjega obdobja.
+
+### 5. člen
+
+**(hramba dokumentacije)**
+
+Za potrebe nadzora iz šestega odstavka 16. člena zakona se dokumentacija, povezana z izplačili dodatka za posebne pogoje dela na območjih občin z nižjo razvitostjo, hrani vsaj tri leta.
+
+### 6. člen
+
+**(poročanje)**
+
+Izvajalec ob vložitvi zahtevka iz 4. člena te uredbe pošlje ministrstvu poročilo o stanju glede izplačanega dodatka iz te uredbe po delovnih mestih, višini izplačila dodatka in doseganju meril iz Priloge te uredbe.
+
+## KONČNA DOLOČBA
+
+### 7. člen
+
+**(začetek veljavnosti)**
+
+Ta uredba začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.
+
+Št. 00704-368/2022
+
+Ljubljana, dne 13. oktobra 2022
+
+EVA 2022-2711-0106
+
+Vlada Republike Slovenije **dr. Robert Golob** predsednik
+
+---
+
+[**Priloga: Merila za določitev višine dodatka za posebne pogoje dela na območjih občin z nižjo razvitostjo**](https://pisrs.si/api/datoteke/integracije/355301244)

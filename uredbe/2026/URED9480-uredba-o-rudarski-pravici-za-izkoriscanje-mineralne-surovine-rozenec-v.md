@@ -1,0 +1,285 @@
+---
+title: "Uredba o rudarski pravici za izkoriščanje mineralne surovine roženec v pridobivalnem prostoru Jersovec IIb v občini Mirna"
+identifier: "URED9480"
+type: decree
+jurisdiction: si
+language: sl
+act_kind: "Uredba"
+date: 2026-02-10
+published: 2026-02-13
+in_force_from: 2026-02-14
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "Osnovni (izvirno besedilo)"
+citation: "Uradni list RS, št. 11/26"
+adopted_by: "Vlada Republike Slovenije"
+eva: "2025-2560-0030"
+sop: "2026-01-0362"
+source: "https://pisrs.si/pregledPredpisa?id=URED9480"
+retrieved: 2026-10-12
+---
+
+# Uredba o rudarski pravici za izkoriščanje mineralne surovine roženec v pridobivalnem prostoru Jersovec IIb v občini Mirna
+
+Na podlagi prvega odstavka 35. člena Zakona o rudarstvu (Uradni list RS, št. 14/14 – uradno prečiščeno besedilo, 61/17 – GZ, 54/22, 78/23 – ZUNPEOVE in 81/24) Vlada Republike Slovenije izdaja
+
+**UREDBO**
+
+**o rudarski pravici za izkoriščanje mineralne surovine roženec v pridobivalnem prostoru Jersovec IIb v občini Mirna**
+
+## I. SPLOŠNE DOLOČBE
+
+### 1. člen
+
+**(vsebina)**
+
+Ta uredba je rudarski koncesijski akt, ki določa pogoje za podelitev in izvajanje rudarske pravice za izkoriščanje mineralne surovine roženec v pridobivalnem prostoru Jersovec IIb v občini Mirna.
+
+### 2. člen
+
+**(koncesijska pogodba)**
+
+Ob neskladju med določbami te uredbe in koncesijske pogodbe veljajo določbe te uredbe.
+
+### 3. člen
+
+**(splošni varstveni pogoji in ukrepi)**
+
+(1) Nosilec rudarske pravice za izkoriščanje mora med izvajanjem rudarske pravice in opustitvijo izvajanja rudarskih del izpolnjevati tudi vse pogoje po predpisih, ki urejajo ceste, gozdove, varstvo okolja, ohranjanje narave, varstvo voda, varstvo kulturne dediščine, varstvo pred naravnimi in drugimi nesrečami, ter po drugih predpisih, s katerimi se urejajo rudarska dela.
+
+(2) Poleg izpolnjevanja pogojev iz prejšnjega odstavka mora nosilec rudarske pravice za izkoriščanje zagotoviti še:
+
+1. ukrepe, da se predvideni poseg v okolje izvede tako, da je poraba prostora, tal in energije čim manjša;
+
+2. ukrepe, s katerimi se dosega največje mogoče varstvo okolja pred degradacijo tal ter izpustom plinastih, tekočih ali trdnih snovi v zrak, tla, površinske vode ali podtalnico;
+
+3. ukrepe za preprečevanje čezmernega onesnaževanja okolja s hrupom;
+
+4. smotrno izkoriščanje mineralne surovine z uporabo ustrezne sodobne tehnologije;
+
+5. upoštevanje pravil ravnanja, varstvenih režimov, izhodišč in naravovarstvenih pogojev za varstvo naravnih vrednot in ohranjanje biotske raznovrstnosti;
+
+6. ukrepe za zmanjšanje tveganja in nevarnosti za okolje ob morebitni ekološki nesreči zaradi posega;
+
+7. ukrepe za zavarovanje vodnih virov, če koncesionar odkrije nahajališče vode;
+
+8. dovozne poti do kraja posega in njihovo primerno ureditev;
+
+9. ukrepe za preprečitev razlitja motornega olja in naftnih derivatov;
+
+10. ukrepe v zvezi s sanacijo in vnovično ureditvijo tal in zemljišč med dejavnostjo in po njej, in sicer tako, da se kar najbolj vzpostavi izboljšano ali nadomesti prejšnje okoljsko stanje, ter
+
+11. ukrepe, da se ne poslabšata stanje tal in voda ter vodni režim.
+
+### 4. člen
+
+**(zagotavljanje varnosti in zdravja pri delu)**
+
+Varnost in zdravje pri delu nosilec rudarske pravice za izkoriščanje zagotavlja v skladu z zakonom, ki ureja rudarstvo.
+
+### 5. člen
+
+**(obveznost obveščanja in poročanja)**
+
+Nosilec rudarske pravice za izkoriščanje organom in zavodom poroča v skladu s predpisi, ki urejajo rudarstvo, vode, varstvo podzemnih jam, ohranjanje narave in varstvo okolja, ter drugimi predpisi.
+
+### 6. člen
+
+**(obveznost plačila rudarske koncesnine in rezerviranih sredstev za sanacijo)**
+
+(1) Nosilec rudarske pravice za izkoriščanje postane z dnem veljavnosti koncesijske pogodbe zavezanec za plačevanje rudarske koncesnine ter za zagotavljanje in plačevanje rezerviranih sredstev za sanacijo v skladu z zakonom, ki ureja rudarstvo.
+
+(2) Rudarska koncesnina se odmerja, plačuje in usklajuje v skladu z zakonom, ki ureja rudarstvo, ter predpisom, ki ureja plačevanje rudarskih koncesnin.
+
+(3) Rezervirana sredstva za sanacijo se zagotavljajo, odmerjajo, plačujejo in usklajujejo v skladu z zakonom, ki ureja rudarstvo, ter predpisom, ki ureja plačevanje sredstev za sanacijo.
+
+### 7. člen
+
+**(prenehanje koncesijskega razmerja in koncesijske pogodbe)**
+
+Koncesijsko razmerje in koncesijska pogodba prenehata iz razlogov in na način po zakonu, ki ureja rudarstvo.
+
+### 8. člen
+
+**(odvzem rudarske pravice)**
+
+Rudarska pravica za izkoriščanje se odvzame iz razlogov in na način po zakonu, ki ureja rudarstvo.
+
+## II. MINERALNA SUROVINA, PRIDOBIVALNI PROSTOR IN POGOJI, POD KATERIMI SE PODELJUJE RUDARSKA PRAVICA ZA IZKORIŠČANJE
+
+### 9. člen
+
+**(izkoriščanje mineralne surovine roženec v pridobivalnem prostoru Jersovec IIb v občini Mirna)**
+
+(1) Predmet rudarske pravice je izkoriščanje mineralne surovine roženec v količini do 418 701 (štiristo osemnajst tisoč sedemsto en) kubični meter v raščenem stanju.
+
+(2) Pridobivalni prostor Jersovec IIb pomeni širitev pridobivalnega prostora Jersovec II, in sicer v obsegu iz tretjega, četrtega in petega odstavka tega člena, ki v celoti zajema tudi pridobivalni prostor Jersovec II.
+
+(3) Predvideni pridobivalni prostor Jersovec IIb obsega ta zemljišča in dele zemljišč v katastrski občini 1409 – Brezovica v občini Mirna:
+
+- v celoti zemljišča s parcelnimi številkami 313/3, 316/3, 320/2, 320/5, 320/6 in 1728/4,
+
+- del zemljišča s parcelno številko 320/4, ki je severovzhodno od premice, ki poteka skozi točki P1 in P2,
+
+- del zemljišča s parcelno številko 313/1, ki je severozahodno od poligona točk P3\*-P4-P5-P6-P7-P8-P9\*.
+
+(4) Točke iz prejšnjega odstavka so določene s temi koordinatami v koordinatnem sistemu ETRS D96/TM ali opisno:
+
+<div>
+<table><caption><label>Tabela 1: </label> </caption><tbody><tr><td>
+<div>
+      Točka
+     </div></td><td>
+<div>
+      e
+     </div></td><td>
+<div>
+      n
+     </div></td></tr><tr><td>
+<div>
+      P1
+     </div></td><td>
+<div>
+      504078
+     </div></td><td>
+<div>
+      88163
+     </div></td></tr><tr><td>
+<div>
+      P2
+     </div></td><td>
+<div>
+      504025
+     </div></td><td>
+<div>
+      88263
+     </div></td></tr><tr><td>
+<div>
+      P3
+     </div></td><td>
+<div>
+      504414
+     </div></td><td>
+<div>
+      88267
+     </div></td></tr><tr><td>
+<div>
+      P3*
+     </div></td><td colspan="2">
+<div>
+      presečišče premice skozi točki P3 in P4 ter meje med zemljiščema s parc. št. 313/1 in 312/2, obe k. o. 1409 – Brezovica
+     </div></td></tr><tr><td>
+<div>
+      P4
+     </div></td><td>
+<div>
+      504427
+     </div></td><td>
+<div>
+      88228
+     </div></td></tr><tr><td>
+<div>
+      P5
+     </div></td><td>
+<div>
+      504429
+     </div></td><td>
+<div>
+      88181
+     </div></td></tr><tr><td>
+<div>
+      P6
+     </div></td><td>
+<div>
+      504466
+     </div></td><td>
+<div>
+      88161
+     </div></td></tr><tr><td>
+<div>
+      P7
+     </div></td><td>
+<div>
+      504402
+     </div></td><td>
+<div>
+      88022
+     </div></td></tr><tr><td>
+<div>
+      P8
+     </div></td><td>
+<div>
+      504359
+     </div></td><td>
+<div>
+      88025
+     </div></td></tr><tr><td>
+<div>
+      P9*
+     </div></td><td colspan="2">
+<div>
+      tromeja zemljišč s parc. št. 1728/4, 1728/5 in 313/1, vse k. o. 1409 – Brezovica
+     </div></td></tr></tbody></table>
+</div>
+
+(5) Pridobivalni prostor Jersovec IIb v najglobljem delu sega do kote 280 metrov nadmorske višine.
+
+(6) Skupna površina pridobivalnega prostora Jersovec IIb je 9,8041 hektarja.
+
+(7) Koncesija za izkoriščanje se podeli za 47 let. Podaljšanje rudarske pravice se lahko izvede v skladu z zakonom, ki ureja rudarstvo.
+
+(8) Rudarska pravica za izkoriščanje se podeli brez javnega razpisa pravni osebi RHI Magnesita KREMEN, Pridobivanje drugih rudnin in kamnin, d. o. o., Dolenje Mokro Polje 40, 8310 Šentjernej, matična številka 2143968000 (v nadaljnjem besedilu: RHI Magnesita KREMEN, d. o. o.). O podelitvi rudarske pravice se izda odločba o izbiri nosilca rudarske pravice v skladu z zakonom, ki ureja rudarstvo. Rudarska pravica se podeli z dnem sklenitve koncesijske pogodbe.
+
+(9) Nosilec rudarske pravice mora do izteka koncesije iz prejšnjega odstavka izvesti tudi opustitev izkoriščanje oziroma izvesti sanacijo okolja ter odpraviti posledice izvajanja rudarskih del in ukrepe zavarovanja, da se izključijo nevarnost za zdravje ali življenje ljudi in živali ter možni povzročitelji onesnaževanja okolja ali predvidljive škode na objektih in okolju.
+
+(10) Drugi pogoji s področja varstva okolja, ohranjanja narave, varstva voda, varstva kulturne dediščine, varstva pred naravnimi in drugimi nesrečami ter druge obveznosti, ki jih je treba izpolniti pred sklenitvijo koncesijske pogodbe, so:
+
+a) revidirani rudarski projekt za pridobitev koncesije za izkoriščanje, ki ga nosilec rudarske pravice priloži predlogu za sklenitev koncesijske pogodbe, mora biti izdelan v skladu z zakonom, ki ureja rudarstvo, na njegovi podlagi izdanimi predpisi in določbami te uredbe. Pridobivalni prostor in njegova raba morata biti v skladu z dokumenti urejanja prostora;
+
+b) pridobitev soglasij, mnenj in dovoljenj pristojnih soglasodajalcev in mnenjedajalcev k rudarskemu projektu za pridobitev koncesije za izkoriščanje ter dovoljenj in drugih aktov po predpisih, ki urejajo varstvo okolja, ceste, vode, naravo, naravne vrednote, kulturno dediščino in drugo;
+
+c) pridobitev okoljevarstvenega soglasja ali sklepa v predhodnem postopku na podlagi predpisa, ki ureja presojo vplivov na okolje;
+
+č) upoštevanje naravovarstvenih smernic Zavoda Republike Slovenije za varstvo narave št. 3563-0137/2025-2 z dne 22. aprila 2025, ki so objavljene na spletnih straneh ministrstva, pristojnega za rudarstvo, in bodo sestavni del odločbe o izbiri nosilca rudarske pravice za izkoriščanje.
+
+(11) Pridobivalni prostor je treba sanirati v skladu s potrjenim rudarskim projektom iz prejšnjega odstavka. Pred popolno in trajno opustitvijo izvajanja rudarskih del mora nosilec rudarske pravice za izkoriščanje pri ministrstvu, pristojnem za rudarstvo, vložiti vlogo za izdajo dovoljenja za opustitev rudarskih del.
+
+(12) Elaborat o zalogah in virih mineralnih surovin je treba izdelati v enem letu od dneva podpisa koncesijske pogodbe.
+
+(13) Sanacija pridobivalnega prostora se izvede v skladu s potrjenim rudarskim projektom za pridobitev koncesije za izkoriščanje. Po dokončanih zapiralnih delih oziroma po izvedeni dokončni sanaciji okolja nosilec rudarske pravice za izkoriščanje pri ministrstvu, pristojnem za rudarstvo, vloži vlogo za izdajo odločbe o prenehanju pravic in obveznosti.
+
+(14) V zvezi z mineralno surovino iz prvega odstavka tega člena se lahko opravljajo te dejavnosti:
+
+- pridobivanje mineralne surovine;
+
+- skladiščenje in obogatitev mineralne surovine ter
+
+- uporaba mineralne surovine in proizvodov njene obogatitve za lastne potrebe in prodajo na trgu.
+
+## III. PREHODNA IN KONČNI DOLOČBI
+
+### 10. člen
+
+**(obveznost sanacije in rekultivacije iz predhodne rudarske pravice)**
+
+RHI Magnesita KREMEN, d. o. o., mora izvesti dokončno sanacijo in rekultivacijo zemljišč pridobivalnega prostora Jersovec II v skladu s koncesijsko pogodbo št. 0141-48/2005 z dne 25. januarja 2006 in njenimi dodatki, razen če sklene novo koncesijsko pogodbo na podlagi 9. člena te uredbe.
+
+### 11. člen
+
+**(prenehanje veljavnosti koncesijskega akta)**
+
+Z dnem uveljavitve te uredbe preneha veljati 99. točka iz priloge »Seznam pravnih in fizičnih oseb po drugem odstavku 2. člena uredbe – Izkoriščanje mineralnih surovin« Uredbe o podelitvi rudarske pravice imetnikom dovoljenj za raziskovanje oziroma pridobivanje mineralnih surovin (Uradni list RS, št. 103/00, 81/02, 26/18, 60/18, 62/19, 97/20, 124/20, 152/20, 168/20, 191/20, 22/21, 31/21, 31/21, 54/21, 74/21, 87/21, 6/22, 38/22, 47/22, 79/23, 47/24, 70/24, 39/25 in 110/25), se pa še naprej uporablja do sklenitve koncesijske pogodbe na podlagi 9. člena te uredbe oziroma do izdaje odločbe o prenehanju pravic in obveznosti za pridobivalni prostor Jersovec II, če se koncesijska pogodba na podlagi te uredbe ne sklene.
+
+### 12. člen
+
+**(začetek veljavnosti)**
+
+Ta uredba začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.
+
+Št. 00704-40/2026
+
+Ljubljana, dne 10. februarja 2026
+
+EVA 2025-2560-0030
+
+Vlada Republike Slovenije Matej Arčon podpredsednik

@@ -1,0 +1,58 @@
+---
+title: "Uredba o določitvi zunanje meje priobalnega zemljišča na nekaterih zemljiških parcelah na desnem bregu reke Pake v Mestni občini Velenje"
+identifier: "URED5862"
+type: decree
+jurisdiction: si
+language: sl
+act_kind: "Uredba"
+date: 2011-11-10
+published: 2011-11-18
+in_force_from: 2011-11-19
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "Osnovni (izvirno besedilo)"
+citation: "Uradni list RS, št. 93/11"
+adopted_by: "Vlada Republike Slovenije"
+eva: "2011-2511-0090"
+sop: "2011-01-3955"
+source: "https://pisrs.si/pregledPredpisa?id=URED5862"
+retrieved: 2026-10-12
+---
+
+# Uredba o določitvi zunanje meje priobalnega zemljišča na nekaterih zemljiških parcelah na desnem bregu reke Pake v Mestni občini Velenje
+
+Na podlagi šestega odstavka 14. člena Zakona o vodah (Uradni list RS, št. 67/02, 110/02 – ZGO-1, 2/04 – ZZdrl-A, 41/04 – ZVO-1 in 57/08) izdaja Vlada Republike Slovenije
+
+**UREDBO**
+
+**o določitvi zunanje meje priobalnega zemljišča na nekaterih zemljiških parcelah na desnem bregu reke Pake v Mestni občini Velenje**
+
+## 1. člen
+
+Ta uredba določa zunanjo mejo priobalnega zemljišča na nekaterih zemljiških parcelah na desnem bregu reke Pake v Mestni občini Velenje, ki zožuje priobalno zemljišče.
+
+## 2. člen
+
+(1) Zunanja meja priobalnega zemljišča na desnem bregu reke Pake, v centru mesta Velenje, poteka po zemljiščih s parc. št. 3590, 2703/5, 3608/8 in 2702/6, vse k.o. Velenje, in sega pet metrov stran od vodnega zemljišča reke Pake s parc. št. 3608/1, k.o. Velenje.
+
+(2) Zunanja meja priobalnega zemljišča iz prejšnjega odstavka je določena s točkami državnega koordinatnega sistema v prilogi 1, ki je sestavni del te uredbe.
+
+## 3. člen
+
+Podatek o širini in zunanji meji priobalnega zemljišča iz prejšnjega člena se vnese kot podatek v zemljiški kataster oziroma v evidenco pravnih režimov v skladu s predpisi, ki urejajo evidentiranje nepremičnin.
+
+## 4. člen
+
+Ta uredba začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.
+
+Št. 00719-51/2011
+
+Ljubljana, dne 10. novembra 2011
+
+EVA 2011-2511-0090
+
+Vlada Republike Slovenije mag. Mitja Gaspari l.r. Minister
+
+---
+
+[**Koordinate točk zunanje meje priobalnega zemljišča na desnem bregu reke Pake v k.o. Velenje**](https://pisrs.si/api/datoteke/integracije/353656987)

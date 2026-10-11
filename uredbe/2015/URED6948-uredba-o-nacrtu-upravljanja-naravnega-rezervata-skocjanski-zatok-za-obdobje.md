@@ -1,0 +1,60 @@
+---
+title: "Uredba o Načrtu upravljanja Naravnega rezervata Škocjanski zatok za obdobje 2015–2024"
+identifier: "URED6948"
+type: decree
+jurisdiction: si
+language: sl
+act_kind: "Uredba"
+date: 2015-12-23
+published: 2015-12-24
+in_force_from: 2016-01-08
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "Osnovni (izvirno besedilo)"
+citation: "Uradni list RS, št. 102/15"
+adopted_by: "Vlada Republike Slovenije"
+eva: "2015-2550-0022"
+sop: "2015-01-4088"
+source: "https://pisrs.si/pregledPredpisa?id=URED6948"
+retrieved: 2026-10-12
+---
+
+# Uredba o Načrtu upravljanja Naravnega rezervata Škocjanski zatok za obdobje 2015–2024
+
+Na podlagi tretjega odstavka 60. člena Zakona o ohranjanju narave (Uradni list RS, št. 96/04 – uradno prečiščeno besedilo, 61/06 – ZDru-1, 8/10 – ZSKZ-B in 46/14) in v zvezi s prvim odstavkom 15. člena Uredbe o Naravnem rezervatu Škocjanski zatok (Uradni list RS, št. 75/13 in 46/14 – ZON-C) izdaja Vlada Republike Slovenije
+
+**UREDBO**
+
+**o Načrtu upravljanja Naravnega rezervata Škocjanski zatok za obdobje 2015–2024**
+
+## 1. člen
+
+S to uredbo se sprejme Načrt upravljanja Naravnega rezervata Škocjanski zatok za obdobje 2015–2024 (v nadaljnjem besedilu: načrt upravljanja).
+
+## 2. člen
+
+Načrt upravljanja vsebuje analizo in oceno obstoječega stanja ter določa vizijo varstva in razvoja Naravnega rezervata Škocjanski zatok (v nadaljnjem besedilu: naravni rezervat), dolgoročne in operativne cilje upravljanja naravnega rezervata, način njihovega uresničevanja in preverjanja njihove učinkovitosti.
+
+## 3. člen
+
+Načrt upravljanja je kot priloga sestavni del te uredbe.
+
+## 4. člen
+
+Ta uredba začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.
+
+Št. 00719-82/2015
+
+Ljubljana, dne 23. decembra 2015
+
+EVA 2015-2550-0022
+
+**Vlada Republike Slovenije**
+
+**dr. Miroslav Cerar** l.r.
+
+Predsednik
+
+---
+
+[Priloga: Načrt upravljanja Naravnega rezervata Škocjanski zatok za obdobje 2015–2024](https://pisrs.si/api/datoteke/integracije/355064174)

@@ -1,0 +1,183 @@
+---
+title: "Uredba o sejninah in povračilih stroškov v javnih skladih, javnih agencijah, javnih zavodih in javnih gospodarskih zavodih"
+identifier: "URED5050"
+type: decree
+jurisdiction: si
+language: sl
+act_kind: "Uredba"
+date: 2009-02-19
+published: 2009-02-27
+in_force_from: 2009-02-28
+last_amended: 2015-01-30
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "NPB 4 (neuradno prečiščeno besedilo)"
+citation: "Uradni list RS, št. 16/09, 107/10, 66/12, 51/13 in 6/15"
+adopted_by: "Vlada Republike Slovenije"
+eva: "2009-1611-0004"
+sop: "2009-01-0557"
+source: "https://pisrs.si/pregledPredpisa?id=URED5050"
+retrieved: 2026-10-12
+---
+
+# Uredba o sejninah in povračilih stroškov v javnih skladih, javnih agencijah, javnih zavodih in javnih gospodarskih zavodih
+
+*Opozorilo: Neuradno prečiščeno besedilo predpisa predstavlja zgolj informativni delovni pripomoček, glede katerega organ ne jamči odškodninsko ali kako drugače.*
+
+Neuradno prečiščeno besedilo Uredbe o sejninah in povračilih stroškov v javnih skladih, javnih agencijah, javnih zavodih in javnih gospodarskih zavodih obsega:
+
+- Uredbo o sejninah in povračilih stroškov v javnih skladih, javnih agencijah, javnih zavodih in javnih gospodarskih zavodih (Uradni list RS, št. 16/09 z dne 27. 2. 2009),
+
+- Uredbo o spremembi Uredbe o sejninah in povračilih stroškov v javnih skladih, javnih agencijah, javnih zavodih in javnih gospodarskih zavodih (Uradni list RS, št. 107/10 z dne 29. 12. 2010),
+
+- Uredbo o spremembi Uredbe o sejninah in povračilih stroškov v javnih skladih, javnih agencijah, javnih zavodih in javnih gospodarskih zavodih (Uradni list RS, št. 66/12 z dne 27. 8. 2012),
+
+- Uredbo o spremembah Uredbe o sejninah in povračilih stroškov v javnih skladih, javnih agencijah, javnih zavodih in javnih gospodarskih zavodih (Uradni list RS, št. 51/13 z dne 14. 6. 2013),
+
+- Uredbo o spremembah Uredbe o sejninah in povračilih stroškov v javnih skladih, javnih agencijah, javnih zavodih in javnih gospodarskih zavodih (Uradni list RS, št. 6/15 z dne 30. 1. 2015).
+
+**UREDBA**
+
+**o sejninah in povračilih stroškov v javnih skladih, javnih agencijah, javnih zavodih in javnih gospodarskih zavodih**
+
+*(neuradno prečiščeno besedilo št. 4)*
+
+## I. SPLOŠNI DOLOČBI
+
+### 1. člen
+
+Ta uredba določa način izračuna višine sejnine, stroške, do povračila katerih je upravičen član sveta javne agencije, nadzornega sveta javnega sklada, sveta javnega zavoda ali upravnega odbora javnega gospodarskega zavoda, in postopek za izplačilo sejnine in povračila stroškov.
+
+### 2. člen
+
+Izrazi, uporabljeni v tej uredbi, pomenijo:
+
+1. »oseba javnega sektorja« je pravna oseba, organizirana kot javni sklad ali javna agencija, ki jo je ustanovila država ali lokalna skupnost, oziroma javni zavod ali javni gospodarski zavod, ki ga je ustanovila Republika Slovenija, razen šol (srednjih šol in univerz) ter Zdravstvenega doma za študente Univerze v Ljubljani,
+
+2. »organ« je organ nadzora oziroma upravljanja v osebi javnega sektorja kot nadzorni svet javnega sklada, svet javne agencije, svet javnega zavoda ali upravni odbor javnega gospodarskega zavoda,
+
+3. »član« je vsaka oseba, imenovana za določen mandat v organ osebe javnega sektorja,
+
+4. »sejnina« je plačilo za opravljeno delo člana v organu osebe javnega sektorja in za odgovornost, ki izhaja iz tega dela,
+
+5. »stroški oziroma povračila stroškov«, do katerih je član upravičen, so izdatki, ki jih je imel član v zvezi z delom organa in za katere lahko zahteva povračilo v skladu z določbami te uredbe.
+
+## II. SEJNINA
+
+### 3. člen
+
+Sejnina je sestavljena iz stalnega in spremenljivega dela. Vsota obeh delov je polna višina redne sejnine (v nadaljnjem besedilu: redna sejnina), izražena v bruto znesku.
+
+### 4. člen
+
+Stalni del sejnine znaša 50 eurov, razen v javnih agencijah, ustanovljenih za opravljanje regulatornih nalog, v katerih znaša 75 eurov, in v javnih skladih, v katerih znaša 25 eurov.
+
+### 5. člen
+
+(1) Spremenljivi del sejnine je seštevek:
+
+- dela A, ki se nanaša na bilančno vsoto osebe javnega sektorja (aktiva skupaj), in
+
+- dela B, ki se nanaša na število zaposlenih v osebi javnega sektorja.
+
+(2) Dela A in B se izračunata na naslednji način:
+
+<table><tbody><tr><td colspan="2"> <p><span> </span></p> </td><td> <p><span>A =</span></p> </td></tr><tr><td colspan="2"> <p><span>Če znesek bilančne vsote osebe javnega sektorja ob koncu preteklega poslovnega leta znaša:</span></p> </td><td> <p><span> </span></p> </td></tr><tr><td> <p><span> </span></p> </td><td> <p><span>do 4 milijone eurov</span></p> </td><td> <p><span>5,00 eurov</span></p> </td></tr><tr><td> <p><span>nad 4 milijone eurov</span></p> </td><td> <p><span>do 40 milijonov eurov</span></p> </td><td> <p><span>7,50 eura</span></p> </td></tr><tr><td> <p><span>nad 40 milijonov eurov</span></p> </td><td> <p><span>do 200 milijonov eurov</span></p> </td><td> <p><span>10,00 eurov</span></p> </td></tr><tr><td> <p><span>nad 200 milijonov eurov</span></p> </td><td> <p><span>do 400 milijonov eurov</span></p> </td><td> <p><span>12,50 eura</span></p> </td></tr><tr><td> <p><span>nad 400 milijonov eurov</span></p> </td><td> <p><span> </span></p> </td><td> <p><span>15,00 eurov</span></p> </td></tr></tbody></table>
+
+<table><tbody><tr><td colspan="2"> <p><span> </span></p> </td><td> <p><span>B =</span></p> </td></tr><tr><td colspan="2"> <p><span>Če število zaposlenih v osebi javnega sektorja ob koncu preteklega poslovnega leta znaša</span></p> </td><td> <p><span> </span></p> </td></tr><tr><td> <p><span> </span></p> </td><td> <p><span>do 30</span></p> </td><td> <p><span>2,50 eura</span></p> </td></tr><tr><td> <p><span>nad 30</span></p> </td><td> <p><span>do 100</span></p> </td><td> <p><span>5,00 eurov</span></p> </td></tr><tr><td> <p><span>nad 100</span></p> </td><td> <p><span>do 500</span></p> </td><td> <p><span>7,50 eura</span></p> </td></tr><tr><td> <p><span>nad 500</span></p> </td><td> <p><span>do 1.000</span></p> </td><td> <p><span>10,00 eurov</span></p> </td></tr><tr><td> <p><span>nad 1.000</span></p> </td><td> <p><span>do 3.000</span></p> </td><td> <p><span>12,50 eura</span></p> </td></tr><tr><td> <p><span>nad 3.000</span></p> </td><td> <p><span> </span></p> </td><td> <p><span>15,00 eurov</span></p> </td></tr></tbody></table>
+
+(3) Če gre za prvo leto poslovanja osebe javnega sektorja, se podatki o bilančni vsoti nanašajo na prvo poslovno leto. V tem primeru podatki za izračun sejnine izhajajo iz finančnega načrta osebe javnega sektorja za prvo poslovno leto, za katero je ustanovitelj dal soglasje.
+
+### 6. člen
+
+Sejnina, izračunana v skladu s 3. do 5. členom te uredbe, je redna sejnina.
+
+### 7. člen
+
+(1) Višina redne sejnine, ki se izplačuje članom organa, je odvisna od vrste dela organa.
+
+(2) Član je upravičen do sejnine, če je sodeloval pri delu organa na:
+
+- redni ali izredni seji – v višini redne sejnine za vsako udeležbo na seji,
+
+- dopisni seji – v višini 50 odstotkov redne sejnine za vsako udeležbo na seji.
+
+### 8. člen
+
+Predsednik organa je za pripravo in vodenje seje upravičen do sejnine v višini 130 odstotkov sejnine, do katere so upravičeni člani in je opredeljena v prvi in drugi alinei drugega odstavka prejšnjega člena. Če je zaradi predsednikove odsotnosti vodil sejo organa drug član, je ta upravičen do sejnine v enaki višini, kot bi jo prejel predsednik, če bi vodil sejo. Določba prejšnjega stavka ne velja, če je vodil sejo le deloma zaradi predčasnega odhoda predsednika.
+
+## III. POVRAČILA DRUGIH STROŠKOV
+
+### 9. člen
+
+(1) Član je upravičen do povračil neto zneskov naslednjih stroškov:
+
+- dnevnice,
+
+- prevoznih stroškov in
+
+- stroškov za prenočišče.
+
+(2) Član ni upravičen do povračil stroškov, če mu jih povrne njegov delodajalec. Član lahko opravlja delo v organu samo izven rednega delovnega časa. Če delo v organu opravlja med rednim delovnim časom, mora koristiti dopust oziroma presežek ur ali nadur.
+
+### 10. člen
+
+Dnevnica je povračilo za stroške prehrane, do katerega je upravičen član, če poteka delo organa skupaj s prihodom na delo in odhodom z dela organa neprekinjeno več kot 6 ur in pri tem prehrana ni zagotovljena. Višina dnevnice je enaka višini dnevnice za službeno potovanje, določeni z zakonom, ki ureja višino povračil stroškov v zvezi z delom in nekatere druge prejemke.
+
+### 11. člen
+
+(1) Prevozni stroški so izdatki, ki jih ima član, če mora zaradi dela v organu potovati v drug kraj, pri čemer lahko zahteva povračilo za:
+
+- kilometrino in/ali
+
+- dejanske stroške.
+
+(2) Za potovanje v drug kraj se šteje, če je delo organa v drugem kraju, kot je delovno mesto ali stalno oziroma začasno prebivališče člana.
+
+(3) Kilometrina je povračilo stroškov za uporabo lastnega avtomobila za prevoz na delo in z dela organa. Enaka je višini 8 odstotkov cene neosvinčenega motornega bencina – 95 oktanov. Član je upravičen do izplačila kilometrine največ do razdalje med krajem, v katerem se je opravilo delo organa, in krajem, v katerem ima stalno oziroma začasno prebivališče, oziroma krajem zaposlitve. Upravičen je do kilometrine v obe smeri potovanja.
+
+(4) Član lahko zahteva povračilo za dejanske stroške prevoza samo na podlagi dokazil (vozovnica javnega prevoznega sredstva, račun o plačilu cestnine, račun za parkirnino in podobno).
+
+(5) Če je za svoje potovanje uporabil javna prevozna sredstva, član ni upravičen do povračila kilometrine. Stroški javnega prevoza se priznajo do višine, ki velja za razdaljo, kakršna je opredeljena pri kilometrini.
+
+### 12. člen
+
+(1) Stroški za prenočišče so izdatki, ki jih ima član, če mora zaradi dela organa prenočiti v drugem kraju, kot je njegovo stalno oziroma začasno prebivališče, pri čemer lahko zahteva povračilo stroškov le, če je oddaljenost njegovega stalnega oziroma začasnega prebivališča od kraja dela organa najmanj 100 kilometrov, če se ni mogel vrniti, ker po voznem redu ni bilo predvidene nobene vožnje javnega prevoznega sredstva več, ali zaradi drugih objektivnih razlogov.
+
+(2) Član lahko zahteva povračilo za stroške prenočišča samo na podlagi dokazil (račun). Stroški za prenočišče se priznajo v polnem znesku, razen za hotel s petimi zvezdicami ali več, za katerega se priznajo v višini 80 odstotkov zneska računa.
+
+## IV. IZPLAČILO SEJNIN IN DRUGIH STROŠKOV
+
+### 13. člen
+
+(1) Oseba javnega sektorja izplačuje sejnine članom na podlagi dejansko opravljenega dela v organu, ki se izkaže s podpisom na seznamu prisotnih, ki je obvezna priloga zapisnika redne ali izredne seje, ali s podpisom na glasovnici dopisne seje.
+
+(2) Oseba javnega sektorja izplača članu povračilo stroškov po obračunu potnih stroškov, ki ga pripravi na podlagi pisnega zahtevka člana za povračilo stroškov in priloženih dokazil za tiste stroške, pri katerih so zahtevana po določbah te uredbe. Kot pisni zahtevki za povračila stroškov se uporabljajo interni obrazci, kakršne uporablja oseba javnega sektorja za službena potovanja zaposlenih. Član mora prejeti podpisan obrazec za napotitev na službeno pot skupaj z vabilom na redno ali izredno sejo.
+
+(3) Sejnine in povračila stroškov se članom izplačajo v 15 dneh po opravljenem delu v organu oziroma po prejemu pisnega zahtevka za povračilo stroškov.
+
+## V. PREHODNE IN KONČNI DOLOČBI
+
+### 14. člen
+
+Ne glede na 4. člen te uredbe znaša zaradi omejitve učinkov finančne krize stalni del sejnine 50 eurov, razen v javnih agencijah, ustanovljenih za opravljanje regulatornih nalog, v katerih znaša 75 eurov, in javnih skladih, v katerih znaša 25 eurov.
+
+### 15. člen
+
+Ne glede na drugi odstavek 5. člena te uredbe se zaradi omejitve učinkov finančne krize dela A in B izračunata na naslednji način:
+
+<table><tbody><tr><td colspan="2"> <p><span> </span></p> </td><td> <p>A =</p> </td></tr><tr><td colspan="2"> <p>Če znesek bilančne vsote osebe javnega sektorja ob koncu preteklega poslovnega leta znaša:</p> </td><td> <p><span> </span></p> </td></tr><tr><td> <p><span> </span></p> </td><td> <p>do 4 milijone eurov</p> </td><td> <p>5,00 eurov</p> </td></tr><tr><td> <p>nad 4 milijone EUR</p> </td><td> <p>do 40 milijonov EUR</p> </td><td> <p>7,50 eurov</p> </td></tr><tr><td> <p>nad 40 milijonov EUR</p> </td><td> <p>do 200 milijonov EUR</p> </td><td> <p>10,00 eurov</p> </td></tr><tr><td> <p>nad 200 milijonov EUR</p> </td><td> <p>do 400 milijonov EUR</p> </td><td> <p>12,50 eurov</p> </td></tr><tr><td> <p>nad 400 milijonov eurov</p> </td><td> <p><span> </span></p> </td><td> <p>15,00 eurov</p> </td></tr></tbody></table>
+
+<table><tbody><tr><td colspan="2"> <p><span> </span></p> </td><td> <p>B =</p> </td></tr><tr><td colspan="2"> <p>Če število zaposlenih v osebi javnega sektorja ob koncu preteklega poslovnega leta znaša</p> </td><td> <p><span> </span></p> </td></tr><tr><td> <p><span> </span></p> </td><td> <p>do 30</p> </td><td> <p>2,50 eurov</p> </td></tr><tr><td> <p>nad 30</p> </td><td> <p>do 100</p> </td><td> <p>5,00 eurov</p> </td></tr><tr><td> <p>nad 100</p> </td><td> <p>do 500</p> </td><td> <p>7,50 eurov</p> </td></tr><tr><td> <p>nad 500</p> </td><td> <p>do 1.000</p> </td><td> <p>10,00 eurov</p> </td></tr><tr><td> <p>nad 1.000</p> </td><td> <p>do 3.000</p> </td><td> <p>12,50 eurov</p> </td></tr><tr><td> <p>nad 3.000</p> </td><td> <p><span> </span></p> </td><td> <p>15,00 eurov</p> </td></tr></tbody></table>
+
+### 16. člen
+
+14\. in 15. člen te uredbe veljata do 31. decembra 2014. V tem obdobju se ne uporabljata 4. člen in drugi odstavek 5. člena te uredbe.
+
+### 17. člen
+
+Z dnem uveljavitve te uredbe preneha veljati Uredba o sejninah in povračilih stroškov v javnih skladih, javnih agencijah, javnih zavodih in javnih gospodarskih zavodih (Uradni list RS, št. 19/07).
+
+### 18. člen
+
+Ta uredba začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.

@@ -1,0 +1,86 @@
+---
+title: "Uredba o uvedbi in uporabi klasifikacije proizvodov po dejavnosti"
+identifier: "URED887"
+type: decree
+jurisdiction: si
+language: sl
+act_kind: "Uredba"
+date: 2000-06-29
+published: 2000-08-08
+in_force_from: 2000-08-23
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "Osnovni (izvirno besedilo)"
+citation: "Uradni list RS, št. 70/00"
+adopted_by: "Vlada Republike Slovenije"
+eva: "1999-1522-0014"
+sop: "2000-01-3342"
+source: "https://pisrs.si/pregledPredpisa?id=URED887"
+retrieved: 2026-10-12
+---
+
+# Uredba o uvedbi in uporabi klasifikacije proizvodov po dejavnosti
+
+Na podlagi 31. člena zakona o državni statistiki (Uradni list RS, št. 45/95) izdaja Vlada Republike Slovenije
+
+**UREDBO**
+
+**o uvedbi in uporabi klasifikacije proizvodov po dejavnosti**
+
+## 1. člen
+
+S to uredbo Vlada Republike Slovenije uvaja Klasifikacijo proizvodov po dejavnosti (v nadaljnjem besedilu: CPA-SI) kot obvezen standard, ki se uporablja pri evidentiranju, zbiranju, obdelovanju, analiziranju, posredovanju in izkazovanju podatkov o proizvodih za statistične in evidenčne namene.
+
+## 2. člen
+
+CPA-SI temelji in je izvedena iz klasifikacije Evropske unije Classification of Products by Activity (CPA), ki je obvezen statistični standard Evropske unije.
+
+## 3. člen
+
+CPA-SI se uporablja za razvrščanje proizvodov glede na dejavnost, ki je proizvod proizvedla.
+
+S pojmom proizvod so zajete dobrine v opredmeteni obliki, neopredmetene dobrine in storitve.
+
+## 4. člen
+
+CPA-SI ima hierarhično strukturo in določa naslednje ravni proizvoda:
+
+- področje (označeno z eno črko),
+
+- podpodročje (označeno z dvema črkama),
+
+- oddelek (označen z dvomestno numerično šifro),
+
+- skupina (označena s trimestno numerično šifro),
+
+- razred (označen s štirimestno numerično šifro),
+
+- kategorija (označena s petmestno numerično šifro),
+
+- podkategorija (označena s šestmestno numerično šifro).
+
+Prvi del šifre proizvoda, do ravni razreda, se ujema s šifro standardne klasifikacije dejavnosti (Uradni list RS, št. 34/94, 3/95, 33/95, 15/96 in 89/98), oziroma šifro dejavnosti po NACE Rev. 1 (Statistical Classification of Economic Activities in the European Community).
+
+## 5. člen
+
+CPA-SI s šiframi in nazivi postavk je sestavni del te uredbe.
+
+Sestavni del te uredbe je tudi povezava postavk CPA-SI s šiframi harmoniziranega sistema nomenklature carinske tarife za leto 1996.
+
+## 6. člen
+
+Statistični urad Republike Slovenije je zadolžen za izvajanje te uredbe in za usklajevanje CPA-SI s standardi Evropske unije.
+
+## 7. člen
+
+Ta uredba začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.
+
+Št. 056-02/2000-1
+
+Ljubljana, dne 29. junija 2000.
+
+Vlada Republike Slovenije dr. Andrej Bajuk l. r. Predsednik
+
+---
+
+[**Priloga: Klasifikacija proizvodov po dejavnosti**](https://pisrs.si/api/datoteke/integracije/355050426)

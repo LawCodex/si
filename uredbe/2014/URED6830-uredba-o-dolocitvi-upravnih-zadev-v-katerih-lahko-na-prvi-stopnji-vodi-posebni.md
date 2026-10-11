@@ -1,0 +1,92 @@
+---
+title: "Uredba o določitvi upravnih zadev, v katerih lahko na prvi stopnji vodi posebni ugotovitveni postopek oziroma opravlja posamezna procesna dejanja uradna oseba finančne uprave, ki ima srednjo splošno ali strokovno izobrazbo"
+identifier: "URED6830"
+type: decree
+jurisdiction: si
+language: sl
+act_kind: "Uredba"
+date: 2014-07-24
+published: 2014-07-25
+in_force_from: 2014-07-26
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "Osnovni (izvirno besedilo)"
+citation: "Uradni list RS, št. 57/14"
+adopted_by: "Vlada Republike Slovenije"
+eva: "2014-1611-0047"
+sop: "2014-01-2528"
+source: "https://pisrs.si/pregledPredpisa?id=URED6830"
+retrieved: 2026-10-12
+---
+
+# Uredba o določitvi upravnih zadev, v katerih lahko na prvi stopnji vodi posebni ugotovitveni postopek oziroma opravlja posamezna procesna dejanja uradna oseba finančne uprave, ki ima srednjo splošno ali strokovno izobrazbo
+
+Na podlagi 86. člena Zakona o finančni upravi (Uradni list RS, št. 25/14) izdaja Vlada Republike Slovenije
+
+**UREDBO**
+
+**o določitvi upravnih zadev, v katerih lahko na prvi stopnji vodi posebni ugotovitveni postopek oziroma opravlja posamezna procesna dejanja uradna oseba finančne uprave, ki ima srednjo splošno ali strokovno izobrazbo**
+
+## 1. člen
+
+**(vsebina uredbe)**
+
+Ta uredba določa upravne zadeve, v katerih lahko na prvi stopnji vodi posebni ugotovitveni postopek oziroma opravlja posamezna procesna dejanja uradna oseba finančne uprave, ki ima srednjo splošno ali strokovno izobrazbo.
+
+## 2. člen
+
+**(upravne zadeve)**
+
+Uradna oseba, ki ima srednjo splošno ali strokovno izobrazbo, lahko vodi posebni ugotovitveni postopek in opravlja posamezna procesna dejanja:
+
+a) v postopku finančnega nadzora:
+
+- na področju dela in zaposlovanja na črno,
+
+- na področju oddajanja nepremičnin v najem,
+
+- na področju sive ekonomije,
+
+- na področju prispevkov za socialno varnost,
+
+- na področju identifikacije stalnih poslovnih enot,
+
+- na področju ugotavljanja opravljanja storitvene dejavnosti tujih družb,
+
+- na področju ugotavljanja aktivnosti zaposlenih pri registriranih podružnicah tujih družb v Republiki Sloveniji,
+
+- v postopku odmere in obračuna obveznih dajatev,
+
+- na drugih področjih, za katera je za nadzor pristojna finančna uprava,
+
+b) pri izterjavi obveznih dajatev,
+
+c) v postopku dodeljevanja in odvzema identifikacijske številke za DDV,
+
+d) v postopku ugotavljanja rezidentskega statusa.
+
+## 3. člen
+
+**(posamezna procesna dejanja)**
+
+(1) Uradna oseba iz prejšnjega člena, ki neposredno zazna dejansko stanje, na podlagi katerega se bo odločalo o upravni zadevi, opravi posamezna procesna dejanja.
+
+(2) Uradna oseba iz prejšnjega člena lahko opravi ogled, sprejme izjavo stranke ali priče, pridobi listine in potrdila ter izvede zavarovanje dokazov. O opravljenih procesnih dejanjih sestavi zapisnik, ki je podlaga za odločanje v upravni zadevi, ali napiše uradni zaznamek.
+
+## 4. člen
+
+**(začetek veljavnosti)**
+
+Ta uredba začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.
+
+Št. 00712-23/2014
+
+Ljubljana, dne 24. julija 2014
+
+EVA 2014-1611-0047
+
+**Vlada Republike Slovenije**
+
+**mag. Alenka Bratušek l.r.**
+
+Predsednica

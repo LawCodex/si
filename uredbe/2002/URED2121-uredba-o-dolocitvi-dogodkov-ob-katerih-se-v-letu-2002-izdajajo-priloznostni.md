@@ -1,0 +1,50 @@
+---
+title: "Uredba o določitvi dogodkov, ob katerih se v letu 2002 izdajajo priložnostni kovanci"
+identifier: "URED2121"
+type: decree
+jurisdiction: si
+language: sl
+act_kind: "Uredba"
+date: 2002-02-06
+published: 2002-02-15
+in_force_from: 2002-02-16
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "Osnovni (izvirno besedilo)"
+citation: "Uradni list RS, št. 13/02"
+adopted_by: "Vlada Republike Slovenije"
+eva: "2002-1611-0015"
+sop: "2002-01-0592"
+source: "https://pisrs.si/pregledPredpisa?id=URED2121"
+retrieved: 2026-10-12
+---
+
+# Uredba o določitvi dogodkov, ob katerih se v letu 2002 izdajajo priložnostni kovanci
+
+Na podlagi 3. člena zakona o priložnostnih kovancih (Uradni list RS, št. 7/93) izdaja Vlada Republike Slovenije
+
+**UREDBO**
+
+**o določitvi dogodkov, ob katerih se v letu 2002 izdajajo priložnostni kovanci**
+
+## 1. člen
+
+Priložnostni kovanci po zakonu o priložnostnih kovancih (Uradni list RS, št. 7/93) se v letu 2002 izdajajo ob naslednjih dogodkih:
+
+- Svetovnem prvenstvu v nogometu / Koreja-Japonska, 2002,
+
+- 35. Šahovski olimpiadi – Bled 2002.
+
+## 2. člen
+
+Ta uredba začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.
+
+Št. 448-00/2001-3
+
+Ljubljana, dne 6. februarja 2002.
+
+Vlada Republike Slovenije
+
+dr. Janez Drnovšek l. r.
+
+Predsednik

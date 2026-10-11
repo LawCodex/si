@@ -1,0 +1,65 @@
+---
+title: "Uredba o določitvi tarife nadomestil za uporabo sredstev iz popisa"
+identifier: "URED2141"
+type: decree
+jurisdiction: si
+language: sl
+act_kind: "Uredba"
+date: 2002-02-13
+published: 2002-02-21
+in_force_from: 2002-02-22
+last_amended: 2015-12-23
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "NPB 1 (neuradno prečiščeno besedilo)"
+citation: "Uradni list RS, št. 15/02, 93/15 in 100/15 – popr."
+adopted_by: "Vlada Republike Slovenije"
+eva: "2002-1911-0058"
+sop: "2002-01-0618"
+source: "https://pisrs.si/pregledPredpisa?id=URED2141"
+retrieved: 2026-10-12
+---
+
+# Uredba o določitvi tarife nadomestil za uporabo sredstev iz popisa
+
+*Opozorilo: Neuradno prečiščeno besedilo predpisa predstavlja zgolj informativni delovni pripomoček, glede katerega organ ne jamči odškodninsko ali kako drugače.*
+
+Neuradno prečiščeno besedilo Uredbe o določitvi tarife nadomestil za uporabo sredstev iz popisa obsega:
+
+- Uredbo o določitvi tarife nadomestil za uporabo sredstev iz popisa (Uradni list RS, št. 15/02 z dne 21. 2. 2002),
+
+- Uredbo o spremembi Uredbe o določitvi tarife nadomestil za uporabo sredstev iz popisa (Uradni list RS, št. 93/15 z dne 7. 12. 2015),
+
+- Popravek Uredbe o spremembi Uredbe o določitvi tarife nadomestil za uporabo sredstev iz popisa (Uradni list RS, št. 100/15 z dne 23. 12. 2015).
+
+**UREDBA**
+
+**o določitvi tarife nadomestil za uporabo sredstev iz popisa**
+
+*(neuradno prečiščeno besedilo št. 1)*
+
+## 1. člen
+
+S to uredbo se določa tarifa nadomestil za uporabo sredstev iz popisa, izročenih za potrebe obrambe, varnosti, zaščite, reševanja in pomoči.
+
+## 2. člen
+
+Osnova za obračun nadomestil za uporabo sredstev iz popisa je minimalna plača v Republiki Sloveniji in knjižna vrednost sredstev iz popisa.
+
+Merila za obračun nadomestil za zemljišča so določena v skladu z nomenklaturo vrste rabe zemljišč.
+
+## 3. člen
+
+Tarifa nadomestil za uporabo sredstev iz popisa in obrazec za zahtevek za odmero nadomestila za uporabo sredstev iz popisa, sta objavljena v prilogi te uredbe in sta njen sestavni del.
+
+## 4. člen
+
+Z uveljavitvijo te uredbe prenehata veljati tarifa za nadomestila za uporabo sredstev iz popisa in obrazec zahtevka za odmero nadomestila za uporabo, določena z uredbo o izvajanju materialne dolžnosti za potrebe obrambe, zaščite, reševanja in pomoči (Uradni list RS, št. 35/97 in 33/00 – odl. US) in navodilo za izvrševanje uredbe o izvajanju materialne dolžnosti za potrebe obrambe, zaščite, reševanja in pomoči (Uradni list RS, št. 82/98).
+
+## 5. člen
+
+Ta uredba začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.
+
+[Tarifa nadomestil za uporabo sredstev iz popisa](https://pisrs.si/api/datoteke/integracije/386982633)
+
+[Zahtevek za nadomestilo za uporabo sredstev iz popisa](https://pisrs.si/api/datoteke/integracije/386982636)

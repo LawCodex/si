@@ -1,0 +1,103 @@
+---
+title: "Uredba o ratifikaciji sporazuma med Republiko Slovenijo in Malto o vzpostavitvi diplomatskih odnosov"
+identifier: "URED2286"
+type: decree
+jurisdiction: si
+language: sl
+act_kind: "Uredba"
+date: 1992-07-17
+published: 1992-08-01
+in_force_from: 1992-08-02
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "Osnovni (izvirno besedilo)"
+citation: "Uradni list RS – Mednarodne pogodbe, št. 10/92"
+adopted_by: "Vlada Republike Slovenije"
+sop: "1992-02-0058"
+source: "https://pisrs.si/pregledPredpisa?id=URED2286"
+retrieved: 2026-10-12
+---
+
+# Uredba o ratifikaciji sporazuma med Republiko Slovenijo in Malto o vzpostavitvi diplomatskih odnosov
+
+Na podlagi tretjega odstavka 63. člena zakona o zunanjih zadevah (Uradni list RS, št. 1/91-I) izdaja Vlada Republike Slovenije
+
+**UREDBO**
+
+**o ratifikaciji sporazuma med Republiko Slovenijo in Malto o vzpostavitvi diplomatskih odnosov**
+
+## 1. člen
+
+Ratificira se sporazum med Republiko Slovenijo in Malto o vzpostavitvi diplomatskih odnosov, podpisan v Ljubljani, dne 29. junija 1992.
+
+## 2. člen
+
+Sporazum se v originalu v angleškem jeziku in slovenskem prevodu glasi:
+
+**AGREEMENT**
+
+**BETWEEN THE REPUBLIC OF SLOVENIA AND MALTA REGARDING THE ESTABLISHMENT OF DIPLOMATIC RELATIONS**
+
+The Republic of Slovenia and Malta,
+
+guided by a desire to strenghten and develop relations between the two countries in accordance with the purposes and principles of the Charter of the United Nations,
+
+have agreed as follows:
+
+**Article 1**
+
+Slovenia and Malta will establish diplomatic relations with each other on the day this Agreement enters into force and will exchange diplomatic representatives as soon as possible.
+
+**Article 2**
+
+The Parties to this Agreement agree that the provisions of Vienna Convention on Diplomatic Relations of 18 April 1961 shall apply to diplomatic relations between them.
+
+**Article 3**
+
+The Parties to this Agreement agree that their consular relations shall be guided by the provisions of Vienna Convention on Consular Relations of 24 April 1963.
+
+**Article 4**
+
+This Agreement enters into force upon signature. Done in duplicate in the English language at Ljubljana on 29 June 1992.
+
+For the Government of the Republic of Slovenia, dr. Dimitrij Rupel, (s) For the Government of Malta, Guido de Marco, (s)
+
+**SPORAZUM**
+
+**MED REPUBLIKO SLOVENIJO IN MALTO O VZPOSTAVITVI DIPLOMATSKIH ODNOSOV**
+
+Republika Slovenija in Malta
+
+sta se v želji, da okrepita in razvijata odnose med svojima državama v skladu s cilji in načeli ustanovne listine Združenih narodov
+
+dogovorili naslednje:
+
+## 1. člen
+
+Slovenija in Malta bosta vzpostavili medsebojne diplomatske odnose z dnem, ko začne veljati ta sporazum in bosta izmenjali diplomatske predstavnike, brž ko bo to mogoče.
+
+## 2. člen
+
+Podpisnici tega sporazuma soglašata, da se bosta v medsebojnih diplomatskih odnosih ravnali po določbah Dunajske konvencije o diplomatskih odnosih z dne 18. aprila 1961.
+
+## 3. člen
+
+Podpisnici tega sporazuma soglašata, da se bosta v medsebojnih konzularnih odnosih ravnali po določbah Dunajske konvencije o konzularnih odnosih z dne 24. aprila 1963.
+
+## 4. člen
+
+Ta sporazum začne veljati z dnem podpisa. Sestavljeno v dveh izvodih v angleškem jeziku v Ljubljani dne 29. junija 1992.
+
+Za Vlado Republike Slovenije dr. Dimitrij Rupel l. r. Za Vlado Malte Guido de Marco l. r.
+
+## 3. člen
+
+Ta uredba prične veljati naslednji dan po objavi v Uradnem listu Republike Slovenije – Mednarodne pogodbe.
+
+Št. 900-04/92-43/1-8
+
+Ljubljana, dne 17. julija 1992.
+
+**Vlada Republike Slovenije**
+
+Predsednik dr. Janez Drnovšek l. r.

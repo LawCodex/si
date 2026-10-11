@@ -1,0 +1,54 @@
+---
+title: "Uredba o izvajanju uredb (EU) glede ukrepov za okrepitev upravnega sodelovanja na področju davka na dodano vrednost v zvezi z izmenjavo podatkov iz nacionalnih registrov vozil"
+identifier: "PRAV13942"
+type: decree
+jurisdiction: si
+language: sl
+act_kind: "Uredba"
+date: 2019-12-30
+published: 2019-12-31
+in_force_from: 2020-01-01
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "Osnovni (izvirno besedilo)"
+citation: "Uradni list RS, št. 82/19"
+adopted_by: "Vlada Republike Slovenije"
+eva: "2019-1611-0131"
+sop: "2019-01-3866"
+source: "https://pisrs.si/pregledPredpisa?id=PRAV13942"
+retrieved: 2026-10-12
+---
+
+# Uredba o izvajanju uredb (EU) glede ukrepov za okrepitev upravnega sodelovanja na področju davka na dodano vrednost v zvezi z izmenjavo podatkov iz nacionalnih registrov vozil
+
+Na podlagi sedmega odstavka 21. člena Zakona o Vladi Republike Slovenije (Uradni list RS, št. 24/05 – uradno prečiščeno besedilo, 109/08, 38/10 – ZUKN, 8/12, 21/13, 47/13 – ZDU-1G, 65/14 in 55/17) Vlada Republike Slovenije izdaja
+
+**UREDBO**
+
+**o izvajanju uredb (EU) glede ukrepov za okrepitev upravnega sodelovanja na področju davka na dodano vrednost v zvezi z izmenjavo podatkov iz nacionalnih registrov vozil**
+
+### 1. člen
+
+S to uredbo se za namen okrepitve upravnega sodelovanja na področju davka na dodano vrednost določa nacionalna kontaktna točka, pristojna za obdelavo prejetih zahtevkov za podatke o registraciji vozil in za obdelavo poslanih zahtevkov, za izvajanje:
+
+- 21.a člena Uredbe Sveta (EU) št. 904/2010 z dne 7. oktobra 2010 o upravnem sodelovanju in boju proti goljufijam na področju davka na dodano vrednost (UL L št. 268 z dne 12. 10. 2010, str. 1), zadnjič spremenjene z Uredbo Sveta (EU) 2018/1909 z dne 4. decembra 2018 o spremembi Uredbe (EU) št. 904/2010 glede izmenjave informacij za namene spremljanja pravilne uporabe ureditev skladiščenja na odpoklic (UL L št. 311 z dne 7. 12. 2018, str. 1), in
+
+- 5.b člena Izvedbene uredbe Komisije (EU) št. 79/2012 z dne 31. januarja 2012 o določitvi podrobnih pravil za izvajanje nekaterih določb Uredbe Sveta (EU) št. 904/2010 o upravnem sodelovanju in boju proti goljufijam na področju davka na dodano vrednost (UL L št. 29 z dne 1. 2. 2012, str. 13), zadnjič spremenjene z Izvedbeno uredbo Komisije (EU) 2019/1129 z dne 2. julija 2019 o spremembi Izvedbene uredbe (EU) št. 79/2012 o določitvi podrobnih pravil za izvajanje nekaterih določb Uredbe Sveta (EU) št. 904/2010 o upravnem sodelovanju in boju proti goljufijam na področju davka na dodano vrednost (UL L št. 179 z dne 3. 7. 2019, str. 1).
+
+### 2. člen
+
+Pristojni organ za izvajanje nalog iz prejšnjega člena je ministrstvo, pristojno za promet.
+
+## KONČNA DOLOČBA
+
+### 3. člen
+
+Ta uredba začne veljati 1. januarja 2020.
+
+Št. 00712-31/2019
+
+Ljubljana, dne 30. decembra 2019
+
+EVA 2019-1611-0131
+
+Vlada Republike Slovenije **Marjan Šarec** predsednik

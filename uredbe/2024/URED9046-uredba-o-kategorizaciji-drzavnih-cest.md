@@ -1,0 +1,5090 @@
+---
+title: "Uredba o kategorizaciji državnih cest"
+identifier: "URED9046"
+type: decree
+jurisdiction: si
+language: sl
+act_kind: "Uredba"
+date: 2024-03-20
+published: 2024-03-22
+in_force_from: 2024-03-23
+last_amended: 2025-12-05
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "NPB 1 (neuradno prečiščeno besedilo)"
+citation: "Uradni list RS, št. 24/24 in 102/25"
+adopted_by: "Vlada Republike Slovenije"
+eva: "2024-2430-0004"
+sop: "2024-01-0703"
+source: "https://pisrs.si/pregledPredpisa?id=URED9046"
+retrieved: 2026-10-12
+---
+
+# Uredba o kategorizaciji državnih cest
+
+*Opozorilo: Neuradno prečiščeno besedilo predpisa predstavlja zgolj informativni delovni pripomoček, glede katerega organ ne jamči odškodninsko ali kako drugače.*
+
+Neuradno prečiščeno besedilo Uredbe o kategorizaciji državnih cest obsega:
+
+- Uredbo o kategorizaciji državnih cest (Uradni list RS, št. 24/24 z dne 22. 3. 2024),
+
+- Uredbo o spremembah Uredbe o kategorizaciji državnih cest (Uradni list RS, št. 102/25 z dne 5. 12. 2025).
+
+**U R E D B A**
+
+**o kategorizaciji državnih cest**
+
+*(neuradno prečiščeno besedilo št. 1)*
+
+### 1. člen
+
+**(vsebina)**
+
+Ta uredba določa državne ceste po njihovih kategorijah, poteku, obsegu in namenu uporabe glede na vrsto cestnega prometa, ki ga prevzemajo.
+
+### 2. člen
+
+**(kategorije državnih cest)**
+
+(1) Državne ceste so kategorizirane kot:
+
+- avtoceste (AC),
+
+- hitre ceste (HC),
+
+- glavne ceste I. reda (G1),
+
+- glavne ceste II. reda (G2),
+
+- regionalne ceste I. reda (R1),
+
+- regionalne ceste II. reda (R2) in
+
+- regionalne ceste III. reda (R3).
+
+(2) Regionalne ceste III. reda so tudi turistične ceste (RT).
+
+### 3. člen
+
+**(avtoceste)**
+
+Avtoceste (AC) so:
+
+<div>
+<table><tbody><tr><td>
+<div>
+      številka ceste
+     </div></td><td>
+<div>
+      začetek na
+     </div></td><td>
+<div>
+      potek ceste
+     </div></td><td>
+<div>
+      konec na
+     </div></td><td>
+<div>
+      dolžina (km)
+     </div></td></tr><tr><td>
+<div>
+      A1
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Avstrija
+     </div></td><td>
+<div>
+      Šentilj–Dragučova–Maribor–Slivnica–Celje–Trojane–Ljubljana (Zadobrova–Malence–Kozarje)–Postojna–Divača–Črni Kal–Sermin
+     </div></td><td>
+<div>
+      H5
+     </div></td><td>
+<div>
+      245,25
+     </div></td></tr><tr><td>
+<div>
+      A2
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Avstrija
+     </div></td><td>
+<div>
+      Karavanke–Lesce–Podtabor–Kranj–Ljubljana (Kozarje)–po A1-Malence–Ivančna Gorica–Bič–Trebnje–Novo mesto–Drnovo–Obrežje
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      175,45
+     </div></td></tr><tr><td>
+<div>
+      A3
+     </div></td><td>
+<div>
+      A1
+     </div></td><td>
+<div>
+      Divača (Gabrk)–Sežana vzhod–Fernetiči
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Italija
+     </div></td><td>
+<div>
+      12,24
+     </div></td></tr><tr><td>
+<div>
+      A4
+     </div></td><td>
+<div>
+      A1
+     </div></td><td>
+<div>
+      Slivnica–Draženci–Podlehnik–Gruškovje
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      34,61
+     </div></td></tr><tr><td>
+<div>
+      A5
+     </div></td><td>
+<div>
+      A1
+     </div></td><td>
+<div>
+      Maribor (Dragučova)–Lenart–Senarska–Vučja vas–Murska Sobota–Dolga vas–Lendava–Pince
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Madžarska
+     </div></td><td>
+<div>
+      79,54
+     </div></td></tr><tr><td colspan="4">
+<div>
+      skupna dolžina AC
+     </div></td><td>
+<div>
+      547,09
+     </div></td></tr></tbody></table>
+</div>
+
+### 4. člen
+
+**(hitre ceste)**
+
+Hitre ceste (HC) so:
+
+<table><tbody><tr><td>
+<div>
+      številka ceste
+     </div></td><td>
+<div>
+      začetek na
+     </div></td><td>
+<div>
+      potek ceste
+     </div></td><td>
+<div>
+      konec na
+     </div></td><td>
+<div>
+      dolžina (km)
+     </div></td></tr><tr><td>
+<div>
+      H3
+     </div></td><td>
+<div>
+      A1
+     </div></td><td>
+<div>
+      Ljubljana (Zadobrova–Tomačevo–Koseze)
+     </div></td><td>
+<div>
+      A2
+     </div></td><td>
+<div>
+      10,22
+     </div></td></tr><tr><td>
+<div>
+      H4
+     </div></td><td>
+<div>
+      A1
+     </div></td><td>
+<div>
+      Razdrto (Nanos)–Vipava–Ajdovščina–Selo–Šempeter–Vrtojba
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Italija
+     </div></td><td>
+<div>
+      42,12
+     </div></td></tr><tr><td>
+<div>
+      H7
+     </div></td><td>
+<div>
+      A5
+     </div></td><td>
+<div>
+      AC A5–Dolga vas
+     </div></td><td>
+<div>
+      109
+     </div></td><td>
+<div>
+      3,53
+     </div></td></tr><tr><td colspan="4">
+<div>
+      skupna dolžina HC
+     </div></td><td>
+<div>55,87</div></td></tr></tbody></table>
+
+### 5. člen
+
+**(glavne ceste I. reda)**
+
+Glavne ceste I. reda (G1) so:
+
+<table><tbody><tr><td>
+<div>
+      številka ceste
+     </div></td><td>
+<div>
+      začetek na
+     </div></td><td>
+<div>
+      potek ceste
+     </div></td><td>
+<div>
+      konec na
+     </div></td><td>
+<div>
+      dolžina (km)
+     </div></td></tr><tr><td>
+<div>
+      1
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Avstrija
+     </div></td><td>
+<div>
+      Vič–Dravograd–Maribor–(Koroški most–Cesta proletarskih brigad–Tezno)–Miklavž
+     </div></td><td>
+<div>
+      A1
+     </div></td><td>
+<div>
+      69,44
+     </div></td></tr><tr><td>
+<div>
+      2
+     </div></td><td>
+<div>
+      A1
+     </div></td><td>
+<div>
+      Slovenska Bistrica–Hajdina (po A4)–Draženci–Ptuj–Ormož–Središče ob Dravi
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      53,63
+     </div></td></tr><tr><td>
+<div>
+      4
+     </div></td><td>
+<div>
+      1
+     </div></td><td>
+<div>
+      Dravograd–Slovenj Gradec–Velenje–Arja vas
+     </div></td><td>
+<div>
+      A1
+     </div></td><td>
+<div>
+      51,34
+     </div></td></tr><tr><td>
+<div>
+      5
+     </div></td><td>
+<div>
+      A1
+     </div></td><td>
+<div>
+      Celje zahod–Celje–Zidani Most–Krško–Drnovo
+     </div></td><td>
+<div>
+      A2
+     </div></td><td>
+<div>
+      71,71
+     </div></td></tr><tr><td>
+<div>
+      6
+     </div></td><td>
+<div>
+      409
+     </div></td><td>
+<div>
+      Postojna–Ilirska Bistrica–Jelšane
+     </div></td><td>
+<div>
+      meja R Hrvaška
+     </div></td><td>
+<div>
+      43,10
+     </div></td></tr><tr><td>
+<div>
+      7
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      Starod–Kozina (po Bazoviški cesti)–Krvavi potok
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Italija
+     </div></td><td>
+<div>
+      30,98</div></td></tr><tr><td>
+<div>
+      8
+     </div></td><td>
+<div>
+      211
+     </div></td><td>
+<div>
+      Ljubljana (Šentvid – obvoznica)
+     </div></td><td>
+<div>
+      H3
+     </div></td><td>
+<div>
+      2,90
+     </div></td></tr><tr><td>
+<div>
+      11
+     </div></td><td>
+<div>meja R Italija</div></td><td>
+<div>Škofije–Koper–Dragonja
+     </div></td><td>
+<div>
+      meja R Hrvaška
+     </div></td><td>
+<div>23,10</div></td></tr><tr><td colspan="4">
+<div>
+      skupna dolžina G1
+     </div></td><td>
+<div>
+      346,20</div></td></tr></tbody></table>
+
+### 6. člen
+
+**(glavne ceste II. reda)**
+
+Glavne ceste II. reda (G2) so:
+
+<table><tbody><tr><td>
+<div>
+      številka ceste
+     </div></td><td>
+<div>
+      začetek na
+     </div></td><td>
+<div>
+      potek ceste
+     </div></td><td>
+<div>
+      konec na
+     </div></td><td>
+<div>
+      dolžina (km)
+     </div></td></tr><tr><td>
+<div>
+      101
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Avstrija
+     </div></td><td>
+<div>
+      Ljubelj–Bistrica pri Tržiču–Podtabor
+     </div></td><td>
+<div>
+      A2
+     </div></td><td>
+<div>
+      17,01
+     </div></td></tr><tr><td>
+<div>
+      102
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Italija
+     </div></td><td>
+<div>
+      Robič–Kobarid–Peršeti–Tolmin–Idrija–Kalce–Logatec
+     </div></td><td>
+<div>
+      A1
+     </div></td><td>
+<div>
+      96,91
+     </div></td></tr><tr><td>
+<div>
+      103
+     </div></td><td>
+<div>
+      102
+     </div></td><td>
+<div>
+      Peršeti–Nova Gorica–Šempeter
+     </div></td><td>
+<div>
+      204
+     </div></td><td>
+<div>
+      41,03
+     </div></td></tr><tr><td>
+<div>
+      104
+     </div></td><td>
+<div>
+      210
+     </div></td><td>
+<div>
+      Kranj vzhod–Brnik–Mengeš–Trzin–Ljubljana (Tomačevo)
+     </div></td><td>
+<div>
+      H3
+     </div></td><td>
+<div>
+      30,17
+     </div></td></tr><tr><td>
+<div>
+      105
+     </div></td><td>
+<div>
+      A2
+     </div></td><td>
+<div>
+      Novo mesto (Ločna)–Metlika
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      32,51
+     </div></td></tr><tr><td>
+<div>
+      106
+     </div></td><td>
+<div>
+      A1
+     </div></td><td>
+<div>
+      Ljubljana jug–Škofljica–Ribnica–Kočevje–Petrina in Škofljica–Šmarje – Sap
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      85,65
+     </div></td></tr><tr><td>
+<div>
+      107
+     </div></td><td>
+<div>
+      5
+     </div></td><td>
+<div>
+      Celje–Šentjur pri Celju–Šmarje pri Jelšah–Dobovec
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      47,52
+     </div></td></tr><tr><td>
+<div>
+      108
+     </div></td><td>
+<div>
+      104
+     </div></td><td>
+<div>
+      Ljubljana (Črnuče)–Litija–Hrastnik–Zidani Most
+     </div></td><td>
+<div>
+      5
+     </div></td><td>
+<div>
+      64,62
+     </div></td></tr><tr><td>
+<div>
+      109
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Madžarska
+     </div></td><td>
+<div>
+      R Madžarska-H7 in Lendava–Petišovci
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      5,08
+     </div></td></tr><tr><td>
+<div>
+      111
+     </div></td><td>
+<div>11</div></td><td>
+<div>Koper (Škocjan)–Izola–Sečovlje
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>19,80</div></td></tr><tr><td>
+<div>
+      112
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Avstrija
+     </div></td><td>
+<div>
+      Holmec–Poljana–Ravne–Dravograd
+     </div></td><td>
+<div>
+      4
+     </div></td><td>
+<div>
+      18,94
+     </div></td></tr><tr><td>
+<div>
+      114
+     </div></td><td>
+<div>
+      H5
+     </div></td><td>
+<div>
+      Koper (priključek Bertoki)–Luka Koper
+     </div></td><td>
+<div>
+      Luka Koper 
+     </div>
+<div>
+      (Sermin)
+     </div></td><td>
+<div>
+      4,95
+     </div></td></tr><tr><td colspan="4">
+<div>
+      skupna dolžina G2
+     </div></td><td>
+<div>
+      464,19</div></td></tr></tbody></table>
+
+### 7. člen
+
+**(regionalne ceste I. reda)**
+
+Regionalne ceste I. reda (R1) so:
+
+<table><tbody><tr><td>
+<div>
+      številka ceste
+     </div></td><td>
+<div>
+      začetek na
+     </div></td><td>
+<div>
+      potek ceste
+     </div></td><td>
+<div>
+      konec na
+     </div></td><td>
+<div>
+      dolžina (km)
+     </div></td></tr><tr><td>
+<div>
+      201
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Avstrija
+     </div></td><td>
+<div>
+      Korensko sedlo–Mojstrana–Hrušica
+     </div></td><td>
+<div>
+      A2
+     </div></td><td>
+<div>
+      24,86
+     </div></td></tr><tr><td>
+<div>
+      202
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Italija
+     </div></td><td>
+<div>
+      Rateče–Podkoren
+     </div></td><td>
+<div>
+      201
+     </div></td><td>
+<div>
+      4,31
+     </div></td></tr><tr><td>
+<div>
+      203
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Italija
+     </div></td><td>
+<div>
+      Predel–Bovec (obvoznica)–Kobarid (obvoznica)
+     </div></td><td>
+<div>
+      102
+     </div></td><td>
+<div>
+      38,20
+     </div></td></tr><tr><td>
+<div>
+      204
+     </div></td><td>
+<div>
+      103
+     </div></td><td>
+<div>
+      Šempeter–Dornberk–Štanjel–Sežana vzhod
+     </div></td><td>
+<div>
+      445
+     </div></td><td>
+<div>
+      37,13
+     </div></td></tr><tr><td>
+<div>
+      205
+     </div></td><td>
+<div>
+      446
+     </div></td><td>
+<div>
+      Divača–Lokev–Lipica
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Italija
+     </div></td><td>
+<div>
+      8,66
+     </div></td></tr><tr><td>
+<div>
+      206
+     </div></td><td>
+<div>
+      201
+     </div></td><td>
+<div>
+      Kranjska Gora (Ruska cesta)–Vršič–Trenta–Bovec
+     </div></td><td>
+<div>
+      203
+     </div></td><td>
+<div>
+      43,45
+     </div></td></tr><tr><td>
+<div>
+      207
+     </div></td><td>
+<div>
+      102
+     </div></td><td>
+<div>
+      Godovič–Črni Vrh–Col–Ajdovščina
+     </div></td><td>
+<div>
+      444
+     </div></td><td>
+<div>
+      25,17
+     </div></td></tr><tr><td>
+<div>
+      208
+     </div></td><td>
+<div>
+      A1
+     </div></td><td>
+<div>
+      Črni Kal–Aver–Gračišče–Sočerga in Rižana–Mostičje
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      21,19
+     </div></td></tr><tr><td>
+<div>
+      209
+     </div></td><td>
+<div>
+      A2
+     </div></td><td>
+<div>
+      Lesce–Bled–Bohinjska Bistrica–Jezero
+     </div></td><td>
+<div>
+      633
+     </div></td><td>
+<div>
+      30,18
+     </div></td></tr><tr><td>
+<div>
+      210
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Avstrija
+     </div></td><td>
+<div>
+      Zgornje Jezersko–Preddvor–Kranj–Škofja Loka–Gorenja vas–Cerkno–Želin in Škofja Loka–Jeprca
+     </div></td><td>
+<div>211</div></td><td>
+<div>
+      94,38</div></td></tr><tr><td>
+<div>
+      211
+     </div></td><td>
+<div>
+      210
+     </div></td><td>
+<div>
+      Kranj (Labore)–Jeprca–Ljubljana (Šentvid)
+     </div></td><td>
+<div>
+      8
+     </div></td><td>
+<div>
+      16,96
+     </div></td></tr><tr><td>
+<div>
+      212
+     </div></td><td>
+<div>
+      A1
+     </div></td><td>
+<div>
+      Unec–Cerknica–Bloška Polica–Sodražica–Žlebič
+     </div></td><td>
+<div>
+      106
+     </div></td><td>
+<div>
+      40,73
+     </div></td></tr><tr><td>
+<div>
+      213
+     </div></td><td>
+<div>
+      212
+     </div></td><td>
+<div>
+      Bloška Polica–Pudob–Babno Polje
+     </div></td><td>
+<div>
+      Meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      18,56
+     </div></td></tr><tr><td>
+<div>
+      214
+     </div></td><td>
+<div>
+      106
+     </div></td><td>
+<div>
+      Kočevje–Stari Log–Dvor
+     </div></td><td>
+<div>
+      216
+     </div></td><td>
+<div>
+      26,08
+     </div></td></tr><tr><td>
+<div>
+      215
+     </div></td><td>
+<div>
+      A2
+     </div></td><td>
+<div>
+      Trebnje (Grm)–Mokronog–Boštanj
+     </div></td><td>
+<div>
+      5
+     </div></td><td>
+<div>
+      36,27
+     </div></td></tr><tr><td>
+<div>
+      216
+     </div></td><td>
+<div>
+      A2
+     </div></td><td>
+<div>
+      Ivančna Gorica–Žužemberk–Soteska–Črnomelj
+     </div></td><td>
+<div>
+      218
+     </div></td><td>
+<div>
+      59,40
+     </div></td></tr><tr><td>
+<div>
+      217
+     </div></td><td>
+<div>
+      106
+     </div></td><td>
+<div>
+      Livold–Brezovica–Kanižarica 
+     </div></td><td>
+<div>
+      218
+     </div></td><td>
+<div>
+      36,05
+     </div></td></tr><tr><td>
+<div>
+      218
+     </div></td><td>
+<div>
+      105
+     </div></td><td>
+<div>
+      Metlika–Črnomelj–Vinica
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      34,24
+     </div></td></tr><tr><td>
+<div>
+      219
+     </div></td><td>
+<div>
+      430
+     </div></td><td>
+<div>
+      Slovenska Bistrica–Poljčane–Podplat in Mestinje– Bistrica ob Sotli–Čatež ob Savi
+     </div></td><td>
+<div>
+      AC A2
+     </div></td><td>
+<div>
+      68,42
+     </div></td></tr><tr><td>
+<div>
+      220
+     </div></td><td>
+<div>
+      5
+     </div></td><td>
+<div>
+      Krško–Brežice
+     </div></td><td>
+<div>
+      219
+     </div></td><td>
+<div>
+      12,97
+     </div></td></tr><tr><td>
+<div>
+      221
+     </div></td><td>
+<div>
+      A1
+     </div></td><td>
+<div>
+      Trojane–Izlake–Trbovlje–Hrastnik–Šmarjeta
+     </div></td><td>
+<div>
+      5
+     </div></td><td>
+<div>
+      40,07
+     </div></td></tr><tr><td>
+<div>
+      222
+     </div></td><td>
+<div>
+      221
+     </div></td><td>
+<div>
+      Zagorje–most čez Savo
+     </div></td><td>
+<div>
+      108
+     </div></td><td>
+<div>
+      1,89
+     </div></td></tr><tr><td>
+<div>
+      223
+     </div></td><td>
+<div>
+      221
+     </div></td><td>
+<div>
+      Bevško–most čez Savo
+     </div></td><td>
+<div>
+      108
+     </div></td><td>
+<div>
+      1,22
+     </div></td></tr><tr><td>
+<div>
+      224
+     </div></td><td>
+<div>
+      221
+     </div></td><td>
+<div>
+      Hrastnik–most čez Savo
+     </div></td><td>
+<div>
+      108
+     </div></td><td>
+<div>
+      1,50
+     </div></td></tr><tr><td>
+<div>
+      225
+     </div></td><td>
+<div>
+      104
+     </div></td><td>
+<div>
+      Mengeš–Duplica–Kamnik–Stahovica–Črnivec–Radmirje–Mozirje–Soteska–Šentrupert
+     </div></td><td>
+<div>
+      447
+     </div></td><td>
+<div>
+      66,03
+     </div></td></tr><tr><td>
+<div>
+      227
+     </div></td><td>
+<div>
+      G2-112
+     </div></td><td>
+<div>
+      Ravne–Kotlje–Slovenj Gradec
+     </div></td><td>
+<div>
+      4
+     </div></td><td>
+<div>
+      14,75
+     </div></td></tr><tr><td>
+<div>
+      228
+     </div></td><td>
+<div>
+      G1-2
+     </div></td><td>
+<div>
+      Spuhlja–Zavrč
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      13,90
+     </div></td></tr><tr><td>
+<div>
+      229
+     </div></td><td>
+<div>
+      2
+     </div></td><td>
+<div>
+      Ptuj–Rogoznica–Senarska
+     </div></td><td>
+<div>
+      A5
+     </div></td><td>
+<div>
+      20,09
+     </div></td></tr><tr><td>
+<div>
+      230
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Avstrija
+     </div></td><td>
+<div>
+      Gornja Radgona (most)–Radenci–Vučja vas–Križevci–Ljutomer–Ormož (most)
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      46,24
+     </div></td></tr><tr><td>
+<div>
+      231
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      Gibina–Razkrižje–Ljutomer
+     </div></td><td>
+<div>
+      230
+     </div></td><td>
+<div>
+      9,26
+     </div></td></tr><tr><td>
+<div>
+      232
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Madžarska
+     </div></td><td>
+<div>
+      Hodoš–Petrovci–Murska Sobota–AC- priključek Murska Sobota
+     </div></td><td>
+<div>
+      A5
+     </div></td><td>
+<div>
+      36,560
+     </div></td></tr><tr><td>
+<div>
+      234
+     </div></td><td>
+<div>
+      A1
+     </div></td><td>
+<div>
+      Dramlje–Dole–Šentjur
+     </div></td><td>
+<div>
+      107
+     </div></td><td>
+<div>
+      6,20
+     </div></td></tr><tr><td>
+<div>
+      235
+     </div></td><td>
+<div>
+      230
+     </div></td><td>
+<div>
+      Radenci–Murska Sobota
+     </div></td><td>
+<div>
+      232
+     </div></td><td>
+<div>
+      10,65
+     </div></td></tr><tr><td colspan="4">
+<div>
+      skupna dolžina R1
+     </div></td><td>
+<div>
+      945,57</div></td></tr></tbody></table>
+
+### 8. člen
+
+**(regionalne ceste II. reda)**
+
+Regionalne ceste II. reda (R2) so:
+
+<div>
+<table><tbody><tr><td>
+<div>
+      številka ceste
+     </div></td><td>
+<div>
+      začetek na
+     </div></td><td>
+<div>
+      potek ceste
+     </div></td><td>
+<div>
+      konec na
+     </div></td><td>
+<div>
+      dolžina (km)
+     </div></td></tr><tr><td>
+<div>
+      401
+     </div></td><td>
+<div>
+      203
+     </div></td><td>
+<div>
+      Žaga–Učja
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Italija
+     </div></td><td>
+<div>
+      7,45
+     </div></td></tr><tr><td>
+<div>
+      402
+     </div></td><td>
+<div>
+      103
+     </div></td><td>
+<div>
+      Solkan–Gonjače–Dobrovo–Neblo
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Italija
+     </div></td><td>
+<div>
+      19,51</div></td></tr><tr><td>
+<div>
+      403
+     </div></td><td>
+<div>
+      102
+     </div></td><td>
+<div>
+      Bača–Petrovo Brdo–Podrošt–Češnjica–Škofja Loka
+     </div></td><td>
+<div>
+      210
+     </div></td><td>
+<div>
+      61,04
+     </div></td></tr><tr><td>
+<div>
+      404
+     </div></td><td>
+<div>
+      7
+     </div></td><td>
+<div>
+      Podgrad–Ilirska Bistrica–Knežak–Pivka
+     </div></td><td>
+<div>
+      6
+     </div></td><td>
+<div>
+      27,25
+     </div></td></tr><tr><td>
+<div>
+      405
+     </div></td><td>
+<div>
+      409
+     </div></td><td>
+<div>
+      Divača–Famlje–Ribnica
+     </div></td><td>
+<div>
+      6
+     </div></td><td>
+<div>
+      17,52
+     </div></td></tr><tr><td>
+<div>
+      406
+     </div></td><td>
+<div>
+      409
+     </div></td><td>
+<div>
+      Dekani–Škofije–Lazaret
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Italija
+     </div></td><td>
+<div>
+      9,27
+     </div></td></tr><tr><td>
+<div>
+      407
+     </div></td><td>
+<div>
+      210
+     </div></td><td>
+<div>
+      Gorenja vas–Ljubljanica–Vrhnika
+     </div></td><td>
+<div>
+      409
+     </div></td><td>
+<div>
+      28,79
+     </div></td></tr><tr><td>
+<div>
+      408
+     </div></td><td>
+<div>
+      409
+     </div></td><td>
+<div>
+      Logatec–Žiri–Trebija
+     </div></td><td>
+<div>
+      210
+     </div></td><td>
+<div>
+      28,45</div></td></tr><tr><td>
+<div>
+      409
+     </div></td><td>
+<div>
+      A1
+     </div></td><td>
+<div>
+      Ljubljana (Vič)–Vrhnika–Logatec–po G1-102–Postojna–Razdrto–Divača– Črni Kal–po R1-208–Rižana–Sermin
+     </div></td><td>
+<div>
+      H5
+     </div></td><td>
+<div>
+      102,191</div></td></tr><tr><td>
+<div>
+      410
+     </div></td><td>
+<div>
+      638
+     </div></td><td>
+<div>
+      Bistrica pri Tržiču–Kokrica–Kranj
+     </div></td><td>
+<div>
+      412
+     </div></td><td>
+<div>
+      16,23
+     </div></td></tr><tr><td>
+<div>
+      411
+     </div></td><td>
+<div>
+      A2
+     </div></td><td>
+<div>
+      Kranj zahod–Podbrezje–Gobovce–Črnivec
+     </div></td><td>
+<div>
+      A2
+     </div></td><td>
+<div>
+      14,56
+     </div></td></tr><tr><td>
+<div>
+      412
+     </div></td><td>
+<div>
+      411
+     </div></td><td>
+<div>
+      Polica–Kranj (Labore)
+     </div></td><td>
+<div>
+      211
+     </div></td><td>
+<div>
+      5,04
+     </div></td></tr><tr><td>
+<div>
+      413
+     </div></td><td>
+<div>
+      211
+     </div></td><td>
+<div>
+      Medvode–Vodice–Moste–Duplica
+     </div></td><td>
+<div>
+      225
+     </div></td><td>
+<div>
+      17,09
+     </div></td></tr><tr><td>
+<div>
+      414
+     </div></td><td>
+<div>
+      225
+     </div></td><td>
+<div>
+      Kamnik–Ločica
+     </div></td><td>
+<div>
+      447
+     </div></td><td>
+<div>
+      28,32
+     </div></td></tr><tr><td>
+<div>
+      415
+     </div></td><td>
+<div>
+      447
+     </div></td><td>
+<div>
+      Želodnik–Drtija–Izlake
+     </div></td><td>
+<div>
+      221
+     </div></td><td>
+<div>
+      26,17
+     </div></td></tr><tr><td>
+<div>
+      416
+     </div></td><td>
+<div>
+      108
+     </div></td><td>
+<div>
+      Litija–Šmartno–Radohova vas–Grm–Bič
+     </div></td><td>
+<div>
+      A2
+     </div></td><td>
+<div>
+      21,28
+     </div></td></tr><tr><td>
+<div>
+      417
+     </div></td><td>
+<div>
+      416
+     </div></td><td>
+<div>
+      Šmartno–Ljubež v Lazih–Moravče–Tihaboj–Mirna 
+     </div></td><td>
+<div>
+      215
+     </div></td><td>
+<div>
+      26,57
+     </div></td></tr><tr><td>
+<div>
+      418
+     </div></td><td>
+<div>
+      215
+     </div></td><td>
+<div>
+      Mokronog–Zbure–Škocjan–Dobruška vas–Šentjernej
+     </div></td><td>
+<div>
+      419
+     </div></td><td>
+<div>
+      23,40
+     </div></td></tr><tr><td>
+<div>
+      419
+     </div></td><td>
+<div>
+      216
+     </div></td><td>
+<div>
+      Soteska–Novo mesto–Šentjernej–Križaj–Čatež ob Savi 
+     </div></td><td>
+<div>
+      219
+     </div></td><td>
+<div>
+      53,17
+     </div></td></tr><tr><td>
+<div>
+      420
+     </div></td><td>
+<div>
+      219
+     </div></td><td>
+<div>
+      Brežice–Dobova–Rigonce
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      6,81
+     </div></td></tr><tr><td>
+<div>
+      421
+     </div></td><td>
+<div>
+      216
+     </div></td><td>
+<div>
+      Ručetna vas–Štrekljevec–Jugorje
+     </div></td><td>
+<div>
+      105
+     </div></td><td>
+<div>
+      13,10
+     </div></td></tr><tr><td>
+<div>
+      422
+     </div></td><td>
+<div>
+      423
+     </div></td><td>
+<div>
+      Podsreda–Brestanica 
+     </div></td><td>
+<div>
+      5
+     </div></td><td>
+<div>
+      16,15
+     </div></td></tr><tr><td>
+<div>
+      423
+     </div></td><td>
+<div>
+      107
+     </div></td><td>
+<div>
+      Šentjur–Lesično–Podsreda–Bistrica ob Sotli
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      38,32
+     </div></td></tr><tr><td>
+<div>
+      424
+     </div></td><td>
+<div>
+      5
+     </div></td><td>
+<div>
+      Boštanj–Planina–Dežno–Črnolica 
+     </div></td><td>
+<div>
+      423
+     </div></td><td>
+<div>
+      33,92
+     </div></td></tr><tr><td>
+<div>
+      425
+     </div></td><td>
+<div>
+      112
+     </div></td><td>
+<div>
+      Poljana–Črna–Šentvid–Šoštanj–Velenje
+     </div></td><td>
+<div>
+      4
+     </div></td><td>
+<div>
+      46,02
+     </div></td></tr><tr><td>
+<div>
+      426
+     </div></td><td>
+<div>
+      425
+     </div></td><td>
+<div>
+      Pesje–Gorenje–Letuš 
+     </div></td><td>
+<div>
+      225
+     </div></td><td>
+<div>
+      11,90
+     </div></td></tr><tr><td>
+<div>
+      427
+     </div></td><td>
+<div>
+      447
+     </div></td><td>
+<div>
+      Latkova vas–Prebold–Trbovlje 
+     </div></td><td>
+<div>
+      221
+     </div></td><td>
+<div>
+      19,62
+     </div></td></tr><tr><td>
+<div>
+      428
+     </div></td><td>
+<div>
+      225
+     </div></td><td>
+<div>
+      Radmirje–Luče–Sestre Logar–Pavličevo sedlo 
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Avstrija
+     </div></td><td>
+<div>
+      33,42
+     </div></td></tr><tr><td>
+<div>
+      429
+     </div></td><td>
+<div>
+      430
+     </div></td><td>
+<div>
+      Višnja vas–Dobrna–Črnova 
+     </div></td><td>
+<div>
+      4
+     </div></td><td>
+<div>
+      12,62
+     </div></td></tr><tr><td>
+<div>
+      430
+     </div></td><td>
+<div>
+      449
+     </div></td><td>
+<div>
+      Pesnica–Maribor (Tezno)–Maribor (Tržaška cesta)–Slovenska Bistrica–Slovenske Konjice–Celje 
+     </div></td><td>
+<div>
+      5
+     </div></td><td>
+<div>
+      68,09
+     </div></td></tr><tr><td>
+<div>
+      431
+     </div></td><td>
+<div>
+      4
+     </div></td><td>
+<div>
+      Gornji Dolič–Stranice 
+     </div></td><td>
+<div>
+      430
+     </div></td><td>
+<div>
+      18,62
+     </div></td></tr><tr><td>
+<div>
+      432
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      Rogatec–Majšperk–Kidričevo 
+     </div></td><td>
+<div>
+      2
+     </div></td><td>
+<div>
+      27,39</div></td></tr><tr><td>
+<div>
+      433
+     </div></td><td>
+<div>
+      229
+     </div></td><td>
+<div>
+      Senarska–Lenart–Trate–most čez Muro 
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Avstrija
+     </div></td><td>
+<div>
+      22,08
+     </div></td></tr><tr><td>
+<div>
+      434
+     </div></td><td>
+<div>
+      1
+     </div></td><td>
+<div>
+      Radlje–Radeljski prelaz 
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Avstrija
+     </div></td><td>
+<div>
+      6,16
+     </div></td></tr><tr><td>
+<div>
+      435
+     </div></td><td>
+<div>
+      1
+     </div></td><td>
+<div>
+      Maribor (Studenci)–Ruše–Selnica
+     </div></td><td>
+<div>
+      1
+     </div></td><td>
+<div>
+      12,32
+     </div></td></tr><tr><td>
+<div>
+      436
+     </div></td><td>
+<div>
+      449
+     </div></td><td>
+<div>
+      Počehova–Zgornja Kungota–Jurij ob Pesnici
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Avstrija
+     </div></td><td>
+<div>
+      13,37
+     </div></td></tr><tr><td>
+<div>
+      437
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Avstrija
+     </div></td><td>
+<div>
+      Šentilj–Pesnica 
+     </div></td><td>
+<div>
+      449
+     </div></td><td>
+<div>
+      12,10
+     </div></td></tr><tr><td>
+<div>
+      438
+     </div></td><td>
+<div>
+      437
+     </div></td><td>
+<div>
+      Šentilj–Trate–Gornja Radgona 
+     </div></td><td>
+<div>
+      449
+     </div></td><td>
+<div>
+      28,99
+     </div></td></tr><tr><td>
+<div>
+      439
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Madžarska
+     </div></td><td>
+<div>
+      Kobilje–Dobrovnik–Beltinci in Bratonci–Križevci–Sveti Jurij ob Ščavnici–Senarska
+     </div></td><td>
+<div>
+      AC A5
+     </div></td><td>
+<div>
+      56,25
+     </div></td></tr><tr><td>
+<div>
+      440
+     </div></td><td>
+<div>
+      235
+     </div></td><td>
+<div>
+      Petanjci–Gederovci–Cankova–Kuzma
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Avstrija
+     </div></td><td>
+<div>
+      25,41
+     </div></td></tr><tr><td>
+<div>
+      441
+     </div></td><td>
+<div>
+      232
+     </div></td><td>
+<div>
+      Murska Sobota–Gederovci 
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Avstrija
+     </div></td><td>
+<div>
+      10,93
+     </div></td></tr><tr><td>
+<div>
+      442
+     </div></td><td>
+<div>
+      232
+     </div></td><td>
+<div>
+      Martjanci–Dobrovnik–Dolga vas
+     </div></td><td>
+<div>
+      H7
+     </div></td><td>
+<div>
+      24,11
+     </div></td></tr><tr><td>
+<div>
+      443
+     </div></td><td>
+<div>
+      232
+     </div></td><td>
+<div>
+      Murska Sobota–Lipovci–Črenšovci–Lendava–Pince 
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Madžarska
+     </div></td><td>
+<div>
+      35,25
+     </div></td></tr><tr><td>
+<div>
+      444
+     </div></td><td>
+<div>
+      409
+     </div></td><td>
+<div>
+      Razdrto–Vipava–Ajdovščina (obvoznica)–Selo–Nova Gorica–Rožna Dolina
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Italija
+     </div></td><td>
+<div>
+      48,62
+     </div></td></tr><tr><td>
+<div>
+      445
+     </div></td><td>
+<div>
+      409
+     </div></td><td>
+<div>
+      Senožeče–Sežana–Fernetiči
+     </div></td><td>
+<div>
+      A3
+     </div></td><td>
+<div>
+      17,11
+     </div></td></tr><tr><td>
+<div>
+      446
+     </div></td><td>
+<div>
+      445
+     </div></td><td>
+<div>
+      Sežana–Divača
+     </div></td><td>
+<div>
+      205
+     </div></td><td>
+<div>
+      9,65
+     </div></td></tr><tr><td>
+<div>
+      447
+     </div></td><td>
+<div>
+      5
+     </div></td><td>
+<div>
+      Medlog–Žalec–Šempeter–Ločica–Trojane–Želodnik–Trzin
+     </div></td><td>
+<div>
+      104
+     </div></td><td>
+<div>
+      59,53
+     </div></td></tr><tr><td>
+<div>
+      448
+     </div></td><td>
+<div>
+      216
+     </div></td><td>
+<div>
+      Ivančna Gorica–Radohova vas–Trebnje– Novo mesto–Otočec–Kronovo–Dobrava
+     </div></td><td>
+<div>
+      418
+     </div></td><td>
+<div>
+      45,63
+     </div></td></tr><tr><td>
+<div>
+      449
+     </div></td><td>
+<div>
+      A1
+     </div></td><td>
+<div>
+      Pesnica–Lenart–Gornja Radgona
+     </div></td><td>
+<div>
+      230
+     </div></td><td>
+<div>
+      33,84
+     </div></td></tr><tr><td>
+<div>
+      450
+     </div></td><td>
+<div>
+      430
+     </div></td><td>
+<div>
+      Hoče–letališče Maribor
+     </div></td><td>
+<div>
+      letališče Maribor
+     </div></td><td>
+<div>
+      4,46
+     </div></td></tr><tr><td>
+<div>
+      451
+     </div></td><td>
+<div>
+      A1
+     </div></td><td>
+<div>
+      Arja vas–Žalec
+     </div></td><td>
+<div>
+      447
+     </div></td><td>
+<div>
+      2,09
+     </div></td></tr><tr><td>
+<div>
+      452
+     </div></td><td>
+<div>
+      A2
+     </div></td><td>
+<div>
+      Hrušica–Javornik–Žirovnica–Lesce–Črnivec
+     </div></td><td>
+<div>
+      A2
+     </div></td><td>
+<div>
+      23,79
+     </div></td></tr><tr><td>
+<div>
+      454
+     </div></td><td>
+<div>
+      1
+     </div></td><td>
+<div>
+      Miklavž–Hajdina–Videm–Podlehnik–Gruškovje 
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      41,51
+     </div></td></tr><tr><td colspan="4">
+<div>
+      skupna dolžina R2
+     </div></td><td>
+<div>
+      1.412,48</div></td></tr></tbody></table>
+</div>
+
+### 9. člen
+
+**(regionalne ceste III. reda)**
+
+Regionalne ceste III. reda (R3) so:
+
+<table><tbody><tr><td>
+<div>
+      številka ceste
+     </div></td><td>
+<div>
+      začetek na
+     </div></td><td>
+<div>
+      potek ceste
+     </div></td><td>
+<div>
+      konec na
+     </div></td><td>
+<div>
+      dolžina (km)
+     </div></td></tr><tr><td>
+<div>
+      601
+     </div></td><td>
+<div>
+      602
+     </div></td><td>
+<div>
+      Borjana–Robidišče
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Italija
+     </div></td><td>
+<div>
+      9,74
+     </div></td></tr><tr><td>
+<div>
+      602
+     </div></td><td>
+<div>
+      102
+     </div></td><td>
+<div>
+      Staro selo–Breginj–most na Nadiži
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Italija
+     </div></td><td>
+<div>
+      15,90
+     </div></td></tr><tr><td>
+<div>
+      603
+     </div></td><td>
+<div>
+      102
+     </div></td><td>
+<div>
+      Most na Soči–Ušnik
+     </div></td><td>
+<div>
+      103
+     </div></td><td>
+<div>
+      4,27
+     </div></td></tr><tr><td>
+<div>
+      604
+     </div></td><td>
+<div>
+      103
+     </div></td><td>
+<div>
+      Ročinj–Lig
+     </div></td><td>
+<div>
+      606
+     </div></td><td>
+<div>
+      10,00
+     </div></td></tr><tr><td>
+<div>
+      605
+     </div></td><td>
+<div>
+      604
+     </div></td><td>
+<div>
+      Kambreško–Solarji–Livek
+     </div></td><td>
+<div>
+      903
+     </div></td><td>
+<div>
+      19,86
+     </div></td></tr><tr><td>
+<div>
+      606
+     </div></td><td>
+<div>
+      103
+     </div></td><td>
+<div>
+      Kanal–Lig–Britof–Mišček–Golo Brdo–Neblo
+     </div></td><td>
+<div>
+      402
+     </div></td><td>
+<div>
+      35,38
+     </div></td></tr><tr><td>
+<div>
+      607
+     </div></td><td>
+<div>
+      608
+     </div></td><td>
+<div>
+      Prevala–Grgar–Čepovan
+     </div></td><td>
+<div>
+      608
+     </div></td><td>
+<div>
+      14,13
+     </div></td></tr><tr><td>
+<div>
+      608
+     </div></td><td>
+<div>
+      103
+     </div></td><td>
+<div>
+      Solkan–Lokve–Čepovan–Dolenja Trebuša
+     </div></td><td>
+<div>
+      102
+     </div></td><td>
+<div>
+      35,71
+     </div></td></tr><tr><td>
+<div>
+      609
+     </div></td><td>
+<div>
+      444
+     </div></td><td>
+<div>
+      Ajdovščina–Predmeja–Lokve in Čepovan–Most na Soči
+     </div></td><td>
+<div>
+      102
+     </div></td><td>
+<div>
+      37,87
+     </div></td></tr><tr><td>
+<div>
+      610
+     </div></td><td>
+<div>
+      608
+     </div></td><td>
+<div>
+      Dolenja Trebuša–Spodnja Idrija in Marof–Žiri
+     </div></td><td>
+<div>
+      408
+     </div></td><td>
+<div>
+      32,28</div></td></tr><tr><td>
+<div>
+      611
+     </div></td><td>
+<div>
+      204
+     </div></td><td>
+<div>
+      Dornberk–Selo
+     </div></td><td>
+<div>
+      444
+     </div></td><td>
+<div>
+      5,15
+     </div></td></tr><tr><td>
+<div>
+      612
+     </div></td><td>
+<div>
+      103
+     </div></td><td>
+<div>
+      Plave–Gonjače
+     </div></td><td>
+<div>
+      402
+     </div></td><td>
+<div>
+      6,19
+     </div></td></tr><tr><td>
+<div>
+      613
+     </div></td><td>
+<div>
+      444
+     </div></td><td>
+<div>
+      Ajševica–Nova Gorica
+     </div></td><td>
+<div>
+      103
+     </div></td><td>
+<div>
+      3,96
+     </div></td></tr><tr><td>
+<div>
+      614
+     </div></td><td>
+<div>
+      204
+     </div></td><td>
+<div>
+      Šempeter–Vrtojba–Miren–Opatje selo– Komen–Štanjel–Manče
+     </div></td><td>
+<div>
+      444
+     </div></td><td>
+<div>
+      48,67
+     </div></td></tr><tr><td>
+<div>
+      615
+     </div></td><td>
+<div>
+      444
+     </div></td><td>
+<div>
+      Tri hiše–Volčja Draga–Gornji Miren
+     </div></td><td>
+<div>
+      614
+     </div></td><td>
+<div>
+      12,01
+     </div></td></tr><tr><td>
+<div>
+      616
+     </div></td><td>
+<div>
+      617
+     </div></td><td>
+<div>
+      Gorjansko–Brestovica–Klariči
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Italija
+     </div></td><td>
+<div>
+      10,09
+     </div></td></tr><tr><td>
+<div>
+      617
+     </div></td><td>
+<div>
+      614
+     </div></td><td>
+<div>
+      Komen–Gorjansko–Žekenc
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Italija
+     </div></td><td>
+<div>
+      6,13
+     </div></td></tr><tr><td>
+<div>
+      618
+     </div></td><td>
+<div>
+      204
+     </div></td><td>
+<div>
+      Branik–Komen–Krajna vas–Dutovlje
+     </div></td><td>
+<div>
+      204
+     </div></td><td>
+<div>
+      18,18
+     </div></td></tr><tr><td>
+<div>
+      619
+     </div></td><td>
+<div>
+      204
+     </div></td><td>
+<div>
+      Dutovlje–Repentabor
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Italija
+     </div></td><td>
+<div>
+      5,42
+     </div></td></tr><tr><td>
+<div>
+      620
+     </div></td><td>
+<div>
+      445
+     </div></td><td>
+<div>
+      Štorje–Štanjel
+     </div></td><td>
+<div>
+      204
+     </div></td><td>
+<div>
+      11,25
+     </div></td></tr><tr><td>
+<div>
+      621
+     </div></td><td>
+<div>
+      102
+     </div></td><td>
+<div>
+      Kalce–Hrušica–Col
+     </div></td><td>
+<div>
+      207
+     </div></td><td>
+<div>
+      19,93
+     </div></td></tr><tr><td>
+<div>
+      622
+     </div></td><td>
+<div>
+      405
+     </div></td><td>
+<div>
+      Goriče–Kal
+     </div></td><td>
+<div>
+      6
+     </div></td><td>
+<div>
+      16,13
+     </div></td></tr><tr><td>
+<div>
+      623
+     </div></td><td>
+<div>
+      409
+     </div></td><td>
+<div>
+      Kastelec–Podgorje
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      10,98
+     </div></td></tr><tr><td>
+<div>
+      624
+     </div></td><td>
+<div>
+      208
+     </div></td><td>
+<div>
+      Loka–Podpeč–Rakitovec
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      15,51
+     </div></td></tr><tr><td>
+<div>
+      625
+     </div></td><td>
+<div>
+      114
+     </div></td><td>
+<div>
+      Bertoki–Gračišče
+     </div></td><td>
+<div>
+      208
+     </div></td><td>
+<div>
+      14,03
+     </div></td></tr><tr><td>
+<div>
+      626
+     </div></td><td>
+<div>
+      625
+     </div></td><td>
+<div>
+      Gračišče–Brezovica pri Gradinu
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      8,52
+     </div></td></tr><tr><td>
+<div>
+      627
+     </div></td><td>
+<div>
+      208
+     </div></td><td>
+<div>
+      Črni Kal–Osp
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Italija
+     </div></td><td>
+<div>
+      4,22
+     </div></td></tr><tr><td>
+<div>
+      628
+     </div></td><td>
+<div>
+      111
+     </div></td><td>
+<div>
+      Sečovlje–Dragonja
+     </div></td><td>
+<div>
+      11
+     </div></td><td>
+<div>
+      3,01
+     </div></td></tr><tr><td>
+<div>
+      629
+     </div></td><td>
+<div>
+      111
+     </div></td><td>
+<div>
+      Valeta–Beli Križ–Piran
+     </div></td><td>
+<div>
+      LC312115
+     </div></td><td>
+<div>
+      2,42
+     </div></td></tr><tr><td>
+<div>
+      630
+     </div></td><td>
+<div>
+      6
+     </div></td><td>
+<div>
+      Prem–Obrov–Golac
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      27,25
+     </div></td></tr><tr><td>
+<div>
+      631
+     </div></td><td>
+<div>
+      7
+     </div></td><td>
+<div>
+      Starod
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      3,13
+     </div></td></tr><tr><td>
+<div>
+      632
+     </div></td><td>
+<div>
+      6
+     </div></td><td>
+<div>
+      Ilirska Bistrica–Zabiče–Novokračine in Jelšane–Novokračine
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      21,10
+     </div></td></tr><tr><td>
+<div>
+      633
+     </div></td><td>
+<div>
+      209
+     </div></td><td>
+<div>
+      Bitnje–Jereka–Srednja vas–Bohinjsko jezero
+     </div></td><td>
+<div>
+      209
+     </div></td><td>
+<div>
+      8,73
+     </div></td></tr><tr><td>
+<div>
+      634
+     </div></td><td>
+<div>
+      452
+     </div></td><td>
+<div>
+      Javornik–Gorje–Bled
+     </div></td><td>
+<div>
+      209
+     </div></td><td>
+<div>
+      12,08
+     </div></td></tr><tr><td>
+<div>
+      635
+     </div></td><td>
+<div>
+      452
+     </div></td><td>
+<div>
+      Radovljica–Kamna Gorica–Lipnica–Kropa–Rudno–Češnjica
+     </div></td><td>
+<div>
+      403
+     </div></td><td>
+<div>
+      27,45
+     </div></td></tr><tr><td>
+<div>
+      636
+     </div></td><td>
+<div>
+      635
+     </div></td><td>
+<div>
+      Lipnica–Gobovce–po R2-441–Podtabor–Zvirče
+     </div></td><td>
+<div>
+      101
+     </div></td><td>
+<div>
+      8,52
+     </div></td></tr><tr><td>
+<div>
+      638
+     </div></td><td>
+<div>
+      452
+     </div></td><td>
+<div>
+      Žirovnica–Begunje–Bistrica pri Tržiču
+     </div></td><td>
+<div>
+      101
+     </div></td><td>
+<div>
+      16,71
+     </div></td></tr><tr><td>
+<div>
+      639
+     </div></td><td>
+<div>
+      211
+     </div></td><td>
+<div>
+      Ljubljana (Šentvid)–Vodice–Brnik–Cerklje
+     </div></td><td>
+<div>
+      LC039111
+     </div></td><td>
+<div>
+      19,23
+     </div></td></tr><tr><td>
+<div>
+      640
+     </div></td><td>
+<div>
+      212
+     </div></td><td>
+<div>
+      Rakek–Logatec
+     </div></td><td>
+<div>
+      102
+     </div></td><td>
+<div>
+      14,04
+     </div></td></tr><tr><td>
+<div>
+      641
+     </div></td><td>
+<div>
+      407
+     </div></td><td>
+<div>
+      Ljubljanica–Brezovica
+     </div></td><td>
+<div>
+      409
+     </div></td><td>
+<div>
+      23,46
+     </div></td></tr><tr><td>
+<div>
+      642
+     </div></td><td>
+<div>
+      409
+     </div></td><td>
+<div>
+      Vrhnika–Podpeč–Ig–Ljubljana (Peruzzijeva)
+     </div></td><td>
+<div>
+      A1
+     </div></td><td>
+<div>
+      34,38</div></td></tr><tr><td>
+<div>
+      643
+     </div></td><td>
+<div>
+      642
+     </div></td><td>
+<div>
+      Preserje–Rakitna–Cerknica
+     </div></td><td>
+<div>
+      212
+     </div></td><td>
+<div>
+      29,40
+     </div></td></tr><tr><td>
+<div>
+      644
+     </div></td><td>
+<div>
+      H3
+     </div></td><td>
+<div>
+      Ljubljana (Letališka)–Šentjakob–Domžale–Duplica
+     </div></td><td>
+<div>
+      225
+     </div></td><td>
+<div>
+      16,20
+     </div></td></tr><tr><td>
+<div>
+      645
+     </div></td><td>
+<div>
+      A1
+     </div></td><td>
+<div>
+      Ljubljana (Litijska)–Zadvor–Šmartno pri Litiji
+     </div></td><td>
+<div>
+      416
+     </div></td><td>
+<div>
+      29,60
+     </div></td></tr><tr><td>
+<div>
+      646
+     </div></td><td>
+<div>
+      106
+     </div></td><td>
+<div>
+      Škofljica–Šmarje – Sap–Grosuplje–Ivančna Gorica
+     </div></td><td>
+<div>
+      216
+     </div></td><td>
+<div>
+      22,60
+     </div></td></tr><tr><td>
+<div>
+      647
+     </div></td><td>
+<div>
+      A2
+     </div></td><td>
+<div>
+      Perovo–Grosuplje–Mlačevo–Krka in Mlačevo–Rašica 
+     </div></td><td>
+<div>
+      106
+     </div></td><td>
+<div>
+      38,10
+     </div></td></tr><tr><td>
+<div>
+      648
+     </div></td><td>
+<div>
+      647
+     </div></td><td>
+<div>
+      Videm–Pri Cerkvi-Struge–Smuka
+     </div></td><td>
+<div>
+      214
+     </div></td><td>
+<div>
+      25,09
+     </div></td></tr><tr><td>
+<div>
+      649
+     </div></td><td>
+<div>
+      216
+     </div></td><td>
+<div>
+      Zagradec–Ambrus–Žvirče
+     </div></td><td>
+<div>
+      648
+     </div></td><td>
+<div>
+      10,95
+     </div></td></tr><tr><td>
+<div>
+      650
+     </div></td><td>
+<div>
+      216
+     </div></td><td>
+<div>
+      Žužemberk–Pluska
+     </div></td><td>
+<div>
+      448
+     </div></td><td>
+<div>
+      13,76
+     </div></td></tr><tr><td>
+<div>
+      651
+     </div></td><td>
+<div>
+      448
+     </div></td><td>
+<div>
+      Šentjurij–Mirna Peč–Novo mesto (Krka) in Karteljevo–Novo mesto (Bučna vas)
+     </div></td><td>
+<div>
+      105
+     </div></td><td>
+<div>
+      14,18
+     </div></td></tr><tr><td>
+<div>
+      652
+     </div></td><td>
+<div>
+      417
+     </div></td><td>
+<div>
+      Moravče–Čatež–Trebnje
+     </div></td><td>
+<div>
+      448
+     </div></td><td>
+<div>
+      16,12
+     </div></td></tr><tr><td>
+<div>
+      653
+     </div></td><td>
+<div>
+      212
+     </div></td><td>
+<div>
+      Sodražica–Hrib–Trava–Podplanina in Podplanina–Vici</div></td><td>
+<div>LC731841<br/></div></td><td>
+<div>
+      31,05</div></td></tr><tr><td>
+<div>
+      654
+     </div></td><td>
+<div>
+      106
+     </div></td><td>
+<div>
+      Štalcerji–Kočevska Reka
+     </div></td><td>
+<div>
+      655
+     </div></td><td>
+<div>
+      5,84
+     </div></td></tr><tr><td>
+<div>
+      655
+     </div></td><td>
+<div>
+      106
+     </div></td><td>
+<div>
+      Dolenja vas–Gotenica–Kočevska Reka
+     </div></td><td>
+<div>
+      654
+     </div></td><td>
+<div>
+      16,53
+     </div></td></tr><tr><td>
+<div>
+      656
+     </div></td><td>
+<div>
+      655
+     </div></td><td>
+<div>
+      Kočevska Reka–Borovec–Dragarji–Osilnica
+     </div></td><td>
+<div>
+      657
+     </div></td><td>
+<div>
+      20,08
+     </div></td></tr><tr><td>
+<div>
+      657
+     </div></td><td>
+<div>
+      106
+     </div></td><td>
+<div>
+      Petrina–Kuželj–Mirtoviči–Osilnica
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      20,85
+     </div></td></tr><tr><td>
+<div>
+      658
+     </div></td><td>
+<div>
+      217
+     </div></td><td>
+<div>
+      Dobliče–Sveta Ana–Stari trg–Brezovica
+     </div></td><td>
+<div>
+      217
+     </div></td><td>
+<div>
+      19,53
+     </div></td></tr><tr><td>
+<div>
+      659
+     </div></td><td>
+<div>
+      658
+     </div></td><td>
+<div>
+      Stari trg–Kot–Sodevci
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      4,38
+     </div></td></tr><tr><td>
+<div>
+      660
+     </div></td><td>
+<div>
+      218
+     </div></td><td>
+<div>
+      Črnomelj–Adlešiči–Žuniči
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      20,26
+     </div></td></tr><tr><td>
+<div>
+      661
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      Krmačina–Drašiči–Metlika
+     </div></td><td>
+<div>
+      105
+     </div></td><td>
+<div>
+      9,27
+     </div></td></tr><tr><td>
+<div>
+      662
+     </div></td><td>
+<div>
+      661
+     </div></td><td>
+<div>
+      Metlika–Božakovo
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      8,13
+     </div></td></tr><tr><td>
+<div>
+      663
+     </div></td><td>
+<div>
+      105
+     </div></td><td>
+<div>
+      Bušinja vas–Radovica–Ostriž
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      8,09
+     </div></td></tr><tr><td>
+<div>
+      664
+     </div></td><td>
+<div>
+      216
+     </div></td><td>
+<div>
+      Gaber–Uršna sela–Novo mesto
+     </div></td><td>
+<div>
+      419
+     </div></td><td>
+<div>
+      22,15
+     </div></td></tr><tr><td>
+<div>
+      665
+     </div></td><td>
+<div>
+      417
+     </div></td><td>
+<div>
+      Velika Reka–Radeče
+     </div></td><td>
+<div>
+      5
+     </div></td><td>
+<div>
+      28,03
+     </div></td></tr><tr><td>
+<div>
+      666
+     </div></td><td>
+<div>
+      665
+     </div></td><td>
+<div>
+      Sopota–Podkum–Zagorje
+     </div></td><td>
+<div>
+      108
+     </div></td><td>
+<div>
+      10,37
+     </div></td></tr><tr><td>
+<div>
+      667
+     </div></td><td>
+<div>
+      418
+     </div></td><td>
+<div>
+      Zbure–Kronovo
+     </div></td><td>
+<div>
+      448
+     </div></td><td>
+<div>
+      6,70
+     </div></td></tr><tr><td>
+<div>
+      668
+     </div></td><td>
+<div>
+      920
+     </div></td><td>
+<div>
+      Gabrje–Ratež
+     </div></td><td>
+<div>
+      419
+     </div></td><td>
+<div>
+      5,58
+     </div></td></tr><tr><td>
+<div>
+      670
+     </div></td><td>
+<div>
+      219
+     </div></td><td>
+<div>
+      Bizeljsko–Orešje
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      5,26
+     </div></td></tr><tr><td>
+<div>
+      671
+     </div></td><td>
+<div>
+      419
+     </div></td><td>
+<div>
+      Križaj–Podbočje–Šutna–Planina v Podbočju
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      13,90
+     </div></td></tr><tr><td>
+<div>
+      672
+     </div></td><td>
+<div>
+      5
+     </div></td><td>
+<div>
+      Impoljca–Zavratec–Smednik–Kostanjevica
+     </div></td><td>
+<div>
+      419
+     </div></td><td>
+<div>
+      23,31
+     </div></td></tr><tr><td>
+<div>
+      673
+     </div></td><td>
+<div>
+      5
+     </div></td><td>
+<div>
+      Drnovo–Križaj
+     </div></td><td>
+<div>
+      419
+     </div></td><td>
+<div>
+      5,71
+     </div></td></tr><tr><td>
+<div>
+      674
+     </div></td><td>
+<div>
+      672
+     </div></td><td>
+<div>
+      Zavratec–Škocjan
+     </div></td><td>
+<div>
+      418
+     </div></td><td>
+<div>
+      10,50
+     </div></td></tr><tr><td>
+<div>
+      675
+     </div></td><td>
+<div>
+      219
+     </div></td><td>
+<div>
+      Čatež ob Savi–Obrežje–Slovenska vas
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      10,17
+     </div></td></tr><tr><td>
+<div>
+      676
+     </div></td><td>
+<div>
+      220
+     </div></td><td>
+<div>
+      Spodnja Pohanca–Kapele–Rakovec
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      13,66
+     </div></td></tr><tr><td>
+<div>
+      677
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      Nova vas–Pišece–Zgornja Pohanca–Krško
+     </div></td><td>
+<div>
+      220
+     </div></td><td>
+<div>
+      23,37
+     </div></td></tr><tr><td>
+<div>
+      678
+     </div></td><td>
+<div>
+      219
+     </div></td><td>
+<div>
+      Stara vas–Bizeljsko–Figarov most
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      0,76
+     </div></td></tr><tr><td>
+<div>
+      679
+     </div></td><td>
+<div>
+      5
+     </div></td><td>
+<div>
+      Radeče–Breg–Sevnica–Brestanica
+     </div></td><td>
+<div>
+      422
+     </div></td><td>
+<div>
+      27,46
+     </div></td></tr><tr><td>
+<div>
+      680
+     </div></td><td>
+<div>
+      5
+     </div></td><td>
+<div>
+      Rimske Toplice–Jurklošter–Dežno
+     </div></td><td>
+<div>
+      424
+     </div></td><td>
+<div>
+      21,53
+     </div></td></tr><tr><td>
+<div>
+      681
+     </div></td><td>
+<div>
+      5
+     </div></td><td>
+<div>
+      Laško–Breze–Šentjur
+     </div></td><td>
+<div>
+      423
+     </div></td><td>
+<div>
+      20,80
+     </div></td></tr><tr><td>
+<div>
+      682
+     </div></td><td>
+<div>
+      424
+     </div></td><td>
+<div>
+      Loke–Ledinščica
+     </div></td><td>
+<div>
+      423
+     </div></td><td>
+<div>
+      10,08
+     </div></td></tr><tr><td>
+<div>
+      683
+     </div></td><td>
+<div>
+      423
+     </div></td><td>
+<div>
+      Pilštanj–Golobinjek–Imeno
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      11,31
+     </div></td></tr><tr><td>
+<div>
+      684
+     </div></td><td>
+<div>
+      219
+     </div></td><td>
+<div>
+      Prelasko–Buče–Kozje 
+     </div></td><td>
+<div>
+      R2-423
+     </div></td><td>
+<div>
+      7,380
+     </div></td></tr><tr><td>
+<div>
+      685
+     </div></td><td>
+<div>
+      107
+     </div></td><td>
+<div>
+      Tekačevo–Rogaška Slatina–Rajnkovec meja
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      5,85
+     </div></td></tr><tr><td>
+<div>
+      686
+     </div></td><td>
+<div>
+      430
+     </div></td><td>
+<div>
+      Tepanje–Žiče–Dramlje
+     </div></td><td>
+<div>
+      A1
+     </div></td><td>
+<div>
+      17,87
+     </div></td></tr><tr><td>
+<div>
+      687
+     </div></td><td>
+<div>
+      686
+     </div></td><td>
+<div>
+      Dole–Ponikva–Loče
+     </div></td><td>
+<div>
+      688
+     </div></td><td>
+<div>
+      14,14
+     </div></td></tr><tr><td>
+<div>
+      688
+     </div></td><td>
+<div>
+      430
+     </div></td><td>
+<div>
+      Slovenske Konjice–Žiče–Poljčane–Majšperk
+     </div></td><td>
+<div>
+      432
+     </div></td><td>
+<div>
+      30,96
+     </div></td></tr><tr><td>
+<div>
+      689
+     </div></td><td>
+<div>
+      454
+     </div></td><td>
+<div>
+      Kozminci–Žetale–Rogatec
+     </div></td><td>
+<div>
+      432
+     </div></td><td>
+<div>
+      15,43
+     </div></td></tr><tr><td>
+<div>
+      690
+     </div></td><td>
+<div>
+      432
+     </div></td><td>
+<div>
+      Majšperk–Jurovci–Tržec–Zgornji Leskovec
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      27,53
+     </div></td></tr><tr><td>
+<div>
+      691
+     </div></td><td>
+<div>
+      228
+     </div></td><td>
+<div>
+      Zavrč–Drenovec
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      7,28
+     </div></td></tr><tr><td>
+<div>
+      692
+     </div></td><td>
+<div>
+      228
+     </div></td><td>
+<div>
+      Borl–Cirkulane–Meje
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      7,70
+     </div></td></tr><tr><td>
+<div>
+      693
+     </div></td><td>
+<div>
+      429
+     </div></td><td>
+<div>
+      Nova Cerkev–Socka–Vitanje
+     </div></td><td>
+<div>
+      431
+     </div></td><td>
+<div>
+      10,32
+     </div></td></tr><tr><td>
+<div>
+      694
+     </div></td><td>
+<div>
+      4
+     </div></td><td>
+<div>
+      Velenje–Dobrteša vas
+     </div></td><td>
+<div>
+      447
+     </div></td><td>
+<div>
+      15,39
+     </div></td></tr><tr><td>
+<div>
+      695
+     </div></td><td>
+<div>
+      694
+     </div></td><td>
+<div>
+      Polzela–Rečica in Gorenje–Soteska
+     </div></td><td>
+<div>
+      225
+     </div></td><td>
+<div>
+      8,84
+     </div></td></tr><tr><td>
+<div>
+      696
+     </div></td><td>
+<div>
+      4
+     </div></td><td>
+<div>
+      Velenje–Škale–Graška Gora–Šmiklavž in Slovenj Gradec–Mislinjska Dobrava
+     </div></td><td>
+<div>
+      4
+     </div></td><td>
+<div>
+      27,99
+     </div></td></tr><tr><td>
+<div>
+      697
+     </div></td><td>
+<div>
+      225
+     </div></td><td>
+<div>
+      Nazarje–Gornji Grad
+     </div></td><td>
+<div>
+      225
+     </div></td><td>
+<div>
+      13,98
+     </div></td></tr><tr><td>
+<div>
+      698
+     </div></td><td>
+<div>
+      425
+     </div></td><td>
+<div>
+      Mežica–Reht
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Avstrija
+     </div></td><td>
+<div>
+      2,73
+     </div></td></tr><tr><td>
+<div>
+      699
+     </div></td><td>
+<div>
+      4
+     </div></td><td>
+<div>
+      Dravograd–Libeliče
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Avstrija
+     </div></td><td>
+<div>
+      8,68
+     </div></td></tr><tr><td>
+<div>
+      700
+     </div></td><td>
+<div>
+      430
+     </div></td><td>
+<div>
+      Slovenske Konjice–Oplotnica–Ložnica
+     </div></td><td>
+<div>
+      430
+     </div></td><td>
+<div>
+      16,00
+     </div></td></tr><tr><td>
+<div>
+      701
+     </div></td><td>
+<div>
+      1
+     </div></td><td>
+<div>
+      Ruta–Pesek–Rogla–Zreče–Zeče
+     </div></td><td>
+<div>
+      430
+     </div></td><td>
+<div>
+      39,76
+     </div></td></tr><tr><td>
+<div>
+      702
+     </div></td><td>
+<div>
+      4
+     </div></td><td>
+<div>
+      Dravograd–Trbonje in most Vuhred
+     </div></td><td>
+<div>
+      704
+     </div></td><td>
+<div>
+      21,20
+     </div></td></tr><tr><td>
+<div>
+      703
+     </div></td><td>
+<div>
+      1
+     </div></td><td>
+<div>
+      Muta–Gortina–Bistriški jarek
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Avstrija
+     </div></td><td>
+<div>
+      8,77
+     </div></td></tr><tr><td>
+<div>
+      704
+     </div></td><td>
+<div>
+      1
+     </div></td><td>
+<div>
+      Radlje–Ribnica–Brezno
+     </div></td><td>
+<div>
+      1
+     </div></td><td>
+<div>
+      22,40
+     </div></td></tr><tr><td>
+<div>
+      705
+     </div></td><td>
+<div>
+      435
+     </div></td><td>
+<div>
+      Ruše–Puščava
+     </div></td><td>
+<div>
+      701
+     </div></td><td>
+<div>
+      10,10
+     </div></td></tr><tr><td>
+<div>
+      706
+     </div></td><td>
+<div>
+      1
+     </div></td><td>
+<div>
+      Ožbalt–Zgornja Kapla–Remšnik in 
+     </div>
+<div>
+      Hajdičev mlin–Gradišče
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Avstrija
+     </div></td><td>
+<div>
+      16,63
+     </div></td></tr><tr><td>
+<div>
+      707
+     </div></td><td>
+<div>
+      1
+     </div></td><td>
+<div>
+      Spodnja Selnica–Duh na Ojstrem Vrhu
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Avstrija
+     </div></td><td>
+<div>
+      12,86
+     </div></td></tr><tr><td>
+<div>
+      708
+     </div></td><td>
+<div>
+      436
+     </div></td><td>
+<div>
+      Zgornja Kungota–Plač
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Avstrija
+     </div></td><td>
+<div>
+      5,48
+     </div></td></tr><tr><td>
+<div>
+      709
+     </div></td><td>
+<div>
+      710
+     </div></td><td>
+<div>
+      Maribor (Pobrežje)–Malečnik–Pernica
+     </div></td><td>
+<div>
+      A5
+     </div></td><td>
+<div>
+      9,02
+     </div></td></tr><tr><td>
+<div>
+      710
+     </div></td><td>
+<div>
+      430
+     </div></td><td>
+<div>
+      Maribor–Vurberk–Ptuj–Hajdina–Turnišče
+     </div></td><td>
+<div>
+      454
+     </div></td><td>
+<div>
+      27,47
+     </div></td></tr><tr><td>
+<div>
+      711
+     </div></td><td>
+<div>
+      430
+     </div></td><td>
+<div>
+      Fram–Rače–Kungota–Kidričevo
+     </div></td><td>
+<div>
+      2
+     </div></td><td>
+<div>
+      13,75
+     </div></td></tr><tr><td>
+<div>
+      712
+     </div></td><td>
+<div>
+      439
+     </div></td><td>
+<div>
+      Žihlava–Rogoznica (Ptuj)
+     </div></td><td>
+<div>
+      229
+     </div></td><td>
+<div>
+      21,17
+     </div></td></tr><tr><td>
+<div>
+      713
+     </div></td><td>
+<div>
+      230
+     </div></td><td>
+<div>
+      Ljutomer–Savci–Ptuj
+     </div></td><td>
+<div>
+      229
+     </div></td><td>
+<div>
+      31,23
+     </div></td></tr><tr><td>
+<div>
+      714
+     </div></td><td>
+<div>
+      439
+     </div></td><td>
+<div>
+      Sveti Jurij ob Ščavnici–Grabonoš–Spodnji Ivanjci–Gornja Radgona
+     </div></td><td>
+<div>
+      230
+     </div></td><td>
+<div>
+      14,56
+     </div></td></tr><tr><td>
+<div>
+      715
+     </div></td><td>
+<div>
+      232
+     </div></td><td>
+<div>
+      Murska Sobota–Skakovci
+     </div></td><td>
+<div>
+      440
+     </div></td><td>
+<div>
+      14,15
+     </div></td></tr><tr><td>
+<div>
+      716
+     </div></td><td>
+<div>
+      715
+     </div></td><td>
+<div>
+      Lemerje–Grad–Vidonci–Kuzma
+     </div></td><td>
+<div>
+      721
+     </div></td><td>
+<div>
+      17,36
+     </div></td></tr><tr><td>
+<div>
+      717
+     </div></td><td>
+<div>
+      440
+     </div></td><td>
+<div>
+      Cankova–Gerlinci–Korovci
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Avstrija
+     </div></td><td>
+<div>
+      6,80
+     </div></td></tr><tr><td>
+<div>
+      718
+     </div></td><td>
+<div>
+      440
+     </div></td><td>
+<div>
+      Pertoča–Fikšinci
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Avstrija
+     </div></td><td>
+<div>
+      5,67
+     </div></td></tr><tr><td>
+<div>
+      719
+     </div></td><td>
+<div>
+      440
+     </div></td><td>
+<div>
+      Rogašovci–Kramarovci
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Avstrija
+     </div></td><td>
+<div>
+      3,58
+     </div></td></tr><tr><td>
+<div>
+      720
+     </div></td><td>
+<div>
+      440
+     </div></td><td>
+<div>
+      Sotina
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Avstrija
+     </div></td><td>
+<div>
+      2,27
+     </div></td></tr><tr><td>
+<div>
+      721
+     </div></td><td>
+<div>
+      232
+     </div></td><td>
+<div>
+      Petrovci–Martinje–Kuzma–Sotina
+     </div></td><td>
+<div>
+      440
+     </div></td><td>
+<div>
+      19,75
+     </div></td></tr><tr><td>
+<div>
+      722
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Madžarska
+     </div></td><td>
+<div>
+      R Madžarska–Martinje
+     </div></td><td>
+<div>
+      721
+     </div></td><td>
+<div>
+      0,31
+     </div></td></tr><tr><td>
+<div>
+      723
+     </div></td><td>
+<div>
+      232
+     </div></td><td>
+<div>
+      Šalovci–Čepinci
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Madžarska
+     </div></td><td>
+<div>
+      9,16
+     </div></td></tr><tr><td>
+<div>
+      724
+     </div></td><td>
+<div>
+      232
+     </div></td><td>
+<div>
+      Hodoš–Domanjševci–Kobilje
+     </div></td><td>
+<div>
+      439
+     </div></td><td>
+<div>
+      22,83
+     </div></td></tr><tr><td>
+<div>
+      725
+     </div></td><td>
+<div>
+      442
+     </div></td><td>
+<div>
+      Martjanci–Prosenjakovci
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Madžarska
+     </div></td><td>
+<div>
+      15,27
+     </div></td></tr><tr><td>
+<div>
+      726
+     </div></td><td>
+<div>
+      439
+     </div></td><td>
+<div>
+      Renkovci–Črenšovci–Razkrižje in Stročja vas–Pavlovci
+     </div></td><td>
+<div>
+      230
+     </div></td><td>
+<div>
+      27,78
+     </div></td></tr><tr><td>
+<div>
+      727
+     </div></td><td>
+<div>
+      231
+     </div></td><td>
+<div>
+      Razkrižje
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      0,48
+     </div></td></tr><tr><td>
+<div>
+      728
+     </div></td><td>
+<div>
+      106
+     </div></td><td>
+<div>
+      Škofljica–Ig–po cesti 642–Gornji Ig–Rakitna
+     </div></td><td>
+<div>
+      643
+     </div></td><td>
+<div>
+      24,77
+     </div></td></tr><tr><td>
+<div>
+      729
+     </div></td><td>
+<div>
+      443
+     </div></td><td>
+<div>
+      Hotiza–Velika Polana–Gomilica–Lipa–Beltinci
+     </div></td><td>
+<div>
+      443
+     </div></td><td>
+<div>
+      12,10
+     </div></td></tr><tr><td>
+<div>
+      730
+     </div></td><td>
+<div>
+      433
+     </div></td><td>
+<div>
+      Žice–Sveta Ana–Zgornja Ščavnica–Dražen Vrh
+     </div></td><td>
+<div>
+      433
+     </div></td><td>
+<div>
+      8,07
+     </div></td></tr><tr><td>
+<div>
+      731
+     </div></td><td>
+<div>
+      695
+     </div></td><td>
+<div>
+      Polzela–Parižlje–Braslovče
+     </div></td><td>
+<div>
+      LC490151
+     </div></td><td>
+<div>
+      2,33
+     </div></td></tr><tr><td>
+<div>
+      732
+     </div></td><td>
+<div>
+      447
+     </div></td><td>
+<div>
+      Pondor–Tabor–Ojstriška vas–Kapla
+     </div></td><td>
+<div>
+      447
+     </div></td><td>
+<div>
+      4,03
+     </div></td></tr><tr><td>
+<div>
+      733
+     </div></td><td>
+<div>
+      419
+     </div></td><td>
+<div>
+      Vavta vas–Dolenjske Toplice–Podturn
+     </div></td><td>
+<div>
+      216
+     </div></td><td>
+<div>
+      6,29
+     </div></td></tr><tr><td>
+<div>
+      734
+     </div></td><td>
+<div>
+      439
+     </div></td><td>
+<div>
+      Cerkvenjak–Vitomarci (Sveti Andraž)–Gabrnik
+     </div></td><td>
+<div>
+      712
+     </div></td><td>
+<div>
+      12,13
+     </div></td></tr><tr><td>
+<div>
+      735
+     </div></td><td>
+<div>
+      1
+     </div></td><td>
+<div>
+      Muta–Vuzenica
+     </div></td><td>
+<div>
+      702
+     </div></td><td>
+<div>
+      0,45
+     </div></td></tr><tr><td>
+<div>
+      737
+     </div></td><td>
+<div>
+      711
+     </div></td><td>
+<div>
+      Rače–Šikole
+     </div></td><td>
+<div>
+      2
+     </div></td><td>
+<div>
+      5,79
+     </div></td></tr><tr><td>
+<div>
+      738
+     </div></td><td>
+<div>
+      215
+     </div></td><td>
+<div>
+      Tržišče–Hotemež
+     </div></td><td>
+<div>
+      5
+     </div></td><td>
+<div>
+      14,48
+     </div></td></tr><tr><td>
+<div>
+      739
+     </div></td><td>
+<div>
+      229
+     </div></td><td>
+<div>
+      Janežovski Vrh–Destrnik–Gomilci
+     </div></td><td>
+<div>
+      229
+     </div></td><td>
+<div>
+      3,59
+     </div></td></tr><tr><td>
+<div>
+      741
+     </div></td><td>
+<div>
+      H5
+     </div></td><td>
+<div>
+      Škofije–Dekani–Bertoki–Koper (Škocjan)
+     </div></td><td>
+<div>
+      11
+     </div></td><td>
+<div>
+      7,17
+     </div></td></tr><tr><td>
+<div>
+      742
+     </div></td><td>
+<div>
+      642
+     </div></td><td>
+<div>
+      Podpeč–Brezovica
+     </div></td><td>
+<div>
+      409
+     </div></td><td>
+<div>
+      6,91
+     </div></td></tr><tr><td>
+<div>
+      743
+     </div></td><td>
+<div>
+      442
+     </div></td><td>
+<div>
+      Bogojina–Gančani (AC priključek)
+     </div></td><td>
+<div>
+      A5
+     </div></td><td>
+<div>
+      4,35
+     </div></td></tr><tr><td>
+<div>
+      744
+     </div></td><td>
+<div>
+      107
+     </div></td><td>
+<div>
+      Štore–Svetina–Laško
+     </div></td><td>
+<div>
+      5
+     </div></td><td>
+<div>
+      16,79
+     </div></td></tr><tr><td>
+<div>
+      745
+     </div></td><td>
+<div>
+      229
+     </div></td><td>
+<div>
+      Janežovci–Dolge Njive–Spodnji Duplek
+     </div></td><td>
+<div>
+      710
+     </div></td><td>
+<div>
+      16,72
+     </div></td></tr><tr><td>
+<div>
+      746
+     </div></td><td>
+<div>
+      213
+     </div></td><td>
+<div>
+      Stari trg–Loški Potok
+     </div></td><td>
+<div>
+      653
+     </div></td><td>
+<div>
+      11,92
+     </div></td></tr><tr><td>
+<div>
+      747
+     </div></td><td>
+<div>
+      449
+     </div></td><td>
+<div>
+      Lenart–Sveta Trojica–Cogetinci–Spodnji Ivanjci
+     </div></td><td>
+<div>
+      714
+     </div></td><td>
+<div>
+      12,78
+     </div></td></tr><tr><td>
+<div>
+      748
+     </div></td><td>
+<div>
+      106
+     </div></td><td>
+<div>
+      Velike Lašče–Lužarji–Nova vas
+     </div></td><td>
+<div>
+      212
+     </div></td><td>
+<div>
+      18,02
+     </div></td></tr><tr><td>
+<div>
+      749
+     </div></td><td>
+<div>
+      449
+     </div></td><td>
+<div>
+      Vosek–Jurovski Dol–Lenart
+     </div></td><td>
+<div>
+      -433
+     </div></td><td>
+<div>
+      15,77
+     </div></td></tr><tr><td>
+<div>
+      750
+     </div></td><td>
+<div>
+      215
+     </div></td><td>
+<div>
+      Slovenska vas–Šentrupert
+     </div></td><td>
+<div>
+      425310
+     </div></td><td>
+<div>
+      2,17
+     </div></td></tr><tr><td>
+<div>
+      751
+     </div></td><td>
+<div>
+      225
+     </div></td><td>
+<div>
+      Nizka–Rečica ob Savinji
+     </div></td><td>
+<div>
+      LC267060
+     </div></td><td>
+<div>
+      0,91
+     </div></td></tr><tr><td>
+<div>
+      752
+     </div></td><td>
+<div>
+      430
+     </div></td><td>
+<div>
+      Arclin–Ljubečna–Bukovžlak–Teharje
+     </div></td><td>
+<div>
+      107
+     </div></td><td>
+<div>
+      7,26
+     </div></td></tr><tr><td>
+<div>
+      753
+     </div></td><td>
+<div>
+      102
+     </div></td><td>
+<div>
+      Volče–Solarji
+     </div></td><td>
+<div>
+      605
+     </div></td><td>
+<div>
+      9,10
+     </div></td></tr><tr><td>
+<div>
+      754
+     </div></td><td>
+<div>
+      409
+     </div></td><td>
+<div>
+      Planina – Unec
+     </div></td><td>
+<div>
+      212
+     </div></td><td>
+<div>
+      4,40
+     </div></td></tr><tr><td colspan="4">
+<div>
+      skupna dolžina R3
+     </div></td><td>
+<div>
+      2.169,86</div></td></tr></tbody></table>
+
+<div>
+<table><tbody><tr><td colspan="5">
+<div>
+      Turistične ceste (RT)
+     </div></td></tr><tr><td>
+<div>
+      901
+     </div></td><td>
+<div>
+      202
+     </div></td><td>
+<div>
+      Rateče–Planica
+     </div></td><td>
+<div>
+      Nordijski center Planica
+     </div></td><td>
+<div>
+      2,00
+     </div></td></tr><tr><td>
+<div>
+      902
+     </div></td><td>
+<div>
+      203
+     </div></td><td>
+<div>
+      Strmec–Mangart
+     </div></td><td>
+<div>
+      planinski dom
+     </div></td><td>
+<div>
+      11,71
+     </div></td></tr><tr><td>
+<div>
+      903
+     </div></td><td>
+<div>
+      102
+     </div></td><td>
+<div>
+      Idrsko–Livek
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Italija
+     </div></td><td>
+<div>
+      6,96
+     </div></td></tr><tr><td>
+<div>
+      904
+     </div></td><td>
+<div>
+      209
+     </div></td><td>
+<div>
+      Bohinjsko jezero–Zlatorog–Savica
+     </div></td><td>
+<div>
+      planinski dom Savica
+     </div></td><td>
+<div>
+      8,09
+     </div></td></tr><tr><td>
+<div>
+      905
+     </div></td><td>
+<div>
+      634
+     </div></td><td>
+<div>
+      Gorje–Krnica–Mrzli Studenec–Jereka
+     </div></td><td>
+<div>
+      633
+     </div></td><td>
+<div>
+      27,73
+     </div></td></tr><tr><td>
+<div>
+      906
+     </div></td><td>
+<div>
+      905
+     </div></td><td>
+<div>
+      Mrzli Studenec–Rudno polje
+     </div></td><td>
+<div>
+      vojaški objekt Srednja vas
+     </div></td><td>
+<div>
+      6,10
+     </div></td></tr><tr><td>
+<div>
+      907
+     </div></td><td>
+<div>
+      905
+     </div></td><td>
+<div>
+      Krnica–Zgornja Radovna–Dovje
+     </div></td><td>
+<div>
+      201
+     </div></td><td>
+<div>
+      18,16
+     </div></td></tr><tr><td>
+<div>
+      908
+     </div></td><td>
+<div>
+      201
+     </div></td><td>
+<div>
+      Mojstrana–Vrata
+     </div></td><td>
+<div>
+      parkirišče Vrata
+     </div></td><td>
+<div>
+      11,30
+     </div></td></tr><tr><td>
+<div>
+      909
+     </div></td><td>
+<div>
+      209
+     </div></td><td>
+<div>
+      Bohinjska Bistrica–Vresje–Sorica–Petrovo Brdo
+     </div></td><td>
+<div>
+      403
+     </div></td><td>
+<div>
+      21,85
+     </div></td></tr><tr><td>
+<div>
+      910
+     </div></td><td>
+<div>
+      909
+     </div></td><td>
+<div>
+      Sorica–Podrošt
+     </div></td><td>
+<div>
+      403
+     </div></td><td>
+<div>
+      5,34
+     </div></td></tr><tr><td>
+<div>
+      911
+     </div></td><td>
+<div>
+      635
+     </div></td><td>
+<div>
+      Rudno–Rovtarica–Vresje
+     </div></td><td>
+<div>
+      909
+     </div></td><td>
+<div>
+      19,30
+     </div></td></tr><tr><td>
+<div>
+      912
+     </div></td><td>
+<div>
+      403
+     </div></td><td>
+<div>
+      Zali Log–Davča–Novaki–Cerkno
+     </div></td><td>
+<div>
+      210
+     </div></td><td>
+<div>
+      21,07
+     </div></td></tr><tr><td>
+<div>
+      914
+     </div></td><td>
+<div>
+      409
+     </div></td><td>
+<div>
+      Postojna–Rakov Škocjan–Podskrajnik
+     </div></td><td>
+<div>
+      212
+     </div></td><td>
+<div>
+      11,17
+     </div></td></tr><tr><td>
+<div>
+      915
+     </div></td><td>
+<div>
+      404
+     </div></td><td>
+<div>
+      Ilirska Bistrica–Sviščaki–Leskova dolina–Pudob
+     </div></td><td>
+<div>
+      213
+     </div></td><td>
+<div>
+      50,48
+     </div></td></tr><tr><td>
+<div>
+      916
+     </div></td><td>
+<div>
+      656
+     </div></td><td>
+<div>
+      Dragarji–Medvedjek–Draga
+     </div></td><td>
+<div>
+      653
+     </div></td><td>
+<div>
+      17,21
+     </div></td></tr><tr><td>
+<div>
+      917
+     </div></td><td>
+<div>
+      106
+     </div></td><td>
+<div>
+      Kočevje–Željne–Rog–Baza–Podturn
+     </div></td><td>
+<div>
+      216
+     </div></td><td>
+<div>
+      31,81
+     </div></td></tr><tr><td>
+<div>
+      918
+     </div></td><td>
+<div>
+      659
+     </div></td><td>
+<div>
+      Kot–Grgelj–Fara
+     </div></td><td>
+<div>
+      106
+     </div></td><td>
+<div>
+      23,41
+     </div></td></tr><tr><td>
+<div>
+      919
+     </div></td><td>
+<div>
+      218
+     </div></td><td>
+<div>
+      Podzemelj–Adlešiči po R3-660–Žuniči–Vinica–Stari trg
+     </div></td><td>
+<div>
+      658
+     </div></td><td>
+<div>
+      40,01
+     </div></td></tr><tr><td>
+<div>
+      920
+     </div></td><td>
+<div>
+      668
+     </div></td><td>
+<div>
+      Gabrje–Trdinov vrh
+     </div></td><td>
+<div>
+      meja 
+     </div>
+<div>
+      R Hrvaška
+     </div></td><td>
+<div>
+      11,28
+     </div></td></tr><tr><td>
+<div>
+      921
+     </div></td><td>
+<div>
+      415
+     </div></td><td>
+<div>
+      Kandrše–Vače–Zgornji Hotič
+     </div></td><td>
+<div>
+      108
+     </div></td><td>
+<div>
+      7,62
+     </div></td></tr><tr><td>
+<div>
+      923
+     </div></td><td>
+<div>
+      225
+     </div></td><td>
+<div>
+      Stahovica–Kamniška Bistrica
+     </div></td><td>
+<div>
+      planinski dom v Kamniški Bistrici
+     </div></td><td>
+<div>
+      8,21
+     </div></td></tr><tr><td>
+<div>
+      924
+     </div></td><td>
+<div>
+      225
+     </div></td><td>
+<div>
+      Podlom–Kranjski Rak–Luče
+     </div></td><td>
+<div>
+      428
+     </div></td><td>
+<div>
+      15,97
+     </div></td></tr><tr><td>
+<div>
+      926
+     </div></td><td>
+<div>
+      428
+     </div></td><td>
+<div>
+      Solčava–Podolševa–Sleme–Koprivna–Črna
+     </div></td><td>
+<div>
+      425
+     </div></td><td>
+<div>
+      24,32
+     </div></td></tr><tr><td>
+<div>
+      927
+     </div></td><td>
+<div>
+      428
+     </div></td><td>
+<div>
+      Žibovt–Podolševa
+     </div></td><td>
+<div>
+      926
+     </div></td><td>
+<div>
+      10,35
+     </div></td></tr><tr><td>
+<div>
+      928
+     </div></td><td>
+<div>
+      225
+     </div></td><td>
+<div>
+      Mozirje–Golte
+     </div></td><td>
+<div>
+      spodnja postaja nihalke Žekovec
+     </div></td><td>
+<div>
+      4,35
+     </div></td></tr><tr><td>
+<div>
+      929
+     </div></td><td>
+<div>
+      430
+     </div></td><td>
+<div>
+      Hoče–Bellevue in Areh–Cojzerica–Šumik–Tinčeva bajta–Sveti Trije kralji–Osankarica–Lukanja
+     </div></td><td>
+<div>
+      930
+     </div></td><td>
+<div>
+      42,45
+     </div></td></tr><tr><td>
+<div>
+      930
+     </div></td><td>
+<div>
+      701
+     </div></td><td>
+<div>
+      Pesek–Oplotnica
+     </div></td><td>
+<div>
+      700
+     </div></td><td>
+<div>
+      18,82
+     </div></td></tr><tr><td>
+<div>
+      931
+     </div></td><td>
+<div>
+      704
+     </div></td><td>
+<div>
+      Ribnica–Ribniška koča
+     </div></td><td>
+<div>
+      Ribniška koča
+     </div></td><td>
+<div>
+      9,71
+     </div></td></tr><tr><td>
+<div>
+      932
+     </div></td><td>
+<div>
+      4
+     </div></td><td>
+<div>
+      Slovenj Gradec–Pungart
+     </div></td><td>
+<div>
+      Grmovškov dom pod Veliko Kopo
+     </div></td><td>
+<div>
+      15,18
+     </div></td></tr><tr><td>
+<div>
+      933
+     </div></td><td>
+<div>
+      679
+     </div></td><td>
+<div>
+      Breg–Lisca–Jurklošter
+     </div></td><td>
+<div>
+      680
+     </div></td><td>
+<div>
+      12,19
+     </div></td></tr><tr><td>
+<div>
+      934
+     </div></td><td>
+<div>
+      445
+     </div></td><td>
+<div>
+      Sežana–Lipica–Lokev
+     </div></td><td>
+<div>
+      205
+     </div></td><td>
+<div>
+      7,63
+     </div></td></tr><tr><td>
+<div>
+      935
+     </div></td><td>
+<div>
+      430
+     </div></td><td>
+<div>
+      Fram–Kopivnik–Planica–Areh (dom Zarja)
+     </div></td><td>
+<div>
+      929
+     </div></td><td>
+<div>
+      13,90
+     </div></td></tr><tr><td>
+<div>
+      936
+     </div></td><td>
+<div>
+      207
+     </div></td><td>
+<div>
+      Col–Predmeja
+     </div></td><td>
+<div>
+      609
+     </div></td><td>
+<div>
+      14,52
+     </div></td></tr><tr><td>
+<div>
+      937
+     </div></td><td>
+<div>
+      1
+     </div></td><td>
+<div>
+      Bresternica–Gaj–Sv. Jurij ob Pesnici
+     </div></td><td>
+<div>
+      436
+     </div></td><td>
+<div>
+      14,16
+     </div></td></tr><tr><td>
+<div>
+      938
+     </div></td><td>
+<div>
+      216
+     </div></td><td>
+<div>
+      Črmošnjice–Komarna vas–Gričice
+     </div></td><td>
+<div>
+      938
+     </div></td><td>
+<div>
+      6,32
+     </div></td></tr><tr><td>
+<div>
+      940
+     </div></td><td>
+<div>
+      409
+     </div></td><td>
+<div>
+      Matavun–Škocjan–Brkini–Artviže–Pregarje–Harije
+     </div></td><td>
+<div>
+      404
+     </div></td><td>
+<div>
+      34,99
+     </div></td></tr><tr><td>
+<div>
+      941
+     </div></td><td>
+<div>
+      714
+     </div></td><td>
+<div>
+      Grabonoš–Kapela–Radenci
+     </div></td><td>
+<div>
+      230
+     </div></td><td>
+<div>
+      7,40
+     </div></td></tr><tr><td colspan="4">
+<div>
+      skupna dolžina R3
+     </div></td><td>
+<div>
+      613,07
+     </div></td></tr></tbody></table>
+</div>
+
+### 10. člen
+
+**(namen uporabe posameznih kategorij cest)**
+
+(1) Avtoceste iz 3. člena te uredbe so namenjene daljinskemu prometu motornih vozil.
+
+(2) Hitre ceste iz 4. člena te uredbe so namenjene prometu motornih vozil.
+
+(3) Glavne ceste I. in II. reda iz 5. in 6. člena te uredbe ter regionalne ceste I., II. in III. reda iz 7., 8. in 9. člena te uredbe so namenjene prometu vseh vrst vozil.
+
+### 11. člen
+
+**(podatki o dolžini cest)**
+
+Podatki o dolžini posamezne ceste in skupni dolžini cest po posamezni kategoriji, ki so navedeni v 3., 4., 5., 6., 7., 8. in 9. členu te uredbe, so usklajeni z zbirnim katastrom gospodarske javne infrastrukture in banko cestnih podatkov.
+
+## KONČNI DOLOČBI
+
+### 12. člen
+
+**(prenehanje uporabe)**
+
+Z dnem uveljavitve te uredbe se preneha uporabljati Uredba o kategorizaciji državnih cest (Uradni list RS, št. 102/12, 35/15, 38/15, 78/15, 21/16, 52/16, 64/16, 41/17, 63/17, 78/19, 89/20, 163/21, 20/22 in 132/22 – ZCes-2).
+
+### 13. člen
+
+**(začetek veljavnosti)**
+
+Ta uredba začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.

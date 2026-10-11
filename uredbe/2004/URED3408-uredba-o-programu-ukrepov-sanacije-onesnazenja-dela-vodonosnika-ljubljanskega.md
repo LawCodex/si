@@ -1,0 +1,74 @@
+---
+title: "Uredba o programu ukrepov sanacije onesnaženja dela vodonosnika Ljubljanskega polja s trikloroetenom na vodovarstvenem območju vodarne Hrastje"
+identifier: "URED3408"
+type: decree
+jurisdiction: si
+language: sl
+act_kind: "Uredba"
+date: 2004-06-10
+published: 2004-06-11
+in_force_from: 2004-06-12
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "Osnovni (izvirno besedilo)"
+citation: "Uradni list RS, št. 64/04 in 44/22 – ZVO-2"
+adopted_by: "Vlada Republike Slovenije"
+eva: "2004-2511-0196"
+sop: "2004-01-2903"
+source: "https://pisrs.si/pregledPredpisa?id=URED3408"
+retrieved: 2026-10-12
+---
+
+# Uredba o programu ukrepov sanacije onesnaženja dela vodonosnika Ljubljanskega polja s trikloroetenom na vodovarstvenem območju vodarne Hrastje
+
+Na podlagi petega odstavka 28. člena Zakona o varstvu okolja (Uradni list RS, št. 41/04) izdaja Vlada Republike Slovenije
+
+**UREDBO**
+
+**o programu ukrepov sanacije onesnaženja dela vodonosnika Ljubljanskega polja s trikloroetenom na vodovarstvenem območju vodarne Hrastje**
+
+## 1. člen
+
+Ta uredba določa program ukrepov sanacije onesnaženja dela vodonosnika Ljubljanskega polja s trikloetenom (v nadaljnjem besedilu: TCE) na vodovarstvenem območju vodarne Hrastje z namenom priprave osnov za nadaljnje postopke celovite sanacije onesnaženja prispevnega območja vodarne Hrastje, ki je nastalo v pomladnem obdobju 2004.
+
+## 2. člen
+
+Stopnja onesnaženosti podzemne vode s TCE je na opazovalnih vrtinah na prispevnem območju vodarne Hrastje, ki je vključen v sistem oskrbe Mestne občine Ljubljana, tolikšna, da je glede na trenutno poznavanje hidrodinamičnega toka podzemne vode velika verjetnost čezmernega onesnaženja vodnjakov vodarne Hrastje, kar ima lahko za posledico zaprtje vodarne in s tem motnje v preskrbi mesta Ljubljane s pitno vodo.
+
+## 3. člen
+
+1\. faza ukrepov sanacije onesnaženja dela vodonosnika Ljubljanskega polja s TCE obsega izvedbo dveh dvo- ali tronivojskih objektov za sledenje onesnaženja v vseh treh smereh v prostoru na območju od mesta možnega vira onesnaženja do vodarne Hrastje.
+
+Izvedba prvega opazovalnega objekta je načrtovana na lokaciji nakupovalnega središča BTC, v območju med točko, kjer je bila doslej ugotovljena najvišja koncentracija onesnaženja, in južnim delom vodarne Hrastje, izvedba drugega opazovalnega objekta pa v neposredni bližini mesta možnega vira onesnaženja v bližini raziskovalne vrtine BŠV- 1/99 ob Šmartinski cesti.
+
+## 4. člen
+
+Roki izvedbe 1. faze ukrepov sanacije onesnaženja dela vodonosnika Ljubljanskega polja s TCE in ocena finančnih sredstev za izvedbo so določeni v prilogi 1, ki je sestavni del te uredbe.
+
+## 5. člen
+
+1\. fazo ukrepov sanacije onesnaženja dela vodonosnika Ljubljanskega polja s TCE izvaja Javno podjetje Vodovod- Kanalizacija, d.o.o, ki mora izdelati poročilo o učinkih izvedenih ukrepov in ga posredovati Ministrstvu za okolje, prostor in energijo najkasneje 30 dni po zaključku izvedbe del po tej uredbi.
+
+## 6. člen
+
+Ukrepi 1. faze sanacije onesnaženja dela vodonosnika Ljubljanskega polja s TCE se financirajo iz sredstev, ki so v okviru proračunskega sklada za vode v letih 2004 in 2005 predvidena za izvedbo mreže opazovalnih objektov za monitoring kakovosti in količinskega stanja podzemnih voda.
+
+## 7. člen
+
+Ta uredba začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.
+
+Št. 354-21/2002-4
+
+Ljubljana, dne 10. junija 2004.
+
+EVA 2004-2511-0196
+
+Vlada Republike Slovenije
+
+mag. Anton Rop l. r.
+
+Predsednik
+
+---
+
+[**Priloga 1:** **Roki izvedbe 1. faze ukrepov sanacije onesnaženja dela vodonosnika Ljubljanskega polja s TCE**](https://pisrs.si/api/datoteke/integracije/353353277)

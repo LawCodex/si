@@ -1,0 +1,66 @@
+---
+title: "Uredba o določitvi zunanje meje priobalnega zemljišča ob reki Savinji v naselju Raduha v občini Luče"
+identifier: "URED5160"
+type: decree
+jurisdiction: si
+language: sl
+act_kind: "Uredba"
+date: 2009-02-19
+published: 2009-02-27
+in_force_from: 2009-02-28
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "Osnovni (izvirno besedilo)"
+citation: "Uradni list RS, št. 16/09"
+adopted_by: "Vlada Republike Slovenije"
+eva: "2008-2511-0189"
+sop: "2009-01-0558"
+source: "https://pisrs.si/pregledPredpisa?id=URED5160"
+retrieved: 2026-10-12
+---
+
+# Uredba o določitvi zunanje meje priobalnega zemljišča ob reki Savinji v naselju Raduha v občini Luče
+
+Na podlagi šestega odstavka 14. člena Zakona o vodah (Uradni list RS, št. 67/02, 110/02 – ZGO‑1, 2/04 – ZZdrl‑A, 41/04 – ZVO‑1 in 57/08) izdaja Vlada Republike Slovenije
+
+**UREDBO**
+
+**o določitvi zunanje meje priobalnega zemljišča ob reki Savinji v naselju Raduha v občini Luče**
+
+## 1. člen
+
+Ta uredba določa zunanjo mejo priobalnega zemljišča na nekaterih zemljiških parcelah na levem bregu reke Savinje v naselju Raduha v občini Luče.
+
+## 2. člen
+
+(1) Zunanja meja priobalnega zemljišča na levem bregu Savinje poteka po zemljišču parc. št. 542/10, k.o. Raduha.
+
+(2) Zunanja meja priobalnega zemljišča na levem bregu reke Savinje poteka po zemljišču iz prejšnjega odstavka in je določena s točkami državnega koordinatnega sistema iz Priloge 1, ki je sestavni del te uredbe.
+
+## 3. člen
+
+Podatek o zunanji meji priobalnega zemljišča iz prejšnjega člena se vnese kot podatek v zemljiški kataster oziroma v evidenco pravnih režimov v skladu s predpisi, ki urejajo evidentiranje nepremičnin.
+
+## 4. člen
+
+Z dnem uveljavitve te uredbe preneha veljati Uredba o določitvi zunanje meje na nekaterih zemljiških parcelah priobalnega zemljišča reke Savinje na območju Občine Luče (Uradni list RS, št. 68/05).
+
+## 5. člen
+
+Ta uredba začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.
+
+Št. 00719-5/2009/5
+
+Ljubljana, dne 19. februarja 2009
+
+EVA 2008-2511-0189
+
+**Vlada Republike Slovenije**
+
+**mag. Mitja Gaspari** l.r.
+
+Minister
+
+---
+
+[**Priloga 1: Koordinate točk, ki določajo zunanjo mejo priobalnega zemljišča**](https://pisrs.si/api/datoteke/integracije/353527207)

@@ -1,0 +1,44 @@
+---
+title: "Uredba o prenehanju veljavnosti Uredbe o mejnih, opozorilnih in kritičnih imisijskih vrednostih snovi v zraku"
+identifier: "URED4566"
+type: decree
+jurisdiction: si
+language: sl
+act_kind: "Uredba"
+date: 2007-07-12
+published: 2007-07-24
+in_force_from: 2007-08-08
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "Osnovni (izvirno besedilo)"
+citation: "Uradni list RS, št. 66/07 in 44/22 – ZVO-2"
+adopted_by: "Vlada Republike Slovenije"
+eva: "2007-2511-0137"
+sop: "2007-01-3637"
+source: "https://pisrs.si/pregledPredpisa?id=URED4566"
+retrieved: 2026-10-12
+---
+
+# Uredba o prenehanju veljavnosti Uredbe o mejnih, opozorilnih in kritičnih imisijskih vrednostih snovi v zraku
+
+Na podlagi prvega odstavka 23. člena Zakona o varstvu okolja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD, 66/06 – odl. US in 33/07 – ZPNačrt) izdaja Vlada Republike Slovenije
+
+**UREDBO**
+
+**o prenehanju veljavnosti Uredbe o mejnih, opozorilnih in kritičnih imisijskih vrednostih snovi v zraku**
+
+## 1. člen
+
+Z dnem uveljavitve te uredbe preneha veljati Uredba o mejnih, opozorilnih in kritičnih imisijskih vrednostih snovi v zraku (Uradni list RS, št. 73/94, 52/02, 8/03 in 41/04 – ZVO-1).
+
+## 2. člen
+
+Ta uredba začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.
+
+Št. 00719-75/2007/5
+
+Ljubljana, dne 12. julija 2007
+
+EVA 2007-2511-0137
+
+Vlada Republike Slovenije Janez Janša l.r. Predsednik

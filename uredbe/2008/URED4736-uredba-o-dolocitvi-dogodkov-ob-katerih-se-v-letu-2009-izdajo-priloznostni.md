@@ -1,0 +1,54 @@
+---
+title: "Uredba o določitvi dogodkov, ob katerih se v letu 2009 izdajo priložnostni kovanci"
+identifier: "URED4736"
+type: decree
+jurisdiction: si
+language: sl
+act_kind: "Uredba"
+date: 2008-03-20
+published: 2008-03-28
+in_force_from: 2008-03-29
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "Osnovni (izvirno besedilo)"
+citation: "Uradni list RS, št. 31/08"
+adopted_by: "Vlada Republike Slovenije"
+eva: "2008-1611-0016"
+sop: "2008-01-1191"
+source: "https://pisrs.si/pregledPredpisa?id=URED4736"
+retrieved: 2026-10-12
+---
+
+# Uredba o določitvi dogodkov, ob katerih se v letu 2009 izdajo priložnostni kovanci
+
+Na podlagi prvega odstavka 2. člena Zakona o priložnostnih kovancih (Uradni list RS, št. 53/07) izdaja Vlada Republike Slovenije
+
+**UREDBO**
+
+**o določitvi dogodkov, ob katerih se v letu 2009 izdajo priložnostni kovanci**
+
+## 1. člen
+
+Priložnostni kovanci po Zakonu o priložnostnih kovancih (Uradni list RS, št. 53/07) se v letu 2009 izdajo ob naslednjih dogodkih:
+
+- spominski kovanec za 2 eura ob 10-obletnici Ekonomske in monetarne unije (EMU),
+
+- zbirateljski kovanec ob 100-letnici prvega poleta z motornim letalom na Slovenskem in
+
+- zbirateljski kovanec ob 100-letnici rojstva slikarja Zorana Mušiča.
+
+## 2. člen
+
+Ta uredba začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.
+
+Št. 00712-10/2008/5
+
+Ljubljana, dne 20. marca 2008
+
+EVA 2008-1611-0016
+
+**Vlada Republike Slovenije**
+
+**Janez Janša** l.r.
+
+Predsednik

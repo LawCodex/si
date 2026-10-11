@@ -1,0 +1,56 @@
+---
+title: "Uredba o določitvi zunanje meje priobalnega zemljišča ob vodotoku Vitovnik v Mestni občini Nova Gorica"
+identifier: "URED8390"
+type: decree
+jurisdiction: si
+language: sl
+act_kind: "Uredba"
+date: 2022-01-20
+published: 2022-01-21
+in_force_from: 2022-01-22
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "Osnovni (izvirno besedilo)"
+citation: "Uradni list RS, št. 10/22"
+adopted_by: "Vlada Republike Slovenije"
+eva: "2021-2550-0053"
+sop: "2022-01-0110"
+source: "https://pisrs.si/pregledPredpisa?id=URED8390"
+retrieved: 2026-10-12
+---
+
+# Uredba o določitvi zunanje meje priobalnega zemljišča ob vodotoku Vitovnik v Mestni občini Nova Gorica
+
+Na podlagi šestega odstavka 14. člena Zakona o vodah (Uradni list RS, št. 67/02, 2/04 – ZZdrl-A, 41/04 – ZVO-1, 57/08, 57/12, 100/13, 40/14, 56/15 in 65/20) Vlada Republike Slovenije izdaja
+
+**UREDBO**
+
+**o določitvi zunanje meje priobalnega zemljišča ob vodotoku Vitovnik v Mestni občini Nova Gorica**
+
+## 1. člen
+
+Ta uredba določa drugačno zunanjo mejo priobalnega zemljišča na delu priobalnega zemljišča na parcelah št. 2128/70, 2128/61 in 2128/71, vse k. o. 2313 Šempas, ob vodotoku Vitovnik v Mestni občini Nova Gorica, ki zožuje priobalno zemljišče.
+
+## 2. člen
+
+Zunanja meja priobalnega zemljišča na delu vodotoka Vitovnik v Mestni občini Nova Gorica na zemljišču s parcelnimi številkami 2128/70, 2128/61 in 2128/71, vse k. o. 2313 Šempas, poteka po lomnih točkah, ki so določene v koordinatnem sistemu D96/TM in navedene v Prilogi, ki je sestavni del te uredbe.
+
+## 3. člen
+
+Podatek o širini in zunanji meji priobalnega zemljišča iz prejšnjega člena se vnese v vodni kataster.
+
+## 4. člen
+
+Ta uredba začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.
+
+Št. 00704-1/2022
+
+Ljubljana, dne 20. januarja 2022
+
+EVA 2021-2550-0053
+
+Vlada Republike Slovenije **Janez Janša** Predsednik
+
+---
+
+[**Priloga: Koordinate lomnih točk zunanje meje priobalnega zemljišča v koordinatnem sistemu D96/TM**](https://pisrs.si/api/datoteke/integracije/355125516)

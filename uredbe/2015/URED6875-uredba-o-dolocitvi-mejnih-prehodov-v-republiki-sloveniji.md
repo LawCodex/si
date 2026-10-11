@@ -1,0 +1,123 @@
+---
+title: "Uredba o določitvi mejnih prehodov v Republiki Sloveniji"
+identifier: "URED6875"
+type: decree
+jurisdiction: si
+language: sl
+act_kind: "Uredba"
+date: 2015-03-12
+published: 2015-03-16
+in_force_from: 2015-03-31
+last_amended: 2023-05-05
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "NPB 1 (neuradno prečiščeno besedilo)"
+citation: "Uradni list RS, št. 18/15 in 50/23"
+adopted_by: "Vlada Republike Slovenije"
+eva: "2014-1711-0084"
+sop: "2015-01-0676"
+source: "https://pisrs.si/pregledPredpisa?id=URED6875"
+retrieved: 2026-10-12
+---
+
+# Uredba o določitvi mejnih prehodov v Republiki Sloveniji
+
+*Opozorilo: Neuradno prečiščeno besedilo predpisa predstavlja zgolj informativni delovni pripomoček, glede katerega organ ne jamči odškodninsko ali kako drugače.*
+
+Neuradno prečiščeno besedilo Uredbe o določitvi mejnih prehodov v Republiki Sloveniji obsega:
+
+- Uredbo o določitvi mejnih prehodov v Republiki Sloveniji (Uradni list RS, št. 18/15 z dne 16. 3. 2015),
+
+- Uredbo o spremembah Uredbe o določitvi mejnih prehodov v Republiki Sloveniji (Uradni list RS, št. 50/23 z dne 5. 5. 2023).
+
+**UREDBA**
+
+**o določitvi mejnih prehodov v Republiki Sloveniji**
+
+*(neuradno prečiščeno besedilo št. 1)*
+
+### 1. člen
+
+Ta uredba določa mejne prehode v Republiki Sloveniji, obseg njihove uporabe in odpiralne čase.
+
+**2. člen**(črtan)****
+
+**3. člen**(črtan)****
+
+### 5. člen
+
+**4. člen**(črtan)****
+
+(1) Za prehajanje zunanje morske meje se določita naslednja mejna prehoda za mednarodni morski promet:
+
+- Koper (Capodistria) in
+
+- Piran (Pirano).
+
+(2) Mejna prehoda obratujeta neprekinjeno.
+
+### 6. člen
+
+(1) Za prehajanje zunanje zračne meje se določijo naslednji mejni prehodi za mednarodni zračni promet:
+
+- Ljubljana-Brnik na letališču Jožeta Pučnika Ljubljana,
+
+- Maribor-Slivnica na letališču Edvarda Rusjana Maribor,
+
+- Portorož (Portorose)-Sečovlje (Sicciole) na letališču Portorož.
+
+(2) Obratovalni čas mejnih prehodov iz prejšnjega odstavka se določa na način, ki je določen z uredbo, ki ureja obratovalni čas javnih letališč.
+
+## KONČNI DOLOČBI
+
+### 7. člen
+
+Z dnem uveljavitve te uredbe prenehajo veljati:
+
+- Uredba o določitvi mejnih prehodov za mednarodni in meddržavni promet Republike Slovenije na zunanji meji Evropske unije (Uradni list RS, št. 16/08, 68/08 in 47/11),
+
+- Uredba o določitvi mejnega prehoda za obmejni promet Osilnica (Uradni list RS, št. 26/03 in 35/03 – popr.),
+
+- Uredba o določitvi mejnega prehoda za obmejni promet Rajnkovec (Uradni list RS, št. 31/03),
+
+- Uredba o določitvi mejnega prehoda za obmejni promet Stara vas na Bizeljskem (Uradni list RS, št. 31/03),
+
+- Uredba o določitvi mejnega prehoda za obmejni promet Krasinec (Uradni list RS, št. 57/03),
+
+- Uredba o določitvi mejnega prehoda za obmejni promet Žuniči (Uradni list RS, št. 57/03),
+
+- Uredba o določitvi mejnega prehoda za obmejni promet Središče ob Dravi I (Uradni list RS, št. 57/03),
+
+- Uredba o določitvi mejnega prehoda za obmejni promet Božakovo (Uradni list RS, št. 90/03),
+
+- Uredba o določitvi mejnega prehoda za obmejni promet Rakovec (Uradni list RS, št. 90/03),
+
+- Uredba o določitvi mejnega prehoda za obmejni promet Podčetrtek (Uradni list RS, št. 90/03),
+
+- Uredba o določitvi mejnega prehoda za obmejni promet Krmačina (Uradni list RS, št. 96/03),
+
+- Uredba o določitvi mejnega prehoda za obmejni promet Sodevci (Uradni list RS, št. 96/03),
+
+- Uredba o določitvi mejnega prehoda za obmejni promet Planina v Podbočju (Uradni list RS, št. 96/03),
+
+- Uredba o določitvi mejnega prehoda za obmejni promet Rakitovec (Uradni list RS, št. 45/04),
+
+- Uredba o določitvi mejnega prehoda za obmejni promet Drenovec (Uradni list RS, št. 45/04),
+
+- Uredba o določitvi mejnega prehoda za obmejni promet Novi Kot (Uradni list RS, št. 45/04),
+
+- Uredba o določitvi mejnega prehoda za obmejni promet Novokračine (Uradni list RS, št. 45/04),
+
+- Uredba o določitvi mejnega prehoda za obmejni promet Brezovica pri Gradinu (Uradni list RS, št. 45/04),
+
+- Uredba o določitvi mejnega prehoda za obmejni promet Nova vas ob Sotli (Uradni list RS, št. 45/04),
+
+- Uredba o določitvi mejnega prehoda za obmejni promet Hotiza (Uradni list RS, št. 21/05),
+
+- Uredba o določitvi mejnega prehoda za obmejni promet Radovica (Uradni list RS, št. 124/06),
+
+- Uredba o določitvi mejnega prehoda za obmejni promet Sedlarjevo (Uradni list RS, št. 46/06).
+
+### 8. člen
+
+Ta uredba začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.

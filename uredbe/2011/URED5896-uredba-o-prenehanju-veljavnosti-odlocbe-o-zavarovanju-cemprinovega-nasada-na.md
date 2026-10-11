@@ -1,0 +1,44 @@
+---
+title: "Uredba o prenehanju veljavnosti Odločbe o zavarovanju cemprinovega nasada na Kladjeku pod Črnim vrhom na Pohorju"
+identifier: "URED5896"
+type: decree
+jurisdiction: si
+language: sl
+act_kind: "Uredba"
+date: 2011-11-10
+published: 2011-11-18
+in_force_from: 2011-11-19
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "Osnovni (izvirno besedilo)"
+citation: "Uradni list RS, št. 93/11"
+adopted_by: "Vlada Republike Slovenije"
+eva: "2011-2511-0109"
+sop: "2011-01-3957"
+source: "https://pisrs.si/pregledPredpisa?id=URED5896"
+retrieved: 2026-10-12
+---
+
+# Uredba o prenehanju veljavnosti Odločbe o zavarovanju cemprinovega nasada na Kladjeku pod Črnim vrhom na Pohorju
+
+Na podlagi 49. člena v zvezi s 163. členom Zakona o ohranjanju narave (Uradni list RS, št. 96/04 – uradno prečiščeno besedilo, 61/06 – ZDru-1 in 8/10 – ZSKZ-B) izdaja Vlada Republike Slovenije
+
+**UREDBO**
+
+**o prenehanju veljavnosti Odločbe o zavarovanju cemprinovega nasada na Kladjeku pod Črnim vrhom na Pohorju**
+
+## 1. člen
+
+Z dnem uveljavitve te uredbe preneha veljati Odločba o zavarovanju cemprinovega nasada na Kladjeku pod Črnim vrhom na Pohorju (Uradni list LRS, št. 15/51).
+
+## 2. člen
+
+Ta uredba začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.
+
+Št. 00719-53/2011
+
+Ljubljana, dne 10. novembra 2011
+
+EVA 2011-2511-0109
+
+Vlada Republike Slovenije mag. Mitja Gaspari l.r. Minister

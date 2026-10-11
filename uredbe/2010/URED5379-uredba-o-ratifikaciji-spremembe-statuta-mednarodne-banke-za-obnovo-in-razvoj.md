@@ -1,0 +1,90 @@
+---
+title: "Uredba o ratifikaciji spremembe Statuta Mednarodne banke za obnovo in razvoj"
+identifier: "URED5379"
+type: decree
+jurisdiction: si
+language: sl
+act_kind: "Uredba"
+date: 2010-03-11
+published: 2010-03-22
+in_force_from: 2010-03-23
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "Osnovni (izvirno besedilo)"
+citation: "Uradni list RS – Mednarodne pogodbe, št. 4/10"
+adopted_by: "Vlada Republike Slovenije"
+eva: "2010-1811-0015"
+sop: "2010-02-0022"
+source: "https://pisrs.si/pregledPredpisa?id=URED5379"
+retrieved: 2026-10-12
+---
+
+# Uredba o ratifikaciji spremembe Statuta Mednarodne banke za obnovo in razvoj
+
+Na podlagi petega odstavka 75. člena Zakona o zunanjih zadevah (Uradni list RS, št. 113/03 – uradno prečiščeno besedilo, 20/06 – ZNOMCMO, 76/08 in 108/09) izdaja Vlada Republike Slovenije
+
+**U R E D B O**
+
+**O RATIFIKACIJI SPREMEMBE STATUTA MEDNARODNE BANKE ZA OBNOVO IN RAZVOJ**
+
+## 1. člen
+
+Ratificira se sprememba Statuta Mednarodne banke za obnovo in razvoj, ki jo je sprejel Odbor guvernerjev Mednarodne banke za obnovo in razvoj 30. januarja 2009 z Resolucijo št. 596, del A.
+
+## 2. člen
+
+Sprememba statuta se v izvirniku v angleškem jeziku in prevodu v slovenskem jeziku glasi:
+
+**AMENDMENT OF THE ARTICLES OF AGREEMENT OF THE INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT**
+
+**Board of Governors Resolution No. 596, Part A**
+
+(A) Increase in Basic Votes. The Board of Governors hereby resolves that:
+
+1. Article V. Section 3 (a) of the Articles or Agreement of the Bank shall be amended to read as follows:
+
+Section 3. Voting
+
+"(a) The voting power of each member shall be equal to the sum of its basic votes and share votes.
+
+(i) The basic votes of each member shall be the number of votes that results from the equal distribution among all members of 5.55 percent of the aggregate sum of the voting power of all the members, provided that there shall be no fractional basic votes.
+
+(ii) The share votes of each member shall be the number of votes that results from the allocation of one vote for each share of stock held."
+
+2. The amendment above shall enter into force for all members as of the date three months after the Bank certifies, by formal communication addressed to all members, that three-fifths of the members, having 85% of the total voting power, have accepted the amendment.
+
+**SPREMEMBA STATUTAMEDNARODNE BANKE ZA OBNOVO IN RAZVOJ**
+
+**Resolucija Odbora guvernerjev št. 596, del A**
+
+(A) Povečanje osnovnih glasov. Odbor guvernerjev s tem odloči:
+
+1. Člen V, oddelek 3 (a), statuta banke se spremeni tako, da se glasi:
+
+Oddelek 3 Glasovanje
+
+»(a) Glasovalna moč vsake članice je enaka vsoti njenih osnovnih glasov in glasov na podlagi deleža.
+
+(i) Osnovni glasovi vsake članice so število glasov, ki izhaja iz enake porazdelitve 5,55 odstotka celotne glasovalne moči vseh članic med vse članice, s tem da ni delnih osnovnih glasov.
+
+(ii) Glasovi vsake članice na podlagi deleža so število glasov, ki izhaja iz dodelitve enega glasu za vsak delež.«
+
+2. Sprememba začne veljati za vse članice tri mesece po tem, ko banka z uradnim obvestilom vsem članicam potrdi, da je tri četrtine vseh članic, ki imajo 85% celotne glasovalne moči, sprejelo spremembo.
+
+## 3. člen
+
+Za izvajanje spremembe statuta skrbi Ministrstvo za finance v sodelovanju z Banko Slovenije.
+
+## 4. člen
+
+Ta uredba začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije – Mednarodne pogodbe.
+
+Št. 00724-19/2010
+
+Ljubljana, dne 11. marca 2010
+
+EVA 2010-1811-0015
+
+**Vlada Republike Slovenije**
+
+Borut Pahor l.r. Predsednik

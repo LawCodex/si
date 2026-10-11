@@ -10,7 +10,7 @@ date: 1993-02-23
 published: 1993-02-24
 in_force_from: 1993-03-11
 last_amended: 2003-01-23
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 3 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 10/93, 38/94, 40/97, 7/03 – odl. US, 86/04 – ZPSSJAN in 3/22 – ZDeb"

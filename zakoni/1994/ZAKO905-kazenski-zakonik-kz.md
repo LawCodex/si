@@ -10,7 +10,7 @@ date: 1994-10-06
 published: 1994-10-13
 in_force_from: 1995-01-01
 last_amended: 2004-08-27
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 3 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 95/04 – uradno prečiščeno besedilo in 55/08 – KZ-1"

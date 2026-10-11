@@ -9,7 +9,7 @@ date: 2008-05-08
 published: 2008-05-23
 in_force_from: 2008-05-24
 last_amended: 2024-11-08
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 5 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 51/08, 91/08, 113/09, 22/19, 121/21 in 95/24 – ZSTSPJS"

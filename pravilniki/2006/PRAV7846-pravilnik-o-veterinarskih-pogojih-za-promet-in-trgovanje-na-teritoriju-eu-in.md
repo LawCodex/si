@@ -9,7 +9,7 @@ date: 2006-08-09
 published: 2006-11-10
 in_force_from: 2006-11-18
 last_amended: 2014-12-29
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 3 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 115/06, 25/08, 42/10, 96/14 in 100/25 – ZZdrŽiv"

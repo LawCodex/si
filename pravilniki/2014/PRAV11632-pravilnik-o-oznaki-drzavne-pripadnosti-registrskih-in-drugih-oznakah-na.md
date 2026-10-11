@@ -9,7 +9,7 @@ date: 2014-11-10
 published: 2014-12-08
 in_force_from: 2015-01-07
 last_amended: 2016-07-29
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 3 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 88/14, 12/15, 90/15, 52/16 in 85/24 – ZLet-1"

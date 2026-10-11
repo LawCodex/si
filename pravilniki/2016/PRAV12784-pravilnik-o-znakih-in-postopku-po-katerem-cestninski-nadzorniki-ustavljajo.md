@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2016-01-15
 published: 2016-02-12
 in_force_from: 2016-02-13
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 9/16 in 102/24 – ZCestn-1"

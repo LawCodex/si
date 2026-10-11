@@ -9,7 +9,7 @@ date: 2015-10-14
 published: 2015-10-23
 in_force_from: 2015-11-07
 last_amended: 2022-07-15
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 2 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 79/15, 32/18, 96/22 in 100/25 – ZHra"

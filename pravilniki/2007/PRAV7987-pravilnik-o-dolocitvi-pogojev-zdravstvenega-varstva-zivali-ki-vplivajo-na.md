@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2007-08-17
 published: 2007-10-30
 in_force_from: 2007-10-31
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 99/07, 100/25 – ZZdrŽiv in 100/25 – ZVHK"

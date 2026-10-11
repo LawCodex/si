@@ -10,7 +10,7 @@ date: 1994-03-24
 published: 1994-04-13
 in_force_from: 1994-04-28
 last_amended: 2024-05-17
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 30 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 94/07 – uradno prečiščeno besedilo, 45/08, 96/09, 86/10 – ZJNepS, 33/11, 75/12 – ZSPDSLS-A, 63/13, 17/15, 23/17 – ZSSve, 22/18 – ZSICT, 16/19 – ZNP-1, 104/20, 203/20 – ZIUPOPDVE, 18/23 – ZDU-1O, 42/24 – odl. US in 100/25 – ZS-1"

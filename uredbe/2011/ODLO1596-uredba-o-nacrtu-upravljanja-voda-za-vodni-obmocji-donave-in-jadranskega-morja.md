@@ -9,7 +9,7 @@ date: 2011-07-28
 published: 2011-07-29
 in_force_from: 2011-08-13
 last_amended: 2016-10-28
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 2 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 61/11, 49/12, 67/16 in 107/23"

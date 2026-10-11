@@ -9,7 +9,7 @@ date: 2018-03-23
 published: 2018-03-30
 in_force_from: 2018-04-14
 last_amended: 2024-01-26
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 5 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 21/18, 56/18, 18/21, 29/23, 82/23, 6/24 in 85/25 – ZPJS"

@@ -9,7 +9,7 @@ date: 2003-07-14
 published: 2003-08-22
 in_force_from: 2003-09-06
 last_amended: 2017-06-30
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 2 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 83/03, 61/10 – ZRud-1 in 32/17"

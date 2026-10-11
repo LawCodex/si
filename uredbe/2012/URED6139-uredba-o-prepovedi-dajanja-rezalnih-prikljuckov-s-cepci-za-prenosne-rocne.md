@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2012-05-31
 published: 2012-06-01
 in_force_from: 2012-06-02
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 42/12 in 102/24 – ZIUSVP"

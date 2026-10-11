@@ -9,7 +9,7 @@ date: 1991-05-21
 published: 1991-05-31
 in_force_from: 1991-06-08
 last_amended: 2004-10-22
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 1 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 22/91, 114/04, 17/14 – EZ-1 in 38/24 – EZ-2"

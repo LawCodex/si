@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2011-06-06
 published: 2011-06-24
 in_force_from: 2011-07-01
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 48/11 in 85/16 – ZVoz-1"

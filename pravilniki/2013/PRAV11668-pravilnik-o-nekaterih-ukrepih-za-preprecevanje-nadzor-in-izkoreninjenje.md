@@ -9,7 +9,7 @@ date: 2013-09-02
 published: 2013-09-06
 in_force_from: 2013-09-21
 last_amended: 2022-11-18
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 5 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 74/13, 37/14, 4/16, 63/16, 81/18, 144/22 in 100/25 – ZVHK"

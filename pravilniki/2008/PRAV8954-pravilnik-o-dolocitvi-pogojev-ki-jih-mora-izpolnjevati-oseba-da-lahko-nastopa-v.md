@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2008-01-16
 published: 2008-01-30
 in_force_from: 2008-01-31
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 10/08 in 68/16 – ZPPDFT-1"

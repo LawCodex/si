@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2010-06-09
 published: 2010-07-09
 in_force_from: 2010-07-24
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 54/10, 106/10 – ZMV in 32/11"

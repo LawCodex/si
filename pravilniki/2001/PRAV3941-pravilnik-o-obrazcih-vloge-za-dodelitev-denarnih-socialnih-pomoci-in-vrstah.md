@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2001-08-03
 published: 2001-08-17
 in_force_from: 2001-08-18
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 68/01, 107/03, 45/07, 61/10 – ZSVarPre in 62/10 – ZUPJS"

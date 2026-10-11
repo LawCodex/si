@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2014-11-04
 published: 2014-11-14
 in_force_from: 2014-11-29
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 81/14 in 75/17 – ZMV-1"

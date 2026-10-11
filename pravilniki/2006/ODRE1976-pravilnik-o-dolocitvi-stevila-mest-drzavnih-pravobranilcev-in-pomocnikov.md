@@ -9,7 +9,7 @@ date: 2006-09-12
 published: 2006-09-19
 in_force_from: 2006-09-20
 last_amended: 2008-09-19
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 2 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 97/06, 51/08, 89/08 in 23/17 – ZDOdv"

@@ -9,7 +9,7 @@ date: 2007-03-15
 published: 2007-03-26
 in_force_from: 2007-04-10
 last_amended: 2011-07-15
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 2 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 27/07, 38/10, 57/11 in 100/25 – ZVHK"

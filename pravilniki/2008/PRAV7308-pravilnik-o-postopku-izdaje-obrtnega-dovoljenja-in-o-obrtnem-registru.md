@@ -9,7 +9,7 @@ date: 2008-05-22
 published: 2008-06-13
 in_force_from: 2008-06-14
 last_amended: 2009-09-11
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 1 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 59/08, 71/09, 30/13 – ObrZ-E in 36/13 – popr."

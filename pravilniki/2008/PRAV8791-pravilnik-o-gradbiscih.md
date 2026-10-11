@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2008-05-14
 published: 2008-06-04
 in_force_from: 2008-06-19
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 55/08, 54/09 – popr., 61/17 – GZ in 199/21 – GZ-1"

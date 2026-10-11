@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2011-04-22
 published: 2011-04-22
 in_force_from: 2011-05-07
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 30/11, 100/25 – ZHra in 100/25 – ZKme-2"

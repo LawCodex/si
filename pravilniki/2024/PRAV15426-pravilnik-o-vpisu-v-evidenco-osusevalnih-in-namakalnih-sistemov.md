@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2024-08-23
 published: 2024-08-29
 in_force_from: 2024-09-13
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 72/24 in 100/25 – ZKme-2"

@@ -9,7 +9,7 @@ date: 1999-06-30
 published: 1999-07-09
 in_force_from: 1999-07-24
 last_amended: 2004-04-13
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 1 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 55/99, 33/01 – ZVet-1, 36/04 in 100/25 – ZZdrŽiv"

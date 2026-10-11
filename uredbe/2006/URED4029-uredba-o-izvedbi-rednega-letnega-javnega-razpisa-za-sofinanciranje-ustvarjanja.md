@@ -9,7 +9,7 @@ date: 2006-07-13
 published: 2006-07-25
 in_force_from: 2006-07-26
 last_amended: 2025-09-12
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 3 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 78/06, 4/11, 8/12 in 69/25 – ZMed-1"

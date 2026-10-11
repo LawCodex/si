@@ -9,7 +9,7 @@ date: 2009-10-07
 published: 2009-10-30
 in_force_from: 2009-11-14
 last_amended: 2021-03-16
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 1 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 85/09, 38/21 in 10/26 – ZKOM"

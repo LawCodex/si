@@ -9,7 +9,7 @@ date: 2004-02-03
 published: 2004-03-01
 in_force_from: 2004-03-16
 last_amended: 2017-09-19
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 6 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 19/04, 35/04, 26/06, 92/06, 25/09, 74/15, 51/17 in 61/23"

@@ -10,7 +10,7 @@ date: 2001-04-10
 published: 2001-04-26
 in_force_from: 2001-05-11
 last_amended: 2002-12-18
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 1 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 30/01, 110/02 – ZGO-1 in 43/04 – ZEKom"

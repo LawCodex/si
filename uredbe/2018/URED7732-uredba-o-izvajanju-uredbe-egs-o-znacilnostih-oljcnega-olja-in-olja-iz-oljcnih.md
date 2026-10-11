@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2018-08-14
 published: 2018-08-17
 in_force_from: 2018-09-01
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 56/18 in 100/25 – ZHra"

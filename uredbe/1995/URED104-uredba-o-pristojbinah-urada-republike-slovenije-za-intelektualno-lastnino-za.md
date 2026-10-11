@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 1995-03-02
 published: 1995-03-10
 in_force_from: 1995-04-01
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 14/95, 57/96, 45/01 – ZIL-1 in 110/01"

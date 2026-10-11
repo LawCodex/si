@@ -10,7 +10,7 @@ date: 1994-03-30
 published: 1994-04-13
 in_force_from: 1994-04-28
 last_amended: 2025-07-29
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 26 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 94/07 – uradno prečiščeno besedilo, 91/09, 33/11, 46/13, 63/13, 69/13 – popr., 95/14 – ZUPPJS15, 17/15, 23/17 – ZSSve, 36/19 – ZDT-1C, 34/23 – odl. US, 76/23, 57/25 – ZF in 100/25 – ZSod"

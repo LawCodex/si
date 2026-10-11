@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2007-01-25
 published: 2007-02-02
 in_force_from: 2007-02-17
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 9/07"

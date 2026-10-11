@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2007-12-06
 published: 2007-12-17
 in_force_from: 2008-01-01
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 116/07"

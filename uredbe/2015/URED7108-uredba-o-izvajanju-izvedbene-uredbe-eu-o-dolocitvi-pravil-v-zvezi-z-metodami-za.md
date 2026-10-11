@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2015-12-23
 published: 2015-12-24
 in_force_from: 2015-12-25
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 103/15 in 100/25 – ZZdrŽiv"

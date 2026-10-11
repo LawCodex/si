@@ -9,7 +9,7 @@ date: 2016-02-01
 published: 2016-02-01
 in_force_from: 2016-02-02
 last_amended: 2024-02-23
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 5 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 7/16, 38/16, 73/17, 31/19, 82/22, 15/24 in 100/25 – ZKme-2"

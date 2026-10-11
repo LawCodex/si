@@ -9,7 +9,7 @@ date: 2011-06-14
 published: 2011-06-27
 in_force_from: 2011-06-28
 last_amended: 2014-03-28
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 1 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 50/11, 21/14 in 30/18 – ZVZelP-1"

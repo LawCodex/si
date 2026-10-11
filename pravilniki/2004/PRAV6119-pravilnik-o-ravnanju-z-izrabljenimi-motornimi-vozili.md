@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2004-08-02
 published: 2004-11-04
 in_force_from: 2004-11-19
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 118/04, 32/11 in 44/22 – ZVO-2"

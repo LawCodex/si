@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2008-09-03
 published: 2008-09-12
 in_force_from: 2008-09-27
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 88/08 in 30/18 – ZVZelP-1"

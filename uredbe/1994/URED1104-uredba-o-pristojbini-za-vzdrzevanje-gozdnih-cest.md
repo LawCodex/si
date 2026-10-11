@@ -9,7 +9,7 @@ date: 1994-06-23
 published: 1994-06-30
 in_force_from: 1994-07-01
 last_amended: 2014-03-31
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 13 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 38/94, 20/95, 42/98, 12/99, 25/02, 35/03, 31/05, 9/06, 32/07, 36/09, 103/10, 35/12, 101/13 – ZDavNepr, 22/14 – odl. US in 42/15"

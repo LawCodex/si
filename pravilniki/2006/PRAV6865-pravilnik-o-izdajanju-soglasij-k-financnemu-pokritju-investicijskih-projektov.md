@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2006-01-24
 published: 2006-02-10
 in_force_from: 2006-02-11
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 13/06 in 123/06 – ZFO-1"

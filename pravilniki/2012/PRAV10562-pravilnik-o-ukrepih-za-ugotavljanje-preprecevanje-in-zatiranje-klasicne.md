@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2012-03-05
 published: 2012-03-16
 in_force_from: 2012-03-31
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 20/12 in 100/25 – ZZdrŽiv"

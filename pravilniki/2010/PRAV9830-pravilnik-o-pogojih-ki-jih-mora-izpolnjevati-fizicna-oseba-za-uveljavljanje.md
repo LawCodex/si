@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2009-12-17
 published: 2010-01-11
 in_force_from: 2010-01-26
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 2/10 in 9/16 – ZGGLRS"

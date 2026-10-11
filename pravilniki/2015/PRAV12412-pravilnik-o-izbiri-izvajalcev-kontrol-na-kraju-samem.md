@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2015-04-24
 published: 2015-04-30
 in_force_from: 2015-05-01
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 30/15 in 100/25 – ZKme-2"

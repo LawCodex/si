@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2016-01-08
 published: 2016-01-22
 in_force_from: 2016-07-05
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 4/16 in 132/22 – ZCes-2"

@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 1997-12-05
 published: 1997-12-24
 in_force_from: 1998-01-08
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 84/97, 15/02, 18/04 in 45/04"

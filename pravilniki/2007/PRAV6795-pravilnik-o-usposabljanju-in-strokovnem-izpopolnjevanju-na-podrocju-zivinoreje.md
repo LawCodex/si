@@ -9,7 +9,7 @@ date: 2007-05-11
 published: 2007-06-06
 in_force_from: 2007-06-07
 last_amended: 2012-06-01
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 1 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 50/07, 42/12 in 100/25 – ZZdrŽiv"

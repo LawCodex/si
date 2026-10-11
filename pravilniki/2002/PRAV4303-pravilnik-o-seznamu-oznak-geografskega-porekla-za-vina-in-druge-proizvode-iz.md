@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2002-07-16
 published: 2002-07-30
 in_force_from: 2002-07-31
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 68/02, 42/03, 105/06 – ZVin in 49/07"

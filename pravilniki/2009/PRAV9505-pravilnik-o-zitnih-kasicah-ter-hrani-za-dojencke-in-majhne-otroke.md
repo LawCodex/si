@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2009-03-26
 published: 2009-04-03
 in_force_from: 2009-04-18
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 25/09 in 100/25 – ZVHK"

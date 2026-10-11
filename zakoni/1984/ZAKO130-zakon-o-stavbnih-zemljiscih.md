@@ -9,7 +9,7 @@ date: 1984-05-23
 published: 1984-06-14
 in_force_from: 1984-06-22
 last_amended: 2014-03-31
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 5 (neuradno prečiščeno besedilo)"
 citation: "Uradni list SRS, št. 18/84, 33/89, 24/92 – odl. US, Uradni list RS, št. 44/97 – ZSZ, 101/13 – ZDavNepr in 22/14 – odl. US"

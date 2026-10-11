@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2010-11-09
 published: 2010-12-13
 in_force_from: 2010-12-28
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 101/10, 17/14 – EZ-1 in 38/24 – EZ-2"

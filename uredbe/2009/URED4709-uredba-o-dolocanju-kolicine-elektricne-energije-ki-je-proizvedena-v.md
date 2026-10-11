@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2009-05-07
 published: 2009-05-18
 in_force_from: 2009-05-19
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 37/09, 17/14 – EZ-1 in 158/20 – ZURE"

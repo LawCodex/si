@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2007-06-07
 published: 2007-06-18
 in_force_from: 2007-07-03
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 54/07"

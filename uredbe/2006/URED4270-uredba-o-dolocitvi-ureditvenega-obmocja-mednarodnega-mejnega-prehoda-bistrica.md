@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2006-10-26
 published: 2006-11-17
 in_force_from: 2006-11-18
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 118/06 in 112/24 – ZNDM-2I"

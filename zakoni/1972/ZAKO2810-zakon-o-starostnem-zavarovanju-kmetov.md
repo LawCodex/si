@@ -9,7 +9,7 @@ date: 1972-03-15
 published: 1972-03-29
 in_force_from: 1972-04-06
 last_amended: 1982-01-14
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 6 (neuradno prečiščeno besedilo)"
 citation: "Uradni list SRS, št. 13/72, 26/73, 45/73, 29/75, 14/77, 30/79, 1/82 – odl. US in 27/83"

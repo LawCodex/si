@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2009-05-29
 published: 2009-06-12
 in_force_from: 2009-06-27
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 44/09 in 32/25 – ZZDej-N"

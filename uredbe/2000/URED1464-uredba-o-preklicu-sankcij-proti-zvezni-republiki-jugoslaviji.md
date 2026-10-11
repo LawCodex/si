@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2000-10-19
 published: 2000-10-26
 in_force_from: 2000-10-27
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 99/00, 35/01 – ZOU in 44/22 – ZOUPAMO-A"

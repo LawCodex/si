@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2022-01-20
 published: 2022-01-21
 in_force_from: 2022-02-05
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 10/22 in 100/25 – ZKme-2"

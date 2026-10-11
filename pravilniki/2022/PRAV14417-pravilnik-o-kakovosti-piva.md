@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2022-11-09
 published: 2022-11-16
 in_force_from: 2022-12-01
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 143/22 in 100/25 – ZHra"

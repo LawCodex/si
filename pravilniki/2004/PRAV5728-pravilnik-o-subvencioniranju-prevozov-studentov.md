@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2004-01-30
 published: 2004-02-27
 in_force_from: 2004-02-28
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 18/04 in 62/10 – ZUPJS"

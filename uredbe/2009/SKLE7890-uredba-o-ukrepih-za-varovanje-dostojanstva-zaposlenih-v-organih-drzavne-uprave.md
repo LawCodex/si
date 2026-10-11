@@ -8,7 +8,7 @@ act_kind: "Sklep"
 date: 2009-05-07
 published: 2009-05-15
 in_force_from: 2009-05-30
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 36/09 in 21/13 – ZDR-1"

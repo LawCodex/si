@@ -9,7 +9,7 @@ date: 2024-04-10
 published: 2024-04-12
 in_force_from: 2024-04-13
 last_amended: 2024-08-02
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 1 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 32/24, 66/24 in 100/25 – ZKme-2"

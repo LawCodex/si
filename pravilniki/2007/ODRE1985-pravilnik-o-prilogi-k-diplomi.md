@@ -9,7 +9,7 @@ date: 2007-06-15
 published: 2007-06-26
 in_force_from: 2007-06-27
 last_amended: 2023-07-07
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 5 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 56/07, 39/12, 38/16, 68/20, 2/23, 74/23 in 56/25 – ZViS-1"

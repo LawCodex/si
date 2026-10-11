@@ -9,7 +9,7 @@ date: 2008-10-01
 published: 2008-10-14
 in_force_from: 2008-10-29
 last_amended: 2017-10-06
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 1 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 98/08 in 55/17 – ZPacP-A"

@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2005-07-07
 published: 2005-07-15
 in_force_from: 2005-07-16
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 67/05 in 112/24 – ZNDM-2I"

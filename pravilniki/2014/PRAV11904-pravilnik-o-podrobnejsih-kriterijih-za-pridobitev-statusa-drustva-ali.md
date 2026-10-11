@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2014-04-17
 published: 2014-04-25
 in_force_from: 2014-05-10
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 29/14 in 21/18 – ZNOrg"

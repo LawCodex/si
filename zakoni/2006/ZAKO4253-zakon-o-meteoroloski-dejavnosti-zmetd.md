@@ -9,7 +9,7 @@ act_kind: "Zakon"
 date: 2006-04-26
 published: 2006-05-12
 in_force_from: 2006-05-27
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 49/06 in 60/17 – ZDMHS"

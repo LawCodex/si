@@ -9,7 +9,7 @@ date: 2021-11-25
 published: 2021-11-26
 in_force_from: 2021-11-27
 last_amended: 2025-10-24
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 12 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 184/21, 84/22, 86/22, 112/22, 66/23, 73/23, 116/23, 44/24, 52/24, 71/24, 96/24, 9/25, 82/25 in 112/25 – ZSROVE-1"

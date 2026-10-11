@@ -9,7 +9,7 @@ date: 2009-10-08
 published: 2009-10-19
 in_force_from: 2009-11-03
 last_amended: 2026-04-16
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 4 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 82/09, 82/20, 162/20, 113/22 in 303/26"

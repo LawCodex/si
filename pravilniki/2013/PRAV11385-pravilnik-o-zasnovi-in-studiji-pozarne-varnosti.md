@@ -9,7 +9,7 @@ date: 2013-02-04
 published: 2013-02-07
 in_force_from: 2013-02-08
 last_amended: 2013-06-07
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 1 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 12/13, 49/13, 61/17 – GZ in 199/21 – GZ-1"

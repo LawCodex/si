@@ -10,7 +10,7 @@ date: 1986-07-23
 published: 1986-08-01
 in_force_from: 1986-08-09
 last_amended: 1993-10-17
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 4 (neuradno prečiščeno besedilo)"
 citation: "Uradni list SFRJ, št. 45/86, 24/88, 80/89, 29/90, Uradni list RS, št. 58/93 in 18/01 – ZLet"

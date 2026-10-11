@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2013-06-24
 published: 2013-07-22
 in_force_from: 2013-08-06
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 62/13 in 100/25 – ZVHK"

@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2007-04-19
 published: 2007-05-11
 in_force_from: 2007-05-12
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 41/07 in 100/25 – ZS-1"

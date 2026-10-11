@@ -9,7 +9,7 @@ act_kind: "Zakon"
 date: 1999-06-10
 published: 1999-06-28
 in_force_from: 1999-06-29
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 50/99, 35/01 – ZOU in 44/22 – ZOUPAMO-A"

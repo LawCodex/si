@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2008-07-17
 published: 2008-07-28
 in_force_from: 2008-07-29
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 77/08, 84/08 – popr. in 19/15 – ZBPP-C"

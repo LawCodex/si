@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2024-05-30
 published: 2024-05-31
 in_force_from: 2024-06-01
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 44/24 in 77/25 – ZUJIK-I"

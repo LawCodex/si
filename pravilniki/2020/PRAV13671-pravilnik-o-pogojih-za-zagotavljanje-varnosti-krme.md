@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2020-02-10
 published: 2020-02-14
 in_force_from: 2020-02-29
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 9/20 in 100/25 – ZVHK"

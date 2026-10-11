@@ -10,7 +10,7 @@ date: 1991-01-30
 published: 1991-02-08
 in_force_from: 1991-02-16
 last_amended: 2014-12-29
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 13 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 107/06 – uradno prečiščeno besedilo, 114/06 – ZUTPG, 59/07 – ZŠtip, 51/10 – odl. US, 80/10 – ZUTD in 95/14 – ZUJF-C"

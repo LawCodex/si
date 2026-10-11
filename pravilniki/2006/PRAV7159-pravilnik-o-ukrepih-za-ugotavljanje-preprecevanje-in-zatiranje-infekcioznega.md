@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2005-12-20
 published: 2006-01-06
 in_force_from: 2006-01-14
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 2/06 in 100/25 – ZZdrŽiv"

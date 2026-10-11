@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2005-12-07
 published: 2005-12-09
 in_force_from: 2005-12-10
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 110/05, 115/06, 80/07, 62/08 in 69/08 – ZCestV"

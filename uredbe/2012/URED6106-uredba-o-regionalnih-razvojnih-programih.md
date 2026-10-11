@@ -9,7 +9,7 @@ date: 2012-09-13
 published: 2012-09-14
 in_force_from: 2012-09-15
 last_amended: 2026-08-07
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 2 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 69/12, 78/15 in 1327/26"

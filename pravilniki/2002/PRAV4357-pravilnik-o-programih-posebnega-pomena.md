@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2002-09-24
 published: 2002-10-04
 in_force_from: 2002-10-05
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 85/02 in 69/25 – ZMed-1"

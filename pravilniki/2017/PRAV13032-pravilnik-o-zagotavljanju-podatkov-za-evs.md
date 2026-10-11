@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2017-03-03
 published: 2017-03-10
 in_force_from: 2017-03-11
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 12/17 in 56/25 – ZViS-1"

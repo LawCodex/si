@@ -9,7 +9,7 @@ date: 2001-12-07
 published: 2001-12-19
 in_force_from: 2002-06-19
 last_amended: 2006-09-29
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 1 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 104/01, 100/06 in 17/14 – EZ-1"

@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2014-12-24
 published: 2014-12-29
 in_force_from: 2015-01-13
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 96/14, 100/25 – ZVHK in 100/25 – ZKme-2"

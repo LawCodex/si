@@ -10,7 +10,7 @@ date: 2006-04-26
 published: 2006-05-12
 in_force_from: 2006-05-27
 last_amended: 2023-07-10
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 5 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 49/06, 33/07 – ZSReg-B, 19/15, 54/17, 18/23 – ZDU-1O, 75/23 – ZGD-1L in 85/25 – ZPRS-2"

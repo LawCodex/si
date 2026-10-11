@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2003-07-18
 published: 2003-11-13
 in_force_from: 2003-11-28
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 111/03, 52/04, 117/05, 72/07, 100/08, 8/09 – popr. in 61/10 – ZRud-1"

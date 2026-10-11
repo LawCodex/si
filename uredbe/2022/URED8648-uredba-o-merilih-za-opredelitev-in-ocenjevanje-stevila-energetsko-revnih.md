@@ -9,7 +9,7 @@ date: 2022-10-13
 published: 2022-10-14
 in_force_from: 2022-10-15
 last_amended: 2025-06-27
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 1 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 132/22 in 47/25 – ZOEE-A"

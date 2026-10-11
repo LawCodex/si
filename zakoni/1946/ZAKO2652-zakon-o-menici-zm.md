@@ -10,7 +10,7 @@ date: 1946-12-12
 published: 1946-12-24
 in_force_from: 1946-12-24
 last_amended: 1994-12-30
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 5 (neuradno prečiščeno besedilo)"
 citation: "Uradni list FLRJ, št. 104/46, 33/47 – popr., Uradni list SFRJ, št. 16/65, 54/70, 57/89, Uradni list RS, št. 13/94 – ZN in 82/94 – ZN-B"

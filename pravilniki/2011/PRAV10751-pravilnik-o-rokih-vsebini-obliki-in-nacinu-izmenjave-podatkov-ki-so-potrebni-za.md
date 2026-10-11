@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2011-04-11
 published: 2011-04-15
 in_force_from: 2011-04-16
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 28/11 in 57/12 – ZPreZP-1"

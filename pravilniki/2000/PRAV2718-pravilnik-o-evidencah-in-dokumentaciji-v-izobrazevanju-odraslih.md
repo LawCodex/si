@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2000-04-04
 published: 2000-04-13
 in_force_from: 2000-04-14
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 32/00 in 6/18 – ZIO-1"

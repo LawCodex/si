@@ -9,7 +9,7 @@ date: 2020-03-05
 published: 2020-03-06
 in_force_from: 2020-03-21
 last_amended: 2023-12-22
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 1 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 14/20, 121/21 – ZSROVE, 132/23, 102/24 – ZSROVE-B in 112/25 – ZSROVE-1"

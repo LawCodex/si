@@ -10,7 +10,7 @@ date: 1946-12-26
 published: 1946-12-27
 in_force_from: 1946-12-27
 last_amended: 1973-10-04
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 3 (neuradno prečiščeno besedilo)"
 citation: "Uradni list FLRJ, št. 105/46, Uradni list SFRJ, št. 12/65, 50/71 in 52/73"

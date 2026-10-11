@@ -10,7 +10,7 @@ date: 1992-03-11
 published: 1992-03-20
 in_force_from: 1992-04-04
 last_amended: 1997-12-05
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 3 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 13/92, 27/93, 34/97 – odl. US, 75/97 in 45/01 – ZIL-1"

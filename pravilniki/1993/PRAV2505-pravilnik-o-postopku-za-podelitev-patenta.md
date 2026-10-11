@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 1993-07-28
 published: 1993-08-20
 in_force_from: 1993-09-04
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 49/93, 45/01 – ZIL-1 in 102/01"

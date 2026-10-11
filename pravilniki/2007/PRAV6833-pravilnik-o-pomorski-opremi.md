@@ -9,7 +9,7 @@ date: 2007-02-12
 published: 2007-03-20
 in_force_from: 2007-03-21
 last_amended: 2016-04-01
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 8 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 24/07, 23/09, 78/09, 14/11, 17/11 – ZTZPUS-1, 47/12, 98/13, 56/14, 59/15, 24/16 in 1/17"

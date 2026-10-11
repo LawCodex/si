@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2004-04-15
 published: 2004-04-23
 in_force_from: 2004-05-01
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 42/04 in 88/16 – ZdZPZD"

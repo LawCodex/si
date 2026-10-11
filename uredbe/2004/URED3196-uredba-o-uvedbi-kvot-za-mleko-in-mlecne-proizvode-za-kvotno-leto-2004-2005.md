@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2004-02-26
 published: 2004-03-10
 in_force_from: 2004-03-11
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 22/04, 24/04, 87/04, 103/04, 112/04 in 10/05"

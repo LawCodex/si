@@ -10,7 +10,7 @@ date: 1994-12-21
 published: 1995-01-10
 in_force_from: 1995-01-25
 last_amended: 2016-07-29
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 8 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 93/07 – uradno prečiščeno besedilo, 26/14 – ZKme-1B, 52/16 in 77/25 – ZGos-1"

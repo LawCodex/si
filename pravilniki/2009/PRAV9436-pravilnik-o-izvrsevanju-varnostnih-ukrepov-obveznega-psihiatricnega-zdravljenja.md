@@ -9,7 +9,7 @@ date: 2009-09-21
 published: 2009-10-27
 in_force_from: 2009-10-28
 last_amended: 2012-01-27
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 1 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 84/09, 6/12, 109/12 – ZIKS-1E in 35/16"

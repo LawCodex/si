@@ -9,7 +9,7 @@ date: 2001-07-12
 published: 2001-07-20
 in_force_from: 2001-07-21
 last_amended: 2005-11-04
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 3 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 60/01, 59/03, 96/04, 97/05 in 64/17 – ZZDej-K"

@@ -9,7 +9,7 @@ date: 2004-02-24
 published: 2004-03-05
 in_force_from: 2004-05-01
 last_amended: 2010-05-28
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 4 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 21/04, 34/04 – popr., 90/06, 31/07, 54/08, 42/10 in 100/25 – ZZdrŽiv"

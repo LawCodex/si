@@ -10,7 +10,7 @@ date: 1997-03-26
 published: 1997-04-10
 in_force_from: 1997-04-25
 last_amended: 2004-01-15
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 3 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 20/97, 94/00 – odl. US, 67/02, 2/04 – ZPNNVSM in 65/05 – ZZZRO"

@@ -9,7 +9,7 @@ date: 2000-07-07
 published: 2000-08-10
 in_force_from: 2000-08-25
 last_amended: 2010-09-03
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 2 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 71/00, 33/01 – ZVet-1, 131/04, 70/10 in 100/25 – ZZdrŽiv"

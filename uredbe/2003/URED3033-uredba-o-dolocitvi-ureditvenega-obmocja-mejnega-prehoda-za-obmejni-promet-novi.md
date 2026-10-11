@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2003-09-18
 published: 2003-09-26
 in_force_from: 2003-09-27
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 92/03 in 112/24 – ZNDM-2I"

@@ -9,7 +9,7 @@ date: 2016-10-12
 published: 2016-12-02
 in_force_from: 2016-12-17
 last_amended: 2026-04-08
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 3 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 77/16, 25/19, 56/22, 56/25 – ZViS-1 in 218/26"

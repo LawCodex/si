@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2008-09-04
 published: 2008-09-19
 in_force_from: 2008-09-20
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 89/08, 109/10 – ZCes-1 in 132/22 – ZCes-2"

@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2010-07-14
 published: 2010-07-23
 in_force_from: 2010-08-07
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 59/10 in 30/18 – ZVZelP-1"

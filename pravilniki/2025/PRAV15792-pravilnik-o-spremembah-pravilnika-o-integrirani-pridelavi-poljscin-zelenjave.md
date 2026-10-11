@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2025-10-06
 published: 2025-10-21
 in_force_from: 2025-10-22
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 81/25, 100/25 – ZHra in 100/25 – ZKme-2"

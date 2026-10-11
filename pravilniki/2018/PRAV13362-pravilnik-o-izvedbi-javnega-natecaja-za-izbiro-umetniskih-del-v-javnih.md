@@ -9,7 +9,7 @@ date: 2018-02-13
 published: 2018-02-16
 in_force_from: 2018-03-03
 last_amended: 2025-10-07
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 1 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 9/18 in 77/25 – ZUJIK-I"

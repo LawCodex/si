@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2013-12-11
 published: 2013-12-16
 in_force_from: 2013-12-31
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 105/13 in 21/18 – ZNOrg"

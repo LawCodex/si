@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2003-11-06
 published: 2003-11-20
 in_force_from: 2003-11-21
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 113/03 in 106/10 – ZMV"

@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2013-05-09
 published: 2013-05-24
 in_force_from: 2013-06-08
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 44/13 in 47/16 – ZTro-1"

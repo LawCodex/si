@@ -9,7 +9,7 @@ date: 2008-01-16
 published: 2008-01-30
 in_force_from: 2008-01-31
 last_amended: 2012-11-09
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 2 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 10/08, 102/11, 84/12 in 68/16 – ZPPDFT-1"

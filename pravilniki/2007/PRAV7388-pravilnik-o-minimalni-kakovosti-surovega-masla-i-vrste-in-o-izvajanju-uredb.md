@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2007-01-09
 published: 2007-03-02
 in_force_from: 2007-03-03
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 19/07, 45/08 – ZKme-1 in 100/25 – ZHra"

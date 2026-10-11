@@ -9,7 +9,7 @@ date: 2006-04-20
 published: 2006-05-11
 in_force_from: 2006-05-12
 last_amended: 2009-07-13
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 1 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 48/06, 54/09, 109/10 – ZCes-1 in 132/22 – ZCes-2"

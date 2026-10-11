@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2003-07-24
 published: 2003-08-29
 in_force_from: 2003-09-13
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 85/03, 43/11 – ZVZD-1, 96/12 – ZPIZ-2 in 25/23"

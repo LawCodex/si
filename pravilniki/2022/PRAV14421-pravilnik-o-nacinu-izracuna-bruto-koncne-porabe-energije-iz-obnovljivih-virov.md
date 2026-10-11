@@ -9,7 +9,7 @@ date: 2022-04-06
 published: 2022-04-15
 in_force_from: 2022-04-30
 last_amended: 2023-01-13
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 2 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 52/22, 119/22, 4/23 in 112/25 – ZSROVE-1"

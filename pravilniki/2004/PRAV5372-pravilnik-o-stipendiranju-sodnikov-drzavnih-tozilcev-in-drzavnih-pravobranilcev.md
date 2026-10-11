@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2004-06-16
 published: 2004-07-09
 in_force_from: 2004-07-24
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 74/04, 58/11 – ZDT-1, 47/12 – ZDT-1A, 60/12 in 100/25 – ZSod"

@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2005-11-30
 published: 2005-12-23
 in_force_from: 2006-01-07
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 117/05 in 61/10 – ZRud-1"

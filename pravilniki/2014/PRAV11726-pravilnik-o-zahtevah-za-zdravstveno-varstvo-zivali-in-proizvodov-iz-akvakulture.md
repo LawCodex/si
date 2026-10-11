@@ -9,7 +9,7 @@ date: 2014-01-14
 published: 2014-01-24
 in_force_from: 2014-01-25
 last_amended: 2019-03-15
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 1 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 6/14, 10/19, 16/19 – popr. in 100/25 – ZZdrŽiv"

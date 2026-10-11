@@ -10,7 +10,7 @@ date: 1999-10-21
 published: 1999-11-04
 in_force_from: 1999-11-19
 last_amended: 2003-06-18
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 4 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 47/03 – uradno prečiščeno besedilo in 58/03 – ZZK-1"

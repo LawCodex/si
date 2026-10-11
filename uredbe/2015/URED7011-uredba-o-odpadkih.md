@@ -9,7 +9,7 @@ date: 2015-05-28
 published: 2015-05-29
 in_force_from: 2015-05-30
 last_amended: 2020-09-25
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 2 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 37/15, 69/15, 129/20, 44/22 – ZVO-2 in 77/22"

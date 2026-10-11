@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2008-12-19
 published: 2008-12-31
 in_force_from: 2009-01-01
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 126/08 in 62/10 – ZUPJS"

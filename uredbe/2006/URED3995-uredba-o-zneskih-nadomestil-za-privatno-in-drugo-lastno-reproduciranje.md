@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2006-09-28
 published: 2006-10-06
 in_force_from: 2006-10-21
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 103/06 in 63/16 – ZKUASP"

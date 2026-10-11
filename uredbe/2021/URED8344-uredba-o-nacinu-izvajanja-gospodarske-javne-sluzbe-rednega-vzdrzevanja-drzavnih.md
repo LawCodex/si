@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2021-07-15
 published: 2021-07-16
 in_force_from: 2021-07-17
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 116/21 in 132/22 – ZCes-2"

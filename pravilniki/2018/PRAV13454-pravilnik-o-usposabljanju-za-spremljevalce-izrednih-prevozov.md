@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2018-04-18
 published: 2018-04-26
 in_force_from: 2018-04-27
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 29/18 in 132/22 – ZCes-2"

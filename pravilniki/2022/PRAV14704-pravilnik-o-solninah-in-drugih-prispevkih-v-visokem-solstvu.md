@@ -9,7 +9,7 @@ date: 2022-12-06
 published: 2022-12-16
 in_force_from: 2022-12-17
 last_amended: 2024-01-12
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 1 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 157/22, 2/24 in 56/25 – ZViS-1"

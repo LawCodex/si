@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2016-07-26
 published: 2016-08-05
 in_force_from: 2016-08-06
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 53/16 in 85/24 – ZLet-1"

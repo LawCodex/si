@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2021-12-09
 published: 2021-12-17
 in_force_from: 2022-01-01
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 196/21 in 100/25 – ZS-1"

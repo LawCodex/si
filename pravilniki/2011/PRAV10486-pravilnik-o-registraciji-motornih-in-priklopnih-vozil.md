@@ -9,7 +9,7 @@ date: 2011-06-20
 published: 2011-06-24
 in_force_from: 2011-07-04
 last_amended: 2017-02-24
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 6 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 48/11, 4/13, 20/14, 31/14, 64/14, 53/16, 9/17 in 75/17 – ZMV-1"

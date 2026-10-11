@@ -9,7 +9,7 @@ act_kind: "Zakon"
 date: 1999-02-04
 published: 1999-02-13
 in_force_from: 1999-02-14
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 9/99 in 27/17 – ZUVza-1"

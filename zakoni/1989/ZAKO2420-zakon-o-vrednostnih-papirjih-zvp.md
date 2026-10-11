@@ -10,7 +10,7 @@ date: 1989-10-19
 published: 1989-10-20
 in_force_from: 1989-10-28
 last_amended: 1994-02-11
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 3 (neuradno prečiščeno besedilo)"
 citation: "Uradni list SFRJ, št. 64/89, 29/90, Uradni list RS, št. 30/93 – ZGD in 6/94 – ZTVP"

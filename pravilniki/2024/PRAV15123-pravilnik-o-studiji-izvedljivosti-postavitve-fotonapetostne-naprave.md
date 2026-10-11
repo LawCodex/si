@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2024-06-18
 published: 2024-06-21
 in_force_from: 2024-07-06
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 52/24 in 112/25 – ZSROVE-1"

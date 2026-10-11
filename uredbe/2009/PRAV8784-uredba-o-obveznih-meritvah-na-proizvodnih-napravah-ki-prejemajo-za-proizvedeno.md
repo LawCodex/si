@@ -9,7 +9,7 @@ date: 2009-03-12
 published: 2009-03-20
 in_force_from: 2009-03-21
 last_amended: 2012-06-15
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 2 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 21/09, 33/10, 45/12, 17/14 – EZ-1, 121/21 – ZSROVE in 112/25 – ZSROVE-1"

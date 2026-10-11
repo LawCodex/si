@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2009-01-21
 published: 2009-02-06
 in_force_from: 2009-02-21
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 9/09 in 100/25 – ZZdrŽiv"

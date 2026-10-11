@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2007-03-16
 published: 2007-05-04
 in_force_from: 2007-05-05
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 39/07, 61/10 – ZSVarPre in 62/10 – ZUPJS"

@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2018-06-01
 published: 2018-06-12
 in_force_from: 2018-06-13
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 40/18 in 85/25 – ZPRS-2"

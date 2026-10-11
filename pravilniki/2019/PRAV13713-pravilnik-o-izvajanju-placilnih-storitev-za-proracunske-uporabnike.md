@@ -9,7 +9,7 @@ date: 2019-05-21
 published: 2019-05-24
 in_force_from: 2019-06-08
 last_amended: 2023-07-28
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 2 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 34/19, 25/23, 82/23 in 85/25 – ZPJS"

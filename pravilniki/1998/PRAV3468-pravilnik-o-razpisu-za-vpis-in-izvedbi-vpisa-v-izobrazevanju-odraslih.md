@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 1998-11-18
 published: 1998-12-04
 in_force_from: 1998-12-05
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 82/98, 6/18 – ZIO-1, 11/20 in 56/22"

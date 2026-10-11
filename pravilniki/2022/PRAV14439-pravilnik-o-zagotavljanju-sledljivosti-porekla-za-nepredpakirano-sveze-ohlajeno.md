@@ -9,7 +9,7 @@ date: 2022-04-15
 published: 2022-04-20
 in_force_from: 2022-05-05
 last_amended: 2025-10-03
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 3 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 54/22, 106/23, 55/24, 76/25 in 100/25 – ZVHK"

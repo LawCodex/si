@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2008-11-17
 published: 2008-11-21
 in_force_from: 2008-12-06
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 110/08, 43/11 – ZKZ-C in 44/22 – ZKZ-G"

@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2025-04-17
 published: 2025-04-25
 in_force_from: 2025-04-26
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 28/25 in 100/25 – ZKme-2"

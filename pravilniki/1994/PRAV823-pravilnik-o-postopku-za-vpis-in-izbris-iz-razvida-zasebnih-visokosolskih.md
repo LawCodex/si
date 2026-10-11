@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 1994-04-13
 published: 1994-04-22
 in_force_from: 1994-05-07
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 21/94 in 56/25 – ZViS-1"

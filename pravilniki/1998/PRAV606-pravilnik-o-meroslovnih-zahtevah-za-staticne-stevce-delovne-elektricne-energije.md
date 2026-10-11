@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 1998-02-16
 published: 1998-02-20
 in_force_from: 1998-02-21
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 13/98, 42/06, 71/06 in 16/13"

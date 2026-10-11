@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2007-03-01
 published: 2007-03-09
 in_force_from: 2007-03-10
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 21/07 in 112/24 – ZNDM-2I"

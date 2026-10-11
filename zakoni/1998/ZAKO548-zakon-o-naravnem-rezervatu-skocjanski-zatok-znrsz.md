@@ -9,7 +9,7 @@ act_kind: "Zakon"
 date: 1998-02-26
 published: 1998-03-13
 in_force_from: 1998-03-14
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 20/98 in 119/02 – ZON-A"

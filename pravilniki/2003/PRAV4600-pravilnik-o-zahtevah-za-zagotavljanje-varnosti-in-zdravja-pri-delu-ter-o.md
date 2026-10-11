@@ -9,7 +9,7 @@ date: 2003-06-10
 published: 2003-07-14
 in_force_from: 2003-07-29
 last_amended: 2006-06-23
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 1 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 68/03, 65/06 in 61/10 – ZRud-1"

@@ -9,7 +9,7 @@ date: 2023-03-16
 published: 2023-03-17
 in_force_from: 2023-03-18
 last_amended: 2025-10-21
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 3 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 31/23, 67/23, 56/24, 81/25, 100/25 – ZHra in 100/25 – ZKme-2"

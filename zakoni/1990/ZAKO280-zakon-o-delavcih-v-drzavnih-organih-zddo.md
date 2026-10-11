@@ -10,7 +10,7 @@ date: 1990-03-29
 published: 1990-04-20
 in_force_from: 1990-04-28
 last_amended: 2020-02-07
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 11 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 15/90, 2/91-I, 5/91, 18/91, 22/91, 4/93, 18/94 – ZRPJZ, 70/97, 87/97 – ZPSDP, 38/99, 56/02 – ZJU, 8/20 in 32/25 – ZJU-1"

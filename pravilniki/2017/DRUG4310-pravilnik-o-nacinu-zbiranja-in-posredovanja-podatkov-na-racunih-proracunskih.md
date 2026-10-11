@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2017-05-19
 published: 2017-05-26
 in_force_from: 2017-10-09
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 26/17 in 85/25 – ZPJS"

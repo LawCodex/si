@@ -9,7 +9,7 @@ date: 2012-12-05
 published: 2012-12-31
 in_force_from: 2013-01-15
 last_amended: 2023-02-24
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 3 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 109/12, 92/14, 24/15, 77/16 – ZOPSPU-1, 25/23 in 85/25 – ZPJS"

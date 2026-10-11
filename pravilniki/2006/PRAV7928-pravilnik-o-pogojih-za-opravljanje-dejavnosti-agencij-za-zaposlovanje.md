@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2006-12-22
 published: 2006-12-29
 in_force_from: 2006-12-30
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 139/06 in 80/10 – ZUTD"

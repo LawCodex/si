@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2007-05-14
 published: 2007-05-29
 in_force_from: 2007-05-30
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 46/07, 109/10 – ZVoz in 85/16 – ZVoz-1"

@@ -9,7 +9,7 @@ date: 2020-09-17
 published: 2020-09-18
 in_force_from: 2020-09-19
 last_amended: 2025-12-05
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 1 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 124/20 in 102/25"

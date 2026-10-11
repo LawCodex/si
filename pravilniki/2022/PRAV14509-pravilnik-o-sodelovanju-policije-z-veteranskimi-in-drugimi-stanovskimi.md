@@ -9,7 +9,7 @@ date: 2022-05-25
 published: 2022-05-27
 in_force_from: 2022-05-28
 last_amended: 2025-11-06
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 2 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 74/22, 106/22 in 85/25 – ZODPol-I"

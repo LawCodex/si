@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2009-04-23
 published: 2009-05-04
 in_force_from: 2009-05-19
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 34/09 in 100/25 – ZKme-2"

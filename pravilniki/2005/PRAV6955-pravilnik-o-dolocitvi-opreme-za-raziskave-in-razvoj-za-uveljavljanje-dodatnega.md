@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2005-07-12
 published: 2005-08-16
 in_force_from: 2005-08-17
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 77/05 in 108/05 – ZDDPO-1B"

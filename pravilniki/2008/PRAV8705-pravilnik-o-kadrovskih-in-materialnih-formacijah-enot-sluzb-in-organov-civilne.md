@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2008-10-22
 published: 2008-11-03
 in_force_from: 2008-11-18
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 104/08 in 78/25"

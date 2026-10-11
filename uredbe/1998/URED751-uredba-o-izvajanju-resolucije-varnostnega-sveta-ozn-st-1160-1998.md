@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 1998-04-29
 published: 1998-05-08
 in_force_from: 1998-05-09
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 35/98, 35/01 – ZOU in 44/22 – ZOUPAMO-A"

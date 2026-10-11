@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2003-05-29
 published: 2003-06-20
 in_force_from: 2003-06-21
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 59/03, 79/06 – ZPSI-1 in 44/08"

@@ -9,7 +9,7 @@ date: 2005-09-28
 published: 2005-10-14
 in_force_from: 2005-10-15
 last_amended: 2018-05-30
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 3 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 91/05, 26/06, 109/10 – ZCes-1, 36/18 in 132/22 – ZCes-2"

@@ -9,7 +9,7 @@ date: 2010-12-02
 published: 2010-12-03
 in_force_from: 2010-12-04
 last_amended: 2016-02-12
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 5 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 98/10, 98/12, 62/13, 90/13, 108/13 in 9/16 – ZGGLRS"

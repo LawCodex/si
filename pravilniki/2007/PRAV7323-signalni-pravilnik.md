@@ -9,7 +9,7 @@ date: 2007-12-20
 published: 2007-12-28
 in_force_from: 2008-01-01
 last_amended: 2025-10-03
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 4 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 123/07, 18/11, 48/11, 30/18 – ZVZelP-1 in 76/25"

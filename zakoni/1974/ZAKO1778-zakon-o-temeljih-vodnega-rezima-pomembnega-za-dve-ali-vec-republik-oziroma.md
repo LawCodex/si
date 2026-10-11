@@ -10,7 +10,7 @@ date: 1973-12-28
 published: 1974-01-10
 in_force_from: 1974-01-18
 last_amended: 1976-06-04
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 1 (neuradno prečiščeno besedilo)"
 citation: "Uradni list SFRJ, št. 2/74, 24/76 in Uradni list RS, št. 67/02 – ZV-1"

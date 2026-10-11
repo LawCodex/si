@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2014-11-13
 published: 2014-11-14
 in_force_from: 2015-01-01
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 81/14 in 100/25 – ZHra"

@@ -9,7 +9,7 @@ date: 2023-03-23
 published: 2023-03-31
 in_force_from: 2023-04-01
 last_amended: 2025-03-21
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 2 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 39/23, 24/24, 18/25 in 100/25 – ZKme-2"

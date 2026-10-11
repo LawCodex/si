@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2004-10-11
 published: 2004-11-12
 in_force_from: 2004-11-27
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 122/04, 64/17 – ZZDej-K in 32/25 – ZZDej-N"

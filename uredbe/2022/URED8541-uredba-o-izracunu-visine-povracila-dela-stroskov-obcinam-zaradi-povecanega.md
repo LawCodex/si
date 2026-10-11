@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2022-03-31
 published: 2022-04-01
 in_force_from: 2022-04-02
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 47/22 in 112/24 – ZNDM-2I"

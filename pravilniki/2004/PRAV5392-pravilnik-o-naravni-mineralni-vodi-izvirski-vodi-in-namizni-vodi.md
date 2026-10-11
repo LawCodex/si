@@ -9,7 +9,7 @@ date: 2004-04-23
 published: 2004-05-06
 in_force_from: 2004-05-07
 last_amended: 2023-06-02
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 2 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 50/04, 75/05, 45/08 – ZKme-1, 61/23 in 100/25 – ZVHK"

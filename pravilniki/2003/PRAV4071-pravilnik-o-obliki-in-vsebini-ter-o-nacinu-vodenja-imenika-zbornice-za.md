@@ -9,7 +9,7 @@ date: 2003-12-03
 published: 2003-12-11
 in_force_from: 2003-12-26
 last_amended: 2018-06-12
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 4 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 123/03, 56/05, 108/09 – ZGO-1C, 61/17 – ZAID, 37/18 in 40/18"

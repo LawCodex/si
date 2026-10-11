@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2011-01-13
 published: 2011-01-14
 in_force_from: 2011-01-29
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 3/11 in 100/25 – ZZdrŽiv"

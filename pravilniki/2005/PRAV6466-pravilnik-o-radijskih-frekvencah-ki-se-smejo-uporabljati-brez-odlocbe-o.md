@@ -9,7 +9,7 @@ date: 2005-04-11
 published: 2005-05-06
 in_force_from: 2005-05-21
 last_amended: 2010-04-02
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 3 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 45/05, 37/06, 13/08, 27/10 in 109/12 – ZEKom-1"

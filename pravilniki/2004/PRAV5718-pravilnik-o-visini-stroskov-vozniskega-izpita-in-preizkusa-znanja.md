@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2004-03-17
 published: 2004-04-16
 in_force_from: 2004-04-17
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 38/04, 109/10 – ZVoz in 85/16 – ZVoz-1"

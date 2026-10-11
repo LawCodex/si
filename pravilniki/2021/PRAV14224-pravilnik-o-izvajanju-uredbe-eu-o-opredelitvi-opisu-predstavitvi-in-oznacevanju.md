@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2021-03-25
 published: 2021-03-26
 in_force_from: 2021-04-10
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 44/21 in 100/25 – ZHra"

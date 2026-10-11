@@ -10,7 +10,7 @@ date: 1991-10-03
 published: 1991-10-11
 in_force_from: 1991-10-19
 last_amended: 2003-07-16
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 11 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 18/91-I, 19/91 – popr., 13/93 – ZP-G, 9/94 – odl. US, 21/94, 29/95 – ZPDF, 23/96, 24/96 – odl. US, 44/96 – odl. US, 1/00, 1/00 – odl. US, 22/00 – ZJS, 87/02 – SPZ, 29/03 – odl. US in 69/03 – SZ-1"

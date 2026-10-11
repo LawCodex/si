@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 1999-04-08
 published: 1999-05-06
 in_force_from: 1999-05-21
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 32/99, 41/04 – ZVO-1, 76/17 – ZVISJV-1 in 8/22"

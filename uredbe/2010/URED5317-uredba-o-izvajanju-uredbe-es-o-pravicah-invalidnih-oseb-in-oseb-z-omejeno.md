@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2010-12-23
 published: 2010-12-27
 in_force_from: 2011-01-11
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 106/10 in 85/24 – ZLet-1"

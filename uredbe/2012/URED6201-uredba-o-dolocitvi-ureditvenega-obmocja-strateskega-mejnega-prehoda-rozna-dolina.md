@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2012-11-15
 published: 2012-11-23
 in_force_from: 2012-11-24
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 88/12 in 112/24 – ZNDM-2I"

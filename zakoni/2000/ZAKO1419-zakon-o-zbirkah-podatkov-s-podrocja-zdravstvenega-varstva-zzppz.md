@@ -10,7 +10,7 @@ date: 2000-07-11
 published: 2000-07-21
 in_force_from: 2000-08-05
 last_amended: 2024-12-27
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 12 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 65/00, 47/15, 31/18, 152/20 – ZZUOOP, 175/20 – ZIUOPDVE, 203/20 – ZIUPOPDVE, 112/21 – ZNUPZ, 196/21 – ZDOsk, 206/21 – ZDUPŠOP, 141/22 – ZNUNBZ, 18/23 – ZDU-1O, 84/23 – ZDOsk-1, 112/24 – ZDIUZDZ in 100/25 – ZDigZ"

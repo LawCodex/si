@@ -8,7 +8,7 @@ act_kind: "Zakon"
 date: 1990-10-18
 published: 1990-10-26
 in_force_from: 1990-11-03
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list SFRJ, št. 63/90"

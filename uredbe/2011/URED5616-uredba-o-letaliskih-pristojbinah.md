@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2011-03-03
 published: 2011-03-11
 in_force_from: 2011-03-12
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 17/11 in 85/24 – ZLet-1"

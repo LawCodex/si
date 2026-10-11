@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2011-08-18
 published: 2011-08-19
 in_force_from: 2011-08-20
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 65/11 in 100/25 – ZKme-2"

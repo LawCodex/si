@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2023-11-30
 published: 2023-12-01
 in_force_from: 2023-12-02
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 121/23 in 100/25 – ZKme-2"

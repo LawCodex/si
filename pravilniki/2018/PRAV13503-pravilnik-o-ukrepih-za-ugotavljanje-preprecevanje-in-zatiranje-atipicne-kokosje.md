@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2018-11-20
 published: 2018-12-14
 in_force_from: 2018-12-15
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 81/18 in 100/25 – ZZdrŽiv"

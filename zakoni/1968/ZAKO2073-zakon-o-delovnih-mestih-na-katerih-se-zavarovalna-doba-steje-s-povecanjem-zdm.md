@@ -10,7 +10,7 @@ date: 1968-04-26
 published: 1968-04-29
 in_force_from: 1968-05-07
 last_amended: 1971-07-08
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 2 (neuradno prečiščeno besedilo)"
 citation: "Uradni list SFRJ, št. 17/68, 20/69 in 29/71"

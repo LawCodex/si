@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2024-06-05
 published: 2024-06-07
 in_force_from: 2024-06-08
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 47/24 in 96/24"

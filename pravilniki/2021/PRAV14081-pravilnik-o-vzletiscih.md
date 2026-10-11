@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2021-04-14
 published: 2021-04-30
 in_force_from: 2021-05-15
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 67/21 in 85/24 – ZLet-1"

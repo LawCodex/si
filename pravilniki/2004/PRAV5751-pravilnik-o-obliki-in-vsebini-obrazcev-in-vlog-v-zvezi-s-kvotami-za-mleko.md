@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2004-03-26
 published: 2004-03-31
 in_force_from: 2004-04-01
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 31/04 in 10/05"

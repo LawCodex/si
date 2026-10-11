@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2006-07-26
 published: 2006-08-04
 in_force_from: 2006-08-19
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 83/06, 106/10 – ZMV, 75/17 – ZMV-1 in 4/20"

@@ -9,7 +9,7 @@ date: 2018-03-12
 published: 2018-03-16
 in_force_from: 2018-03-17
 last_amended: 2025-11-06
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 1 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 17/18 in 85/25 – ZG-H"

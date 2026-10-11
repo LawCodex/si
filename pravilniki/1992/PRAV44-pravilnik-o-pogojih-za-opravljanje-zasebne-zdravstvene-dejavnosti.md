@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 1992-05-21
 published: 1992-05-22
 in_force_from: 1992-05-23
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 24/92, 98/99 – ZZdrS, 64/17 – ZZDej-K in 32/25 – ZZDej-N"

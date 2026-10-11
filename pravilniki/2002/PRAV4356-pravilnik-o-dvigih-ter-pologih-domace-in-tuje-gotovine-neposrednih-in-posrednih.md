@@ -9,7 +9,7 @@ date: 2002-10-15
 published: 2002-10-22
 in_force_from: 2002-10-23
 last_amended: 2009-12-28
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 2 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 89/02, 94/02 – popr., 117/07, 58/09 – ZPlaSS, 109/09, 59/10 – ZOPSPU, 77/16 – ZOPSPU-1 in 85/25 – ZPJS"

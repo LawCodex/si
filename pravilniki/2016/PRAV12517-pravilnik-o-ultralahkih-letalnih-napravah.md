@@ -9,7 +9,7 @@ date: 2016-07-05
 published: 2016-07-08
 in_force_from: 2016-07-09
 last_amended: 2024-05-31
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 6 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 49/16, 52/16, 32/18, 10/19, 75/19, 44/24, 44/24 in 85/24 – ZLet-1"

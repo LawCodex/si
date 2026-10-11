@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2008-02-14
 published: 2008-02-22
 in_force_from: 2008-03-01
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 18/08, 30/13 – ObrZ-E in 36/13 – popr."

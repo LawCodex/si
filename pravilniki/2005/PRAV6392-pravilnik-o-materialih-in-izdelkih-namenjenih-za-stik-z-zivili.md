@@ -9,7 +9,7 @@ date: 2005-03-18
 published: 2005-04-08
 in_force_from: 2005-04-09
 last_amended: 2008-06-30
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 3 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 36/05, 38/06, 100/06, 65/08 in 100/25 – ZVHK"

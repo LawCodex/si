@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2007-07-12
 published: 2007-07-24
 in_force_from: 2007-07-25
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 66/07, 19/10 – ZJN-2B in 19/10 – ZJNVETPS-B"

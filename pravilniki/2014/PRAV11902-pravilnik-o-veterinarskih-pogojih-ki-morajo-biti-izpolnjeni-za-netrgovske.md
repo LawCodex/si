@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2014-11-24
 published: 2014-11-28
 in_force_from: 2014-11-29
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 85/14 in 100/25 – ZZdrŽiv"

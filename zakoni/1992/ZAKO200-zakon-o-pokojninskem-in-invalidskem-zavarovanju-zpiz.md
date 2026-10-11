@@ -10,7 +10,7 @@ date: 1992-03-05
 published: 1992-03-13
 in_force_from: 1992-04-01
 last_amended: 1998-07-31
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 7 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 12/92, 56/92 – odl. US, 43/93 – odl. US, 67/93 – odl. US, 5/94, 7/96, 29/97 – odl. US, 54/98 in 106/99 – ZPIZ-1"

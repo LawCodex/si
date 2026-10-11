@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2022-05-10
 published: 2022-05-13
 in_force_from: 2022-05-28
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 67/22 in 26/25"

@@ -29,6 +29,7 @@ SEMAFOR_STATUS = {
     "Veljaven predpis": "in_force",
     "Veljaven predpis, ki se še ne uporablja": "in_force",
     "Objavljen predpis, ki še ne velja": "in_force",
+    "Neveljaven predpis, ki se še uporablja": "repealed",  # no longer in force but still applied
 }
 
 

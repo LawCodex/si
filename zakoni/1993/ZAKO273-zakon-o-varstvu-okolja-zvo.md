@@ -10,7 +10,7 @@ date: 1993-06-02
 published: 1993-06-17
 in_force_from: 1993-07-02
 last_amended: 2002-07-26
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 4 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 32/93, 1/96, 56/99 – ZON, 22/00 – ZJS, 67/02 – ZV-1 in 41/04 – ZVO-1"

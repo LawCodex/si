@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2018-05-18
 published: 2018-07-06
 in_force_from: 2018-07-21
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 47/18 in 100/25 – ZVHK"

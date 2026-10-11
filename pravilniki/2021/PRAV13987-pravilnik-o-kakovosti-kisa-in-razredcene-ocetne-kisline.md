@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2021-07-02
 published: 2021-07-09
 in_force_from: 2021-07-24
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 108/21 in 100/25 – ZHra"

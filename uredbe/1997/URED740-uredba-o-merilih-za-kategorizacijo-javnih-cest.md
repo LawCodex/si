@@ -9,7 +9,7 @@ date: 1997-07-17
 published: 1997-08-08
 in_force_from: 1997-08-09
 last_amended: 2009-12-31
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 1 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 49/97, 113/09, 109/10 – ZCes-1 in 132/22 – ZCes-2"

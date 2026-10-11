@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2000-12-07
 published: 2000-12-15
 in_force_from: 2000-12-30
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 116/00, 33/01 – ZVet-1 in 100/25 – ZZdrŽiv"

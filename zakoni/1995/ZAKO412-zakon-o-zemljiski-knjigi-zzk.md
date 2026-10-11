@@ -10,7 +10,7 @@ date: 1995-06-01
 published: 1995-06-16
 in_force_from: 1995-07-16
 last_amended: 2002-06-07
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 1 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 33/95, 50/02 – odl. US in 58/03 – ZZK-1"

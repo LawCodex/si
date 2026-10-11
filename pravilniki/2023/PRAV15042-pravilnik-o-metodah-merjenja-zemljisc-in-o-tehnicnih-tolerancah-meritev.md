@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2023-07-12
 published: 2023-07-19
 in_force_from: 2023-07-20
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 78/23 in 100/25 – ZKme-2"

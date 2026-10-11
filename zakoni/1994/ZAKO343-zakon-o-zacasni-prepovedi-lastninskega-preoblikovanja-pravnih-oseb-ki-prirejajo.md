@@ -9,7 +9,7 @@ act_kind: "Zakon"
 date: 1994-06-03
 published: 1994-06-17
 in_force_from: 1994-06-18
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 35/94, 38/94 – popr. in 40/97 – ZLPPOD"

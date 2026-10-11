@@ -10,7 +10,7 @@ date: 1994-11-08
 published: 1994-11-24
 in_force_from: 1994-12-09
 last_amended: 2000-04-26
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 4 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 72/94, 18/95 – popr., 54/96, 48/98, 65/99, 36/00 – ZPDZC in 59/01 – ZPCP-1"

@@ -9,7 +9,7 @@ date: 2020-09-23
 published: 2020-09-25
 in_force_from: 2020-10-10
 last_amended: 2024-06-21
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 4 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 128/20, 6/21, 162/21, 115/22, 52/24 in 100/25 – ZHra"

@@ -9,7 +9,7 @@ date: 2011-12-22
 published: 2012-01-20
 in_force_from: 2012-02-04
 last_amended: 2019-09-27
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 1 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 4/12, 24/12 – popr., 26/14 – ZKme-1B, 58/19 in 100/25 – ZHra"

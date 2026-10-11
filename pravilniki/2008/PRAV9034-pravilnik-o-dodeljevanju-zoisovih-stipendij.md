@@ -9,7 +9,7 @@ date: 2008-05-09
 published: 2008-05-23
 in_force_from: 2008-05-24
 last_amended: 2009-06-15
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 1 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 51/08, 40/09 – ZŠtip-A, 45/09, 56/13 – ZŠtip-1 in 35/14"

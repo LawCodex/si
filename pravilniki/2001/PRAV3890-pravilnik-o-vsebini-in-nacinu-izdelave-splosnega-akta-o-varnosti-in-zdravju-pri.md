@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2001-07-27
 published: 2001-08-17
 in_force_from: 2001-09-01
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 68/01 in 61/10 – ZRud-1"

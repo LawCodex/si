@@ -9,7 +9,7 @@ date: 2004-11-25
 published: 2004-12-03
 in_force_from: 2004-12-18
 last_amended: 2015-12-30
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 5 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 129/04, 57/06, 105/07, 102/08, 94/13, 106/15, 68/16 – ZDimS in 77/17"

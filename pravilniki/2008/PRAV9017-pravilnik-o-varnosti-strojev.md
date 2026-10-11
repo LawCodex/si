@@ -9,7 +9,7 @@ date: 2008-06-24
 published: 2008-07-22
 in_force_from: 2009-12-29
 last_amended: 2025-11-21
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 3 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 75/08, 66/10, 17/11 – ZTZPUS-1, 74/11 in 92/25"

@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2022-07-08
 published: 2022-07-29
 in_force_from: 2022-08-13
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 103/22 in 100/25 – ZKme-2"

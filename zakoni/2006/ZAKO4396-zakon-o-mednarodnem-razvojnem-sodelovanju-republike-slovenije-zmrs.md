@@ -9,7 +9,7 @@ act_kind: "Zakon"
 date: 2006-06-23
 published: 2006-07-06
 in_force_from: 2006-07-21
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 70/06 in 30/18 – ZMRSHP"

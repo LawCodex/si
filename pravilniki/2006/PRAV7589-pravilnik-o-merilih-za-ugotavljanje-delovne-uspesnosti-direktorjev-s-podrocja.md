@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2006-07-03
 published: 2006-07-31
 in_force_from: 2006-08-01
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 81/06 in 95/24 – ZSTSPJS"

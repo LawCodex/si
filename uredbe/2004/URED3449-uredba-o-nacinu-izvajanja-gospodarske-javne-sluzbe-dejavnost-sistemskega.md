@@ -9,7 +9,7 @@ date: 2004-10-21
 published: 2004-10-29
 in_force_from: 2004-11-13
 last_amended: 2007-03-16
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 1 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 117/04, 23/07, 17/14 – EZ-1 in 172/21 – ZOEE"

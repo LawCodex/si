@@ -9,7 +9,7 @@ date: 2006-12-12
 published: 2006-12-22
 in_force_from: 2006-12-30
 last_amended: 2020-12-29
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 2 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 136/06, 42/10, 200/20 – ZNUAPK in 100/25 – ZZdrŽiv"

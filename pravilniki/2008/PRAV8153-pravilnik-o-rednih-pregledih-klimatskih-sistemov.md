@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2008-03-10
 published: 2008-03-17
 in_force_from: 2008-04-01
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 26/08, 17/14 – EZ-1 in 158/20 – ZURE"

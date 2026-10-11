@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2015-02-17
 published: 2015-02-20
 in_force_from: 2015-03-07
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 11/15, 22/19 – popr. in 100/25 – ZHra"

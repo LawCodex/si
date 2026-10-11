@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2006-03-30
 published: 2006-04-11
 in_force_from: 2006-04-26
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 38/06 in 100/25 – ZVHK"

@@ -9,7 +9,7 @@ date: 2010-05-27
 published: 2010-06-04
 in_force_from: 2010-06-19
 last_amended: 2025-10-07
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 9 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 45/10, 43/11, 64/12, 28/14, 35/16, 84/16, 25/23, 44/24, 2/25, 4/25 – popr. in 77/25 – ZUJIK-I"

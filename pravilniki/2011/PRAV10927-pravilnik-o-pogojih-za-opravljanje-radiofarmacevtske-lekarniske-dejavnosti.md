@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2011-11-16
 published: 2011-11-25
 in_force_from: 2011-12-10
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 94/11 in 85/16 – ZLD-1"

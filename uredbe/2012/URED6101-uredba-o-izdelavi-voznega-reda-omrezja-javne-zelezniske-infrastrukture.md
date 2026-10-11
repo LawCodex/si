@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2012-09-27
 published: 2012-09-28
 in_force_from: 2012-10-13
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 73/12 in 44/16"

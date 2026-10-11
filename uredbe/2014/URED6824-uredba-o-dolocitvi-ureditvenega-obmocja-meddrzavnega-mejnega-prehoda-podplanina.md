@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2014-08-26
 published: 2014-08-29
 in_force_from: 2014-08-30
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 64/14 in 112/24 – ZNDM-2I"

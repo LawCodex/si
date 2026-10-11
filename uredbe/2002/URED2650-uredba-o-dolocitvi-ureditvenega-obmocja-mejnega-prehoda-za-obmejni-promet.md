@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2002-10-10
 published: 2002-10-11
 in_force_from: 2002-10-12
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 86/02 in 112/24 – ZNDM-2I"

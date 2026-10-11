@@ -9,7 +9,7 @@ act_kind: "Uredba"
 date: 2019-05-09
 published: 2019-05-10
 in_force_from: 2019-06-09
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 30/19 in 85/25 – ZPRS-2"

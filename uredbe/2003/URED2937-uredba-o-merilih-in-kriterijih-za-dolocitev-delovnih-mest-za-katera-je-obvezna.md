@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2003-06-05
 published: 2003-06-13
 in_force_from: 2003-06-28
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 56/03 in 96/12 – ZPIZ-2"

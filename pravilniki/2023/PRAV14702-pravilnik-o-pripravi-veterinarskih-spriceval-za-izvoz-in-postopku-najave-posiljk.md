@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2023-01-24
 published: 2023-01-27
 in_force_from: 2023-02-11
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 11/23, 42/23 – popr. in 100/25 – ZZdrŽiv"

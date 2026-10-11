@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2016-05-12
 published: 2016-05-20
 in_force_from: 2016-06-04
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 36/16 in 100/25 – ZKme-2"

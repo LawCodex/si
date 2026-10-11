@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2019-09-25
 published: 2019-09-27
 in_force_from: 2019-09-28
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 58/19 in 100/25 – ZZdrŽiv"

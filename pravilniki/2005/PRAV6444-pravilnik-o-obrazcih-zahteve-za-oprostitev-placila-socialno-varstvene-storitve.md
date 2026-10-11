@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2005-05-18
 published: 2005-06-06
 in_force_from: 2005-06-07
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 55/05, 26/07 in 62/10 – ZUPJS"

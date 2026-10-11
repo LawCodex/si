@@ -10,7 +10,7 @@ date: 1999-12-10
 published: 1999-12-23
 in_force_from: 2000-01-01
 last_amended: 2012-05-30
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 27 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 109/06 – uradno prečiščeno besedilo, 114/06 – ZUTPG, 10/08 – ZVarDod, 98/09 – ZIUZGK, 38/10 – ZUKN, 61/10 – ZSVarPre, 79/10 – ZPKDPIZ, 94/10 – ZIU, 94/11 – odl. US, 105/11 – odl. US, 110/11 – ZDIU12, 40/12 – ZUJF, 96/12 – ZPIZ-2, 9/17 – odl. US in 171/21 – odl. US"

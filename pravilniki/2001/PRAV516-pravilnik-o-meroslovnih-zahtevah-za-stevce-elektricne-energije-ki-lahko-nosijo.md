@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2001-09-14
 published: 2001-09-28
 in_force_from: 2001-10-13
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 76/01, 42/06 in 16/13"

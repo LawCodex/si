@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2006-09-21
 published: 2006-09-29
 in_force_from: 2006-10-14
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 100/06 in 58/11"

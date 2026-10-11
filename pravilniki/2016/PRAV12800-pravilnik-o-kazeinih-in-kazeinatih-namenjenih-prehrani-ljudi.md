@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2016-09-07
 published: 2016-09-16
 in_force_from: 2016-10-01
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 60/16 in 100/25 – ZHra"

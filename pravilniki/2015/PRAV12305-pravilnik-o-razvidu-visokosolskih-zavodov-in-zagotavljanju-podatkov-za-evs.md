@@ -9,7 +9,7 @@ date: 2015-04-24
 published: 2015-04-28
 in_force_from: 2015-05-13
 last_amended: 2016-11-30
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 1 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 29/15, 75/16 – ZViS-K in 12/17"

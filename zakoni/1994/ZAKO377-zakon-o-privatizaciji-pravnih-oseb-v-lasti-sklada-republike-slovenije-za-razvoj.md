@@ -10,7 +10,7 @@ date: 1994-11-03
 published: 1994-11-18
 in_force_from: 1994-11-19
 last_amended: 1995-10-06
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 1 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 71/94, 57/95 in 30/98 – ZZLPPO"

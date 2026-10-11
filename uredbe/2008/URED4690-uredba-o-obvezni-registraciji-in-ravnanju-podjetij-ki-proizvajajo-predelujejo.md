@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2008-05-29
 published: 2008-06-10
 in_force_from: 2008-06-25
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 57/08 in 100/25 – ZVHK"

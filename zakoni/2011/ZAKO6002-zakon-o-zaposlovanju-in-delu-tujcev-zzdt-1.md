@@ -10,7 +10,7 @@ date: 2011-03-29
 published: 2011-04-08
 in_force_from: 2011-04-23
 last_amended: 2013-12-06
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 2 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 26/11, 21/13 – ZUTD-A, 100/13 – ZUTD-C in 47/15 – ZZSDT"

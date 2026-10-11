@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2009-10-06
 published: 2009-10-30
 in_force_from: 2009-11-14
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 86/09, 109/10 – ZCes-1 in 132/22 – ZCes-2"

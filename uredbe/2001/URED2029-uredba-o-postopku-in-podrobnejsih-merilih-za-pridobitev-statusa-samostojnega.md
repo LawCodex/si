@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2001-12-12
 published: 2001-12-20
 in_force_from: 2001-12-21
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 105/01 in 69/25 – ZMed-1"

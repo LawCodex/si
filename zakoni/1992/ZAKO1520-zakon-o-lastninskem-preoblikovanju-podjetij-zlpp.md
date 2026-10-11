@@ -10,7 +10,7 @@ date: 1992-11-11
 published: 1992-11-20
 in_force_from: 1992-12-05
 last_amended: 1996-01-12
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 4 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 55/92, 7/93, 31/93, 32/94 – odl. US, 1/96 in 30/98 – ZZLPPO"

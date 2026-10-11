@@ -9,7 +9,7 @@ date: 2022-04-18
 published: 2022-04-29
 in_force_from: 2022-04-30
 last_amended: 2024-12-27
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 6 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 58/22, 89/22, 14/23, 34/23, 9/24, 95/24, 112/24 in 32/25 – ZZDej-N"

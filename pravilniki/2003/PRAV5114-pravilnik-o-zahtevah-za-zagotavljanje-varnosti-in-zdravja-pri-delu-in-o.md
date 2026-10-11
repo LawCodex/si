@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2003-09-09
 published: 2003-09-30
 in_force_from: 2003-10-15
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 95/03 in 61/10 – ZRud-1"

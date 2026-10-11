@@ -9,7 +9,7 @@ date: 2014-04-04
 published: 2014-04-11
 in_force_from: 2014-04-26
 last_amended: 2014-12-19
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 1 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 25/14, 92/14 in 77/16 – ZOPSPU-1"

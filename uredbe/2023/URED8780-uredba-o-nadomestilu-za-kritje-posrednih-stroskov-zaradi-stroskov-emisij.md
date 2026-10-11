@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2023-02-23
 published: 2023-02-24
 in_force_from: 2023-02-25
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 25/23 in 56/25 – PoZ"

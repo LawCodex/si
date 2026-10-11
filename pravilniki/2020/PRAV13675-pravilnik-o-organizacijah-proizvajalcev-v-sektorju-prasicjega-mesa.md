@@ -8,7 +8,7 @@ act_kind: "Pravilnik"
 date: 2020-04-20
 published: 2020-04-22
 in_force_from: 2020-05-07
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 56/20 in 100/25 – ZKme-2"

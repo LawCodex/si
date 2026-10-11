@@ -9,7 +9,7 @@ date: 2017-07-06
 published: 2017-07-07
 in_force_from: 2017-07-08
 last_amended: 2024-01-12
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 4 (neuradno prečiščeno besedilo)"
 citation: "Uradni list RS, št. 35/17, 24/19, 65/22, 61/23, 2/24 in 56/25 – ZViS-1"

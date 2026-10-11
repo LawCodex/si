@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2017-01-05
 published: 2017-01-06
 in_force_from: 2017-01-14
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 1/17 in 100/25 – ZHra"

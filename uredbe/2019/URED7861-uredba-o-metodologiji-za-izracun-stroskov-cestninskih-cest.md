@@ -8,7 +8,7 @@ act_kind: "Uredba"
 date: 2019-07-18
 published: 2019-07-19
 in_force_from: 2019-08-03
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list RS, št. 46/19 in 102/24 – ZCestn-1"

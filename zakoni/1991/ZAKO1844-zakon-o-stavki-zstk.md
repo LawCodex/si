@@ -9,7 +9,7 @@ act_kind: "Zakon"
 date: 1991-04-03
 published: 1991-04-05
 in_force_from: 1991-04-13
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "Osnovni (izvirno besedilo)"
 citation: "Uradni list SFRJ, št. 23/91"

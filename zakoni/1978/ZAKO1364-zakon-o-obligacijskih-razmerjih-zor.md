@@ -10,7 +10,7 @@ date: 1978-03-30
 published: 1978-05-26
 in_force_from: 1978-10-01
 last_amended: 2002-10-17
-status: unknown
+status: repealed
 pis_status: "Neveljaven predpis, ki se še uporablja"
 text_version: "NPB 7 (neuradno prečiščeno besedilo)"
 citation: "Uradni list SFRJ, št. 29/78, 39/85, 45/89 – odl. US, 57/89, Uradni list RS, št. 88/99 – ZRTVS-B, 83/01 – OZ, 30/02 – ZPlaP in 87/02 – SPZ"

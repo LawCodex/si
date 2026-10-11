@@ -1,0 +1,185 @@
+---
+title: "Pravilnik o disciplinskem postopku zoper izvršitelja"
+identifier: "PRAV4391"
+type: regulation
+jurisdiction: si
+language: sl
+act_kind: "Pravilnik"
+date: 2002-10-21
+published: 2002-11-13
+in_force_from: 2002-11-28
+last_amended: 2014-10-17
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "NPB 2 (neuradno prečiščeno besedilo)"
+citation: "Uradni list RS, št. 95/02, 40/06 in 74/14"
+adopted_by: "Ministrstvo za pravosodje"
+eva: "2002-2011-0034"
+sop: "2002-01-4781"
+source: "https://pisrs.si/pregledPredpisa?id=PRAV4391"
+retrieved: 2026-10-12
+---
+
+# Pravilnik o disciplinskem postopku zoper izvršitelja
+
+*Opozorilo: Neuradno prečiščeno besedilo predpisa predstavlja zgolj informativni delovni pripomoček, glede katerega organ ne jamči odškodninsko ali kako drugače.*
+
+Neuradno prečiščeno besedilo Pravilnika o disciplinskem postopku zoper izvršitelja obsega:
+
+- Pravilnik o disciplinskem postopku zoper izvršitelja (Uradni list RS, št. 95/02 z dne 13. 11. 2002),
+
+- Pravilnik o spremembah in dopolnitvah Pravilnika o disciplinskem postopku zoper izvršitelja (Uradni list RS, št. 40/06 z dne 14. 4. 2006),
+
+- Pravilnik o spremembah in dopolnitvi Pravilnika o disciplinskem postopku zoper izvršitelja (Uradni list RS, št. 74/14 z dne 17. 10. 2014).
+
+**PRAVILNIK**
+
+**o disciplinskem postopku zoper izvršitelja**
+
+*(neuradno prečiščeno besedilo št. 2)*
+
+## 1. člen
+
+**Splošna določba**
+
+Ta pravilnik podrobneje določa izvedbo disciplinskega postopka zoper izvršitelja.
+
+## 2. člen
+
+**Predlog za uvedbo disciplinskega postopka**
+
+Predlog za uvedbo disciplinskega postopka zoper izvršitelja se vloži pri ministrstvu, pristojnem za pravosodje (v nadaljnjem besedilu: ministrstvo).
+
+Predlog mora biti razumljiv in mora obsegati vse, kar je treba, da se lahko obravnava, predvsem pa: osebno ime in sedež izvršitelja, zoper katerega naj se uvede disciplinski postopek, opravilna številka izvršilne zadeve (če gre za izvršilno zadevo) ter navedba sodišča, ki zadevo obravnava, navedba dejanskega stanja očitane disciplinske kršitve oziroma dejanja, s katerim naj bi izvršitelj krnil ugled izvršiteljske službe, morebitne dokaze oziroma navedbe o obstoju dokazov glede očitane kršitve, osebno ime, naslov ter podpis vlagatelja.
+
+## 3. člen
+
+**Uvedba disciplinskega postopka**
+
+Minister, pristojen za pravosodje (v nadaljnjem besedilu: minister) uvede disciplinski postopek zoper izvršitelja s pisnim sklepom.
+
+Sklep iz prejšnjega odstavka se vroči izvršitelju skupaj s pozivom, da v osmih dneh pisno odgovori na navedbe v sklepu.
+
+O uvedbi postopka se seznani upravičenega predlagatelja in Zbornico izvršiteljev.
+
+**Pripravljalni postopek**
+
+**4. člen **(črtan)****
+
+## 5. člen
+
+**Ustna obravnava**
+
+Minister razpiše ustno obravnavo najkasneje v petnajstih delovnih dneh po prejemu odgovora izvršitelja.
+
+Vabilo na ustno obravnavo se vroči izvršitelju, tako da mu od prejema do dneva obravnave ostane najmanj pet dni za pripravo na obravnavo.
+
+Na obravnavi se prebere sklep o uvedbi disciplinskega postopka in odgovor izvršitelja, če je bil vložen.
+
+Nato pooblaščeni uradnik izvršitelja pozove, da se dodatno ustno izjavi o kršitvah, zaradi katerih se vodi postopek, ter da navede dejstva in predlaga dokaze v svoj zagovor.
+
+Če se ugotovi, da je za odločitev treba dopolniti dokazni postopek, lahko pooblaščeni uradnik obravnavo prekine in jo nadaljuje, ko se zberejo oziroma predložijo dodatni dokazi oziroma opravijo dodatna pripravljalna dejanja.
+
+Izvršitelju je treba omogočiti, da se izjavi o vseh izvedenih dokazih in da po končanem dokazovanju poda sklepno besedo v svoj zagovor.
+
+Ustna obravnava ni javna.
+
+**Uporaba zakona**
+
+**5.a člen **(črtan)****
+
+**Navzočnost na obravnavi**
+
+**6. člen **(črtan)****
+
+**Disciplinska odločba prve stopnje**
+
+**7. člen **(črtan)****
+
+## 8. člen
+
+**Postopanje s pritožbo**
+
+Ministrstvo pritožbo s spisom v petih delovnih dneh po njenem prejemu pošlje Zbornici izvršiteljev.
+
+Zbornica zadevo v treh delovnih dneh odstopi predsedniku disciplinske komisije, pristojne glede na območje okrožnega sodišča, kjer ima izvršitelj sedež. Za predsednika disciplinske komisije se določi sodnik višjega sodišča, ki ima daljše trajanje sodniške službe.
+
+Predsednik komisije določi dan in uro seje komisije, ki mora biti najkasneje v desetih delovnih dneh od dneva, ko je prejel disciplinske spise.
+
+Vabilo na sejo s prepisom spisov se takoj pošlje vsem članom komisije.
+
+Seja poteka na sedežu Zbornice izvršiteljev, ki zagotavlja prostorske, tehnične, administrativne in vse druge pogoje za delo komisije.
+
+Disciplinska komisija odloča na seji, ki ni javna.
+
+Odločba disciplinske komisije se vroči izvršitelju s poukom o pravici do sodnega varstva v upravnem sporu, ministru in Zbornici izvršiteljev.
+
+Odločba disciplinske komisije je izvršljiva. **(črtan)**
+
+## 9. člen
+
+**Izločitev in nadomeščanje**
+
+O predlogu za izločitev pooblaščenega uradnika odloča minister.
+
+O izločitvi predsednika in članov disciplinske komisije odloča predsednik višjega sodišča z območja sodišča, kjer ima izvršitelj sedež.
+
+Odsotnega, zadržanega ali izločenega sodnika višjega sodišča nadomešča sodnik, ki je določen v razporedu dela višjega sodišča, če tega ni, pa sodnik, ki ga določi personalni svet višjega sodišča.
+
+Odsotnega, zadržanega ali izločenega predstavnika izvršiteljev nadomešča namestnik, ki ga določi Izvršilni odbor Zbornice izvršiteljev.
+
+Odsotnega ali zadržanega ministra nadomešča državni sekretar v skladu s pooblastili v ministrstvu. **(črtan)**
+
+## 10. člen
+
+**Izvršitev in evidenca**
+
+Disciplinsko odločbo izvrši ministrstvo.
+
+Denarna kazen se vplača na račun proračuna Republike Slovenije.
+
+Izvršljiva odločba disciplinskega organa se vpiše v evidenco izvršiteljev pri ministrstvu.
+
+O izvršljivi odločbi, s katero se izreče javni opomin, denarna kazen ali odvzem pravice opravljati dejanja izvršbe in zavarovanja se obvestijo vsa okrajna in okrožna sodišča.
+
+Če je izvršitelju s pravnomočno odločbo odvzeta pravica opravljati dejanja izvršbe in zavarovanja, in izvršitev ni pogojno odložena, mora predsednik Zbornice izvršiteljev izmed imenovanih izvršiteljev določiti prevzemnika in o tem obvestiti ministra.
+
+Prevzemnik uresničuje vse pravice in dolžnosti v zadevah, ki so bile zaupane izvršitelju.
+
+Disciplinska evidenca se hrani trajno.
+
+## 11. člen
+
+**Delo komisije**
+
+Sedež disciplinske komisije je pri Zbornici izvršiteljev.
+
+Za zagotavljanje pogojev in usklajevanje dela komisije Zbornica izvršiteljev določi tajnika disciplinske komisije.
+
+Sredstva za delo komisije zagotovi Zbornica izvršiteljev.
+
+Predsedniku in članom disciplinske komisije pripada nagrada za opravljeno delo v višini 200 točk po tarifi za plačilo dela izvršiteljev in o povračilu stroškov za njihovo delo za vsake začete pol ure seje, sodniku poročevalcu pa v dvojnem znesku.
+
+Za povračilo stroškov se smiselno uporabljajo določila zakona, ki ureja sodniško službo.
+
+Odredbodajalec za izplačilo je tajnik disciplinske komisije.
+
+## 12. člen
+
+**Zastopanje**
+
+Izvršitelja lahko v postopku zastopa pooblaščenec, ki je odvetnik ali univerzitetni diplomirani pravnik s pravniškim državnim izpitom.
+
+## 13. člen
+
+**Prenehanje veljavnosti**
+
+Z dnem, ko začne veljati ta pravilnik, preneha veljati pravilnik o disciplinskem postopku proti izvršitelju (Uradni list RS, št. 22/02).
+
+Disciplinski postopki, ki so v teku na dan uveljavitve tega pravilnika, se dokončajo po določbah pravilnika, ki je veljal do uveljavitve tega pravilnika.
+
+## 14. člen
+
+**Začetek veljavnosti**
+
+Ta pravilnik začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.

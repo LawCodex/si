@@ -1,0 +1,48 @@
+---
+title: "Pravilnik o prenehanju veljavnosti Pravilnika o ukrepih in postopkih za preprečevanje vnosa in širjenja škodljivih organizmov rastlin, rastlinskih proizvodov in nadzorovanih predmetov"
+identifier: "PRAV15248"
+type: regulation
+jurisdiction: si
+language: sl
+act_kind: "Pravilnik"
+date: 2024-02-07
+published: 2024-02-16
+in_force_from: 2024-02-17
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "Osnovni (izvirno besedilo)"
+citation: "Uradni list RS, št. 13/24"
+adopted_by: "Ministrstvo za kmetijstvo, gozdarstvo in prehrano"
+eva: "2024-2330-0002"
+sop: "2024-01-0340"
+source: "https://pisrs.si/pregledPredpisa?id=PRAV15248"
+retrieved: 2026-10-12
+---
+
+# Pravilnik o prenehanju veljavnosti Pravilnika o ukrepih in postopkih za preprečevanje vnosa in širjenja škodljivih organizmov rastlin, rastlinskih proizvodov in nadzorovanih predmetov
+
+Na podlagi 7., 8., 10., 18., 25., 31., 32., 35. in 36*.*člena Zakona o zdravstvenem varstvu rastlin (Uradni list RS, št. 62/07 – uradno prečiščeno besedilo, 36/10, 40/14 – ZIN-B in 21/18 – ZNOrg) ministrica za kmetijstvo, gozdarstvo in prehrano izdaja
+
+**PRAVILNIK**
+
+**o prenehanju veljavnosti Pravilnika o ukrepih in postopkih za preprečevanje vnosa in širjenja škodljivih organizmov rastlin, rastlinskih proizvodov in nadzorovanih predmetov**
+
+### 1. člen
+
+Z dnem uveljavitve tega pravilnika preneha veljati Pravilnik o ukrepih in postopkih za preprečevanje vnosa in širjenja škodljivih organizmov rastlin, rastlinskih proizvodov in nadzorovanih predmetov (Uradni list RS, št. 31/04, 142/04, 142/04, 66/07, 104/09, 13/10, 74/11 in 30/14).
+
+## KONČNA DOLOČBA
+
+### 2. člen
+
+**(začetek veljavnosti)**
+
+Ta pravilnik začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.
+
+Št. 007-7/2024
+
+Ljubljana, dne 7. februarja 2024
+
+EVA 2024-2330-0002
+
+**Mateja Čalušić** ministrica za kmetijstvo, gozdarstvo in prehrano

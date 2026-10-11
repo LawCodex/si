@@ -1,0 +1,116 @@
+---
+title: "Pravilnik o infrastrukturi in službah na heliportih za lastne potrebe"
+identifier: "PRAV12826"
+type: regulation
+jurisdiction: si
+language: sl
+act_kind: "Pravilnik"
+date: 2016-07-26
+published: 2016-08-05
+in_force_from: 2016-08-06
+status: unknown
+pis_status: "Neveljaven predpis, ki se še uporablja"
+text_version: "Osnovni (izvirno besedilo)"
+citation: "Uradni list RS, št. 53/16 in 85/24 – ZLet-1"
+adopted_by: "Ministrstvo za infrastrukturo"
+eva: "2016-2430-0030"
+sop: "2016-01-2370"
+source: "https://pisrs.si/pregledPredpisa?id=PRAV12826"
+retrieved: 2026-10-12
+---
+
+# Pravilnik o infrastrukturi in službah na heliportih za lastne potrebe
+
+Na podlagi četrtega odstavka 89. in 109. člena Zakona o letalstvu (Uradni list RS, št. 81/10 – uradno prečiščeno besedilo in 46/16) izdaja minister za infrastrukturo
+
+**PRAVILNIK**
+
+**o infrastrukturi in službah na heliportih za lastne potrebe**
+
+## 1. člen
+
+**(vsebina pravilnika)**
+
+Ta pravilnik določa letališko infrastrukturo, službe ter njihov obseg na heliportih za lastne potrebe.
+
+## 2. člen
+
+**(pomen izrazov)**
+
+Poleg izrazov, ki se uporabljajo v Zakonu o letalstvu (Uradni list RS, št. 81/10 – uradno prečiščeno besedilo in 46/16) in Pravilniku o letališčih (Uradni list RS, št. 42/08 in 104/11), se v tem pravilniku uporablja še naslednji izraz:
+
+- obratovalec heliporta je fizična oseba ali pravna oseba, ki je registrirana za to dejavnost, in je pridobila obratovalno dovoljenje v skladu z določbami zakona, ki ureja letalstvo.
+
+## 3. člen
+
+**(letališka infrastruktura)**
+
+Letališka infrastruktura na heliportih za lastne potrebe je določena v Prilogi 14 h Konvenciji o mednarodnem civilnem letalstvu, Zvezek II (Uradni list FLRJ – MP, št. 3/54, Uradni list RS, št. 24/92 – akt o notifikaciji nasledstva in Uradni list RS – MP, št. 3/00; v nadaljnjem besedilu: Čikaška konvencija), ki se v najnovejši različici objavi na spletni strani Javne agencije za civilno letalstvo RS.
+
+## 4. člen
+
+**(službe)**
+
+(1) Obvezni letališki službi na heliportu za lastne potrebe sta:
+
+- reševalna in gasilska služba;
+
+- služba za vzdrževanje.
+
+(2) Delo obveznih služb iz prejšnjega odstavka mora biti organizirano kot je določeno v Prilogi 14 Čikaške konvencije, ki se v najnovejši različici objavi na spletni strani Javne agencije za civilno letalstvo Republike Slovenije.
+
+## 5. člen
+
+**(organizacija služb)**
+
+(1) Obratovalec heliporta za lastne potrebe določi navodila za delo služb iz prvega odstavka 4. člena tega pravilnika ter skrbi za njihovo izvajanje.
+
+(2) Navodila za delo služb obsegajo:
+
+a) obveščanje o spremembah navodil;
+
+b) dostop na površine za gibanje zrakoplovov;
+
+c) postopke v sili;
+
+č) postopke reševanja in gašenja;
+
+d) postopek pregleda površin za gibanje zrakoplovov in ovir;
+
+e) postopek pregleda vizualnih pripomočkov in električnih sistemov;
+
+f) postopke za vzdrževanje površin za gibanje zrakoplovov;
+
+g) postopke pri izvajanju del na heliportu;
+
+h) postopke zagotavljanja varnosti na ploščadi;
+
+i) nadzor ovir;
+
+j) postopke, ki zagotavljajo varen vzlet, pristanek, gibanje in postanek zrakoplovov.
+
+(3) Obratovalec heliporta za lastne potrebe organizira službi iz prvega odstavka 4. člena tega pravilnika v obsegu, ki zagotavlja izvajanje navodil iz prejšnjega odstavka.
+
+## 6. člen
+
+**(prehodna določba)**
+
+Obratovalec heliporta za lastne potrebe uskladi delovanje reševalne in gasilske službe ter službe za vzdrževanje z določbami tega pravilnika v enem letu od dneva njegove uveljavitve.
+
+## 7. člen
+
+**(začetek veljavnosti)**
+
+Ta pravilnik začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.
+
+Št. 007-92/2016/12
+
+Ljubljana, dne 26. julija 2016
+
+EVA 2016-2430-0030
+
+**dr. Peter Gašperšič** l.r.
+
+Minister
+
+za infrastrukturo

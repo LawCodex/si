@@ -1,0 +1,85 @@
+---
+title: "Pravilnik o obrazcu javne listine o nacionalni poklicni kvalifikaciji – certifikatu in nadomestnem certifikatu"
+identifier: "PRAV10347"
+type: regulation
+jurisdiction: si
+language: sl
+act_kind: "Pravilnik"
+date: 2010-10-01
+published: 2010-10-08
+in_force_from: 2010-10-09
+last_amended: 2016-03-25
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "NPB 2 (neuradno prečiščeno besedilo)"
+citation: "Uradni list RS, št. 79/10, 1/12 in 22/16"
+adopted_by: "Ministrstvo za delo, družino in socialne zadeve"
+eva: "2010-2611-0084"
+sop: "2010-01-4273"
+source: "https://pisrs.si/pregledPredpisa?id=PRAV10347"
+retrieved: 2026-10-12
+---
+
+# Pravilnik o obrazcu javne listine o nacionalni poklicni kvalifikaciji – certifikatu in nadomestnem certifikatu
+
+*Opozorilo: Neuradno prečiščeno besedilo predpisa predstavlja zgolj informativni delovni pripomoček, glede katerega organ ne jamči odškodninsko ali kako drugače.*
+
+Neuradno prečiščeno besedilo Pravilnika o obrazcu javne listine o nacionalni poklicni kvalifikaciji – certifikatu in nadomestnem certifikatu obsega:
+
+- Pravilnik o obrazcu javne listine o nacionalni poklicni kvalifikaciji – certifikatu in nadomestnem certifikatu (Uradni list RS, št. 79/10 z dne 8. 10. 2010),
+
+- Pravilnik o spremembi Pravilnika o obrazcu javne listine o nacionalni poklicni kvalifikaciji – certifikatu in nadomestnem certifikatu (Uradni list RS, št. 1/12 z dne 6. 1. 2012),
+
+- Pravilnik o spremembi in dopolnitvi Pravilnika o obrazcu javne listine o nacionalni poklicni kvalifikaciji – certifikatu in nadomestnem certifikatu (Uradni list RS, št. 22/16 z dne 25. 3. 2016).
+
+**PRAVILNIK**
+
+**o obrazcu javne listine o nacionalni poklicni kvalifikaciji – certifikatu in nadomestnem certifikatu**
+
+*(neuradno prečiščeno besedilo št. 2)*
+
+## 1. člen
+
+**(vsebina pravilnika)**
+
+Ta pravilnik določa obliko, vsebino in izdajatelje javne listine o nacionalni poklicni kvalifikaciji – certifikata (v nadaljnjem besedilu: certifikat) in nadomestnega certifikata.
+
+## 2. člen
+
+**(obrazec certifikata)**
+
+(1) Obrazec certifikata je natisnjen v slovenskem jeziku ali jeziku narodnosti na papirju za licence (gramatura papirja 120 g/m²) in ima te varovalne sestavine: vodni znak meander, vidna in nevidna vlakna ter fluorescenčno nitko, potiskano v 4/2 barvah in v velikosti 21 cm x 29,7 cm (format A 4).
+
+(2) Državni izpitni center določi oznako na hrbtni strani obrazca ob vsakem novem tisku oziroma ponatisu obrazcev.
+
+(3) Obrazec certifikata je kot priloga sestavni del tega pravilnika.
+
+## 3. člen
+
+**(obrazec nadomestnega certifikata)**
+
+Nadomestni certifikat se izda na posebnem obrazcu v obliki izpisa iz evidence izdanih certifikatov, ki se vodi v Nacionalnem informacijskem središču za poklicne kvalifikacije.
+
+## 4. člen
+
+**(izdajanje certifikata in nadomestnega certifikata)**
+
+(1) Certifikat lahko izda samo izvajalec postopkov za ugotavljanje in potrjevanje nacionalnih poklicnih kvalifikacij (v nadaljnjem besedilu: izvajalec) oziroma njegov pravni naslednik, ki je vpisan v register pri Državnem izpitnem centru. Certifikat mora izdati na papirju za licence iz 2. člena tega pravilnika. Podatke o osebi, ki je pridobila poklicno kvalifikacijo, mora izvajalec oziroma njegov pravni naslednik prenesti na certifikat iz Nacionalnega informacijskega središča za poklicne kvalifikacije.
+
+(2) Nadomestni certifikat lahko izda samo izvajalec oziroma njegov pravni naslednik, ki je vpisan v register pri Državnem izpitnem centru. Izvajalec oziroma njegov pravni naslednik mora obrazec nadomestnega certifikata natisniti v obliki izpisa iz evidence Nacionalnega informacijskega središča za poklicne kvalifikacije.
+
+(3) Če izvajalec ali njegov pravni naslednik preneha delovati, nadomestni certifikat izda Državni izpitni center v obliki izpisa iz evidence Nacionalnega informacijskega središča za poklicne kvalifikacije.
+
+## 5. člen
+
+**(razveljavitev)**
+
+Z dnem uveljavitve tega pravilnika preneha veljati Pravilnik o obrazcu javne listine o nacionalni poklicni kvalifikaciji – certifikatu (Uradni list RS, št. 97/03, 57/07 in 85/09).
+
+## 6. člen
+
+**(začetek veljavnosti)**
+
+Ta pravilnik začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.
+
+[Priloga: Certifikat o nacionalni poklicni kvalifikaciji](https://pisrs.si/api/datoteke/integracije/384581740)

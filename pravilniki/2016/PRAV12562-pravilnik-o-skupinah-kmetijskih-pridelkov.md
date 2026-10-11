@@ -1,0 +1,98 @@
+---
+title: "Pravilnik o skupinah kmetijskih pridelkov"
+identifier: "PRAV12562"
+type: regulation
+jurisdiction: si
+language: sl
+act_kind: "Pravilnik"
+date: 2016-01-20
+published: 2016-01-22
+in_force_from: 2016-02-06
+status: unknown
+pis_status: "Neveljaven predpis, ki se še uporablja"
+text_version: "Osnovni (izvirno besedilo)"
+citation: "Uradni list RS, št. 4/16 in 100/25 – ZKme-2"
+adopted_by: "Ministrstvo za kmetijstvo, gozdarstvo in prehrano"
+eva: "2015-2330-0130"
+sop: "2016-01-0160"
+source: "https://pisrs.si/pregledPredpisa?id=PRAV12562"
+retrieved: 2026-10-12
+---
+
+# Pravilnik o skupinah kmetijskih pridelkov
+
+Na podlagi 8. člena in za izvrševanje 61.a člena Zakona o kmetijstvu (Uradni list RS, št. 45/08, 57/12, 90/12 – ZdZPVHVVR, 26/14 in 32/15) izdaja minister za kmetijstvo, gozdarstvo in prehrano
+
+**PRAVILNIK**
+
+**o skupinah kmetijskih pridelkov**
+
+## 1. člen
+
+**(vsebina pravilnika)**
+
+Ta pravilnik določa skupine kmetijskih pridelkov.
+
+## 2. člen
+
+**(skupine kmetijskih pridelkov)**
+
+(1) Skupine kmetijskih pridelkov so:
+
+- žita,
+
+- krompir in druge podobne gomoljnice,
+
+- zelenjadnice,
+
+- sadje,
+
+- oljnice in predivnice,
+
+- njivska zelišča in dišavnice,
+
+- mleko,
+
+- jajca in
+
+- nepredelani čebelji proizvodi.
+
+(2) V posamezno skupino kmetijskih pridelkov se uvrščajo proizvodi, ki se v skladu z zakonom, ki ureja kmetijstvo, štejejo za kmetijske pridelke in so uvrščeni pod naslednje tarifne številke v skladu s predpisom, ki določa kombinirano nomenklaturo, in sicer v skladu s prilogo, ki je sestavni del tega pravilnika.
+
+## 3. člen
+
+**(ugotavljanje obsega pridelave)**
+
+Za ugotavljanje obsega pridelave posameznih skupin kmetijskih pridelkov na kmetiji se uporabljajo podatki iz:
+
+- registra kmetijskih gospodarstev,
+
+- registra obratov,
+
+- zbirne vloge v skladu s predpisom, ki ureja izvedbo ukrepov kmetijske politike, in
+
+- pregledov na kraju pridelave.
+
+## 4. člen
+
+**(končna določba)**
+
+Ta pravilnik začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.
+
+Št. 007-370/2015
+
+Ljubljana, dne 20. januarja 2016
+
+EVA 2015-2330-0130
+
+**Mag. Dejan Židan** l.r.
+
+minister
+
+za kmetijstvo,
+
+gozdarstvo in prehrano
+
+---
+
+[Priloga: Skupina kmetijskih pridelkov](https://pisrs.si/api/datoteke/integracije/352143616)

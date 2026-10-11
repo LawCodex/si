@@ -1,0 +1,198 @@
+---
+title: "Pravilnik o cenah in normativih za določanje cen projektne dokumentacije za popotresno obnovo objektov"
+identifier: "ODRE813"
+type: regulation
+jurisdiction: si
+language: sl
+act_kind: "Odredba"
+date: 1998-08-11
+published: 1998-08-21
+in_force_from: 1998-08-22
+last_amended: 2007-09-10
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "NPB 5 (neuradno prečiščeno besedilo)"
+citation: "Uradni list RS, št. 59/98, 19/00, 31/01, 53/02, 32/05 in 82/07"
+adopted_by: "Ministrstvo za okolje in prostor"
+sop: "1998-01-2735"
+source: "https://pisrs.si/pregledPredpisa?id=ODRE813"
+retrieved: 2026-10-12
+---
+
+# Pravilnik o cenah in normativih za določanje cen projektne dokumentacije za popotresno obnovo objektov
+
+*Opozorilo: Neuradno prečiščeno besedilo predpisa predstavlja zgolj informativni delovni pripomoček, glede katerega organ ne jamči odškodninsko ali kako drugače.*
+
+Neuradno prečiščeno besedilo Pravilnika o cenah in normativih za določanje cen projektne dokumentacije za popotresno obnovo objektov obsega:
+
+- Odredbo o cenah in normativih za določanje cen projektne dokumentacije za popotresno obnovo objektov (Uradni list RS, št 59/98 z dne 21. 8. 1998),
+
+- Odredbo o spremembi in dopolnitvi odredbe o cenah in normativih za določanje cen projektne dokumentacije za popotresno obnovo objektov (Uradni list RS, št. 19/00 z dne 3. 3. 2000),
+
+- Odredbo o spremembi odredbe o cenah in normativih za določanje cen projektne dokumentacije za popotresno obnovo objektov (Uradni list RS, št. 31/01 z dne 28. 4. 2001),
+
+- Odredbo o spremembi odredbe o cenah in normativih za določanje cen projektne dokumentacije za popotresno obnovo objektov (Uradni list RS, št. 53/02 z dne 20. 6. 2002),
+
+- Pravilnik o spremembah in dopolnitvah odredbe o cenah in normativih za določanje cen projektne dokumentacije za popotresno obnovo objektov (Uradni list RS, št. 32/05 z dne 29. 3. 2005),
+
+- Pravilnik o spremembah in dopolnitvah Pravilnika o cenah in normativih za določanje cen projektne dokumentacije za popotresno obnovo objektov (Uradni list RS, št. 82/07 z dne 10. 9. 2007).
+
+**PRAVILNIK**
+
+**o cenah in normativih za določanje cen projektne dokumentacije za popotresno obnovo objektov**
+
+*(neuradno prečiščeno besedilo št. 5)*
+
+## 1. člen
+
+Ta pravilnik predpisuje najvišje cene projektne in druge dokumentacije, ki jo je treba predložiti zahtevi za izdajo gradbenega dovoljenja oziroma enotnega dovoljenja za gradnjo pri popotresni obnovi objektov in projektne dokumentacije za izvedbo rekonstrukcij oziroma nadomestitev teh objektov (v nadaljnjem besedilu: cene projektne dokumentacije za popotresno obnovo objektov) in normative za določanje teh cen.
+
+## 2. člen
+
+(1) Normativi za določanje cen projektne dokumentacije za popotresno obnovo objektov se izražajo z enotnimi cenami glede na čas, ki je potreben za izdelavo lokacijske dokumentacije, projektov za pridobitev gradbenega dovoljenja in projektov za izvedbo (v nadaljnjem besedilu: skupne norma ure).
+
+(2) Glede na vrsto načrtov, ki sestavljajo projektno dokumentacijo za popotresno obnovo objektov, so skupne norma ure, razen za lokacijsko dokumentacijo, sestavljene iz posameznih norma ur za:
+
+1. načrte arhitekture, vključno z načrti zunanjih ureditev oziroma krajinske arhitekture (v nadaljnjem besedilu: arhitekturni načrti),
+
+2. načrte gradbenih konstrukcij, vključno z armaturnimi načrti in druge gradbene načrte (v nadaljnjem besedilu: gradbeni načrti),
+
+3. načrte električnih napeljav, naprav in opreme (v nadaljnjem besedilu: elektro načrti),
+
+4. načrte centralnega ogrevanja, vključno z načrtom kotlovnice v objektu (v nadaljnjem besedilu: načrti ogrevanja) in
+
+5. načrte vodovodnih napeljav, naprav in opreme, vključno z načrti odvodnje odpadne vode v objektu (v nadaljnjem besedilu: vodovodni načrti).
+
+## 3. člen
+
+(1) Število norma ur se za projekte za pridobitev gradbenega dovoljenja in projekte za izvedbo (v nadaljnjem besedilu: projektna dokumentacija) določa glede na neto površino vseh obzidanih oziroma zaprtih prostorov objekta, ki so namenjeni uporabi, merjeno od zunanjih dimenzij (v nadaljnjem besedilu: bruto gradbena površina), z dodatkom korigiranih neto površin vseh odprtih prostorov objekta, kot so balkon, terasa ali loža in tistih prostorov v podstrešju, ki niso namenjeni uporabi (v nadaljnjem besedilu: razvita gradbena površina).
+
+(2) Površine odprtih prostorov objekta oziroma podstrešnih prostorov, ki niso namenjeni uporabi, se določijo tako, da se njihove neto površine pomnožijo z ustreznim korekcijskim faktorjem na naslednji način:
+
+1. za balkon 0,25,
+
+2. za teraso 0,50,
+
+3. za ložo 0,75,
+
+4. za podstrešje, ki ima svetlo višino do 2 m 0,20,
+
+5. za podstrešje, ki ima svetlo višino nad 2 m 0,35,
+
+6. za podstrešje, ki je obdelano 0.75 in
+
+7. za kleti, shrambe, garaže in druge podobne prostore 0,75.
+
+## 4. člen
+
+(1) Vrednost norma ure za projektno dokumentacijo se določa na osnovi povprečne gradbene cene za 1 m2 stanovanjske površine novega objekta, izračunane na podlagi razvite gradbene površine in očiščene vseh stroškov, ki se nanašajo na odškodnino zaradi spremembe namembnosti kmetijskega zemljišča ali gozda, komunalni prispevek, stroške priključkov na javno infrastrukturo in druge komunalne opreme in zunanje ureditve in vrednost projektne dokumentacije.
+
+(2) Povprečna gradbena cena za 1 m2 na območju popotresne obnove znaša 869,85 eurov.
+
+(3) **(črtan)**.
+
+## 5. člen
+
+Cena norma ure je enaka 3,21 odstotka povprečne gradbene cene iz drugega odstavka prejšnjega člena in znaša 28 eurov.
+
+## 6. člen
+
+(1) Število norma ur je določeno v prilogi, ki je sestavni del tega pravilnika.
+
+(2) Pri nadomestni gradnji oziroma novogradnji objektov ter pri rekonstrukciji objektov, ki pomenijo celovito prenovo objekta, se pri določanju cene za izdelavo projektne dokumentacije v celoti uporabljajo podatki iz tabele 2 priloge.
+
+(3) Pri enostavni rekonstrukciji objekta, pri kateri je treba celovito sanirati le gradbene konstrukcije, se pri določanju cene za izdelavo projektne dokumentacije iz tabele 2 priloge pri stolpcu 2 upošteva le 50 odstotkov norma ur arhitekturnega načrta, podatki iz stolpcev 4, 5 in 6 pa se ne upoštevajo.
+
+(4) Če so pri rekonstrukciji objekta potrebne le utrditve gradbenih konstrukcij objekta, se pri določanju cene za izdelavo projektne dokumentacije iz tabele 2 priloge pri stolpcu 2 upošteva le 30 odstotkov norma ur arhitekturnega načrta, pri stolpcu 3 pa 70 odstotkov norma ur gradbenega načrta, podatki iz stolpcev 4, 5 in 6 pa se ne upoštevajo.
+
+(5) Če se pri izdelavi projektne dokumentacije iz tretjega ali četrtega odstavka tega člena ugotovi, da je treba na objektu nadomestiti tudi posamezno napeljavo oziroma inštalacijo, se pri določanju cene za izdelavo projektne dokumentacije iz tabele 2 priloge upoštevajo tudi podatki iz stolpcev 4, 5 oziroma 6.
+
+(6) V primeru objektov, ki so razglašeni oziroma zavarovani kot objekti kulturne dediščine oziroma kulturni spomeniki, se pri določanju cene projektne dokumentacije upošteva 10% povečano število norma ur arhitekturnega in gradbenega načrta.
+
+## 7. člen
+
+## 8. člen
+
+**(črtan)**
+
+Cena za izdelavo projektne dokumentacije se določi na podlagi naslednjega izračuna:
+
+C/pd1 = S(vse). NUv
+
+pri čemer je:
+
+C/pd1 - cena projektne dokumentacije
+
+S(vse) - seštevek vseh norma ur iz priloge tega pravilnika, določenih glede na vrsto objekta oziroma njegovo razvito gradbeno površino in obsega del skladno z izračunom iz 6. člena tega pravilnika, in
+
+NUv - cena norma ure iz 5. člena tega pravilnika
+
+## 9. člen
+
+## 10. člen
+
+**(črtan)**
+
+**(črtan)**
+
+---
+
+**[Priloga: Število norma ur za izvedbo posameznih sestavin projektne dokumentacije za gradnjo objektov visoke gradnje](https://pisrs.si/api/datoteke/integracije/352614583)**
+
+---
+
+Odredba o cenah in normativih za določanje cen projektne dokumentacije za popotresno obnovo objektov (Uradni list RS, št [59/98](http://www.uradni-list.si/1/objava.jsp?urlurid=19982735)) vsebuje naslednjo končno določbo:
+
+**»11. člen**
+
+Ta odredba začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.«.
+
+---
+
+Odredba o spremembi in dopolnitvi odredbe o cenah in normativih za določanje cen projektne dokumentacije za popotresno obnovo objektov (Uradni list RS, št. [19/00](http://www.uradni-list.si/1/objava.jsp?urlurid=2000902)) vsebuje naslednjo končno določbo:
+
+»3. člen
+
+Ta odredba začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.«.
+
+---
+
+Odredba o spremembi odredbe o cenah in normativih za določanje cen projektne dokumentacije za popotresno obnovo objektov (Uradni list RS, št. [31/01](http://www.uradni-list.si/1/objava.jsp?urlurid=20011904)) vsebuje naslednjo končno določbo:
+
+»3. člen
+
+Ta odredba začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.«.
+
+---
+
+Odredba o spremembi odredbe o cenah in normativih za določanje cen projektne dokumentacije za popotresno obnovo objektov (Uradni list RS, št. [53/02](http://www.uradni-list.si/1/objava.jsp?urlurid=20022579)) vsebuje naslednjo končno določbo:
+
+»2. člen
+
+Ta odredba začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.«.
+
+---
+
+Pravilnik o spremembah in dopolnitvah odredbe o cenah in normativih za določanje cen projektne dokumentacije za popotresno obnovo objektov (Uradni list RS, št. [32/05](http://www.uradni-list.si/1/objava.jsp?urlurid=20051087)) spreminja 11. člen odredbe tako, da se glasi:
+
+**»11. člen**
+
+Ta pravilnik začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.«;
+
+ter vsebuje naslednji končni določbi:
+
+»9. člen
+
+Za projektno dokumentacijo, ki jo je Državna tehnična pisarna naročila pred uveljavitvijo tega pravilnika, se uporablja dosedanja ureditev.
+
+10\. člen
+
+Ta pravilnik začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.«.
+
+---
+
+Pravilnik o spremembah in dopolnitvah Pravilnika o cenah in normativih za določanje cen projektne dokumentacije za popotresno obnovo objektov (Uradni list RS, št. [82/07](http://www.uradni-list.si/1/objava.jsp?urlurid=20074195)) vsebuje naslednjo končno določbo:
+
+»5. člen
+
+Ta pravilnik začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.«

@@ -1,0 +1,72 @@
+---
+title: "Pravilnik o določitvi skupnega števila pripravniških mest na posameznih sodiščih za sodniške pripravnike, ki jim izobraževanje zagotavlja delodajalec in za volonterske pripravnike"
+identifier: "PRAV8163"
+type: regulation
+jurisdiction: si
+language: sl
+act_kind: "Pravilnik"
+date: 2008-02-28
+published: 2008-03-07
+in_force_from: 2008-03-20
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "Osnovni (izvirno besedilo)"
+citation: "Uradni list RS, št. 23/08"
+adopted_by: "Ministrstvo za pravosodje"
+eva: "2007-2011-0018"
+sop: "2008-01-0881"
+source: "https://pisrs.si/pregledPredpisa?id=PRAV8163"
+retrieved: 2026-10-12
+---
+
+# Pravilnik o določitvi skupnega števila pripravniških mest na posameznih sodiščih za sodniške pripravnike, ki jim izobraževanje zagotavlja delodajalec in za volonterske pripravnike
+
+Na podlagi 5. člena Zakona o pravniškem državnem izpitu (Uradni list RS, št. 83/03 – uradno prečiščeno besedilo in 111/07) izdaja minister za pravosodje
+
+**PRAVILNIK**
+
+**o določitvi skupnega števila pripravniških mest na posameznih sodiščih za sodniške pripravnike, ki jim izobraževanje zagotavlja delodajalec in za volonterske pripravnike**
+
+## 1. člen
+
+Na posameznih višjih sodiščih se določi naslednje število pripravniških mest za sodniške pripravnike, ki jim izobraževanje zagotavlja delodajalec in za volonterske pripravnike, in sicer na:
+
+- Višjem sodišču v Celju 44 mest,
+
+- Višjem sodišču v Kopru 50 mest,
+
+- Višjem sodišču v Ljubljani 200 mest,
+
+- Višjem sodišču v Mariboru 100 mest.
+
+## 2. člen
+
+V skupnem številu pripravniških mest za pripravnike, ki opravljajo sodniško pripravništvo v okviru izobraževanja, ki ga zagotavlja delodajalec, se določi število mest za usposabljanje državnotožilskih in državnopravobranilskih pripravnikov, ki so že opravili izbirno usposabljanje, in sicer:
+
+- na Višjem sodišču v Celju štiri mesta za usposabljanje državnotožilskih pripravnikov,
+
+- na Višjem sodišču v Kopru štiri mesta za usposabljanje državnotožilskih pripravnikov,
+
+- na Višjem sodišču v Ljubljani 28 mest za usposabljanje državnotožilskih pripravnikov in tri mesta za usposabljanje državnopravobranilskih pripravnikov,
+
+- na Višjem sodišču v Mariboru 16 mest za usposabljanje državnotožilskih pripravnikov in eno mesto za usposabljanje državnopravobranilskih pripravnikov.
+
+## 3. člen
+
+Predsedniki višjih sodišč določijo, koliko pripravnikov od skupnega števila pripravniških mest iz 1. člena tega pravilnika se bo usposabljalo na posameznih okrožnih in okrajnih sodiščih z njihovega območja, in zasedejo dodatna prosta mesta glede na povečanje njihovega števila v tridesetih dneh po uveljavitvi tega pravilnika.
+
+## 4. člen
+
+Z dnem, ko začne veljati ta pravilnik, preneha veljati Pravilnik o določitvi skupnega števila pripravniških mest na posameznih sodiščih za sodniške pripravnike, ki jim izobraževanje zagotavlja delodajalec in za volonterske pripravnike (Uradni list RS, št. 5/04 in 112/04).
+
+## 5. člen
+
+Ta pravilnik začne veljati 20. marca 2008.
+
+Št. 604-35/2008/33
+
+Ljubljana, dne 28. februarja 2008
+
+EVA 2007-2011-0018
+
+prof. dr. Lovro Šturm l.r. Minister za pravosodje

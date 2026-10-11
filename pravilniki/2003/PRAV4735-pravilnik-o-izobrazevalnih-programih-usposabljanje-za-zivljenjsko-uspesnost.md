@@ -1,0 +1,50 @@
+---
+title: "Pravilnik o izobraževalnih programih Usposabljanje za življenjsko uspešnost"
+identifier: "PRAV4735"
+type: regulation
+jurisdiction: si
+language: sl
+act_kind: "Pravilnik"
+date: 2003-02-07
+published: 2003-02-28
+in_force_from: 2003-03-01
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "Osnovni (izvirno besedilo)"
+citation: "Uradni list RS, št. 21/03"
+adopted_by: "Ministrstvo za šolstvo, znanost in šport"
+eva: "2003-3311-0011"
+sop: "2003-01-0831"
+source: "https://pisrs.si/pregledPredpisa?id=PRAV4735"
+retrieved: 2026-10-12
+---
+
+# Pravilnik o izobraževalnih programih Usposabljanje za življenjsko uspešnost
+
+Na podlagi 15. člena zakona o organizaciji in financiranju vzgoje in izobraževanja (Uradni list RS, št. 12/96 in 23/96, 22/00, 64/01, 101/01 in 108/02) izdaja minister za šolstvo, znanost in šport
+
+**PRAVILNIK**
+
+**o izobraževalnih programih Usposabljanje za življenjsko uspešnost**
+
+## 1. člen
+
+Minister za šolstvo, znanost in šport sprejme izobraževalna programa Usposabljanje za življenjsko uspešnost – Beremo in pišemo skupaj ter Usposabljanje za življenjsko uspešnost – Most do izobrazbe, katerih splošna dela je predlagal, posebna dela pa določil Strokovni svet Republike Slovenije za izobraževanje odraslih na 17. seji dne 21. 5. 2002.
+
+## 2. člen
+
+Izobraževalna programa iz 1. člena tega pravilnika objavi Ministrstvo za šolstvo, znanost in šport na svojih spletnih straneh, lahko pa tudi v posebni publikaciji.
+
+Izobraževalna programa iz prejšnjega odstavka sta javnoveljavna.
+
+## 3. člen
+
+Ta pravilnik začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.
+
+Št. 011-6/2003
+
+Ljubljana, dne 7. februarja 2003.
+
+**dr. Slavko Gaber** l. r.
+
+Minister za šolstvo, znanost in šport

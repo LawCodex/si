@@ -1,0 +1,68 @@
+---
+title: "Pravilnik o zagotavljanju informacij prejemnikom storitev"
+identifier: "PRAV10355"
+type: regulation
+jurisdiction: si
+language: sl
+act_kind: "Pravilnik"
+date: 2011-02-02
+published: 2011-02-18
+in_force_from: 2011-02-19
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "Osnovni (izvirno besedilo)"
+citation: "Uradni list RS, št. 10/11"
+adopted_by: "Ministrstvo za gospodarstvo"
+eva: "2010-2111-0089"
+sop: "2011-01-0382"
+source: "https://pisrs.si/pregledPredpisa?id=PRAV10355"
+retrieved: 2026-10-12
+---
+
+# Pravilnik o zagotavljanju informacij prejemnikom storitev
+
+Na podlagi drugega odstavka 18. člena Zakona o storitvah na notranjem trgu (Uradni list RS, št. 21/10) in 74. člena Zakona o državni upravi (Uradni list RS, št. 113/05 – uradno prečiščeno besedilo, 126/07 – ZUP-E in 48/09) izdaja ministrica za gospodarstvo
+
+**PRAVILNIK**
+
+**o zagotavljanju informacij prejemnikom storitev**
+
+## 1. člen
+
+**(vsebina)**
+
+Ta pravilnik v skladu z Direktivo 2006/123/ES z dne 12. decembra 2006 Evropskega parlamenta in Sveta o storitvah na notranjem trgu (UL L št. 376 z dne 27. 12. 2006, str. 36) določa pravne osebe, ki zagotavljajo informacije prejemnikom storitev, ter način njihovega zagotavljanja.
+
+## 2. člen
+
+**(nosilci zagotavljanja informacij)**
+
+Informacije iz prvega odstavka 18. člena Zakona o storitvah na notranjem trgu (Uradni list RS, št. 21/10) zagotavljajo organi za dajanje informacij, ki so:
+
+- za fizične osebe: Evropski potrošniški center,
+
+- za samozaposlene osebe in pravne osebe: Obrtno-podjetniška zbornica Slovenije in Gospodarska zbornica Slovenije.
+
+## 3. člen
+
+**(način zagotavljanja informacij)**
+
+Za zagotovitev informacij po tem pravilniku organ za dajanje informacij čim prej naveže stik z ustreznim organom zadevne države članice. Po prejemu informacij jih organ za dajanje informacij takoj, ko je mogoče, pošlje prejemniku storitve.
+
+## 4. člen
+
+**(začetek veljavnosti)**
+
+Ta pravilnik začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.
+
+Št. 007-189/2010/16
+
+Ljubljana, dne 2. februarja 2011
+
+EVA 2010-2111-0089
+
+**mag. Darja Radić** l.r.
+
+Ministrica
+
+za gospodarstvo

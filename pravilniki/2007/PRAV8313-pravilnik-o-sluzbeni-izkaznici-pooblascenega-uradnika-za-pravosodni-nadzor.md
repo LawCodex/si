@@ -1,0 +1,185 @@
+---
+title: "Pravilnik o službeni izkaznici pooblaščenega uradnika za pravosodni nadzor"
+identifier: "PRAV8313"
+type: regulation
+jurisdiction: si
+language: sl
+act_kind: "Pravilnik"
+date: 2007-05-08
+published: 2007-05-21
+in_force_from: 2007-05-22
+last_amended: 2012-06-22
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "NPB 1 (neuradno prečiščeno besedilo)"
+citation: "Uradni list RS, št. 44/07 in 47/12 – ZDT-1A"
+adopted_by: "Ministrstvo za pravosodje"
+eva: "2007-2011-0054"
+sop: "2007-01-2426"
+source: "https://pisrs.si/pregledPredpisa?id=PRAV8313"
+retrieved: 2026-10-12
+---
+
+# Pravilnik o službeni izkaznici pooblaščenega uradnika za pravosodni nadzor
+
+*Opozorilo: Neuradno prečiščeno besedilo predpisa predstavlja zgolj informativni delovni pripomoček, glede katerega organ ne jamči odškodninsko ali kako drugače.*
+
+Neuradno prečiščeno besedilo Pravilnika o službeni izkaznici pooblaščenega uradnika za pravosodni nadzor obsega:
+
+- Pravilnik o službeni izkaznici pooblaščenega uradnika za pravosodni nadzor (Uradni list RS, št. 44/07 z dne 21. 5. 2007),
+
+- Zakon o spremembah in dopolnitvah Zakona o državnem tožilstvu - ZDT-1A (Uradni list RS, št. 47/12 z dne 22. 6. 2012).
+
+**PRAVILNIK**
+
+**o službeni izkaznici pooblaščenega uradnika za pravosodni nadzor**
+
+*([delno prenehal veljati](http://www.uradni-list.si/1/objava.jsp?urlurid=20121958#12.%20člen))*
+
+*(neuradno prečiščeno besedilo št. 1)*
+
+## 1. člen
+
+**(vsebina)**
+
+S tem pravilnikom se določajo oblika in vsebina službene izkaznice pooblaščenega uradnika za pravosodni nadzor (v nadaljnjem besedilu: izkaznica), postopek njene izdaje, veljavnost in evidentiranje.
+
+## 2. člen
+
+**(namen izdaje izkaznice)**
+
+Izkaznica se izdaja pooblaščenim uradnikom za pravosodni nadzor in se z njo izkazuje pooblaščenost za neposredno izvajanje nalog pravosodnega nadzora v skladu s predpisi, ki urejajo posamezne oblike nadzora ministrstva, pristojnega za pravosodje (v nadaljnjem besedilu: ministrstvo), nad pravosodnimi organi in nosilci javnih pooblastil.
+
+## 3. člen
+
+**(oblika in vsebina izkaznice)**
+
+(1) Izkaznica je izdelana v obliki plastificirane identifikacijske kartice velikosti 85 mm x 55 mm s posebnimi zaščitnimi elementi.
+
+(2) Izkaznica je svetlo zelene barve in ima:
+
+1. na sprednji strani:
+
+- vtisnjen barvni grb Republike Slovenije, desno od njega napis »REPUBLIKA SLOVENIJA MINISTRSTVO ZA PRAVOSODJE«;
+
+- pod grbom je navedba »SLUŽBENA IZKAZNICA POOBLAŠČENEGA URADNIKA ZA PRAVOSODNI NADZOR«;
+
+- pod navedbo je prostor za vpis:
+
+- osebnega imena imetnika izkaznice,
+
+- registrske številke izkaznice in datuma veljavnosti izkaznice,
+
+- kraja in datuma izdaje izkaznice ter podpis imetnika izkaznice;
+
+- v spodnjem desnem kotu je prostor za fotografijo imetnika izkaznice v velikosti 25 x 30 mm;
+
+2. na hrbtni strani:
+
+- vtisnjen barvni grb Republike Slovenije, pod njim pa napis »REPUBLIKA SLOVENIJA MINISTRSTVO ZA PRAVOSODJE«;
+
+- pod nazivom je prostor za besedilo pooblastila, ki se glasi: »Ta službena izkaznica je dokazilo, da je njen imetnik pooblaščen za opravljanje nalog pravosodnega nadzora v skladu s predpisi, ki urejajo posamezne oblike pravosodnega nadzora.«;
+
+- v spodnjem levem kotu je prostor za kraj in datum izdaje izkaznice;
+
+- v spodnjem desnem kotu je prostor za podpis ministra, pristojnega za pravosodje (v nadaljnjem besedilu: minister).
+
+(3) Vzorec izkaznice je kot priloga sestavni del tega pravilnika.
+
+## 4. člen
+
+**(imetnik in izdajatelj izkaznice)**
+
+(1) Izkaznice se izdajo uradnikom ministrstva, ki jih minister pooblasti za izvajanje pravosodnega nadzora.
+
+(2) Izkaznico izda minister.
+
+(3) Izkaznica ni prenosljiva.
+
+## 5. člen
+
+**(evidenca)**
+
+(1) O izdanih, zamenjanih in izgubljenih izkaznicah se vodi evidenca v organizacijski enoti ministrstva, ki vodi kadrovske evidence.
+
+(2) Evidenca o izkaznicah vsebuje:
+
+- registrsko številko izkaznice,
+
+- osebno ime in datum rojstva osebe, ki ji je izkaznica izdana,
+
+- datum izdaje izkaznice,
+
+- datum in razlog prenehanja veljavnosti ali zamenjave izkaznice.
+
+## 6. člen
+
+**(zamenjava izkaznice)**
+
+Izkaznica se zamenja, če:
+
+- jo imetnik izgubi in prekliče v Uradnem listu Republike Slovenije;
+
+- je deloma ali v celoti uničena ali poškodovana;
+
+- če je imetnik spremenil osebno ime;
+
+- so se spremenili drugi bistveni podatki iz izkaznice.
+
+## 7. člen
+
+**(prenehanje veljavnosti)**
+
+(1) Veljavnost izkaznice preneha z dnem:
+
+- prenehanja pogodbe o zaposlitvi imetnika izkaznice na ministrstvu ali
+
+- ko imetniku iz drugih razlogov preneha pooblastilo za izvajanje pravosodnega nadzora.
+
+(2) V primerih iz prejšnjega odstavka mora imetnik ob prejemu odločbe vrniti izkaznico, ki se pošlje organizacijski enoti iz 5. člena tega pravilnika.
+
+## 8. člen
+
+**(uničenje vrnjenih izkaznic)**
+
+Vrnjene izkaznice se komisijsko uničijo. Za ta namen imenuje minister komisijo, ki o uničenju sestavi zapisnik.
+
+## 9. člen
+
+**(dolžnost izkazovanja)**
+
+Imetniki izkaznice morajo nositi izkaznico na vidnem mestu vedno, kadar opravljajo naloge pravosodnega nadzora, ne glede na čas in kraj opravljanja teh nalog.
+
+---
+
+**[Priloga: Vzorec službene izkaznice](https://pisrs.si/api/datoteke/integracije/356924357)**
+
+---
+
+Pravilnik o službeni izkaznici pooblaščenega uradnika za pravosodni nadzor (Uradni list RS, št. [44/07](http://www.uradni-list.si/1/objava.jsp?urlurid=20072426)) vsebuje naslednjo končno določbo:
+
+**»10. člen**
+
+**(začetek veljavnosti)**
+
+Ta pravilnik začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.«.
+
+---
+
+Zakon o spremembah in dopolnitvah Zakona o državnem tožilstvu - ZDT-1A (Uradni list RS, št. [47/12](http://www.uradni-list.si/1/objava.jsp?urlurid=20121958)) v zvezi z delnim prenehanjem veljavnosti določb pravilnika določa:
+
+»13. člen
+
+Z dnem uveljavitve tega zakona prenehajo veljati:
+
+\[…\],
+
+- Pravilnik o službeni izkaznici pooblaščenega uradnika za pravosodni nadzor (Uradni list RS, št. 44/07) v delu, ki se nanaša na službeno izkaznico uslužbencev, pooblaščenih za pravosodni nadzor nad državnimi tožilstvi.
+
+\[…\]«;
+
+ter vsebuje naslednjo končno določbo:
+
+»14. člen
+
+Ta zakon začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.«.

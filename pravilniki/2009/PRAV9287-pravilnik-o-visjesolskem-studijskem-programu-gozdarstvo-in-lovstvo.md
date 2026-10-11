@@ -1,0 +1,52 @@
+---
+title: "Pravilnik o višješolskem študijskem programu Gozdarstvo in lovstvo"
+identifier: "PRAV9287"
+type: regulation
+jurisdiction: si
+language: sl
+act_kind: "Pravilnik"
+date: 2008-10-21
+published: 2009-01-30
+in_force_from: 2009-01-31
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "Osnovni (izvirno besedilo)"
+citation: "Uradni list RS, št. 8/09"
+adopted_by: "Ministrstvo za šolstvo in šport"
+eva: "2008-3311-0084"
+sop: "2009-01-0217"
+source: "https://pisrs.si/pregledPredpisa?id=PRAV9287"
+retrieved: 2026-10-12
+---
+
+# Pravilnik o višješolskem študijskem programu Gozdarstvo in lovstvo
+
+Na podlagi 15. člena Zakona o organizaciji in financiranju vzgoje in izobraževanja (Uradni list RS, št. 16/07 – uradno prečiščeno besedilo in 36/08) in v skladu s 17. in 23. členom Zakona o višjem strokovnem izobraževanju (Uradni list RS, št. 86/04) minister za šolstvo in šport izdaja
+
+**PRAVILNIK**
+
+**o višješolskem študijskem programu Gozdarstvo in lovstvo**
+
+## 1. člen
+
+Na predlog Strokovnega sveta Republike Slovenije za poklicno in strokovno izobraževanje, sprejetem na 103. seji 14. decembra 2007, minister za šolstvo in šport sprejme višješolski študijski program Gozdarstvo in lovstvo za pridobitev naziva strokovne izobrazbe INŽENIRKA/INŽENIR GOZDARSTVA IN LOVSTVA.
+
+## 2. člen
+
+Študijski program iz prejšnjega člena objavi Ministrstvo za šolstvo in šport v posebni publikaciji oziroma na elektronskem mediju in se začne izvajati z začetkom študijskega leta 2009/2010.
+
+## 3. člen
+
+Ta pravilnik začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.
+
+Št. 0070-107/2008/1
+
+Ljubljana, dne 21. oktobra 2008
+
+EVA 2008-3311-0084
+
+**dr. Igor Lukšič** l.r.
+
+Minister
+
+za šolstvo in šport

@@ -1,0 +1,59 @@
+---
+title: "Pravilnik o vrsti in primerih nošenja službenega oblačila odvetnika"
+identifier: "PRAV2451"
+type: regulation
+jurisdiction: si
+language: sl
+act_kind: "Pravilnik"
+date: 1995-05-30
+published: 1995-06-09
+in_force_from: 1995-06-10
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "Osnovni (izvirno besedilo)"
+citation: "Uradni list RS, št. 32/95"
+adopted_by: "Ministrstvo za pravosodje"
+sop: "1995-01-1539"
+source: "https://pisrs.si/pregledPredpisa?id=PRAV2451"
+retrieved: 2026-10-12
+---
+
+# Pravilnik o vrsti in primerih nošenja službenega oblačila odvetnika
+
+Na podlagi drugega odstavka 24. člena zakona o štvu (Uradni list RS, št. 18/93) izdaja ministrica za pravosodje
+
+**PRAVILNIK**
+
+**o vrsti in primerih nošenja službenega oblačila odvetnika**
+
+## I. SLUŽBENO OBLAČILO
+
+Službeno oblačilo odvetnika je odvetniška toga.
+
+Odvetniška toga je posebno vrhnje oblačilo vijoličaste barve (des. 7100), ki ga odvetnik obleče preko svoje obleke.
+
+Kroj in blago odvetniške toge sta enotna za vse odvetnike.
+
+Na levi rami odvetniške toge je pripeto odvetniško znamenje.
+
+Odvetniško znamenje je trak vijoličaste barve, ki ima na sprednjem spodnjem robu svileno obrobo vijoličaste barve.
+
+Odvetniško znamenje je pripeto na togo z okroglo priponko.
+
+Odvetniki imajo okroglo priponko vijoličaste barve, odvetniški kandidati pa modre barve.
+
+## II. NOŠENJE SLUŽBENEGA OBLAČILA
+
+Odvetnik nosi togo ob zastopanju strank na narokih, glavnih obravnavah in javnih sejah senata.
+
+Odvetnik je dolžan skrbeti za dostojen izgled in vzdrževanje svoje toge.
+
+## III. KONČNA DOLOČBA
+
+To navodilo začne veljati naslednji dn po objavi v Uradnem listu Republike Slovenije.
+
+Št. 403-67/94
+
+Ljubljana, dne 30. maja 1995.
+
+Meta Zupančič l. r. Ministrica za pravosodje

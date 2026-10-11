@@ -1,0 +1,72 @@
+---
+title: "Pravilnik o obravnavi nesreče na smučišču"
+identifier: "PRAV12594"
+type: regulation
+jurisdiction: si
+language: sl
+act_kind: "Pravilnik"
+date: 2017-04-20
+published: 2017-06-16
+in_force_from: 2017-07-01
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "Osnovni (izvirno besedilo)"
+citation: "Uradni list RS, št. 30/17"
+adopted_by: "Ministrstvo za notranje zadeve"
+eva: "2016-1711-0001"
+sop: "2017-01-1600"
+source: "https://pisrs.si/pregledPredpisa?id=PRAV12594"
+retrieved: 2026-10-12
+---
+
+# Pravilnik o obravnavi nesreče na smučišču
+
+Na podlagi desetega, dvanajstega in trinajstega odstavka 27. člena Zakona o varnosti na smučiščih (Uradni list RS, št. 44/16) ministrica za notranje zadeve in ministrica za zdravje izdajata
+
+**PRAVILNIK**
+
+**o obravnavi nesreče na smučišču**
+
+## 1. člen
+
+Ta pravilnik določa obliko in vsebino potrdila o prevzemu predmetov, obliko in vsebino zapisnika o ogledu kraja nesreče na smučišču in poročila o izvajanju reševanja poškodovanih in nenadno obolelih oseb na smučišču, rok, v katerem reševalec izpolni poročilo, ter pogoje za vnos podatkov iz zapisnika o ogledu nesreče na smučišču v spletni program inšpektorata, pristojnega za notranje zadeve.
+
+## 2. člen
+
+(1) Oblika in vsebina potrdila o prevzemu predmetov sta določeni v prilogi 1, ki je sestavni del tega pravilnika. Potrdilo se izpolni v dveh izvodih. En izvod se priloži zapisniku o ogledu nesreče na smučišču, drugi izvod pa se izroči osebi, ki je prevzela predmete.
+
+(2) Oblika in vsebina zapisnika o ogledu kraja nesreče na smučišču in poročila o izvajanju reševanja poškodovanih in nenadno obolelih oseb na smučišču sta skupaj z navodilom za izpolnjevanje določeni v prilogi 2, ki je sestavni del tega pravilnika. Zapisnik in poročilo se izpolnita takoj po koncu reševanja na smučišču.
+
+## 3. člen
+
+(1) Upravljavec smučišča pred prvo uporabo spletnega programa inšpektorata, pristojnega za notranje zadeve, za vnos podatkov iz zapisnika o ogledu nesreče na smučišču opravi registracijo veljavnega digitalnega potrdila pri tem inšpektoratu.
+
+(2) Postopek registracije v spletni program iz prejšnjega odstavka je objavljen na spletni strani inšpektorata, pristojnega za notranje zadeve.
+
+## 4. člen
+
+Z dnem uveljavitve tega pravilnika se preneha uporabljati Pravilnik o zapisniku o ogledu kraja nesreče na smučišču (Uradni list RS, št. 90/08 in 44/16 – ZVSmuč-1).
+
+## 5. člen
+
+Ta pravilnik začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.
+
+Št. 007-361/2016
+
+Ljubljana, dne 20. aprila 2017
+
+EVA 2016-1711-0001
+
+**mag. Vesna Györkös Žnidar** l.r.
+
+Ministrica za notranje zadeve
+
+**Milojka Kolar Celarc** l.r.
+
+Ministrica za zdravje
+
+---
+
+[Priloga 1: Potrdilo o prevzemu predmetov](https://pisrs.si/api/datoteke/integracije/352163075)
+
+[Priloga 2: Zapisnik in poročilo](https://pisrs.si/api/datoteke/integracije/352163078)

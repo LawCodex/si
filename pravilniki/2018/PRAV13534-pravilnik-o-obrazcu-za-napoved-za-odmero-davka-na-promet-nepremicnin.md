@@ -1,0 +1,58 @@
+---
+title: "Pravilnik o obrazcu za napoved za odmero davka na promet nepremičnin"
+identifier: "PRAV13534"
+type: regulation
+jurisdiction: si
+language: sl
+act_kind: "Pravilnik"
+date: 2018-06-28
+published: 2018-06-29
+in_force_from: 2018-07-01
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "Osnovni (izvirno besedilo)"
+citation: "Uradni list RS, št. 44/18"
+adopted_by: "Ministrstvo za finance"
+eva: "2018-1611-0042"
+sop: "2018-01-2208"
+source: "https://pisrs.si/pregledPredpisa?id=PRAV13534"
+retrieved: 2026-10-12
+---
+
+# Pravilnik o obrazcu za napoved za odmero davka na promet nepremičnin
+
+Na podlagi drugega odstavka 11. člena Zakona o davku na promet nepremičnin (Uradni list RS, št. 117/06 in 25/16 – odl. US) izdaja ministrica za finance
+
+**PRAVILNIK**
+
+**o obrazcu za napoved za odmero davka na promet nepremičnin**
+
+## 1. člen
+
+S tem pravilnikom se določa vsebina obrazca Napoved za odmero davka na promet nepremičnin.
+
+## 2. člen
+
+Davčni zavezanec za davek na promet nepremičnin napove prenos nepremičnine na obrazcu Napoved za odmero davka na promet nepremičnin, ki je Priloga tega pravilnika in njegov sestavni del, ter ga izpolni v skladu z navodili, ki so del obrazca.
+
+## 3. člen
+
+Z dnem uveljavitve tega pravilnika preneha veljati Pravilnik o obrazcu za napoved za odmero davka na promet nepremičnin (Uradni list RS, št. 53/13).
+
+## 4. člen
+
+Ta pravilnik začne veljati 1. julija 2018.
+
+Št. 007-434/2018/35
+
+Ljubljana, dne 28. junija 2018
+
+EVA 2018-1611-0042
+
+**mag. Mateja Vraničar Erman** l.r.
+
+Ministrica za finance
+
+---
+
+[Priloga: Napoved za odmero davka na promet nepremičnin](https://pisrs.si/api/datoteke/integracije/351646567)

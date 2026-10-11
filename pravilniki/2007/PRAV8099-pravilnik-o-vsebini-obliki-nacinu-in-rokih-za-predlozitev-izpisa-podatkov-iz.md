@@ -1,0 +1,73 @@
+---
+title: "Pravilnik o vsebini, obliki, načinu in rokih za predložitev izpisa podatkov iz elektronsko vodenih poslovnih knjig in evidenc zavezanca za davek"
+identifier: "PRAV8099"
+type: regulation
+jurisdiction: si
+language: sl
+act_kind: "Pravilnik"
+date: 2007-06-18
+published: 2007-07-04
+in_force_from: 2007-07-19
+last_amended: 2024-12-27
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "NPB 5 (neuradno prečiščeno besedilo)"
+citation: "Uradni list RS, št. 59/07, 126/07, 107/09, 55/13, 77/19 in 112/24"
+adopted_by: "Ministrstvo za finance"
+eva: "2007-1611-0043"
+sop: "2007-01-3162"
+source: "https://pisrs.si/pregledPredpisa?id=PRAV8099"
+retrieved: 2026-10-12
+---
+
+# Pravilnik o vsebini, obliki, načinu in rokih za predložitev izpisa podatkov iz elektronsko vodenih poslovnih knjig in evidenc zavezanca za davek
+
+*Opozorilo: Neuradno prečiščeno besedilo predpisa predstavlja zgolj informativni delovni pripomoček, glede katerega organ ne jamči odškodninsko ali kako drugače.*
+
+Neuradno prečiščeno besedilo Pravilnika o vsebini, obliki, načinu in rokih za predložitev izpisa podatkov iz elektronsko vodenih poslovnih knjig in evidenc zavezanca za davek obsega:
+
+- Pravilnik o vsebini, obliki, načinu in rokih za predložitev izpisa podatkov iz elektronsko vodenih poslovnih knjig in evidenc zavezanca za davek (Uradni list RS, št. 59/07 z dne 4. 7. 2007),
+
+- Pravilnik o spremembi Pravilnika o vsebini, obliki, načinu in rokih za predložitev izpisa podatkov iz elektronsko vodenih poslovnih knjig in evidenc zavezanca za davek (Uradni list RS, št. 126/07 z dne 31. 12. 2007),
+
+- Pravilnik o spremembi Pravilnika o vsebini, obliki, načinu in rokih za predložitev izpisa podatkov iz elektronsko vodenih poslovnih knjig in evidenc zavezanca za davek (Uradni list RS, št. 107/09 z dne 24. 12. 2009),
+
+- Pravilnik o spremembi Pravilnika o vsebini, obliki, načinu in rokih za predložitev izpisa podatkov iz elektronsko vodenih poslovnih knjig in evidenc zavezanca za davek (Uradni list RS, št. 55/13 z dne 28. 6. 2013),
+
+- Pravilnik o spremembi Pravilnika o vsebini, obliki, načinu in rokih za predložitev izpisa podatkov iz elektronsko vodenih poslovnih knjig in evidenc zavezanca za davek (Uradni list RS, št. 77/19 z dne 20. 12. 2019),
+
+- Pravilnik o spremembah in dopolnitvah Pravilnika o izvajanju Zakona o davku na dodano vrednost (Uradni list RS, št. 112/24 z dne 27. 12. 2024).
+
+**PRAVILNIK**
+
+**o vsebini, obliki, načinu in rokih za predložitev izpisa podatkov iz elektronsko vodenih poslovnih knjig in evidenc zavezanca za davek**
+
+*(neuradno prečiščeno besedilo št. 5)*
+
+## 1. člen
+
+(1)S tem pravilnikom se določajo vsebina, oblika, način in roki za predložitev izpisa podatkov iz elektronsko vodenih poslovnih knjig in evidenc zavezanca za davek v postopkih davčnega nadzora.
+
+(2) Zavezanci za davek, ki elektronsko obdelujejo podatke, morajo na zahtevo davčnega organa v postopku davčnega nadzora predložiti izpis podatkov iz svojih elektronsko vodenih poslovnih knjig in evidenc v urejenih strukturiranih računalniških datotekah v vsebini, obliki in na način, določen v Prilogi, ki je sestavni del tega pravilnika.
+
+(3) Zavezanci za davek, ki elektronsko obdelujejo podatke, morajo na zahtevo davčnega organa v postopku davčnega nadzora predložiti tudi druge izpise podatkov iz svojih elektronsko vodenih poslovnih knjig in evidenc v urejenih strukturiranih računalniških datotekah, katerih vsebina in oblika sicer nista določena s tem pravilnikom.
+
+(4) Kadar davčni organ pridobiva podatke, potrebne za pobiranje davkov, na podlagi 39. člena Zakona o davčnem postopku (Uradni list RS, št. 117/06), lahko od oseb, ki elektronsko vodijo poslovne knjige in evidence, zahteva predložitev podatkov v skladu z drugim in tretjim odstavkom tega člena.
+
+## 2. člen
+
+(1)Zavezanci za davek morajo davčnemu organu predložiti izpis podatkov iz 1. člena tega pravilnika v treh delovnih dneh po prejemu zahteve davčnega organa za predložitev izpisa podatkov.
+
+(2) Rok za predložitev izpisa podatkov iz 1. člena tega pravilnika se na utemeljeno pisno zahtevo zavezanca za davek lahko podaljša za največ pet delovnih dni.
+
+## 3. člen
+
+(1)Zavezanci za davek, ki ne zagotavljajo izpisa podatkov v vsebini, obliki in na način, določen s tem pravilnikom, so dolžni ob zahtevi davčnega organa za predložitev izpisa podatkov po tem pravilniku, davčni organ pisno obvestiti o razlikah med predpisano vsebino in obliko s tem pravilnikom ter med izpisom podatkov, ki ga lahko predložijo davčnemu organu, ter so dolžni davčni organ obvestiti o natančni vsebini in obliki izpisa podatkov iz svojih elektronsko vodenih poslovnih knjig in evidenc, ki ga lahko predložijo davčnemu organu.
+
+(2) Izpis podatkov zavezanca za davek, ki ne ustreza vsebini, obliki in načinu, določenim v Prilogi tega pravilnika, se šteje za ustrezen, če tak izpis podatkov zagotavlja najmanj vse vsebinske podatke, predpisane s tem pravilnikom.
+
+## 4. člen
+
+Ta pravilnik začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije, uporabljati pa se začne od 1. januarja 2008.
+
+[Priloga: Vsebina, oblika in način izpisa podatkov iz elektronsko vodenih poslovnih knjig in evidenc zavezanca za davek](https://pisrs.si/api/datoteke/integracije/358370869)

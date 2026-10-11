@@ -1,0 +1,48 @@
+---
+title: "Pravilnik o podaljšanju veljavnosti izobraževalnega programa Voznik"
+identifier: "PRAV9196"
+type: regulation
+jurisdiction: si
+language: sl
+act_kind: "Pravilnik"
+date: 2008-07-17
+published: 2008-08-29
+in_force_from: 2008-08-30
+status: in_force
+pis_status: "Veljaven predpis"
+text_version: "Osnovni (izvirno besedilo)"
+citation: "Uradni list RS, št. 85/08"
+adopted_by: "Ministrstvo za šolstvo in šport"
+eva: "2008-3311-0073"
+sop: "2008-01-3697"
+source: "https://pisrs.si/pregledPredpisa?id=PRAV9196"
+retrieved: 2026-10-12
+---
+
+# Pravilnik o podaljšanju veljavnosti izobraževalnega programa Voznik
+
+Na podlagi 15. člena Zakona o organizaciji in financiranju vzgoje in izobraževanja (Uradni list RS, št. 16/07 – uradno prečiščeno besedilo in 36/08) minister za šolstvo in šport izdaja
+
+**PRAVILNIK**
+
+**o podaljšanju veljavnosti izobraževalnega programa Voznik**
+
+## 1. člen
+
+Na predlog Strokovnega sveta Republike Slovenije za poklicno in strokovno izobraževanje, sprejetem na 110. seji, dne 8. 7. 2008, je minister za šolstvo in šport podaljšal veljavnost izobraževalnega programa Voznik, za pridobitev naziva srednje poklicne izobrazbe voznik / voznica, za kandidate, ki se bodo vpisali v začetni letnik v šolskem letu 2008/2009 (izobraževanje odraslih; za vozila nad 3.5 ton).
+
+## 2. člen
+
+Splošni del in predmetnik izobraževalnega programa iz prejšnjega člena sta objavljena v publikaciji "Srednješolski izobraževalni programi s podaljšano veljavnostjo, 3. dopolnjena in spremenjena izdaja; Ministrstvo za šolstvo in šport, Ljubljana, december 2000".
+
+## 3. člen
+
+Ta pravilnik začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.
+
+Št. 0070-77/2008/1
+
+Ljubljana, dne 17. julija 2008
+
+EVA 2008-3311-0073
+
+dr. Milan Zver l.r. Minister za šolstvo in šport

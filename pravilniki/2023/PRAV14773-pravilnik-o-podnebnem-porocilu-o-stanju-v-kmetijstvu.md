@@ -1,0 +1,86 @@
+---
+title: "Pravilnik o podnebnem poročilu o stanju v kmetijstvu"
+identifier: "PRAV14773"
+type: regulation
+jurisdiction: si
+language: sl
+act_kind: "Pravilnik"
+date: 2023-01-26
+published: 2023-02-03
+in_force_from: 2023-02-18
+status: unknown
+pis_status: "Neveljaven predpis, ki se še uporablja"
+text_version: "Osnovni (izvirno besedilo)"
+citation: "Uradni list RS, št. 14/23 in 100/25 – ZKme-2"
+adopted_by: "Ministrstvo za kmetijstvo, gozdarstvo in prehrano"
+eva: "2022-2330-0077"
+sop: "2023-01-0243"
+source: "https://pisrs.si/pregledPredpisa?id=PRAV14773"
+retrieved: 2026-10-12
+---
+
+# Pravilnik o podnebnem poročilu o stanju v kmetijstvu
+
+Na podlagi drugega odstavka 13.a člena Zakona o kmetijstvu (Uradni list RS, št. 45/08, 57/12, 90/12 – ZdZPVHVVR, 26/14, 32/15, 27/17, 22/18, 86/21 – odl. US, 123/21, 44/22 in 130/22 – ZPOmK-2) ministrica za kmetijstvo, gozdarstvo in prehrano izdaja
+
+**PRAVILNIK**
+
+**o podnebnem poročilu o stanju v kmetijstvu**
+
+### 1. člen
+
+**(vsebina)**
+
+Ta pravilnik določa podrobnejšo vsebino letnega poročila o prilagajanju podnebnim spremembam, blaženju podnebnih sprememb in emisijah toplogrednih plinov, amonijaka in drugih onesnaževal zraka v kmetijstvu (v nadaljnjem besedilu: podnebno poročilo).
+
+### 2. člen
+
+**(vsebina podnebnega poročila)**
+
+(1) Podnebno poročilo mora vsebovati prikaz stanja in aktivnosti na naslednjih področjih prilagajanja podnebnim spremembam in blaženja podnebnih sprememb iz zakona, ki ureja kmetijstvo:
+
+a) raba tal, spremembe rabe tal in gozdarstva (LULUCF);
+
+b) emisije toplogrednih plinov in amonijaka ter drugih onesnaževal zraka v kmetijstvu;
+
+c) stanje kmetijskih tal, rabe in porabe gnojil v kmetijstvu in
+
+č) trajnostna raba energije in obnovljivih virov energije v kmetijstvu.
+
+(2) Podnebno poročilo mora vsebovati tudi prikaz stanja in aktivnosti glede naslednjih povezanih vsebin:
+
+a) pregled izvajanja okoljskih, podnebnih in investicijskih ukrepov skupne kmetijske politike Evropske unije, ki imajo vpliv na področjih prilagajanja podnebnim spremembam in blaženja podnebnih sprememb, pregled izvajanja obveznosti, ki izhajajo iz Nacionalnega energetskega in podnebnega načrta, strategij, povezanih s področji podnebnih sprememb, kmetijskih tal, emisij in ostalih plinov, obnovljivih virov energije, uporabe energije v kmetijstvu itd.;
+
+b) pregled izvajanja javne svetovalne službe na področju prilagajanja podnebnim spremembam in blaženja podnebnih sprememb;
+
+c) povzetek zadnjih dokončanih raziskav in inovacij – spremljanje novih tehnologij za prilagajanje podnebnim spremembam in blaženje podnebnih sprememb v kmetijstvu ter
+
+č) opis novosti v kmetijstvu ali v povezavi s kmetijstvom, pridelavo hrane ali krme.
+
+(3) Vzorec kazala podnebnega poročila je v Prilogi, ki je sestavni del tega pravilnika.
+
+(4) Pri vsakem poglavju podnebnega poročila so obvezna poglavja povzetek s pregledom stanja, kazalci za spremljanje izvajanja ukrepov in priporočila.
+
+(5) Prikaz stanja in aktivnosti se prikaže opisno ali tabelarično oziroma grafično na podlagi zadnjih uradno dostopnih podatkov, načeloma za preteklo leto izdaje.
+
+(6) Podatki se v podnebnem poročilu prikazujejo za celotno območje Republike Slovenije ali se razdelijo po smiselnih parametrih glede na področje (npr. po velikosti, po proizvodnji, po klimatskih pogojih, po pedoloških parametrih).
+
+## KONČNA DOLOČBA
+
+### 3. člen
+
+**(začetek veljavnosti)**
+
+Ta pravilnik začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.
+
+Št. 007-384/2022
+
+Ljubljana, dne 26. januarja 2023
+
+EVA 2022-2330-0077
+
+**Irena Šinko** ministrica za kmetijstvo, gozdarstvo in prehrano
+
+---
+
+[**Priloga: Osnutek kazala podnebnega poročila**](https://pisrs.si/api/datoteke/integracije/351554885)

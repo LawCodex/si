@@ -1,0 +1,107 @@
+---
+title: "Pravilnik o kakovosti kefirja"
+identifier: "PRAV4759"
+type: regulation
+jurisdiction: si
+language: sl
+act_kind: "Pravilnik"
+date: 2003-05-09
+published: 2003-07-07
+in_force_from: 2003-07-22
+last_amended: 2004-11-25
+status: unknown
+pis_status: "Neveljaven predpis, ki se še uporablja"
+text_version: "NPB 2 (neuradno prečiščeno besedilo)"
+citation: "Uradni list RS, št. 66/03, 31/04, 126/04, 45/08 – ZKme-1 in 100/25 – ZHra"
+adopted_by: "Ministrstvo za kmetijstvo, gozdarstvo in prehrano"
+eva: "2003-2311-0076"
+sop: "2003-01-3222"
+source: "https://pisrs.si/pregledPredpisa?id=PRAV4759"
+retrieved: 2026-10-12
+---
+
+# Pravilnik o kakovosti kefirja
+
+*Opozorilo: Neuradno prečiščeno besedilo predpisa predstavlja zgolj informativni delovni pripomoček, glede katerega organ ne jamči odškodninsko ali kako drugače.*
+
+Neuradno prečiščeno besedilo Pravilnika o kakovosti kefirja obsega:
+
+- Pravilnik o kakovosti kefirja (Uradni list RS, št. 66/03 z dne 7. 7. 2003),
+
+- Pravilnik o dopolnitvah pravilnikov s področja kakovosti kmetijskih pridelkov oziroma živil (Uradni list RS, št. 31/04 z dne 31. 3. 2004),
+
+- Pravilnik o spremembi Pravilnika o kakovosti kefirja (Uradni list RS, št. 126/04 z dne 25. 11. 2004).
+
+**PRAVILNIK**
+
+**o kakovosti kefirja**
+
+*(neuradno prečiščeno besedilo št. 2)*
+
+## 1. člen
+
+Ta pravilnik določa pogoje za minimalno kakovost, ki jih mora v prometu izpolnjevati kefir kot predpakirano živilo (v nadaljnjem besedilu: kefir).
+
+Določbe tega pravilnika se ne uporabljajo za kefir, ki je proizveden oziroma dan v promet v državah članicah Evropske unije, če je skladen z njihovo nacionalno zakonodajo.
+
+## 2. člen
+
+Kefir je izdelan iz polnega, polposnetega ali posnetega mleka, pod pogojem, da je fermentiran s kefirnimi zrni ali dobljen s fermentacijo pasteriziranega mleka s cepivom iz mešanice mezofilnih in termofilnih mlečnokislinskih bakterij ter kvasovk. Kefir vsebuje naravni ogljikov dioksid in kefiran.
+
+## 3. člen
+
+Kefir mora bitioznačen v skladu s predpisom, ki ureja splošno označevanje predpakiranih živil.
+
+## 4. člen
+
+Nazivna oziroma neto količina, dovoljena negativna odstopanja ter način označevanja nazivne oziroma neto količine za predpakiran kefir morajo biti v skladu s predpisom, ki ureja predpakirane izdelke.
+
+## 5. člen
+
+Kefir, ki je v prometu, mora izpolnjevati naslednje pogoje:
+
+- biti mora bele do belo rumenkaste barve,
+
+- biti mora gosto tekoče in penaste konsistence,
+
+- imeti mora prijeten aromatičen vonj, značilen za kefir, in
+
+- imeti mora značilen, lahko rezek in osvežujoč okus.
+
+## 6. člen
+
+Za zaprto embalažo, v kateri je pakiran kefir, je značilna izbočenost zaradi prisotnega naravnega ogljikovega dioksida.
+
+## 7. člen
+
+Kefir mora biti izdelan v skladu z zahtevami iz tega pravilnika do 1. januarja 2004.
+
+Ne glede na določbo prejšnjega odstavka je kefir, izdelan in označen pred 1. januarjem 2004, lahko v prometu do porabe zalog.
+
+---
+
+Pravilnik o kakovosti kefirja (Uradni list RS, št. [66/03](http://www.uradni-list.si/1/objava.jsp?urlurid=20033222)) vsebuje naslednji končni določbi:
+
+**»8. člen**
+
+Z dnem uveljavitve tega pravilnika prenehajo veljati določbe pravilnika o kakovosti mleka, mlečnih izdelkov, siril in čistih cepiv (Uradni list RS, št. 21/93, 71/97 – popr., 59/99 – ZTZPUS, 2/00, 14/00 in 71/00), ki se nanašajo na kefir.
+
+**9. člen**
+
+Ta pravilnik začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.«.
+
+---
+
+Pravilnik o dopolnitvah pravilnikov s področja kakovosti kmetijskih pridelkov oziroma živil (Uradni list RS, št. [31/04](http://www.uradni-list.si/1/objava.jsp?urlurid=20041355)) vsebuje naslednjo končno določbo:
+
+»7. člen
+
+Ta pravilnik začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.«.
+
+---
+
+Pravilnik o spremembi Pravilnika o kakovosti kefirja (Uradni list RS, št. [126/04](http://www.uradni-list.si/1/objava.jsp?urlurid=20045331)) vsebuje naslednjo končno določbo:
+
+»2. člen
+
+Ta sprememba pravilnika začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.«.

@@ -1,0 +1,72 @@
+---
+title: "Pravilnik o merilih za določitev števila delovnih mest sodnega osebja"
+identifier: "PRAV7852"
+type: regulation
+jurisdiction: si
+language: sl
+act_kind: "Pravilnik"
+date: 2006-09-12
+published: 2006-10-03
+in_force_from: 2006-10-04
+status: unknown
+pis_status: "Neveljaven predpis, ki se še uporablja"
+text_version: "Osnovni (izvirno besedilo)"
+citation: "Uradni list RS, št. 101/06 in 100/25 – ZS-1"
+adopted_by: "Ministrstvo za pravosodje"
+eva: "2006-2011-0085"
+sop: "2006-01-4359"
+source: "https://pisrs.si/pregledPredpisa?id=PRAV7852"
+retrieved: 2026-10-12
+---
+
+# Pravilnik o merilih za določitev števila delovnih mest sodnega osebja
+
+Na podlagi drugega odstavka 59. člena Zakona o sodiščih (Uradni list RS, št. 100/05 – uradno prečiščeno besedilo) minister za pravosodje izdaja
+
+**PRAVILNIK**
+
+**o merilih za določitev števila delovnih mest sodnega osebja**
+
+## 1. člen
+
+Ta pravilnik določa merila, ki se upoštevajo pri določanju števila in vrst delovnih mest sodnega osebja za posamezna sodišča, ter način usklajevanja teh meril.
+
+## 2. člen
+
+Temeljna merila so:
+
+- povprečna obremenitev za posamezno vrsto delovnih mest,
+
+- pričakovana storilnost za posamezno vrsto delovnih mest.
+
+Vrhovno sodišče Republike Slovenije pri določanju števil in vrst delovnih mest sodnega osebja za posamezna sodišča poleg meril iz prejšnjega odstavka glede na sprejet skupni kadrovski načrt za vsa sodišča, upošteva tudi:
+
+- število sodnikov posameznih sodišč,
+
+- število zadev pri posameznem sodišču v zadnjih treh letih pred letom, v katerem se določa število in vrste mest sodnega osebja, in sicer:
+
+- število nerešenih zadev, zlasti nerešenih pomembnejših zadev,
+
+- število rešenih zadev, zlasti rešenih pomembnejših zadev,
+
+o čemer pridobi podatke od ministrstva, pristojnega za pravosodje,
+
+- dejansko število in vrste delovnih mest sodnega osebja za posamezna sodišča.
+
+Vrhovno sodišče Republike Slovenije pri določanju števila in vrst mest sodnega osebja za posamezna sodišča glede na sprejet skupni kadrovski načrt zagotovi primerljivost števila in vrst sodnega osebja posameznih sodišč, glede na merila iz prvega in drugega odstavka tega člena.
+
+## 3. člen
+
+Minister, pristojen za pravosodje, usklajuje temeljna merila in merila iz drugega odstavka prejšnjega člena na podlagi podatkov, ki jih od pristojnih organov pridobiva skladno z zakonom o sodiščih in zakonom o sodniški službi.
+
+## 4. člen
+
+Ta pravilnik začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.
+
+Št. 007-207/2006
+
+Ljubljana, dne 12. septembra 2006
+
+EVA 2006-2011-0085
+
+dr. Lovro Šturm l.r. Minister za pravosodje

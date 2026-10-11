@@ -1,0 +1,74 @@
+---
+title: "Pravilnik o metodologiji za upoštevanje dohodka iz kmetijske dejavnosti v postopku za pridobitev pravice do denarne socialne pomoči"
+identifier: "PRAV8088"
+type: regulation
+jurisdiction: si
+language: sl
+act_kind: "Pravilnik"
+date: 2007-03-16
+published: 2007-05-04
+in_force_from: 2007-05-05
+status: unknown
+pis_status: "Neveljaven predpis, ki se še uporablja"
+text_version: "Osnovni (izvirno besedilo)"
+citation: "Uradni list RS, št. 39/07, 61/10 – ZSVarPre in 62/10 – ZUPJS"
+adopted_by: "Ministrstvo za delo, družino in socialne zadeve"
+eva: "2007-2611-0013"
+sop: "2007-01-2112"
+source: "https://pisrs.si/pregledPredpisa?id=PRAV8088"
+retrieved: 2026-10-12
+---
+
+# Pravilnik o metodologiji za upoštevanje dohodka iz kmetijske dejavnosti v postopku za pridobitev pravice do denarne socialne pomoči
+
+Na podlagi prvega odstavka 30.a člena Zakona o socialnem varstvu (Uradni list RS, št. 3/07 – uradno prečiščeno besedilo in 114/06 – ZUTPG) izdaja ministrica za delo, družino in socialne zadeve, v soglasju z ministrom za kmetijstvo, gozdarstvo in prehrano ter ministrom za finance
+
+**P R A V I L N I K**
+
+**o metodologiji za upoštevanje dohodka iz kmetijske dejavnosti v postopku za pridobitev pravice do denarne socialne pomoči**
+
+## 1. člen
+
+Ta pravilnik določa metodologijo za upoštevanje dohodka iz kmetijske dejavnosti v postopku za pridobitev pravice do denarne socialne pomoči po Zakonu o socialnem varstvu.
+
+## 2. člen
+
+V letni dohodek iz kmetijske dejavnosti se šteje dohodek iz kmetijske dejavnosti, ki se všteva v davčno osnovo v skladu z zakonom, ki ureja dohodnino. Kot dohodek iz kmetijske dejavnosti se šteje dohodek iz osnovne kmetijske in osnovne gozdarske dejavnosti ter dohodek iz druge kmetijske in dopolnilne dejavnosti na kmetiji.
+
+Kot dohodek iz osnovne kmetijske in osnovne gozdarske dejavnosti posameznega upravičenca in njegovih družinskih članov se šteje dohodek, od katerega se v skladu z zakonom, ki ureja dohodnino, obračunava akontacija dohodnine od dohodka iz osnovne kmetijske in osnovne gozdarske dejavnosti.
+
+Kot dohodek iz druge kmetijske in dopolnilne dejavnosti na kmetiji, pa tudi osnovne kmetijske in osnovne gozdarske dejavnosti, za katero se davčna osnova ugotavlja na podlagi dejanskih prihodkov in odhodkov oziroma dejanskih prihodkov in normiranih odhodkov, se šteje dohodek, od katerega se obračunava akontacija dohodnine od dohodka iz dejavnosti.
+
+## 3. člen
+
+Kot dohodek iz osnovne kmetijske dejavnosti in osnovne gozdarske dejavnosti iz drugega odstavka prejšnjega člena se šteje vsota zadnjih znanih podatkov o katastrskem dohodku, pavšalni oceni dohodka na panj in drugem dohodku iz osnovne kmetijske in osnovne gozdarske dejavnosti za isto koledarsko leto, ugotovljena za posameznika, ki uveljavlja pravico do denarne socialne pomoči, in njegove družinske člane, zmanjšana za prispevke za socialno varnost za te osebe iz naslova teh dohodkov, ugotovljene na podlagi podatkov iz zadnje odločbe o odmeri dohodnine oziroma odločbe Davčne uprave Republike Slovenije o odmeri prispevkov.
+
+Kot katastrski dohodek iz prejšnjega odstavka se šteje katastrski dohodek, zmanjšan za oprostitve v skladu z zakonom, ki ureja dohodnino, in za akontacijo dohodnine, ugotovljen na podlagi podatkov iz zadnje odločbe o odmeri dohodnine oziroma zadnje odločbe o odmeri akontacije dohodnine oziroma potrdila ali obvestila Davčne uprave Republike Slovenije o višini katastrskega dohodka.
+
+Kot pavšalna ocena dohodka na panj iz prvega odstavka tega člena se šteje pavšalna ocena dohodka na panj, zmanjšana za oprostitve v skladu z zakonom, ki ureja dohodnino, in za akontacijo dohodnine, ugotovljena na podlagi podatkov iz zadnje odločbe o odmeri dohodnine oziroma zadnje odločbe o odmeri akontacije dohodnine oziroma potrdila ali obvestila Davčne uprave Republike Slovenije o višini pavšalne ocene dohodka na panj.
+
+Kot drugi dohodek iz osnovne kmetijske in osnovne gozdarske dejavnosti iz prvega odstavka tega člena se šteje drugi dohodek, razen drugega dohodka, pridobljenega v zvezi z dolgoročnimi vlaganji, zmanjšan za akontacijo dohodnine, ugotovljen na podlagi podatkov iz obvestila Davčne uprave Republike Slovenije o višini drugega dohodka oziroma zadnje odločbe o odmeri dohodnine.
+
+## 4. člen
+
+Kot letni dohodek iz dejavnosti iz tretjega odstavka 2. člena tega pravilnika se šteje dobiček brez znižanj in olajšav, kot je določen v pravilniku, ki ureja metodologijo za upoštevanje dohodka iz dejavnosti za pridobitev pravice do denarne socialne pomoči.
+
+## 5. člen
+
+Mesečni katastrski dohodek, mesečna pavšalna ocena dohodka na panj in mesečni drugi dohodek se v dohodek posameznika, ki uveljavlja pravico do denarne socialne pomoči, in njegovih družinskih članov štejejo tako, da se šteje ena dvanajstina njunih letnih dohodkov, znanih na dan vložitve vloge.
+
+## 6. člen
+
+Z dnem uveljavitve tega pravilnika preneha veljati Pravilnik o metodologiji za upoštevanje dohodka iz kmetijske dejavnosti v postopku za pridobitev pravice do denarne socialne pomoči in denarne pomoči (Uradni list RS, št. 31/01, 64/01 in 135/03).
+
+## 7. člen
+
+Ta pravilnik začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.
+
+Št. 01701-27/2006-10
+
+Ljubljana, dne 16. marca 2007
+
+EVA 2007-2611-0013
+
+Marjeta Cotman l.r. Ministrica za delo, družino in socialne zadeve Soglašam! dr. Andrej Bajuk l.r. Minister za finance Soglašam! Iztok Jarc l.r. Minister za kmetijstvo, gozdarstvo in prehrano

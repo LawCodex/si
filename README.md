@@ -17,7 +17,7 @@ All *basic* acts (not amending acts / *novele*) of the kinds below that PIS list
 
 | Directory | Contents | Files |
 |---|---|---:|
-| `ustava/` | Ustava Republike Slovenije (URS) and the constitutional acts (*ustavni zakoni*), the Basic Constitutional Charter (*Temeljna ustavna listina*) and the 1990 constitutional amendment | 16 |
+| `ustava/` | Ustava Republike Slovenije (URS) and the constitutional acts (*ustavni zakoni*), the Basic Constitutional Charter (*Temeljna ustavna listina*) and the 1991 constitutional amendment (*Ustavni amandma*) | 16 |
 | `zakoni/<year>/` | acts of the National Assembly (*zakoni*), incl. codes (Obligacijski zakonik, Kazenski zakonik, Družinski zakonik, Stvarnopravni zakonik …) and 1,270 acts ratifying international treaties (*zakoni o ratifikaciji*) | 2,058 |
 | `uredbe/<year>/` | government decrees (*uredbe* of the Vlada RS), incl. decrees ratifying international agreements | 2,365 |
 | `pravilniki/<year>/` | rules issued by ministers (*pravilniki*) | 2,706 |
